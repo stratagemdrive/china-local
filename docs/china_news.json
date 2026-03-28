@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI infrastructure on the front line: Lessons for Asean from the Iran war",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3347725/ai-infrastructure-front-line-lessons-asean-iran-war?utm_source=rss_feed",
+    "published_date": "2026-03-28T21:30:10Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Can ‘reliable friend’ China fill the gap as US pressures allies to snub South Africa?",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3348226/can-reliable-friend-china-fill-gap-us-pressures-allies-snub-south-africa?utm_source=rss_feed",
@@ -133,11 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "China urges peace talks to end US-Israel war with Iran",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-03-26/Chinese-FM-holds-phone-talks-with-Egyptian-counterpart--1LOeWW2S5nG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-03-25T16:14:32Z",
-    "category": "Diplomacy"
+    "title": "Iran war: US amphibious assault ship arrives in Mideast amid talk of ground operation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3348271/iran-war-us-amphibious-assault-ship-arrives-mideast-amid-talk-ground-operation?utm_source=rss_feed",
+    "published_date": "2026-03-28T19:44:24Z",
+    "category": "Military"
   },
   {
     "title": "1 month, 2 straits, more strikes: how long will the US-Israeli war on Iran last?",
@@ -385,6 +392,13 @@
     "category": "Energy"
   },
   {
+    "title": "French police foil Paris bomb attack outside US bank",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3348268/french-anti-terror-prosecutors-probe-foiled-paris-bomb-plot?utm_source=rss_feed",
+    "published_date": "2026-03-28T15:42:47Z",
+    "category": "Economy"
+  },
+  {
     "title": "‘Like a horror movie’: Hongkonger rescued after forced labour ordeal in Myanmar",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3348261/horror-movie-hongkonger-rescued-after-forced-labour-ordeal-myanmar?utm_source=rss_feed",
@@ -518,11 +532,25 @@
     "category": "Economy"
   },
   {
-    "title": "The end of ‘win-lose’? China-backed mediation body makes pitch at Boao Forum",
+    "title": "How China is stepping into the cultural repatriation void left by a retreating US",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3348123/end-win-lose-china-backed-mediation-body-makes-pitch-boao-forum?utm_source=rss_feed",
-    "published_date": "2026-03-27T12:00:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3348243/how-china-stepping-cultural-repatriation-void-left-retreating-us?utm_source=rss_feed",
+    "published_date": "2026-03-28T22:00:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Over 400,000 KitKat bars stolen, as thieves ‘make a break’ with 12 tonne shipment",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3348270/over-400000-kitkat-bars-stolen-thieves-make-break-12-tonne-shipment?utm_source=rss_feed",
+    "published_date": "2026-03-28T19:12:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong airport caps power banks to 2 per passenger in line with global rule",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3348269/hong-kong-airport-caps-power-banks-2-passenger-line-global-rule?utm_source=rss_feed",
+    "published_date": "2026-03-28T16:21:33Z",
+    "category": "Local Events"
   },
   {
     "title": "Boy’s heart stops for 16 minutes after tube comes loose in Hong Kong hospital",
@@ -641,27 +669,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3348225/why-sd-cards-and-hard-drives-are-new-digital-gold-hong-kong?utm_source=rss_feed",
     "published_date": "2026-03-28T04:00:36Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "HKSAR government slams UK's untruthful report on Hong Kong",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-03-28/HKSAR-government-slams-UK-s-untruthful-report-on-Hong-Kong-1LSi3BtlCJW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-03-28T03:15:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nepal’s ex-PM K.P. Sharma Oli arrested over alleged role in crackdown on protesters",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3348224/nepals-ex-pm-kp-sharma-oli-arrested-over-alleged-role-crackdown-protesters?utm_source=rss_feed",
-    "published_date": "2026-03-28T02:55:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China planning human research program at space station",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-03-28/China-planning-human-research-program-at-space-station-1LShcln760g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-03-28T02:39:01Z",
     "category": "Local Events"
   }
 ]
