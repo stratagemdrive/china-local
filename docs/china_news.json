@@ -1,5 +1,19 @@
 [
   {
+    "title": "Immediate reopening of Strait of Hormuz demanded at 40-nation talks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3348854/britain-says-40-countries-discuss-reopening-strait-hormuz-after-iran-blockade?utm_source=rss_feed",
+    "published_date": "2026-04-02T15:09:08Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "China’s Iran war strategy, Trump’s Hormuz ask: 7 global relations reads",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3348584/chinas-iran-war-strategy-trumps-hormuz-ask-7-global-relations-reads?utm_source=rss_feed",
+    "published_date": "2026-04-02T15:00:09Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Why Asean neutrality in Iran war is key to unlocking Strait of Hormuz",
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/economics/article/3348759/why-asean-neutrality-iran-war-key-unlocking-strait-hormuz?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "China pledges ‘strategic coordination’ with Pakistan to help end US war on Iran",
+    "title": "Hegseth ousts army’s top uniformed officer, even as US wages war on Iran",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3348571/china-pledges-strategic-coordination-pakistan-help-end-us-war-iran?utm_source=rss_feed",
-    "published_date": "2026-03-31T13:05:51Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3348861/hegseth-ousts-armys-top-uniformed-officer-even-us-wages-war-iran?utm_source=rss_feed",
+    "published_date": "2026-04-02T21:23:47Z",
+    "category": "Military"
   },
   {
-    "title": "How US war in Iran is pushing Philippines closer to China",
+    "title": "What will the US do next in its war on Iran? Chinese pundits point to a likely path",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/asia-opinion/article/3348291/how-us-war-iran-pushing-philippines-closer-china?utm_source=rss_feed",
-    "published_date": "2026-03-31T12:30:08Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3348832/what-will-us-do-next-its-war-iran-chinese-pundits-point-likely-path?utm_source=rss_feed",
+    "published_date": "2026-04-02T15:00:16Z",
+    "category": "Military"
   },
   {
     "title": "How Trump’s plan to take Iran’s Kharg Island could come unhinged",
@@ -263,20 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-04-01/China-Japan-s-long-range-missiles-exceed-self-defense-boundaries-1LZmUfg9ec8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-04-01T09:46:52Z",
-    "category": "Military"
-  },
-  {
-    "title": "Why Myanmar top general’s exit is window dressing to cement military rule",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3348662/why-myanmar-top-generals-exit-window-dressing-cement-military-rule?utm_source=rss_feed",
-    "published_date": "2026-04-01T09:05:08Z",
-    "category": "Military"
-  },
-  {
-    "title": "Houthis claim fresh wave of ballistic missile attacks on Israel",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-01/news-1LZdopFvlJe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-04-01T06:30:14Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,41 @@
     "category": "Energy"
   },
   {
+    "title": "The US-China trade war 1 year on: who really holds the upper hand?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3348826/us-china-trade-war-1-year-who-really-holds-upper-hand?utm_source=rss_feed",
+    "published_date": "2026-04-02T22:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "From the US to Hong Kong, there’s no excuse for insider trading",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3348698/us-hong-kong-theres-no-excuse-insider-trading?utm_source=rss_feed",
+    "published_date": "2026-04-02T21:30:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Rubio raises concerns over China’s detention of Panama-flagged ships",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3348859/rubio-raises-concerns-over-chinas-detention-panama-flagged-ships?utm_source=rss_feed",
+    "published_date": "2026-04-02T19:34:46Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump fires Pam Bondi as US attorney general, amid Epstein files furore",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3348858/trump-fires-pam-bondi-us-attorney-general-amid-epstein-files-furore?utm_source=rss_feed",
+    "published_date": "2026-04-02T17:20:46Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump tariffs cast shadow as US-China trade shrinks ahead of Xi meeting",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3348857/trump-tariffs-cast-shadow-us-china-trade-shrinks-ahead-leaders-meet?utm_source=rss_feed",
+    "published_date": "2026-04-02T16:25:26Z",
+    "category": "Economy"
+  },
+  {
     "title": "Call to close loopholes in Hong Kong’s child sexual offence bill",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3348839/call-close-loopholes-hong-kongs-child-sexual-offence-bill?utm_source=rss_feed",
@@ -525,39 +560,46 @@
     "category": "Economy"
   },
   {
-    "title": "How China’s state insurer is turning Brazil’s credit crisis into an export advantage",
+    "title": "Solomon Islands residents live in fear of WWII bomb explosions",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3348719/how-chinas-state-insurer-turning-brazils-credit-crisis-export-advantage?utm_source=rss_feed",
-    "published_date": "2026-04-01T19:21:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3348779/solomon-islands-residents-live-fear-wwii-bomb-explosions?utm_source=rss_feed",
+    "published_date": "2026-04-03T00:00:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong woman loses HK$2.5 million in online collagen drinks scam",
+    "title": "After car crash, Tiger Woods told officer he was ‘talking to the president’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3348716/hong-kong-woman-loses-hk25-million-online-collagen-drinks-scam?utm_source=rss_feed",
-    "published_date": "2026-04-01T16:03:55Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3348863/after-car-crash-tiger-woods-told-officer-he-was-talking-president?utm_source=rss_feed",
+    "published_date": "2026-04-02T23:33:45Z",
+    "category": "Local Events"
   },
   {
-    "title": "Tai Po probe: workers turned off fire safety system, disregarding regulations",
+    "title": "Nasa’s Artemis crew gets green light to make big push to the moon",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3348715/tai-po-probe-workers-turned-fire-safety-system-disregarding-regulations?utm_source=rss_feed",
-    "published_date": "2026-04-01T15:36:34Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3348862/nasas-artemis-crew-gets-green-light-make-big-push-moon?utm_source=rss_feed",
+    "published_date": "2026-04-02T21:52:18Z",
+    "category": "Local Events"
   },
   {
-    "title": "France suspects link to pro-Iranian group in foiled Paris bomb plot",
+    "title": "Iran war: music and barbecues in Tehran despite Trump’s ‘Stone Age’ threats",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3348711/france-suspects-link-pro-iranian-group-foiled-paris-bomb-plot?utm_source=rss_feed",
-    "published_date": "2026-04-01T14:30:19Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3348860/iran-war-music-and-barbecues-tehran-despite-trump-threats?utm_source=rss_feed",
+    "published_date": "2026-04-02T20:11:46Z",
+    "category": "Local Events"
   },
   {
-    "title": "BBC defends action in new sex abuse scandal",
+    "title": "Tai Po blaze hearing: property firm failed to identify, follow up on fire hazards",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3348708/bbc-defends-action-new-sex-abuse-scandal?utm_source=rss_feed",
-    "published_date": "2026-04-01T13:54:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3348856/tai-po-blaze-hearing-property-firm-failed-identify-follow-fire-hazards?utm_source=rss_feed",
+    "published_date": "2026-04-02T15:18:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Man stabs 4 children to death at Uganda kindergarten",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3348855/man-stabs-4-children-death-uganda-kindergarten?utm_source=rss_feed",
+    "published_date": "2026-04-02T15:14:57Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong authorities seek forfeiture order for properties tied to Jimmy Lai’s crimes",
@@ -655,48 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3348726/chinas-brain-penetrating-pig-semen-eyedrop-may-treat-alzheimers-scientist-australia?utm_source=rss_feed",
     "published_date": "2026-04-02T06:47:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Leader of Hong Kong’s Catholics calls for giving young offenders ‘second chance’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3348768/hong-kongs-top-catholic-priest-calls-young-offenders-get-second-chance?utm_source=rss_feed",
-    "published_date": "2026-04-02T06:34:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From Wagyu to joss paper: rise of pet spirit money, luxury farewell ceremonies take China by storm",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3348735/wagyu-joss-paper-rise-pet-spirit-money-luxury-farewell-ceremonies-take-china-storm?utm_source=rss_feed",
-    "published_date": "2026-04-02T06:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong man, 89, rescued after being found clinging to care home exterior wall",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3348755/hong-kong-man-89-rescued-after-being-found-clinging-care-home-exterior-wall?utm_source=rss_feed",
-    "published_date": "2026-04-02T05:07:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysian woman’s apology for damaging double-parked car triggers outcry",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3348751/malaysian-womans-apology-damaging-double-parked-car-triggers-outcry?utm_source=rss_feed",
-    "published_date": "2026-04-02T04:16:48Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Fourth ex-teacher charged in Singapore amid string of student sex abuse cases",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3348741/fourth-ex-teacher-charged-singapore-amid-string-student-sex-abuse-cases?utm_source=rss_feed",
-    "published_date": "2026-04-02T03:47:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump frames Iran war as victory, says US objectives near completion",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-02/Trump-frames-Iran-war-as-victory-says-US-objectives-near-completion-1M0sViddhvi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-04-02T02:24:52Z",
     "category": "Local Events"
   }
 ]
