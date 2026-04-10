@@ -1,5 +1,19 @@
 [
   {
+    "title": "China, Russia rally behind Cuba as US squeezes Havana in deepening crisis",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3349715/china-russia-rally-behind-cuba-us-squeezes-havana-deepening-crisis?utm_source=rss_feed",
+    "published_date": "2026-04-10T20:30:44Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "US presses Iran as talks gear up in Pakistan under fragile ceasefire",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/politics/article/3349714/us-presses-iran-talks-gear-pakistan-under-fragile-ceasefire?utm_source=rss_feed",
+    "published_date": "2026-04-10T20:24:00Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China-North Korea thaw gathers pace as Kim Jong-un says ties have reached a new level",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3349693/china-north-korea-thaw-gathers-pace-kim-jong-un-says-ties-have-reached-new-level?utm_source=rss_feed",
@@ -39,6 +53,13 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3349655/us-iran-talks-leave-gulf-states-edge-about-price-peace?utm_source=rss_feed",
     "published_date": "2026-04-10T10:00:18Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Xi Jinping tells Taiwan opposition leader Cheng Li-wun ‘we need peace’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3349597/xi-jinping-meets-taiwan-opposition-leader-cheng-li-wun-beijing?utm_source=rss_feed",
+    "published_date": "2026-04-10T03:03:54Z",
     "category": "Diplomacy"
   },
   {
@@ -116,27 +137,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-04-09/Wang-Yi-calls-for-consolidating-positive-momentum-of-China-DPRK-ties-1McUoLqLrX2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
     "published_date": "2026-04-09T14:29:50Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Wang Yi calls for consolidating positive momentum of China-DPRK ties",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-09/Wang-Yi-calls-for-consolidating-positive-momentum-of-China-DPRK-ties-1McUoLqLrX2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-04-09T14:29:50Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Explainer: Why 1992 Consensus is anchor of peace across Taiwan Strait",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-09/Explainer-Why-1992-Consensus-is-anchor-of-peace-across-Taiwan-Strait-1Mcoe6jDlF6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-04-09T11:09:10Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "US to remain key ally of Asean despite Iran war fallout: diplomat",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3349533/us-remain-key-ally-asean-despite-iran-war-fallout-diplomat?utm_source=rss_feed",
-    "published_date": "2026-04-09T10:20:35Z",
     "category": "Diplomacy"
   },
   {
@@ -420,6 +420,48 @@
     "category": "Energy"
   },
   {
+    "title": "Trump’s tariff powers tested again as judges question ‘deficit’ justification",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/economy-trade-business/article/3349717/trumps-tariff-powers-tested-again-judges-question-deficit-justification?utm_source=rss_feed",
+    "published_date": "2026-04-10T21:43:51Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s next growth engine? An AI-powered intelligence dividend",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3349389/chinas-next-growth-engine-ai-powered-intelligence-dividend?utm_source=rss_feed",
+    "published_date": "2026-04-10T21:30:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump tariff refund tool will go live on April 20, US Customs says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3349716/trump-tariff-refund-tool-will-go-live-april-20-us-customs-says?utm_source=rss_feed",
+    "published_date": "2026-04-10T20:59:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s Li Qiang urges faster industrial AI adoption at meeting with Moonshot AI founder",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/article/3349707/chinas-li-qiang-urges-faster-industrial-ai-adoption-meeting-moonshot-ai-founder?utm_source=rss_feed",
+    "published_date": "2026-04-10T15:30:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China banks buffer against AI contagions as US sweats over Anthropic’s Mythos",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3349685/china-banks-buffer-against-ai-contagions-us-sweats-over-anthropics-mythos?utm_source=rss_feed",
+    "published_date": "2026-04-10T15:00:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China telecoms face US exit risk as FCC deepens crackdown on data centres",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3349699/china-telecoms-face-us-exit-risk-fcc-deepens-crackdown-data-centres?utm_source=rss_feed",
+    "published_date": "2026-04-10T14:55:29Z",
+    "category": "Economy"
+  },
+  {
     "title": "Tencent moves to rein in AI content flood on WeChat with stricter rules",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/article/3349696/tencent-moves-rein-ai-content-flood-wechat-stricter-rules?utm_source=rss_feed",
@@ -518,46 +560,53 @@
     "category": "Economy"
   },
   {
-    "title": "Brazil on track to fill China beef export quota by May as prices hit all-time high",
+    "title": "Watch Artemis II astronauts hurtle home from moon towards splashdown",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3349571/brazil-track-fill-china-beef-export-quota-may-prices-hit-all-time-high?utm_source=rss_feed",
-    "published_date": "2026-04-09T19:28:30Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3349718/watch-artemis-ii-astronauts-hurtle-home-moon-towards-splashdown?utm_source=rss_feed",
+    "published_date": "2026-04-10T23:09:41Z",
+    "category": "Local Events"
   },
   {
-    "title": "Trump’s tariff threat on European cars escalates global trade tensions",
+    "title": "Vocational schools new front in China’s strategy to support businesses’ global expansion",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3349566/trumps-tariff-threat-european-cars-escalates-global-trade-tensions?utm_source=rss_feed",
-    "published_date": "2026-04-09T17:44:44Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/economy/china-economy/article/3349616/vocational-schools-new-front-chinas-strategy-support-businesses-global-expansion?utm_source=rss_feed",
+    "published_date": "2026-04-10T22:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong seeks to raise bond issuance ceiling to HK$900 billion",
+    "title": "Trump unveils plan for triumphal arch in Washington: eagles, lions, lots of gold",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3349561/hong-kong-seeks-raise-bond-issuance-ceiling-hk900-billion?utm_source=rss_feed",
-    "published_date": "2026-04-09T15:22:46Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3349713/trump-unveils-plan-triumphal-arch-washington-eagles-lions-lots-gold?utm_source=rss_feed",
+    "published_date": "2026-04-10T20:14:04Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong spent HK$1.13 billion on Legco poll, up by 35% over figure for 2021",
+    "title": "High fertiliser prices mean more soybeans for farmers – and greater reliance on China",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3349559/hong-kong-spent-hk113-billion-legco-poll-35-over-figure-2021?utm_source=rss_feed",
-    "published_date": "2026-04-09T14:43:25Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/article/3349712/high-fertiliser-prices-mean-more-soybeans-farmers-and-greater-reliance-china?utm_source=rss_feed",
+    "published_date": "2026-04-10T19:11:24Z",
+    "category": "Local Events"
   },
   {
-    "title": "China expands pilot FTZs to 23, adding Inner Mongolia",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-09/China-expands-pilot-FTZs-to-23-adding-Inner-Mongolia-1McYeM8s8kE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-04-09T14:35:33Z",
-    "category": "Economy"
+    "title": "Prince Harry sued by African charity he set up to honour Princess Diana",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3349711/prince-harry-sued-african-charity-he-set-honour-princess-diana?utm_source=rss_feed",
+    "published_date": "2026-04-10T17:44:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "China expands pilot FTZs to 23, adding Inner Mongolia",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-04-09/China-expands-pilot-FTZs-to-23-adding-Inner-Mongolia-1McYeM8s8kE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-04-09T14:35:33Z",
-    "category": "Economy"
+    "title": "Ukrainians sceptical as Russia’s Putin orders Easter truce",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3349710/ukrainians-sceptical-russias-putin-orders-easter-truce?utm_source=rss_feed",
+    "published_date": "2026-04-10T17:06:03Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Girl, 9, in a critical condition with meningococcal infection after holiday in Japan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3349708/girl-9-critical-condition-meningococcal-infection-after-holiday-japan?utm_source=rss_feed",
+    "published_date": "2026-04-10T16:09:15Z",
+    "category": "Local Events"
   },
   {
     "title": "‘Ruthlessly’ abusive man jailed after wife died jumping from Scotland bridge",
@@ -648,55 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/economics/article/3349636/malaysian-business-lobby-says-working-home-will-hurt-city-profits-faces-backlash?utm_source=rss_feed",
     "published_date": "2026-04-10T07:33:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan’s Sanae Takaichi tickled pink to meet UK band Deep Purple",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3349631/japans-sanae-takaichi-tickled-pink-meet-uk-band-deep-purple?utm_source=rss_feed",
-    "published_date": "2026-04-10T07:15:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong authorities spend HK$34 million on Tai Po fire recovery works",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3349625/hong-kong-authorities-spend-hk34-million-tai-po-fire-recovery-works?utm_source=rss_feed",
-    "published_date": "2026-04-10T06:41:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "151 Hong Kong civil servants dismissed for misconduct, convictions in past 3 years",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3349620/151-hong-kong-civil-servants-dismissed-misconduct-convictions-past-3-years?utm_source=rss_feed",
-    "published_date": "2026-04-10T06:27:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Cheng hopeful to invite Xi Jinping to Taiwan if the KMT wins 2028 election – as it happened",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3349617/taiwans-opposition-leader-cheng-li-wun-speaks-after-historic-meeting-xi-jinping?utm_source=rss_feed",
-    "published_date": "2026-04-10T06:22:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US travellers mistakenly think China ‘happy funeral’ celebrating longevity is trendy eatery",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3349238/us-travellers-mistakenly-think-china-happy-funeral-celebrating-longevity-trendy-eatery?utm_source=rss_feed",
-    "published_date": "2026-04-10T06:00:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Fisherman catches Chinese drone; Iran war’s lessons for China: SCMP’s 7 highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/article/3349469/fisherman-catches-chinese-drone-iran-wars-lessons-china-scmps-7-highlights?utm_source=rss_feed",
-    "published_date": "2026-04-10T05:30:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "South Korean youth hooked on easy access to drugs online",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3349615/south-korean-youth-hooked-easy-access-drugs-online?utm_source=rss_feed",
-    "published_date": "2026-04-10T05:17:22Z",
     "category": "Local Events"
   }
 ]
