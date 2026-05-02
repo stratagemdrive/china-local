@@ -1,5 +1,26 @@
 [
   {
+    "title": "Trump says he’s reviewing new Iran proposal to end war",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war?utm_source=rss_feed",
+    "published_date": "2026-05-02T23:02:13Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Taiwan’s William Lai lands in eSwatini on trip Beijing calls a political ‘stunt’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3352238/taiwans-william-lai-lands-eswatini-trip-beijing-calls-political-stunt?utm_source=rss_feed",
+    "published_date": "2026-05-02T13:11:49Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Iran will not accept ‘imposed’ peace, Trump not satisfied with negotiations",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3352237/iran-will-not-accept-imposed-peace-trump-not-satisfied-negotiations?utm_source=rss_feed",
+    "published_date": "2026-05-02T13:00:18Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China trip will go ahead as planned – and it will be amazing, Trump insists",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3352220/china-trip-will-go-ahead-planned-and-it-will-be-amazing-trump-insists?utm_source=rss_feed",
@@ -119,25 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Sudan’s sexual violence as weapon of war triggers huge mental health crisis: UN",
+    "title": "Russia’s inching advance in Ukraine approaches eastern fortress belt",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3351888/sudans-sexual-violence-weapon-war-triggers-huge-mental-health-crisis-un?utm_source=rss_feed",
-    "published_date": "2026-04-29T12:30:19Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "‘Might over right’ imperils international justice, Wang Yi tells UN’s Baerbock",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3351883/might-over-right-imperils-international-justice-wang-yi-tells-uns-baerbock?utm_source=rss_feed",
-    "published_date": "2026-04-29T11:51:23Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "In a fragmenting global order, former Japanese leader urges pivot to China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3351796/fragmenting-global-order-former-japanese-leader-urges-pivot-china?utm_source=rss_feed",
-    "published_date": "2026-04-29T10:00:17Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/europe/article/3352232/russias-inching-advance-ukraine-approaches-eastern-fortress-belt?utm_source=rss_feed",
+    "published_date": "2026-05-02T11:50:32Z",
+    "category": "Military"
   },
   {
     "title": "Trump-EU rift spurs Germany to boost military, add 75,000 soldiers",
@@ -270,13 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/us/article/3351905/iran-war-price-tag-hits-us25-billion-hegseth-defends-record-pentagon-budget?utm_source=rss_feed",
     "published_date": "2026-04-29T17:14:32Z",
-    "category": "Military"
-  },
-  {
-    "title": "Trump says blockade on Iran could last for months, oil hits US$119 a barrel",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3351904/trump-says-us-blockade-could-last-months-warns-iran-get-smart-soon?utm_source=rss_feed",
-    "published_date": "2026-04-29T16:59:59Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "Beyond subsidies: what’s really driving China’s industrial climb",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3351863/beyond-subsidies-whats-really-driving-chinas-industrial-climb?utm_source=rss_feed",
+    "published_date": "2026-05-02T21:30:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "She answered an advert for a part-time helper. Then she lost HK$2.25 million",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352239/she-answered-advert-part-time-helper-then-she-lost-hk225-million?utm_source=rss_feed",
+    "published_date": "2026-05-02T13:37:53Z",
+    "category": "Economy"
+  },
+  {
+    "title": "The ageing dilemma: why robots can’t save us but China-US cooperation might",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3352222/ageing-dilemma-why-robots-cant-save-us-china-us-cooperation-might?utm_source=rss_feed",
+    "published_date": "2026-05-02T12:00:09Z",
+    "category": "Economy"
+  },
+  {
     "title": "Upscale Shouson Hill house burgled, HK$1.1 million in watches, foreign currency stolen",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352218/upscale-shouson-hill-house-burgled-hk11-million-watches-foreign-currency-stolen?utm_source=rss_feed",
@@ -539,25 +560,46 @@
     "category": "Economy"
   },
   {
-    "title": "From apps to autos: China’s data reach sparks US espionage and sabotage concerns",
+    "title": "Faith, hope and ancestry: William Lai’s clan village in Beijing’s push for cross-strait ties",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3352089/apps-autos-chinas-data-reach-sparks-us-espionage-and-sabotage-concerns?utm_source=rss_feed",
-    "published_date": "2026-04-30T22:05:19Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/politics/article/3352228/faith-hope-and-ancestry-william-lais-clan-village-beijings-push-cross-strait-ties?utm_source=rss_feed",
+    "published_date": "2026-05-02T22:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "US telecoms agency votes to expand tech crackdown on China",
+    "title": "US carrier Spirit Airlines shuts down, industry’s first Iran war casualty",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3352083/us-telecoms-agency-votes-expand-tech-crackdown-china?utm_source=rss_feed",
-    "published_date": "2026-04-30T17:51:32Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3352244/us-carrier-spirit-airlines-shuts-down-industrys-first-iran-war-casualty?utm_source=rss_feed",
+    "published_date": "2026-05-02T16:42:36Z",
+    "category": "Local Events"
   },
   {
-    "title": "Is China’s Manus block a warning for other AI firms with global ambitions?",
+    "title": "Humpback whale ‘Timmy’ released in North Sea after weeks stranded off Germany",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3352005/chinas-manus-block-warning-other-ai-firms-global-ambitions?utm_source=rss_feed",
-    "published_date": "2026-04-30T15:00:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3352242/humpback-whale-timmy-released-north-sea-after-weeks-stranded-germany?utm_source=rss_feed",
+    "published_date": "2026-05-02T16:23:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Building scaffolding gives burglars easy access, police say after 2 arrested",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352241/building-scaffolding-gives-burglars-easy-access-police-say-after-2-arrested?utm_source=rss_feed",
+    "published_date": "2026-05-02T16:16:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Can the US Democrats beat Trump by becoming more like him? A Chinese academic weighs in",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3352230/can-us-democrats-beat-trump-becoming-more-him-chinese-academic-weighs?utm_source=rss_feed",
+    "published_date": "2026-05-02T14:00:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "4 winning tickets take home over HK$55.7 million each in record Mark Six jackpot",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3352236/hongkongers-queue-betting-shops-ahead-record-hk228-million-mark-six-draw?utm_source=rss_feed",
+    "published_date": "2026-05-02T12:54:12Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong set for thunderstorms on Sunday as cold front approaches city",
@@ -655,48 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3352137/45-fire-safety-shutdowns-run-past-new-2-month-cap-after-tai-po-blaze?utm_source=rss_feed",
     "published_date": "2026-05-02T04:00:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "A year after corporal punishment ban, Thailand needs to curb resurgence",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/opinion/article/3352136/year-after-corporal-punishment-ban-thailand-needs-curb-resurgence?utm_source=rss_feed",
-    "published_date": "2026-05-02T04:00:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Durian Express? New Southeast Asia rail service cuts fruit prices in China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3352017/durian-express-new-southeast-asia-rail-service-cuts-fruit-prices-china?utm_source=rss_feed",
-    "published_date": "2026-05-02T02:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rapidly ageing Japan’s ‘macho carers’ lend muscles to benefit elderly, disabled",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3352178/rapidly-ageing-japans-macho-carers-lend-muscles-benefit-elderly-disabled?utm_source=rss_feed",
-    "published_date": "2026-05-02T01:30:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "In China at a time of geopolitical flux, I feel right at home",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3351898/china-time-geopolitical-flux-i-feel-right-home?utm_source=rss_feed",
-    "published_date": "2026-05-02T01:30:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "What to leave behind? Returning Wang Fuk Court residents stuck with tough decisions",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3352189/what-leave-behind-returning-wang-fuk-court-residents-stuck-tough-decisions?utm_source=rss_feed",
-    "published_date": "2026-05-02T01:00:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From Malaysia’s book bans to Iran war, Anwar’s reform agenda faces sternest test",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3352174/malaysias-book-bans-iran-war-anwars-reform-agenda-faces-sternest-test?utm_source=rss_feed",
-    "published_date": "2026-05-02T00:00:15Z",
     "category": "Local Events"
   }
 ]
