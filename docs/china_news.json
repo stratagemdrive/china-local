@@ -1,5 +1,12 @@
 [
   {
+    "title": "Did US pressure before Xi-Trump summit force KMT hand on Taiwan’s defence budget?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3353177/did-us-pressure-xi-trump-summit-force-kmt-hand-taiwans-defence-budget?utm_source=rss_feed",
+    "published_date": "2026-05-11T15:02:28Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "US-China negotiations seek a quick Seoul search for deals ahead of Trump’s visit",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/global-economy/article/3353174/us-china-negotiations-seek-quick-seoul-search-deals-ahead-trumps-visit?utm_source=rss_feed",
@@ -133,11 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Asean to step up push for South China Sea code, energy security",
+    "title": "Brics doesn’t need a unified voice on Iran war to have a future",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3352954/asean-step-push-south-china-sea-code-energy-security?utm_source=rss_feed",
-    "published_date": "2026-05-08T14:22:40Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3352951/brics-doesnt-need-unified-voice-iran-war-have-future?utm_source=rss_feed",
+    "published_date": "2026-05-11T21:30:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "Israeli soldiers jailed for desecration of Virgin Mary statue in Lebanon",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3353193/israeli-soldiers-jailed-desecration-virgin-mary-statue-lebanon?utm_source=rss_feed",
+    "published_date": "2026-05-11T18:50:29Z",
+    "category": "Military"
   },
   {
     "title": "Robots to the rescue? South Korea looks for AI solutions to dwindling army numbers",
@@ -266,18 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "Ke Tao, China’s remote sensing expert who was ‘devoted’ to national defence, dies at 48",
+    "title": "US Treasury Department tells banks to flag suspected Iranian money-laundering networks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3352935/ke-tao-chinas-remote-sensing-expert-who-was-devoted-national-defence-dies-48?utm_source=rss_feed",
-    "published_date": "2026-05-08T14:00:05Z",
-    "category": "Military"
-  },
-  {
-    "title": "Philippines shifts defence strategy with Japan, eyes wider security focus",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3352942/philippines-shifts-defence-strategy-japan-eyes-wider-security-focus?utm_source=rss_feed",
-    "published_date": "2026-05-08T12:25:52Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353200/us-treasury-department-tells-banks-flag-suspected-iranian-money-laundering-networks?utm_source=rss_feed",
+    "published_date": "2026-05-11T21:56:25Z",
+    "category": "Energy"
   },
   {
     "title": "Malaysia’s fuel subsidy headache leaves Anwar ‘scrambling for solution’",
@@ -413,11 +420,53 @@
     "category": "Energy"
   },
   {
-    "title": "A year since Singapore election, how has Lawrence Wong’s team fared?",
+    "title": "Japan’s new spy agency receives FBI backing with eyes on China and Russia",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3352538/one-year-singapore-election-has-lawrence-wongs-team-delivered-promises?utm_source=rss_feed",
-    "published_date": "2026-05-06T00:00:12Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3353154/japans-new-spy-agency-receives-fbi-backing-eyes-china-and-russia?utm_source=rss_feed",
+    "published_date": "2026-05-12T00:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Netflix sued by Texas for allegedly spying on children, addicting users",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353202/netflix-sued-texas-allegedly-spying-children-addicting-users?utm_source=rss_feed",
+    "published_date": "2026-05-11T23:08:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "‘Art of the deal’: UK telecoms exit fits Li family’s trademark timing for selling at top",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3353185/art-deal-uk-telecoms-exit-fits-li-familys-trademark-timing-selling-top?utm_source=rss_feed",
+    "published_date": "2026-05-11T23:00:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s AI ascent leaves Trump a stark choice: escalate or relax chip controls?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3353180/chinas-ai-ascent-leaves-trump-stark-choice-escalate-or-relax-chip-controls?utm_source=rss_feed",
+    "published_date": "2026-05-11T22:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump heads to China with Musk, Cook and top CEOs for Xi talks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3353199/trump-heads-china-musk-cook-and-top-ceos-xi-talks?utm_source=rss_feed",
+    "published_date": "2026-05-11T21:49:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "South Africa’s Ramaphosa faces down calls to resign over cash-in-sofa scandal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3353196/south-africas-ramaphosa-faces-down-calls-resign-over-cash-sofa-scandal?utm_source=rss_feed",
+    "published_date": "2026-05-11T20:59:44Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Philippine senator escapes arrest as ICC confirms drug war warrant",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353186/philippine-lawmaker-holes-senate-icc-confirms-drug-war-warrant?utm_source=rss_feed",
+    "published_date": "2026-05-11T14:22:57Z",
+    "category": "Economy"
   },
   {
     "title": "Will Starmer’s election woes force a shake-up in the UK’s ties with China?",
@@ -511,53 +560,95 @@
     "category": "Economy"
   },
   {
-    "title": "Small grocers’ neighbourhood links can help them beat price war, experts say",
+    "title": "Southern California mayor will plead guilty to acting as agent for Chinese government",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353063/small-grocers-neighbourhood-links-can-help-them-beat-price-war-experts-say?utm_source=rss_feed",
-    "published_date": "2026-05-10T14:18:22Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government?utm_source=rss_feed",
+    "published_date": "2026-05-11T23:59:37Z",
+    "category": "Local Events"
   },
   {
-    "title": "321 foreigners arrested in Indonesia online gambling crackdown",
+    "title": "US trial hears witness claims of harassment over Chinese ‘secret police station’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353062/321-foreigners-arrested-indonesia-online-gambling-crackdown?utm_source=rss_feed",
-    "published_date": "2026-05-10T14:07:53Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3353201/us-trial-hears-witness-claims-harassment-over-chinese-secret-police-station?utm_source=rss_feed",
+    "published_date": "2026-05-11T23:00:37Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong police arrest 2 drivers over alleged truck racing viral video",
+    "title": "Florida police sue Ben Affleck and Matt Damon, claiming film details are too real",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353058/hong-kong-police-arrest-2-drivers-over-alleged-truck-racing-viral-video?utm_source=rss_feed",
-    "published_date": "2026-05-10T12:58:36Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353198/florida-police-sue-ben-affleck-and-matt-damon-claiming-film-details-are-too-real?utm_source=rss_feed",
+    "published_date": "2026-05-11T21:39:23Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong records 17% jump in investments led by machinery purchases, construction",
+    "title": "Trump to raise Taiwan, Jimmy Lai case when he meets Xi in Beijing this week",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353030/hong-kong-records-17-jump-investments-led-machinery-purchases-construction?utm_source=rss_feed",
-    "published_date": "2026-05-10T07:28:31Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3353197/trump-raise-taiwan-jimmy-lai-case-when-he-meets-xi-beijing-week?utm_source=rss_feed",
+    "published_date": "2026-05-11T21:24:26Z",
+    "category": "Local Events"
   },
   {
-    "title": "Shadow APIs: how Chinese developers bypass restrictions to access Claude and Gemini",
+    "title": "Trump’s China visit watched in US for signs of stability – and tangible wins",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3353002/shadow-apis-how-chinese-developers-bypass-restrictions-access-claude-and-gemini?utm_source=rss_feed",
-    "published_date": "2026-05-10T07:00:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/us/article/3353195/trumps-china-visit-watched-us-signs-stability-and-tangible-wins?utm_source=rss_feed",
+    "published_date": "2026-05-11T20:23:01Z",
+    "category": "Local Events"
   },
   {
-    "title": "UK warns against ‘foreign intimidation’ over Hong Kong-linked spying convictions",
+    "title": "Lawsuit blames ChatGPT maker OpenAI for helping plan Florida university shooting",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3353026/uk-warns-against-foreign-intimidation-over-hong-kong-linked-spying-convictions?utm_source=rss_feed",
-    "published_date": "2026-05-10T05:00:15Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353194/lawsuit-blames-chatgpt-maker-openai-helping-plan-florida-university-shooting?utm_source=rss_feed",
+    "published_date": "2026-05-11T19:50:48Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s AI drive seen widening wealth gap, testing ‘common prosperity’ push",
+    "title": "Bolivia’s Evo Morales held in contempt after missing court in trafficking trial",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3352918/chinas-ai-drive-seen-widening-wealth-gap-testing-common-prosperity-push?utm_source=rss_feed",
-    "published_date": "2026-05-10T00:00:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3353192/bolivias-evo-morales-held-contempt-after-missing-court-trafficking-trial?utm_source=rss_feed",
+    "published_date": "2026-05-11T18:20:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Heatstroke suspected among 6 found dead in train carriage at Texas rail depot",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353191/6-found-dead-cargo-train-carriage-rail-depot-texas-border-town-police-say?utm_source=rss_feed",
+    "published_date": "2026-05-11T16:57:02Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK sanctions 85 people and entities over ‘pro-Kremlin narratives’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives?utm_source=rss_feed",
+    "published_date": "2026-05-11T16:31:52Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump gala shooter pleads not guilty to all charges",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353184/trump-gala-shooter-pleads-not-guilty-all-charges?utm_source=rss_feed",
+    "published_date": "2026-05-11T14:01:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China deepens footprint at AI conference despite NeurIPS dispute, US tensions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3353173/china-deepens-footprint-ai-conference-despite-neurips-dispute-us-tensions?utm_source=rss_feed",
+    "published_date": "2026-05-11T14:00:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump urged to raise cases of detained Americans when he meets Xi in Beijing",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3353107/trump-urged-raise-cases-detained-americans-when-he-meets-xi-beijing?utm_source=rss_feed",
+    "published_date": "2026-05-11T14:00:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong braces for typhoon season with 50,000 sandbags, flood barriers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3353182/hong-kong-braces-typhoon-season-50000-sandbags-flood-barriers?utm_source=rss_feed",
+    "published_date": "2026-05-11T13:55:20Z",
+    "category": "Local Events"
   },
   {
     "title": "No hotpot: Hong Kong dog-friendly restaurants face menu and layout limits",
@@ -606,97 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3353160/hong-kong-urged-expand-role-national-medical-research-breakthroughs?utm_source=rss_feed",
     "published_date": "2026-05-11T09:54:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippines presidential hopeful Sara Duterte impeached, awaits Senate trial",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353156/philippine-lawmakers-impeach-sara-duterte-set-stage-senate-trial?utm_source=rss_feed",
-    "published_date": "2026-05-11T09:30:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "More passengers from hantavirus-hit cruise ship test positive",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3353143/more-passengers-hantavirus-hit-cruise-ship-test-positive?utm_source=rss_feed",
-    "published_date": "2026-05-11T08:47:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s Tsim Sha Tsui tops Asia luxury retail rents, but Bond Street world’s priciest",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/article/3353134/hong-kongs-tsim-sha-tsui-tops-asia-luxury-retail-rents-bond-street-worlds-priciest?utm_source=rss_feed",
-    "published_date": "2026-05-11T08:35:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s property recovery could be more robust than many think",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353092/hong-kongs-property-recovery-could-be-more-robust-many-think?utm_source=rss_feed",
-    "published_date": "2026-05-11T08:30:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "In Malaysia, ex-Proton CEO’s self-reliance sermon spurs backlash: ‘spare us’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3353135/malaysia-ex-proton-ceos-self-reliance-sermon-spurs-backlash-spare-us?utm_source=rss_feed",
-    "published_date": "2026-05-11T08:25:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippine parliament start vote on Sara Duterte’s impeachment bid",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353127/philippine-parliament-prepares-vote-sara-dutertes-impeachment-bid?utm_source=rss_feed",
-    "published_date": "2026-05-11T07:22:40Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Private sector will be invited to run new elderly care centres for middle class",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3353126/hong-kong-have-privately-run-care-services-under-new-scheme-middle-class-elderly?utm_source=rss_feed",
-    "published_date": "2026-05-11T07:21:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Weeknd reveals dates for Hong Kong concerts at Kai Tak Stadium",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353119/weeknd-stage-2-hong-kong-concerts-october-kai-tak-stadium?utm_source=rss_feed",
-    "published_date": "2026-05-11T06:59:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan’s late-night cafes open doors to soothe mothers of crying babies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3353114/japans-late-night-cafes-open-doors-help-mothers-crying-babies?utm_source=rss_feed",
-    "published_date": "2026-05-11T06:44:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong lawmakers urge rethink of housing development policy for elderly",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3353113/hong-kong-lawmakers-urge-rethink-housing-development-policy-elderly?utm_source=rss_feed",
-    "published_date": "2026-05-11T06:28:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong leverages ‘unrivalled’ medical hub status amid global hantavirus alarm",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3353111/hong-kong-leverages-unrivalled-medical-hub-status-amid-global-hantavirus-alarm?utm_source=rss_feed",
-    "published_date": "2026-05-11T06:22:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China eatery owner closes shop briefly to donate stem cells to toddler; customers show support",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3352734/china-eatery-owner-closes-shop-briefly-donate-stem-cells-toddler-customers-show-support?utm_source=rss_feed",
-    "published_date": "2026-05-11T06:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "New insurance pays Indian workers to stay home when heat turns deadly",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3353097/new-insurance-pays-indian-workers-stay-home-when-heat-turns-deadly?utm_source=rss_feed",
-    "published_date": "2026-05-11T05:02:04Z",
     "category": "Local Events"
   }
 ]
