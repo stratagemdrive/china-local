@@ -1,5 +1,33 @@
 [
   {
+    "title": "Vance says Iran talks making ‘good progress’, but US forces remain ‘locked and loaded’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3354154/vance-says-iran-talks-making-good-progress-us-forces-remain-locked-and-loaded?utm_source=rss_feed",
+    "published_date": "2026-05-19T23:28:42Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "US House foreign affairs chair warns AI sales to China could make America a ‘loser’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/economy-trade-business/article/3354153/us-house-foreign-affairs-chair-warns-ai-sales-china-could-make-america-loser?utm_source=rss_feed",
+    "published_date": "2026-05-19T22:25:01Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "US to drop tax claims against Trump ‘forever’, in IRS lawsuit deal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354150/us-drop-tax-claims-against-trump-forever-irs-lawsuit-deal?utm_source=rss_feed",
+    "published_date": "2026-05-19T20:05:30Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Russian leader Vladimir Putin arrives in China just days after Donald Trump’s visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3354142/russian-leader-vladimir-putin-arrives-china-just-days-after-donald-trumps-visit?utm_source=rss_feed",
+    "published_date": "2026-05-19T15:17:55Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China will actively help to resolve international conflicts, diplomat says",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3354081/china-will-actively-help-resolve-international-conflicts-ex-diplomat-says?utm_source=rss_feed",
@@ -112,32 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Will geopolitical shifts push India, Pakistan towards cautious diplomacy?",
+    "title": "US again avoids taking responsibility for Iran school attack that killed 155",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3353849/will-geopolitical-shifts-push-india-pakistan-towards-cautious-diplomacy?utm_source=rss_feed",
-    "published_date": "2026-05-17T08:00:09Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Hong Kong draws HK$26 billion from over 310 firms this year, InvestHK head says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
-    "published_date": "2026-05-17T06:38:23Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Trump narrows space for Taiwan independence, mainland scholar says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china/politics/article/3353859/trump-narrows-space-taiwan-independence-mainland-scholar-says?utm_source=rss_feed",
-    "published_date": "2026-05-17T06:30:04Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Vietnam’s US$5 billion Apec island is running out of time",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3353741/vietnams-us5-billion-apec-island-running-out-time?utm_source=rss_feed",
-    "published_date": "2026-05-17T00:00:12Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3354147/us-again-avoids-taking-responsibility-iran-school-attack-killed-155?utm_source=rss_feed",
+    "published_date": "2026-05-19T18:36:22Z",
+    "category": "Military"
   },
   {
     "title": "Philippine navy’s ‘aspirational’ middle power claim comes under scrutiny",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Bulgaria’s Dara wins Eurovision contest, beating out Israel for top spot",
+    "title": "Aluminium supply crunch threatens Asia’s clean energy push amid Iran war",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3353846/bulgarias-dara-wins-eurovision-contest-beating-out-israel-top-spot?utm_source=rss_feed",
-    "published_date": "2026-05-16T23:46:15Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/week-asia/economics/article/3354128/aluminium-supply-crunch-threatens-asias-clean-energy-push-amid-iran-war?utm_source=rss_feed",
+    "published_date": "2026-05-20T00:00:13Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Putin is pushing for a blockbuster oil and gas deal in China. Will he get it?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3354114/putin-pushing-blockbuster-oil-and-gas-deal-china-will-he-get-it?utm_source=rss_feed",
+    "published_date": "2026-05-19T22:00:06Z",
+    "category": "Energy"
   },
   {
     "title": "China hails latest breakthrough on space solar power technology",
@@ -406,18 +420,39 @@
     "category": "Energy"
   },
   {
-    "title": "Trump and his CEOs want China’s business – but has Asia moved on?",
+    "title": "Nio slams EV price wars in China as costs surge, defying cuts by rival Li Auto",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/article/3353399/trump-and-his-ceos-want-chinas-business-has-asia-moved?utm_source=rss_feed",
-    "published_date": "2026-05-15T22:00:07Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/business/china-business/article/3354140/nio-slams-ev-price-wars-china-costs-surge-defying-cuts-rival-li-auto?utm_source=rss_feed",
+    "published_date": "2026-05-19T23:00:06Z",
+    "category": "Economy"
   },
   {
-    "title": "Canada takes key step towards new oil pipeline to serve Asia markets",
+    "title": "Woman dies after falling into uncovered manhole in New York",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3353780/canada-takes-key-step-towards-new-oil-pipeline-serve-asia-markets?utm_source=rss_feed",
-    "published_date": "2026-05-15T21:24:09Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354152/woman-dies-after-falling-uncovered-manhole-new-york?utm_source=rss_feed",
+    "published_date": "2026-05-19T22:14:55Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Malacca Strait could be the next hinge point if Asia isn’t careful",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3353360/malacca-strait-could-be-next-hinge-point-if-asia-isnt-careful?utm_source=rss_feed",
+    "published_date": "2026-05-19T21:30:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US imposes fresh sanctions on Iranian exchange house, 19 ships from shadow fleet",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354144/us-imposes-fresh-sanctions-iranian-exchange-house-19-ships-shadow-fleet?utm_source=rss_feed",
+    "published_date": "2026-05-19T15:37:44Z",
+    "category": "Economy"
+  },
+  {
+    "title": "As the world retreats from US Treasuries, will the sell-off deepen?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3354069/world-retreats-us-treasuries-will-sell-deepen?utm_source=rss_feed",
+    "published_date": "2026-05-19T14:00:05Z",
+    "category": "Economy"
   },
   {
     "title": "Philippine Senate guards investigated for firing shots as fugitive senator fled",
@@ -525,39 +560,74 @@
     "category": "Economy"
   },
   {
-    "title": "Hong Kong set to benefit as Xi-Trump summit signals ‘more stability’, John Lee says",
+    "title": "Israeli forces fired shots at Gaza flotilla, all boats intercepted, group says",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3354047/hong-kong-set-benefit-xi-trump-summit-signals-more-stability-john-lee-says?utm_source=rss_feed",
-    "published_date": "2026-05-19T04:23:40Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3354155/israeli-forces-fired-shots-gaza-flotilla-all-boats-intercepted-group-says?utm_source=rss_feed",
+    "published_date": "2026-05-19T23:48:00Z",
+    "category": "Local Events"
   },
   {
-    "title": "Will Chinese become the king language for commanding AI on engineering tasks?",
+    "title": "Only 4 of Hong Kong’s 110,000 subdivided homes put up for seal of approval",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3353513/will-chinese-become-king-language-commanding-ai-engineering-tasks?utm_source=rss_feed",
-    "published_date": "2026-05-19T04:00:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354143/only-4-hong-kongs-110000-subdivided-homes-put-seal-approval?utm_source=rss_feed",
+    "published_date": "2026-05-19T23:00:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
+    "title": "US charges 7 Chinese executives and 4 shipping firms linked to container cartel",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race?utm_source=rss_feed",
-    "published_date": "2026-05-19T02:08:20Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354151/us-charges-7-chinese-executives-and-4-shipping-firms-linked-container-cartel?utm_source=rss_feed",
+    "published_date": "2026-05-19T21:03:25Z",
+    "category": "Local Events"
   },
   {
-    "title": "Texans accuse Japan of doing ‘deal with the devil’ by funding US fossil fuel projects",
+    "title": "US plans to charge Raul Castro increases Trump administration’s pressure on Cuba",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3353990/texans-accuse-japan-doing-deal-devil-funding-us-fossil-fuel-projects?utm_source=rss_feed",
-    "published_date": "2026-05-19T00:00:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3354149/us-plans-charge-raul-castro-increases-trump-administrations-pressure-cuba?utm_source=rss_feed",
+    "published_date": "2026-05-19T20:03:59Z",
+    "category": "Local Events"
   },
   {
-    "title": "A Blind Chinese Woman Was Hit by an E-Bike. It Was Staged.",
-    "source": "Sixth Tone",
-    "url": "https://www.sixthtone.com/news/1018548/A Blind Chinese Woman Was Hit by an E-Bike. It Was Staged.",
-    "published_date": "2026-05-19T00:00:00Z",
-    "category": "Economy"
+    "title": "Trump backs Paxton over Cornyn for Texas senator in shock endorsement",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354148/trump-backs-paxton-over-cornyn-texas-senator-shock-endorsement?utm_source=rss_feed",
+    "published_date": "2026-05-19T19:30:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Norway reports Europe’s first case of bird flu in a polar bear",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3354146/norway-reports-europes-first-case-bird-flu-polar-bear?utm_source=rss_feed",
+    "published_date": "2026-05-19T17:40:44Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tai Po blaze: Hong Kong to ban smoking at construction sites from July 17",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354145/tai-po-blaze-hong-kong-ban-smoking-construction-sites-july-17?utm_source=rss_feed",
+    "published_date": "2026-05-19T16:19:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Visitor quotas needed to protect country parks, 4 trails challenge founder says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3354141/visitor-quotas-needed-protect-country-parks-4-trails-challenge-founder-says?utm_source=rss_feed",
+    "published_date": "2026-05-19T14:59:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Thai Singha beer heir dismissed from family firm amid brother’s sexual abuse claims",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3354139/thai-singha-beer-heir-dismissed-family-firm-amid-brothers-sexual-abuse-claims?utm_source=rss_feed",
+    "published_date": "2026-05-19T14:35:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong steps up Ebola precautions, prepares Lantau Island quarantine facility",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3354138/hong-kong-steps-ebola-precautions-prepares-lantau-island-quarantine-facility?utm_source=rss_feed",
+    "published_date": "2026-05-19T14:04:19Z",
+    "category": "Local Events"
   },
   {
     "title": "Pakistani man who killed TikTok star Sana Yousaf for rejecting him sentenced to death",
@@ -627,76 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/africa/article/3354108/who-warns-scale-and-speed-deadly-ebola-outbreak?utm_source=rss_feed",
     "published_date": "2026-05-19T09:48:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Air-con repairman dies after falling from 11th floor of Kowloon City building",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354082/air-conditioner-repairman-dies-after-falling-11th-floor-kowloon-city-building?utm_source=rss_feed",
-    "published_date": "2026-05-19T07:56:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong stars Nick Cheung and William Chan join wave of upmarket home sales",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/article/3354075/hong-kong-stars-nick-cheung-and-william-chan-join-wave-upmarket-home-sales?utm_source=rss_feed",
-    "published_date": "2026-05-19T07:39:40Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia’s Anwar eyes snap poll before fuel subsidy crunch truly bites",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3354065/malaysias-anwar-eyes-snap-poll-fuel-subsidy-crunch-truly-bites?utm_source=rss_feed",
-    "published_date": "2026-05-19T06:38:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ancient China elites used water fans, ice to cool down in summer; folks had bamboo pillows",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/environment/article/3354064/ancient-china-elites-used-water-fans-ice-cool-down-summer-folks-had-bamboo-pillows?utm_source=rss_feed",
-    "published_date": "2026-05-19T06:10:56Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Vodka, bullet train and boat rides: how Xi and Putin built up a personal rapport",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354045/vodka-bullet-train-and-boat-rides-how-xi-and-putin-built-personal-rapport?utm_source=rss_feed",
-    "published_date": "2026-05-19T06:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ride-hailing licence cap ‘must strike a balance’ in Hong Kong, John Lee says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354058/ride-hailing-licence-cap-must-strike-balance-hong-kong-john-lee-says?utm_source=rss_feed",
-    "published_date": "2026-05-19T05:30:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Some Asian airlines could collapse like Spirit without help on rising fuel costs",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3354056/some-asian-airlines-could-collapse-spirit-without-help-rising-fuel-costs?utm_source=rss_feed",
-    "published_date": "2026-05-19T05:19:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beijing rebukes Philippines over claim proximity guarantees involvement in Taiwan conflict",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354044/marcos-sees-philippines-likely-be-involved-taiwan-conflict-due-proximity?utm_source=rss_feed",
-    "published_date": "2026-05-19T04:19:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "John Lee to visit Kazakhstan, Uzbekistan, taking largest-ever delegation overseas",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354036/john-lee-lead-administrations-largest-delegation-kazakhstan-uzbekistan-june?utm_source=rss_feed",
-    "published_date": "2026-05-19T02:13:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singapore sentences man to 18 years’ jail for repeatedly raping younger sister",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3354035/singapore-sentences-man-18-years-jail-repeatedly-raping-younger-sister?utm_source=rss_feed",
-    "published_date": "2026-05-19T01:49:59Z",
     "category": "Local Events"
   }
 ]
