@@ -1,5 +1,19 @@
 [
   {
+    "title": "Rubio expected to brief New Delhi on Xi-Trump summit during India trip",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3354590/rubio-expected-brief-new-delhi-xi-trump-summit-during-india-trip?utm_source=rss_feed",
+    "published_date": "2026-05-22T19:41:40Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "How China and the US can coexist peacefully while locked in strategic stalemate",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3354576/how-china-and-us-can-coexist-peacefully-while-locked-strategic-stalemate?utm_source=rss_feed",
+    "published_date": "2026-05-22T14:17:35Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China’s top diplomat Wang Yi to visit US and Canada to boost ties, pave way for Xi trip",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3354572/chinas-top-diplomat-wang-yi-visit-us-and-canada-boost-ties-pave-way-xi-trip?utm_source=rss_feed",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Xi-Putin meeting: everything you need to know from the talks in Beijing",
+    "title": "Putin accuses Ukraine of deadly attack on student dorm, vows retaliation",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354289/xi-putin-meeting-everything-you-need-know-first-day-talks-beijing?utm_source=rss_feed",
-    "published_date": "2026-05-20T20:15:54Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Substance for Putin, ‘face’ for Trump: China, Russia deepen alliance to counter US",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354282/substance-putin-face-trump-china-russia-deepen-alliance-counter-us?utm_source=rss_feed",
-    "published_date": "2026-05-20T15:34:59Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354586/putin-accuses-ukraine-deadly-attack-student-dorm-vows-retaliation?utm_source=rss_feed",
+    "published_date": "2026-05-22T17:31:41Z",
+    "category": "Military"
   },
   {
     "title": "Could all of China’s aircraft carriers soon operate J-35 stealth fighters?",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Philippine navy’s ‘aspirational’ middle power claim comes under scrutiny",
+    "title": "Putin left China, without a pipeline deal. Why didn’t the Hormuz crisis open the valve?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3354127/philippine-navys-aspirational-middle-power-claim-comes-under-scrutiny?utm_source=rss_feed",
-    "published_date": "2026-05-19T11:58:09Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/economy/global-economy/article/3354560/putin-left-china-without-pipeline-deal-why-didnt-hormuz-crisis-open-valve?utm_source=rss_feed",
+    "published_date": "2026-05-22T22:00:13Z",
+    "category": "Energy"
+  },
+  {
+    "title": "PM Carney says Alberta ‘essential’ to Canada, as separatist push advances",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354585/pm-carney-says-alberta-essential-canada-separatist-push-advances?utm_source=rss_feed",
+    "published_date": "2026-05-22T16:30:46Z",
+    "category": "Energy"
   },
   {
     "title": "HK Electric customers set for steeper bills in June over volatile oil prices",
@@ -406,18 +420,25 @@
     "category": "Energy"
   },
   {
-    "title": "US prosecutors drop fraud charges against billionaire Indian businessman Gautaum Adani",
+    "title": "Southeast Asia is chasing the AI boom, but at what cost?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354017/us-prosecutors-drop-fraud-charges-against-billionaire-indian-businessman-gautaum-adani?utm_source=rss_feed",
-    "published_date": "2026-05-18T17:01:13Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3354545/southeast-asia-chasing-ai-boom-what-cost?utm_source=rss_feed",
+    "published_date": "2026-05-23T00:00:09Z",
+    "category": "Economy"
   },
   {
-    "title": "CIC revamps Sustainable Construction Award to accelerate decarbonisation",
+    "title": "Warsh takes US Fed’s helm with inflation dilemma already unfolding",
     "source": "SCMP",
-    "url": "https://www.scmp.com/presented/news/hong-kong/topics/cic-sustainable-construction-award/article/3353925/cic-revamps-sustainable-construction-award-accelerate-decarbonisation?utm_source=rss_feed",
-    "published_date": "2026-05-18T16:00:08Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354589/warsh-takes-us-feds-helm-inflation-dilemma-already-unfolding?utm_source=rss_feed",
+    "published_date": "2026-05-22T18:14:01Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China removes hukou hurdle for migrant workers in social insurance shake-up",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/article/3354575/china-removes-hukou-hurdle-migrant-workers-social-insurance-shake?utm_source=rss_feed",
+    "published_date": "2026-05-22T14:31:38Z",
+    "category": "Economy"
   },
   {
     "title": "Why Trump’s China visit could set a new tone for Sino-US relations",
@@ -539,25 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "Morocco building collapse kills at least 4",
+    "title": "Graduates of top vocational school spared brunt of AI impact, new chairman says",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3354409/morocco-building-collapse-kills-least-4?utm_source=rss_feed",
-    "published_date": "2026-05-21T13:10:43Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354552/graduates-top-vocational-school-spared-brunt-ai-impact-new-chairman-says?utm_source=rss_feed",
+    "published_date": "2026-05-23T00:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "US jobless claims fall as lay-offs remain low despite economic uncertainty",
+    "title": "SpaceX launches its biggest, most beefed-up Starship yet on test flight",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354408/us-jobless-claims-fall-lay-offs-remain-low-despite-economic-uncertainty?utm_source=rss_feed",
-    "published_date": "2026-05-21T13:03:53Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354595/spacex-launches-its-biggest-most-beefed-starship-yet-test-flight?utm_source=rss_feed",
+    "published_date": "2026-05-22T23:39:28Z",
+    "category": "Local Events"
   },
   {
-    "title": "Singapore Airlines faces narrow window to gain market share from Gulf rivals",
+    "title": "US judge tosses case against wrongly deported Salvadorean man Abrego Garcia",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3354405/singapore-airlines-faces-narrow-window-gain-market-share-gulf-rivals?utm_source=rss_feed",
-    "published_date": "2026-05-21T12:33:32Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354594/us-judge-tosses-case-against-wrongly-deported-salvadorean-man-abrego-garcia?utm_source=rss_feed",
+    "published_date": "2026-05-22T23:19:14Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Xi raised ‘Thucydides Trap’ with Trump as warning against conflict, expert says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3354593/xi-raised-thucydides-trap-trump-warning-against-conflict-expert-says?utm_source=rss_feed",
+    "published_date": "2026-05-22T23:03:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump says he won’t attend son Donald Trump Jnr’s wedding to Bettina Anderson",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354592/trump-says-he-wont-attend-son-donald-trump-jnrs-wedding?utm_source=rss_feed",
+    "published_date": "2026-05-22T20:57:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump to force foreigners seeking US green cards to go home first",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354591/trump-force-foreigners-seeking-us-green-cards-go-home-first?utm_source=rss_feed",
+    "published_date": "2026-05-22T20:37:59Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Two Chinese nationals charged in US drug cartel money-laundering case",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3354588/two-chinese-nationals-charged-us-drug-cartel-money-laundering-case?utm_source=rss_feed",
+    "published_date": "2026-05-22T17:52:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US spy chief Tulsi Gabbard quits in latest Trump cabinet exit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354587/us-spy-chief-tulsi-gabbard-quits-latest-trump-cabinet-exit?utm_source=rss_feed",
+    "published_date": "2026-05-22T17:43:27Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Chinese fast-fashion juggernaut Shein to buy eco-friendly Everlane",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354584/chinese-fast-fashion-juggernaut-shein-buy-eco-friendly-everlane?utm_source=rss_feed",
+    "published_date": "2026-05-22T15:37:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China AI firms Zhipu, MiniMax to join Hong Kong’s Hang Seng Tech Index",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-business/article/3354580/china-ai-firms-zhipu-minimax-join-hong-kongs-hang-seng-tech-index?utm_source=rss_feed",
+    "published_date": "2026-05-22T14:51:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "France’s youngest PM Attal to run for president",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3354577/frances-youngest-pm-attal-run-president?utm_source=rss_feed",
+    "published_date": "2026-05-22T14:27:15Z",
+    "category": "Local Events"
   },
   {
     "title": "Revamped Terminal 2 will boost Hong Kong’s aviation hub status: Airport Authority",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/people-culture/environment/article/3354182/american-donated-us5000-china-farmer-tree-planting-decades-ago-invited-view-forest?utm_source=rss_feed",
     "published_date": "2026-05-22T10:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s views on achieving ‘constructive, strategic and stable ties’ with US",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3354538/chinas-views-achieving-constructive-strategic-and-stable-ties-us?utm_source=rss_feed",
-    "published_date": "2026-05-22T09:51:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Over 4,300 Southeast Asian species face extinction threat",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3354526/thousands-aseans-endangered-species-face-trafficking-consumption-threats?utm_source=rss_feed",
-    "published_date": "2026-05-22T09:16:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Cuba clash, Putin visits Beijing, Xi may go to North Korea",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3354503/cuba-clash-putin-visits-beijing-xi-may-go-north-korea?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:56:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Democrats release 2024 US election loss ‘autopsy’ report, only to disavow it",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354511/democrats-release-2024-us-election-loss-autopsy-only-disavow-it?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:16:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese and Dutch scientists turn corn to sustainable plastic, inspired by spider silk",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3354488/chinese-and-dutch-scientists-turn-corn-sustainable-plastic-inspired-spider-silk?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Air France 2009 crash verdict sparks mixed emotions among families",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3354499/air-france-2009-crash-verdict-sparks-mixed-emotions-among-victims-families?utm_source=rss_feed",
-    "published_date": "2026-05-22T07:39:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Bloomberg accused of ‘unprecedented’ malice as Singapore ministers’ defamation trial ends",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3354490/bloomberg-accused-unprecedented-malice-singapore-ministers-defamation-trial-ends?utm_source=rss_feed",
-    "published_date": "2026-05-22T06:58:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Stephen Colbert hosts Late Show finale after controversial cancellation",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354480/stephen-colbert-hosts-late-show-finale-after-controversial-cancellation?utm_source=rss_feed",
-    "published_date": "2026-05-22T06:01:44Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China ‘most devoted fraudster’ fakes records to give wife free dialysis; reignites medical debate",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3354243/china-most-devoted-fraudster-fakes-records-give-wife-free-dialysis-reignites-medical-debate?utm_source=rss_feed",
-    "published_date": "2026-05-22T06:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s ICAC charges woman over alleged HK$10,000 bribe in custody case",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354476/hong-kongs-icac-charges-woman-over-alleged-hk10000-bribe-custody-case?utm_source=rss_feed",
-    "published_date": "2026-05-22T05:35:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Coroner’s Court, watchdog to probe delayed blood transfusion to girl with cancer",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3354468/coroners-court-watchdog-probe-delayed-blood-transfusion-girl-cancer?utm_source=rss_feed",
-    "published_date": "2026-05-22T04:50:45Z",
     "category": "Local Events"
   }
 ]
