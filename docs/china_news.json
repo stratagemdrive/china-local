@@ -1,5 +1,33 @@
 [
   {
+    "title": "Suspect ‘down’ after gunshots reported near White House",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354652/possible-gunshots-reported-near-white-house?utm_source=rss_feed",
+    "published_date": "2026-05-23T22:43:32Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Why Bangladesh could raise Indian red flags by buying a China-Pakistan fighter jet",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3354643/why-bangladesh-could-raise-indian-red-flags-buying-china-pakistan-fighter-jet?utm_source=rss_feed",
+    "published_date": "2026-05-23T22:00:10Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Trump says Iran deal and opening of Strait of Hormuz are ‘largely negotiated’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3354647/iran-us-could-be-close-breakthrough-talks-draft-deal-end-war?utm_source=rss_feed",
+    "published_date": "2026-05-23T15:39:18Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Israeli far-right minister Itamar Ben-Gvir banned from French territory",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3354646/israeli-far-right-minister-itamar-ben-gvir-banned-french-territory?utm_source=rss_feed",
+    "published_date": "2026-05-23T14:33:07Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Pakistani Prime Minister Shehbaz Sharif visits China amid ongoing Middle East peace drive",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3354631/pakistani-prime-minister-shehbaz-sharif-visits-china-amid-ongoing-middle-east-peace-drive?utm_source=rss_feed",
@@ -112,32 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "UN ‘concerned’ over Taliban law that includes child marriage provision",
+    "title": "Budget cuts leave Thailand’s twin-sea navy at risk of falling behind",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354430/un-expresses-grave-concern-over-taliban-decree-includes-provision-child-marriage?utm_source=rss_feed",
-    "published_date": "2026-05-21T19:45:45Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3354523/budget-cuts-leave-thailands-twin-sea-navy-risk-falling-behind?utm_source=rss_feed",
+    "published_date": "2026-05-24T00:00:11Z",
+    "category": "Military"
   },
   {
-    "title": "China and Russia unite on world order, but Putin departs without concrete gains",
+    "title": "Is China building the world’s largest naval support ship?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354422/china-and-russia-unite-world-order-putin-departs-without-concrete-gains?utm_source=rss_feed",
-    "published_date": "2026-05-21T15:00:06Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/military/article/3354628/china-building-worlds-largest-naval-support-ship?utm_source=rss_feed",
+    "published_date": "2026-05-23T13:00:06Z",
+    "category": "Military"
   },
   {
-    "title": "Russia, US increasingly see China as an anchor for peace and prosperity",
+    "title": "New Zealand to invest almost US$1 billion in drones, ships to protect maritime security",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3354326/russia-us-increasingly-see-china-anchor-peace-and-prosperity?utm_source=rss_feed",
-    "published_date": "2026-05-21T12:30:05Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Why a Trump call to Taiwan’s Lai could trigger ‘turbulence’ between Washington and Beijing",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354379/beijing-warns-us-taiwan-ties-after-trump-signals-openness-talking-lai?utm_source=rss_feed",
-    "published_date": "2026-05-21T10:03:08Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/asia/australasia/article/3354637/new-zealand-invest-almost-us1-billion-drones-ships-protect-maritime-security?utm_source=rss_feed",
+    "published_date": "2026-05-23T12:14:32Z",
+    "category": "Military"
   },
   {
     "title": "Why the largest-ever US-Philippine drill, and Japan’s role in it, is making China uneasy",
@@ -259,25 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "China and Russia warn US Golden Dome poses ‘clear threat’ to stability",
+    "title": "India raises diesel, petrol prices for third time in 8 days, amid tense US-Iran ceasefire",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3354271/china-and-russia-warn-us-golden-dome-poses-clear-threat-stability?utm_source=rss_feed",
-    "published_date": "2026-05-20T14:00:08Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3354640/india-raises-diesel-petrol-prices-3rd-time-8-days-amid-tense-us-iran-ceasefire?utm_source=rss_feed",
+    "published_date": "2026-05-23T13:03:44Z",
+    "category": "Energy"
   },
   {
-    "title": "SMILE in space: China, EU joint planet defence satellite defies earthly tensions",
+    "title": "Hong Kong’s astronaut to gather data using observatory created by local teams",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3354263/smile-space-china-eu-joint-planet-defence-satellite-defies-earthly-tensions?utm_source=rss_feed",
-    "published_date": "2026-05-20T13:00:06Z",
-    "category": "Military"
-  },
-  {
-    "title": "Iranian public get basic gun training amid Trump’s threats to restart war",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3354266/iranian-public-get-basic-gun-training-amid-trumps-threats-restart-war?utm_source=rss_feed",
-    "published_date": "2026-05-20T12:18:50Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354636/hong-kongs-astronaut-gather-data-using-observatory-created-local-teams?utm_source=rss_feed",
+    "published_date": "2026-05-23T12:13:19Z",
+    "category": "Energy"
   },
   {
     "title": "Why China is looking to coal waste as a source of critical metals",
@@ -403,20 +417,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3354125/china-hails-latest-breakthrough-space-solar-power-technology?utm_source=rss_feed",
     "published_date": "2026-05-19T13:00:05Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Hong Kong urged to prioritise hydrogen adoption to meet carbon neutrality goal",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3354131/hong-kong-urged-prioritise-hydrogen-adoption-meet-carbon-neutrality-goal?utm_source=rss_feed",
-    "published_date": "2026-05-19T12:32:16Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Indonesia’s oil hub plan collides with Asean’s trust deficit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3354057/indonesias-oil-hub-plan-collides-aseans-trust-deficit?utm_source=rss_feed",
-    "published_date": "2026-05-19T05:21:51Z",
     "category": "Energy"
   },
   {
@@ -560,6 +560,41 @@
     "category": "Economy"
   },
   {
+    "title": "Hong Kong can turn Hung Shui Kiu into a northwest stronghold",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3354226/hong-kong-can-turn-hung-shui-kiu-northwest-stronghold?utm_source=rss_feed",
+    "published_date": "2026-05-23T21:30:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Fjord’ by Romania’s Mungiu wins Palme d’Or at Cannes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3354651/fjord-romanias-mungiu-wins-palme-dor-cannes?utm_source=rss_feed",
+    "published_date": "2026-05-23T21:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Rubio renews US ties with India after Trump’s China visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3354649/rubio-renews-us-ties-india-after-trumps-china-visit?utm_source=rss_feed",
+    "published_date": "2026-05-23T16:51:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Let’s give it a try’: motion sickness no barrier for Hong Kong’s first astronaut",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354648/lets-give-it-try-motion-sickness-no-barrier-hong-kongs-first-astronaut?utm_source=rss_feed",
+    "published_date": "2026-05-23T16:04:41Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Vance and Rubio emerge as early contenders to inherit Trump’s Republican Party",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/politics/article/3354610/vance-and-rubio-emerge-early-contenders-inherit-trumps-republican-party?utm_source=rss_feed",
+    "published_date": "2026-05-23T14:00:05Z",
+    "category": "Local Events"
+  },
+  {
     "title": "Ebola spreads in eastern Congo as contact tracing falters",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/africa/article/3354634/ebola-spreads-eastern-congo-contact-tracing-falters?utm_source=rss_feed",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/people/article/3354596/japanese-female-prisons-rehabilitation-goal-faces-health-language-barriers?utm_source=rss_feed",
     "published_date": "2026-05-23T01:30:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How China wins by avoiding war",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3354354/how-china-wins-avoiding-war?utm_source=rss_feed",
-    "published_date": "2026-05-23T01:30:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s first astronaut Lai Ka-ying picked for space station mission",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3354597/hong-kongs-first-astronaut-lai-ka-ying-picked-space-station-mission?utm_source=rss_feed",
-    "published_date": "2026-05-23T01:13:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "A cloud above the clouds: US, China race to make space a computing platform",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-war/article/3354516/cloud-above-clouds-us-china-race-make-space-computing-platform?utm_source=rss_feed",
-    "published_date": "2026-05-23T01:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Graduates of top vocational school spared brunt of AI impact, new chairman says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354552/graduates-top-vocational-school-spared-brunt-ai-impact-new-chairman-says?utm_source=rss_feed",
-    "published_date": "2026-05-23T00:00:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "SpaceX launches its biggest, most beefed-up Starship yet on test flight",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354595/spacex-launches-its-biggest-most-beefed-starship-yet-test-flight?utm_source=rss_feed",
-    "published_date": "2026-05-22T23:39:28Z",
     "category": "Local Events"
   }
 ]
