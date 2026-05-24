@@ -140,6 +140,27 @@
     "category": "Diplomacy"
   },
   {
+    "title": "Can China’s AI-powered food monitoring avoid US military-style meal complaints?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3354495/can-chinas-ai-powered-food-monitoring-avoid-us-military-style-meal-complaints?utm_source=rss_feed",
+    "published_date": "2026-05-24T12:00:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "Pakistan attack kills at least 24 as explosive-laden car hits train",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3354680/pakistan-attack-kills-least-24-explosive-laden-car-hits-train-carriage?utm_source=rss_feed",
+    "published_date": "2026-05-24T10:23:17Z",
+    "category": "Military"
+  },
+  {
+    "title": "Russian drones, missiles pummel Kyiv in retaliation for dorm attack that killed 18",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354658/russian-missiles-pummel-kyiv-retaliation-dorm-attack-killed-18?utm_source=rss_feed",
+    "published_date": "2026-05-24T04:29:52Z",
+    "category": "Military"
+  },
+  {
     "title": "Budget cuts leave Thailand’s twin-sea navy at risk of falling behind",
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3354523/budget-cuts-leave-thailands-twin-sea-navy-risk-falling-behind?utm_source=rss_feed",
@@ -259,25 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "US to send Typhon, Himars missile systems to Japan for drills amid China tensions",
+    "title": "Owners of Chinese mine where 82 died in blast accused of ‘serious violations’ of the law",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3354294/us-send-typhon-himars-missile-systems-japan-drills-amid-china-tensions?utm_source=rss_feed",
-    "published_date": "2026-05-21T01:23:26Z",
-    "category": "Military"
-  },
-  {
-    "title": "Will US defence strategy architect Colby pave the way for Hegseth’s China visit?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3354283/will-us-defence-strategy-architect-colby-pave-way-hegseths-china-visit?utm_source=rss_feed",
-    "published_date": "2026-05-20T22:00:21Z",
-    "category": "Military"
-  },
-  {
-    "title": "US needs to ‘put its footprint back on Greenland’, Trump envoy says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3354290/us-needs-put-its-footprint-back-greenland-trump-envoy-says?utm_source=rss_feed",
-    "published_date": "2026-05-20T21:48:02Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/china/politics/article/3354656/owners-chinese-mine-where-82-died-blast-accused-serious-violations-law?utm_source=rss_feed",
+    "published_date": "2026-05-24T04:02:55Z",
+    "category": "Energy"
   },
   {
     "title": "India raises diesel, petrol prices for third time in 8 days, amid tense US-Iran ceasefire",
@@ -413,11 +420,53 @@
     "category": "Energy"
   },
   {
-    "title": "China hails latest breakthrough on space solar power technology",
+    "title": "Hong Kong’s Paul Chan urges closer Europe ties, dialogue to work out differences",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3354125/china-hails-latest-breakthrough-space-solar-power-technology?utm_source=rss_feed",
-    "published_date": "2026-05-19T13:00:05Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354675/hong-kongs-paul-chan-urges-closer-europe-ties-dialogue-work-out-differences?utm_source=rss_feed",
+    "published_date": "2026-05-24T09:30:29Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong is the best anchor for Chinese firms seeking global waters",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3352649/hong-kong-best-anchor-chinese-firms-seeking-global-waters?utm_source=rss_feed",
+    "published_date": "2026-05-24T08:30:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Will Zimbabwe’s lithium strategy help it break into the value-adding game?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3354484/will-zimbabwes-lithium-strategy-help-it-break-value-adding-game?utm_source=rss_feed",
+    "published_date": "2026-05-24T07:00:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Beyond China: emerging markets hold key to profitability for world’s largest robovan fleet",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-evs/article/3354660/beyond-china-emerging-markets-hold-key-profitability-worlds-largest-robovan-fleet?utm_source=rss_feed",
+    "published_date": "2026-05-24T06:00:19Z",
+    "category": "Economy"
+  },
+  {
+    "title": "How Chinese traders in Iran are keeping business afloat as war capsizes naval shipping",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3353363/how-chinese-traders-iran-are-keeping-business-afloat-war-capsizes-naval-shipping?utm_source=rss_feed",
+    "published_date": "2026-05-24T06:00:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Asia’s silver dividend can offset ageing’s economic toll",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/opinion/article/3354533/asias-silver-dividend-can-offset-ageings-economic-toll?utm_source=rss_feed",
+    "published_date": "2026-05-24T04:00:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US Pax Silica hub plan hits Philippine sovereignty wall: ‘no special arrangement’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3354574/us-pax-silica-hub-plan-hits-philippine-sovereignty-wall-no-special-arrangement?utm_source=rss_feed",
+    "published_date": "2026-05-24T02:30:11Z",
+    "category": "Economy"
   },
   {
     "title": "Hong Kong’s justice department rejects ‘despicable’ claims targeting prosecutors",
@@ -511,53 +560,130 @@
     "category": "Economy"
   },
   {
-    "title": "China’s AI start-up funding triples to US$16b in first quarter amid bets on LLMs, robotics",
+    "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3354502/chinas-ai-start-funding-triples-us16b-first-quarter-amid-bets-llms-robotics?utm_source=rss_feed",
-    "published_date": "2026-05-22T09:00:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut?utm_source=rss_feed",
+    "published_date": "2026-05-24T12:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong producer Raymond Wong found guilty of insider trading",
+    "title": "Hong Kong school ordered to explain after principal swears on Singapore trip",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3354517/hong-kong-producer-raymond-wong-found-guilty-hk1-million-insider-trading?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:50:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3354686/hong-kong-school-ordered-explain-after-principal-swears-singapore-trip?utm_source=rss_feed",
+    "published_date": "2026-05-24T11:30:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "India and China are cautiously getting closer, thanks to Trump",
+    "title": "Temperatures to reach as high as 33 degrees for 4 straight days this week",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/asia-opinion/article/3354474/india-and-china-are-cautiously-getting-closer-thanks-trump?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:30:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3354682/mercury-hit-high-33-degrees-4-straight-days-week?utm_source=rss_feed",
+    "published_date": "2026-05-24T10:28:02Z",
+    "category": "Local Events"
   },
   {
-    "title": "Why Rafizi’s party is bigger threat to Malaysia’s Anwar than opposition coalition",
+    "title": "Ebola toll in DR Congo over 200, Uganda and 10 other African countries also at risk",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3354510/why-rafizis-party-bigger-threat-malaysias-anwar-opposition-coalition?utm_source=rss_feed",
-    "published_date": "2026-05-22T08:16:18Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/africa/article/3354679/ebola-toll-dr-congo-over-200-uganda-and-10-other-african-countries-also-risk?utm_source=rss_feed",
+    "published_date": "2026-05-24T10:04:42Z",
+    "category": "Local Events"
   },
   {
-    "title": "Malaysia’s tourism-dependent Langkawi fears rising costs are deterring visitors",
+    "title": "China’s desire for endless youth is wiping out donkeys – can scientists help?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3354496/malaysias-tourism-dependent-langkawi-fears-rising-costs-are-deterring-visitors?utm_source=rss_feed",
-    "published_date": "2026-05-22T07:15:28Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/science/article/3354662/chinas-desire-endless-youth-wiping-out-donkeys-can-scientists-help?utm_source=rss_feed",
+    "published_date": "2026-05-24T10:00:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong trade office in London can continue ‘legitimate activity’: UK official",
+    "title": "What to eat and buy at Hong Kong airport’s revamped Terminal 2",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3354483/hong-kong-trade-office-can-continue-legitimate-activity-uk-official-tells-critical-mps?utm_source=rss_feed",
-    "published_date": "2026-05-22T06:18:03Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3354670/what-eat-and-buy-hong-kong-airports-revamped-terminal-2?utm_source=rss_feed",
+    "published_date": "2026-05-24T08:30:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s commerce chief Wang Wentao expected in Brussels on June 29 and 30: sources",
+    "title": "China scientists argue that harsh settings, not warm climates, drive early human creativity",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3354481/chinas-commerce-chief-wang-wentao-expected-brussels-june-29-and-30-sources?utm_source=rss_feed",
-    "published_date": "2026-05-22T06:04:33Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3354567/china-scientists-argue-harsh-settings-not-warm-climates-drive-early-human-creativity?utm_source=rss_feed",
+    "published_date": "2026-05-24T08:00:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Crowds top 18,000 at Hong Kong’s Cheung Chau Bun Festival as parade draws visitors",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354665/crowds-top-10000-hong-kongs-cheung-chau-bun-festival-parade-draws-visitors?utm_source=rss_feed",
+    "published_date": "2026-05-24T07:18:39Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Japan to scour social media in hunt for visa overstayers, illegal foreign workers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3354663/japan-scour-social-media-hunt-visa-overstayers-illegal-foreign-workers?utm_source=rss_feed",
+    "published_date": "2026-05-24T06:33:52Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "California races to prevent chemical tank explosion as thousands evacuated",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3354661/california-races-prevent-chemical-tank-explosion-thousands-evacuated?utm_source=rss_feed",
+    "published_date": "2026-05-24T06:06:30Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘We are very proud,’ John Lee tells first Hong Kong astronaut ahead of space flight",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354657/we-are-very-proud-john-lee-tells-first-hong-kong-astronaut-ahead-space-flight?utm_source=rss_feed",
+    "published_date": "2026-05-24T04:12:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong villager steps up ‘adopt a tree’ bid amid Northern Metropolis evictions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354635/hong-kong-villager-steps-adopt-tree-bid-amid-northern-metropolis-evictions?utm_source=rss_feed",
+    "published_date": "2026-05-24T04:00:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Mainland brands power Hong Kong retail recovery as F&B is joined by fashion and beauty",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/article/3354612/mainland-brands-power-hong-kong-retail-recovery-fb-joined-fashion-and-beauty?utm_source=rss_feed",
+    "published_date": "2026-05-24T03:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Serbia can help build bridges between Europe and China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3354632/serbia-eu-should-be-open-partnership-china?utm_source=rss_feed",
+    "published_date": "2026-05-24T03:00:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Is Hong Kong following Beijing’s lead and ousting Western tech?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/policy/article/3354527/hong-kong-following-beijings-lead-and-ousting-western-tech?utm_source=rss_feed",
+    "published_date": "2026-05-24T03:00:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "⁠Under-construction Philippines building collapses, 23 people missing",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3354654/under-construction-building-collapses-philippines-trapping-workers?utm_source=rss_feed",
+    "published_date": "2026-05-24T02:38:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong holds off on annual LGBTQ publicity drive. Is a community being forgotten?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3354639/hong-kong-holds-annual-lgbtq-publicity-drive-community-being-forgotten?utm_source=rss_feed",
+    "published_date": "2026-05-24T01:00:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China boy wants to raise silkworms to create silk quilt, prompting parents to buy 10,000 seeds",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3354232/china-boy-wants-raise-silkworms-create-silk-quilt-prompting-parents-buy-10000-seeds?utm_source=rss_feed",
+    "published_date": "2026-05-24T01:00:07Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong can turn Hung Shui Kiu into a northwest stronghold",
@@ -571,132 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3354651/fjord-romanias-mungiu-wins-palme-dor-cannes?utm_source=rss_feed",
     "published_date": "2026-05-23T21:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rubio renews US ties with India after Trump’s China visit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3354649/rubio-renews-us-ties-india-after-trumps-china-visit?utm_source=rss_feed",
-    "published_date": "2026-05-23T16:51:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Let’s give it a try’: motion sickness no barrier for Hong Kong’s first astronaut",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354648/lets-give-it-try-motion-sickness-no-barrier-hong-kongs-first-astronaut?utm_source=rss_feed",
-    "published_date": "2026-05-23T16:04:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Vance and Rubio emerge as early contenders to inherit Trump’s Republican Party",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/politics/article/3354610/vance-and-rubio-emerge-early-contenders-inherit-trumps-republican-party?utm_source=rss_feed",
-    "published_date": "2026-05-23T14:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ebola spreads in eastern Congo as contact tracing falters",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3354634/ebola-spreads-eastern-congo-contact-tracing-falters?utm_source=rss_feed",
-    "published_date": "2026-05-23T11:37:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nearly 10,000 Hongkongers granted permanent UK residence under BN(O) scheme",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354629/nearly-10000-hongkongers-granted-permanent-uk-residence-under-bno-scheme?utm_source=rss_feed",
-    "published_date": "2026-05-23T10:40:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Pope Leo urges end to pollution, criticises profits earned",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3354626/pope-leo-urges-end-pollution-criticises-profits-earned?utm_source=rss_feed",
-    "published_date": "2026-05-23T10:08:52Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "New pay model for native English-speaking teachers risks lowering standards: group",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3354625/new-pay-model-native-english-speaking-teachers-risks-lowering-standards-group?utm_source=rss_feed",
-    "published_date": "2026-05-23T10:00:48Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dignity for the dead: 6 Hongkongers form city’s first corpse restoration team",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354619/dignity-dead-6-hongkongers-form-citys-first-corpse-restoration-team?utm_source=rss_feed",
-    "published_date": "2026-05-23T08:32:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "2 notable women in ancient China broke barriers, made major contributions to medicine, science",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3354083/2-notable-women-ancient-china-broke-barriers-made-major-contributions-medicine-science?utm_source=rss_feed",
-    "published_date": "2026-05-23T08:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Fatal subdivided flat fire highlights need to tackle substandard homes: minister",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354614/fatal-subdivided-flat-fire-highlights-need-tackle-substandard-homes-minister?utm_source=rss_feed",
-    "published_date": "2026-05-23T07:06:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Law change could require claw machines to display odds and licensee details",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354609/new-law-could-require-displaying-odds-licensee-info-claw-machines-minister?utm_source=rss_feed",
-    "published_date": "2026-05-23T05:59:30Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Screams amid ‘drop tower’ turbulence on Cathay Pacific flight from Brisbane, 10 injured",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3354606/10-injured-severe-turbulence-cathay-pacific-flight-brisbane-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-05-23T04:18:30Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How can Hong Kong help mothers of infants reverse falling breastfeeding rate?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354583/how-can-hong-kong-help-mothers-infants-reverse-falling-breastfeeding-rate?utm_source=rss_feed",
-    "published_date": "2026-05-23T04:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Bangladesh’s rare ‘Donald Trump’ buffalo draws crowds over resemblance",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3354604/bangladeshs-rare-donald-trump-buffalo-draws-crowds-over-resemblance?utm_source=rss_feed",
-    "published_date": "2026-05-23T03:26:01Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Chase your dreams’, Hong Kong’s first astronaut tells city’s young people",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3354603/hong-kong-astronaut-testament-countrys-regard-citys-talent-john-lee?utm_source=rss_feed",
-    "published_date": "2026-05-23T03:10:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Mock cockroach-theme political party draws India’s jobless youth, Modi’s rivals",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3354602/mock-cockroach-theme-political-party-draws-indias-jobless-youth-modis-rivals?utm_source=rss_feed",
-    "published_date": "2026-05-23T02:59:30Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese scientists grow heart’s ‘master conductor’ that could replace pacemaker",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3354528/chinese-scientists-grow-hearts-master-conductor-could-replace-pacemaker?utm_source=rss_feed",
-    "published_date": "2026-05-23T02:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japanese female prison’s rehabilitation goal faces health, language barriers",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3354596/japanese-female-prisons-rehabilitation-goal-faces-health-language-barriers?utm_source=rss_feed",
-    "published_date": "2026-05-23T01:30:21Z",
     "category": "Local Events"
   }
 ]
