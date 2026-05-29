@@ -1,5 +1,19 @@
 [
   {
+    "title": "Panama rejects US pressure claims as it seeks to ease China tensions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3355229/panama-rejects-us-pressure-claims-it-seeks-ease-china-tensions?utm_source=rss_feed",
+    "published_date": "2026-05-28T21:12:09Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Tentative agreement reached in Iran negotiations pending Trump’s approval: US officials",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3355221/tentative-agreement-reached-iran-negotiations-pending-trumps-approval-us-officials?utm_source=rss_feed",
+    "published_date": "2026-05-28T16:39:45Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "America at 250: how Trump’s foreign policy is redefining the US story",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3355142/america-250-how-trumps-foreign-policy-redefining-us-story?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Russia tells US to pull its diplomats and citizens from Ukraine capital",
+    "title": "Netanyahu directs Israeli forces to expand Gaza control to 70%",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3354873/russia-tells-us-pull-its-diplomats-and-citizens-ukraine-capital?utm_source=rss_feed",
-    "published_date": "2026-05-26T07:16:38Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3355233/netanyahu-directs-israeli-forces-expand-gaza-control-70?utm_source=rss_feed",
+    "published_date": "2026-05-28T23:40:01Z",
+    "category": "Military"
   },
   {
-    "title": "US hits Iran with fresh strikes amid negotiations to end war",
+    "title": "Taylor Swift concert attack plot suspect found guilty by Austrian court",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3354821/us-attacks-missile-sites-iran-amid-negotiations-end-war?utm_source=rss_feed",
-    "published_date": "2026-05-26T01:07:30Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/europe/article/3355230/taylor-swift-concert-attack-plot-suspect-found-guilty-austrian-court?utm_source=rss_feed",
+    "published_date": "2026-05-28T21:24:53Z",
+    "category": "Military"
   },
   {
     "title": "3 wounded in blade attack at Swiss railway station",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3354895/indonesias-offer-host-us-military-aircraft-repair-hub-tests-non-aligned-foreign-policy?utm_source=rss_feed",
     "published_date": "2026-05-26T10:00:14Z",
-    "category": "Military"
-  },
-  {
-    "title": "What a US defence industry trip to Taiwan says about Taipei’s efforts to overhaul military",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3354903/what-us-defence-industry-trip-taiwan-says-about-taipeis-efforts-overhaul-military?utm_source=rss_feed",
-    "published_date": "2026-05-26T09:55:59Z",
-    "category": "Military"
-  },
-  {
-    "title": "China defence chief Dong Jun tipped to skip this year’s Shangri-La Dialogue",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3354871/china-defence-chief-dong-jun-tipped-skip-years-shangri-la-dialogue?utm_source=rss_feed",
-    "published_date": "2026-05-26T07:03:52Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,48 @@
     "category": "Energy"
   },
   {
+    "title": "‘Transitory euphoria’: South Korea’s strong economic outlook masks key hurdles",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3355189/transitory-euphoria-south-koreas-strong-economic-outlook-masks-key-hurdles?utm_source=rss_feed",
+    "published_date": "2026-05-29T00:00:09Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong well placed to help Central Asia grow yuan trade, leading banker says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355218/hong-kong-well-placed-help-central-asia-grow-yuan-trade-leading-banker-says?utm_source=rss_feed",
+    "published_date": "2026-05-28T23:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Premium plan: China’s EV makers pin hopes on high-end models to buttress margins",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-business/article/3355201/premium-plan-chinas-ev-makers-pin-hopes-high-end-models-buttress-margins?utm_source=rss_feed",
+    "published_date": "2026-05-28T23:00:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "How Chinese green tech and investment are reshaping the Central Asian landscape",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3355160/how-chinese-green-tech-and-investment-are-reshaping-central-asian-landscape?utm_source=rss_feed",
+    "published_date": "2026-05-28T22:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US farmers seek firmer soybean guarantees despite Xi-Trump agriculture pledge",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3355222/us-farmers-seek-firmer-soybean-guarantees-despite-xi-trump-agriculture-pledge?utm_source=rss_feed",
+    "published_date": "2026-05-28T17:00:55Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s BYD aims for zero accidents with ‘God’s Eye’, vows crash cost coverage",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-evs/article/3355217/chinas-byd-aims-zero-accidents-gods-eye-vows-crash-cost-coverage?utm_source=rss_feed",
+    "published_date": "2026-05-28T14:40:35Z",
+    "category": "Economy"
+  },
+  {
     "title": "For a yuan in deeper markets, Fed ex-president cites dollar playbook amid risks, criticism",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/global-economy/article/3355195/yuan-deeper-markets-ex-feds-evans-cites-dollar-playbook-amid-risks-criticism?utm_source=rss_feed",
@@ -518,46 +560,53 @@
     "category": "Economy"
   },
   {
-    "title": "Blade concealed between Citybus double-decker seats sparks police probe",
+    "title": "Texas fire official confirms fatalities, injuries in a huge blaze at residential building",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355078/blade-concealed-between-citybus-double-decker-seats-sparks-police-probe?utm_source=rss_feed",
-    "published_date": "2026-05-27T13:51:46Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355231/texas-fire-official-confirms-fatalities-injuries-huge-blaze-residential-building?utm_source=rss_feed",
+    "published_date": "2026-05-28T22:54:05Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong overtakes Switzerland as world’s largest cross-border wealth hub, BCG finds",
+    "title": "Can middle powers restore the international order? Think again",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3355055/hong-kong-overtakes-switzerland-worlds-largest-cross-border-wealth-hub-bcg-finds?utm_source=rss_feed",
-    "published_date": "2026-05-27T11:16:37Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3354905/can-middle-powers-restore-international-order-think-again?utm_source=rss_feed",
+    "published_date": "2026-05-28T21:30:05Z",
+    "category": "Local Events"
   },
   {
-    "title": "Spanish police search headquarters of PM Sanchez’s ruling party",
+    "title": "Man jailed for 40 years to life for killing 4 sleeping on New York’s Chinatown streets",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3355051/spanish-police-search-headquarters-pm-sanchezs-ruling-party?utm_source=rss_feed",
-    "published_date": "2026-05-27T10:38:41Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355228/man-jailed-40-years-life-killing-4-sleeping-new-yorks-chinatown-streets?utm_source=rss_feed",
+    "published_date": "2026-05-28T20:50:16Z",
+    "category": "Local Events"
   },
   {
-    "title": "Alibaba’s new AI model scores higher than OpenAI, Google rivals in coding ranking",
+    "title": "Carney seeks new US-Canada partnership as world undergoes ‘rupture’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3355039/alibabas-new-ai-model-scores-higher-openai-google-rivals-coding-ranking?utm_source=rss_feed",
-    "published_date": "2026-05-27T10:00:15Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355227/carney-seeks-new-us-canada-partnership-world-undergoes-rupture?utm_source=rss_feed",
+    "published_date": "2026-05-28T19:49:38Z",
+    "category": "Local Events"
   },
   {
-    "title": "Huawei seeks to match best chips without best chipmaking gear",
+    "title": "Milan restores 19th century bull mosaic’s testicles to former glory",
     "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china-future-tech/semiconductors/article/3355033/huawei-seeks-match-best-chips-without-best-chipmaking-gear?utm_source=rss_feed",
-    "published_date": "2026-05-27T09:13:54Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3355226/milan-restores-19th-century-bull-mosaics-testicles-former-glory?utm_source=rss_feed",
+    "published_date": "2026-05-28T19:19:02Z",
+    "category": "Local Events"
   },
   {
-    "title": "Kuaishou beats estimates as Kling AI video generator’s revenue jumps 300%",
+    "title": "Strikes kill family of 6 after Israel declares south Lebanon ‘combat zone’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/article/3355027/kuaishou-beats-estimates-kling-ai-video-generators-revenue-jumps-300?utm_source=rss_feed",
-    "published_date": "2026-05-27T09:00:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3355225/strikes-kill-family-6-after-israel-declares-south-lebanon-combat-zone?utm_source=rss_feed",
+    "published_date": "2026-05-28T18:06:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Bruce Springsteen calls out Trump, announces Maryland protest festival",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355223/bruce-springsteen-calls-out-trump-announces-maryland-protest-festival?utm_source=rss_feed",
+    "published_date": "2026-05-28T17:28:55Z",
+    "category": "Local Events"
   },
   {
     "title": "Veteran lawyer seeks judicial review over alleged illegal structures on his home",
@@ -648,55 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/people-culture/trending-china/article/3354987/how-tofu-evolves-accidental-discovery-one-chinas-most-prized-culinary-symbols?utm_source=rss_feed",
     "published_date": "2026-05-28T10:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Court jails professor who took HK$40,000 bribe to admit unqualified student",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355168/disgraced-professor-who-took-hk40000-admit-unqualified-student-sent-jail?utm_source=rss_feed",
-    "published_date": "2026-05-28T09:28:40Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Europe plans tougher response to China Shock 2.0",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3355161/europe-plans-tougher-response-china-shock-20?utm_source=rss_feed",
-    "published_date": "2026-05-28T09:00:59Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Consort Wan’s dark story, the good and bad with GLP-1s: 7 Lifestyle highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/article/3355123/consort-wans-dark-story-good-and-bad-glp-1s-7-lifestyle-highlights?utm_source=rss_feed",
-    "published_date": "2026-05-28T07:30:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beijing praises actress Lin Chi-ling for quitting Taiwan culture board",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3355143/china-praises-actress-lin-chi-ling-quitting-taiwan-culture-board?utm_source=rss_feed",
-    "published_date": "2026-05-28T07:00:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong to set up international commercial court to tackle major cross-border disputes",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3355138/hong-kong-sets-international-commercial-court-tackle-major-cross-border-disputes?utm_source=rss_feed",
-    "published_date": "2026-05-28T06:40:59Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "BTS fans blast ‘obscenely high’ room prices ahead of Busan concerts",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3355128/bts-fans-blast-obscenely-high-room-prices-ahead-busan-concerts?utm_source=rss_feed",
-    "published_date": "2026-05-28T06:20:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Merge Hong Kong’s 2 cross-boundary ferry piers to optimise capacity, lawmakers urge",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355133/merge-hong-kongs-2-cross-boundary-ferry-piers-optimise-capacity-lawmakers-urge?utm_source=rss_feed",
-    "published_date": "2026-05-28T06:10:05Z",
     "category": "Local Events"
   }
 ]
