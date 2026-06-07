@@ -1,5 +1,12 @@
 [
   {
+    "title": "Norman Bethune’s story still holds lessons for China-Canada relations",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3355730/norman-bethunes-story-still-holds-lessons-china-canada-relations?utm_source=rss_feed",
+    "published_date": "2026-06-06T21:30:06Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Aviation leaders face Iran war fuel shock, rising fare prices at Rio summit",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/americas/article/3356207/aviation-leaders-face-iran-war-fuel-shock-rising-fare-prices-rio-summit?utm_source=rss_feed",
@@ -133,11 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Trump says Vance and Rubio teaming up for 2028 run would be unbeatable",
+    "title": "In D-Day speech, Hegseth urges Europe to counter ‘invasion’ of migrants",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355874/trump-says-vance-and-rubio-teaming-2028-run-would-be-unbeatable?utm_source=rss_feed",
-    "published_date": "2026-06-03T16:05:29Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/europe/article/3356224/d-day-speech-hegseth-urges-europe-counter-invasion-migrants?utm_source=rss_feed",
+    "published_date": "2026-06-06T15:00:32Z",
+    "category": "Military"
   },
   {
     "title": "Beijing deploys new missiles matching Patriots opposite Taiwan",
@@ -273,11 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "Can China’s caesium-from-brine tech cut reliance on Canadian, Australian ores?",
+    "title": "Malaysia’s gas-guzzling data centre boom clashes with its clean energy goals",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3355685/can-chinas-caesium-brine-tech-cut-reliance-canadian-australian-ores?utm_source=rss_feed",
-    "published_date": "2026-06-02T14:00:26Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/week-asia/economics/article/3356129/malaysias-gas-guzzling-data-centre-boom-clashes-its-clean-energy-goals?utm_source=rss_feed",
+    "published_date": "2026-06-07T00:00:12Z",
+    "category": "Energy"
   },
   {
     "title": "How everyday cooking oil is helping Japan fight an aviation fuel crisis",
@@ -390,6 +397,13 @@
     "url": "https://www.scmp.com/opinion/china-opinion/article/3355267/us-quietly-plays-long-game-energy-dominance-against-china?utm_source=rss_feed",
     "published_date": "2026-05-31T12:30:05Z",
     "category": "Energy"
+  },
+  {
+    "title": "Trump AI policy adviser Sriram Krishnan to leave position",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356228/trump-ai-policy-adviser-sriram-krishnan-leave-position?utm_source=rss_feed",
+    "published_date": "2026-06-06T19:44:25Z",
+    "category": "Economy"
   },
   {
     "title": "How China is turning historic African slave port into waterfront tourism destination",
@@ -525,11 +539,53 @@
     "category": "Economy"
   },
   {
-    "title": "‘Another empty promise’: Quad’s proposed Fiji port project raises doubts",
+    "title": "Multiple people shot near festival in Toledo, Ohio",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3356101/another-empty-promise-quads-proposed-fiji-port-project-raises-doubts?utm_source=rss_feed",
-    "published_date": "2026-06-05T08:58:33Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356230/multiple-people-shot-near-festival-toledo-ohio?utm_source=rss_feed",
+    "published_date": "2026-06-06T23:45:10Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Missing US student found dead in Japan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3356229/missing-us-student-found-dead-japan?utm_source=rss_feed",
+    "published_date": "2026-06-06T20:15:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Bernadette Chirac, formidable French first lady dubbed ‘last queen of France’, dies at 93",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3356227/bernadette-chirac-formidable-french-first-lady-dubbed-last-queen-france-dies-93?utm_source=rss_feed",
+    "published_date": "2026-06-06T19:31:22Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "How China is working to turn Saishiteng Mountain into the world’s largest astronomy base",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3356164/how-china-working-turn-saishiteng-mountain-worlds-largest-astronomy-base?utm_source=rss_feed",
+    "published_date": "2026-06-06T14:00:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo urges end to ‘polarising narratives’ on Spain visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3356222/pope-leo-urges-end-polarising-narratives-spain-visit?utm_source=rss_feed",
+    "published_date": "2026-06-06T13:39:39Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong Golf & Tennis Academy patrons threaten legal action over clubhouse changes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356204/hong-kong-sports-club-patrons-threaten-legal-action-over-operational-changes?utm_source=rss_feed",
+    "published_date": "2026-06-06T12:49:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "South Korean protesters demand ‘election re-run’ after ballot shortage",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3356218/south-korean-protesters-demand-election-re-run-after-ballot-shortage?utm_source=rss_feed",
+    "published_date": "2026-06-06T12:30:05Z",
+    "category": "Local Events"
   },
   {
     "title": "96 deals signed, flights planned: what’s next for Hong Kong and Central Asia?",
@@ -620,55 +676,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3356191/flu-cases-rise-hong-kong-immunity-wanes-expert-warns?utm_source=rss_feed",
     "published_date": "2026-06-06T05:07:33Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Inside the crazy New York queues where people wait for hours for Insta-cred",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356190/inside-crazy-new-york-queues-where-people-wait-hours-insta-cred?utm_source=rss_feed",
-    "published_date": "2026-06-06T04:31:02Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China bans 11 online activities under tighter rules to curb rumours, cyberbullies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3356065/china-bans-11-online-activities-under-tighter-rules-curb-rumours-cyberbullies?utm_source=rss_feed",
-    "published_date": "2026-06-06T04:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong baby Danny’s future remains unclear despite birth registration progress",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3356187/hong-kong-baby-dannys-future-remains-unclear-despite-birth-registration-progress?utm_source=rss_feed",
-    "published_date": "2026-06-06T03:31:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong issues red rainstorm warning",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3356186/hong-kong-issues-amber-rainstorm-warning-storms-follow-record-heat?utm_source=rss_feed",
-    "published_date": "2026-06-06T02:43:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Son of James Handy’s girlfriend charged with murder of ‘Top Gun’ actor",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356184/son-james-handys-girlfriend-charged-murder-top-gun-actor?utm_source=rss_feed",
-    "published_date": "2026-06-06T01:52:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Is the dream over? Mainland students rethink Hong Kong over costs and cultural fit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356168/dont-dream-its-over-mainland-students-rethink-hong-kong-over-costs-culture?utm_source=rss_feed",
-    "published_date": "2026-06-06T01:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong parents of undocumented baby Danny confident of regaining custody",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3356172/hong-kong-parents-undocumented-baby-danny-confident-regaining-custody?utm_source=rss_feed",
-    "published_date": "2026-06-06T00:00:26Z",
     "category": "Local Events"
   }
 ]
