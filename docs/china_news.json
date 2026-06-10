@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump’s China thaw faces resistance from Congress and his own administration",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3356554/trumps-china-thaw-faces-resistance-congress-and-his-own-administration?utm_source=rss_feed",
+    "published_date": "2026-06-09T20:55:41Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Has Xi Jinping’s North Korea visit helped cement China’s vital role?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3356540/has-xi-jinpings-north-korea-visit-helped-cement-chinas-vital-role?utm_source=rss_feed",
+    "published_date": "2026-06-09T15:00:07Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "UN slams ‘unacceptable’ US sanctions causing child deaths in Cuba",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3356523/un-slams-unacceptable-us-sanctions-causing-child-deaths-cuba?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Pakistan’s mediators in Iran as US downs drones, Lebanon looks for peace",
+    "title": "What a US lawyer’s diaries show about prosecuting Japanese atrocities of Nanking massacre",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3356261/pakistans-mediators-iran-us-downs-drones-lebanon-looks-peace?utm_source=rss_feed",
-    "published_date": "2026-06-07T11:52:27Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3356535/what-us-lawyers-diaries-show-about-prosecuting-japanese-atrocities-nanking-massacre?utm_source=rss_feed",
+    "published_date": "2026-06-09T22:00:07Z",
+    "category": "Military"
   },
   {
-    "title": "North Korea says its nuclear programme is ‘irreversible’ ahead of Chinese leader’s visit",
+    "title": "US launches strikes against Iran over downed Apache helicopter",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3356257/north-korea-says-its-nuclear-programme-irreversible-ahead-chinese-leaders-visit?utm_source=rss_feed",
-    "published_date": "2026-06-07T11:00:18Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3356552/trump-says-iran-shot-down-apache-helicopter-us-must-react?utm_source=rss_feed",
+    "published_date": "2026-06-09T17:31:47Z",
+    "category": "Military"
   },
   {
     "title": "Pentagon blacklist raises spectre of investment curbs for Chinese tech firms",
@@ -266,18 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "China urged to fast-track carrier fleet upgrades as Japan boosts strike power",
+    "title": "Driven by AI demand, China on track to pass US as top nuclear energy producer",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed",
-    "published_date": "2026-06-07T14:00:07Z",
-    "category": "Military"
-  },
-  {
-    "title": "Will ‘Trump-class’ battleship be a sitting duck for Chinese carrier-killer missiles?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3356266/will-trump-class-battleship-be-sitting-duck-chinese-carrier-killer-missiles?utm_source=rss_feed",
-    "published_date": "2026-06-07T13:31:32Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/economy/global-economy/article/3356510/driven-ai-demand-china-track-pass-us-top-nuclear-energy-producer?utm_source=rss_feed",
+    "published_date": "2026-06-09T14:00:05Z",
+    "category": "Energy"
   },
   {
     "title": "Power outage cuts water supply, disrupts lifts for 3,000 residents for 24 hours",
@@ -392,11 +399,32 @@
     "category": "Energy"
   },
   {
-    "title": "Japanese MP’s claim China eyes Antarctic ‘treasure trove’ dismissed",
+    "title": "US fintech firm iCapital doubles prime office space in Hong Kong amid wealth boom",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3355693/japanese-mps-claim-china-eyes-antarctic-treasure-trove-dismissed?utm_source=rss_feed",
-    "published_date": "2026-06-03T00:00:16Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/business/article/3356547/us-fintech-firm-icapital-doubles-prime-office-space-hong-kong-amid-wealth-boom?utm_source=rss_feed",
+    "published_date": "2026-06-10T00:00:18Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China to bust Yangtze River chokepoint with US$11 billion ‘water staircase’ project",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3356518/china-bust-yangtze-river-chokepoint-us11-billion-water-staircase-project?utm_source=rss_feed",
+    "published_date": "2026-06-10T00:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US trade court to Trump administration: speed up tariff refunds",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/economy-trade-business/article/3356560/trade-court-trump-administration-speed-tariff-refunds?utm_source=rss_feed",
+    "published_date": "2026-06-09T23:21:57Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Help for 40 estates that hired Tai Po fire-linked consultant for projects",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3356550/help-40-estates-hired-tai-po-fire-linked-consultant-projects?utm_source=rss_feed",
+    "published_date": "2026-06-09T16:45:08Z",
+    "category": "Economy"
   },
   {
     "title": "China’s EV giants are breathing new life into Europe’s ailing car industry",
@@ -511,32 +539,81 @@
     "category": "Economy"
   },
   {
-    "title": "China begins large-scale delivery of gallium chips for space-ground 6G network",
+    "title": "Protesters torch buildings and vehicles, block roads over Belfast stabbing",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3356321/china-begins-large-scale-delivery-gallium-chips-space-ground-6g-network?utm_source=rss_feed",
-    "published_date": "2026-06-08T13:00:08Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3356561/protesters-torch-buildings-and-vehicles-block-roads-over-belfast-stabbing?utm_source=rss_feed",
+    "published_date": "2026-06-10T00:12:41Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots",
+    "title": "Japan’s looming typhoon crisis threatens disaster defences and tourism",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/china-business/article/3356396/chinas-ev-giants-challenge-tesla-race-commercialise-humanoid-robots?utm_source=rss_feed",
-    "published_date": "2026-06-08T12:30:13Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3356532/japans-looming-typhoon-crisis-threatens-disaster-defences-and-tourism?utm_source=rss_feed",
+    "published_date": "2026-06-10T00:00:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong woman, 86, falls to death while cleaning window in Discovery Bay",
+    "title": "Scientists find woolly mammoth DNA while digging through squirrel faeces",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3356377/hong-kong-woman-86-falls-death-while-cleaning-window-discovery-bay?utm_source=rss_feed",
-    "published_date": "2026-06-08T10:14:31Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356558/scientists-find-woolly-mammoth-dna-while-digging-through-squirrel-faeces?utm_source=rss_feed",
+    "published_date": "2026-06-09T22:53:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "China sees record panda bond issuance in 2026 as foreign borrowers pile in",
+    "title": "US expects to finish Trump’s Mexico border wall by next year",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3356319/china-sees-record-panda-bond-issuance-2026-foreign-borrowers-pile?utm_source=rss_feed",
-    "published_date": "2026-06-08T07:00:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356557/us-expects-finish-trumps-mexico-border-wall-next-year?utm_source=rss_feed",
+    "published_date": "2026-06-09T22:33:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Forget Weimar, it’s Japan’s Taisho period we need to talk about",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3356304/forget-weimar-its-japans-taisho-period-we-need-talk-about?utm_source=rss_feed",
+    "published_date": "2026-06-09T21:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump urged to press Xi on Chinese money laundering tied to Mexican fentanyl cartels",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3356556/us-lawmakers-urge-trump-press-xi-chinese-money-laundering-tied-mexican-cartels?utm_source=rss_feed",
+    "published_date": "2026-06-09T20:59:48Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Anthropic opens powerful Mythos AI model to public – with some safeguards",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356555/anthropic-opens-powerful-mythos-ai-model-public-some-safeguards?utm_source=rss_feed",
+    "published_date": "2026-06-09T20:59:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Nasa reveals Artemis III astronauts in next step towards moon landing",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356551/nasa-reveals-artemis-iii-astronauts-next-step-towards-moon-landing?utm_source=rss_feed",
+    "published_date": "2026-06-09T17:16:56Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "YK Pao School Hong Kong Celebrates Launch Ceremony, Set to Open in August 2026",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/yk-pao-school-hk-opens-aug-2026/article/3356327/yk-pao-school-hong-kong-celebrates-launch-ceremony-set-open-august-2026?utm_source=rss_feed",
+    "published_date": "2026-06-09T16:00:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong appeals for heart-lung donor to save critically ill 13-year-old girl",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3356544/hong-kong-appeals-heart-lung-donor-save-critically-ill-13-year-old-girl?utm_source=rss_feed",
+    "published_date": "2026-06-09T14:47:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Suspect arrested in ‘sickening’ Belfast stabbing as attack videos spread online",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3356545/suspect-arrested-sickening-belfast-stabbing-attack-videos-spread-online?utm_source=rss_feed",
+    "published_date": "2026-06-09T14:32:41Z",
+    "category": "Local Events"
   },
   {
     "title": "New Hong Kong law allows national security procedures to extend to older cases",
@@ -599,83 +676,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/policy/article/3356498/global-ai-data-shortage-looming-china-boosts-its-own-supply?utm_source=rss_feed",
     "published_date": "2026-06-09T08:40:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s rail gun milestone: guided projectile prototype passes real firing test",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3355907/chinas-rail-gun-milestone-guided-projectile-prototype-passes-real-firing-test?utm_source=rss_feed",
-    "published_date": "2026-06-09T08:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippines’ deadly quake, India’s rise in critical minerals: 7 Asia highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/article/3356469/philippines-deadly-quake-indias-rise-critical-minerals-7-asia-highlights?utm_source=rss_feed",
-    "published_date": "2026-06-09T07:15:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rescuers search for survivors after Philippines quake kills 37",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356475/rescuers-search-survivors-after-philippines-quake-kills-37?utm_source=rss_feed",
-    "published_date": "2026-06-09T07:07:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Who’s calling the shots? Netanyahu and Trump at odds over their war",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3356472/whos-calling-shots-netanyahu-and-trump-odds-over-their-war?utm_source=rss_feed",
-    "published_date": "2026-06-09T06:50:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China wife finds ex hid US$2 million during divorce while she struggled with US$1,000 medical bills",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/article/3356142/china-wife-finds-ex-hid-us2-million-during-divorce-while-she-struggled-us1000-medical-bills?utm_source=rss_feed",
-    "published_date": "2026-06-09T06:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China performs world’s first combined transplant of pig liver and kidney to human",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3356462/china-performs-first-ever-combined-transplant-pig-liver-and-kidney-human?utm_source=rss_feed",
-    "published_date": "2026-06-09T05:59:25Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singapore looks beyond baby bonuses as fertility hits record low",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356465/singapore-looks-beyond-baby-bonuses-fertility-hits-record-low?utm_source=rss_feed",
-    "published_date": "2026-06-09T05:57:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong civil servants to get flat 2% pay rise amid fiscal prudence",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3356463/hong-kong-leader-defends-tougher-civil-service-appraisal-system-amid-backlash?utm_source=rss_feed",
-    "published_date": "2026-06-09T05:43:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong school seeks ‘excellent character’ in new head after Singapore swearing row",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3356457/hong-kong-school-seeks-excellent-character-new-head-after-singapore-swearing-row?utm_source=rss_feed",
-    "published_date": "2026-06-09T05:01:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "John Lee vows ‘prudent’ use of power to define national security offences",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3356452/john-lee-vows-prudent-use-power-define-national-security-offences?utm_source=rss_feed",
-    "published_date": "2026-06-09T04:25:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong to begin consultation on ‘historic’ first 5-year plan on June 15",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3356446/hong-kong-begin-consultation-historic-first-five-year-plan-june-15?utm_source=rss_feed",
-    "published_date": "2026-06-09T03:55:16Z",
     "category": "Local Events"
   }
 ]
