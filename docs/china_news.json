@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump says US might not renew trade deal with Mexico and Canada",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356679/trump-says-us-might-not-renew-trade-deal-mexico-and-canada?utm_source=rss_feed",
+    "published_date": "2026-06-10T22:36:17Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "How will the Pentagon’s expanded blacklist of Chinese firms affect Xi’s US visit?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3356664/how-will-pentagons-expanded-blacklist-chinese-firms-affect-xis-us-visit?utm_source=rss_feed",
+    "published_date": "2026-06-10T15:00:06Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Thai woman detained after US diplomat found dead in Myanmar hotel",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356656/thai-woman-detained-after-us-diplomat-found-dead-myanmar-hotel?utm_source=rss_feed",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese President Xi Jinping pledges ‘unwavering’ support for North Korea and Kim Jong-un",
+    "title": "Philippine military chief assures no political intervention amid Senate turmoil",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3356384/chinese-president-xi-jinping-pledges-unwavering-support-north-korea-and-kim-jong-un?utm_source=rss_feed",
-    "published_date": "2026-06-08T10:41:35Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Pyongyang rolls out the red carpet as Xi Jinping is welcomed with pomp and ceremony",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3356361/pyongyang-rolls-out-red-carpet-xi-jinping-welcomed-pomp-and-ceremony?utm_source=rss_feed",
-    "published_date": "2026-06-08T09:18:15Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3356665/philippine-military-chief-assures-no-political-intervention-amid-senate-turmoil?utm_source=rss_feed",
+    "published_date": "2026-06-11T00:00:14Z",
+    "category": "Military"
   },
   {
     "title": "China’s military warned against ‘dangers of AI sycophancy’ on the battlefield",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Taiwan hits back at Beijing’s ‘cognitive warfare’ after coastguard patrols",
+    "title": "BYD powers past Geely as oil shock charges up global EV demand",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3356389/taiwan-hits-back-beijings-cognitive-warfare-after-coastguard-patrols?utm_source=rss_feed",
-    "published_date": "2026-06-08T12:00:15Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/business/china-business/article/3356667/byd-powers-past-geely-oil-shock-charges-global-ev-demand?utm_source=rss_feed",
+    "published_date": "2026-06-11T00:00:20Z",
+    "category": "Energy"
+  },
+  {
+    "title": "As de-dollarisation trends persist, can the yuan take the euro’s place?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3356641/de-dollarisation-trends-persist-can-yuan-take-euros-place?utm_source=rss_feed",
+    "published_date": "2026-06-10T22:00:20Z",
+    "category": "Energy"
   },
   {
     "title": "Chinese carmakers race Tesla on humanoid robots; BYD launches ‘God’s Eye’: 7 EV reads",
@@ -371,11 +385,25 @@
     "category": "Energy"
   },
   {
-    "title": "5 lessons for Asia as it studies wars from the privilege of peace",
+    "title": "China-UK cooperation vital in ensuring the AI era puts people first",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/asia-opinion/article/3355563/5-lessons-asia-it-studies-wars-privilege-peace?utm_source=rss_feed",
-    "published_date": "2026-06-03T21:30:06Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3356249/china-uk-cooperation-vital-ensuring-ai-era-puts-people-first?utm_source=rss_feed",
+    "published_date": "2026-06-10T21:30:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Elon Musk accused of inflaming tensions in Belfast after knife attack",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3356672/elon-musk-accused-inflaming-tensions-belfast-after-knife-attack?utm_source=rss_feed",
+    "published_date": "2026-06-10T15:26:25Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong tech park tender targets strong bidders with HK$100m bond rule",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3356670/hong-kong-tech-park-tender-targets-strong-bidders-hk100m-bond-rule?utm_source=rss_feed",
+    "published_date": "2026-06-10T15:16:31Z",
+    "category": "Economy"
   },
   {
     "title": "US inflation spikes to 3-year high in May as Iran war energy shock persists",
@@ -497,25 +525,53 @@
     "category": "Economy"
   },
   {
-    "title": "UN report exposes brutal reality for Palestinians in Gaza, West Bank",
+    "title": "Canada moves to ban under-16s from social media, regulate AI",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3356517/un-report-exposes-brutal-reality-palestinians-gaza-west-bank?utm_source=rss_feed",
-    "published_date": "2026-06-09T10:20:31Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356682/canada-moves-ban-under-16s-social-media-regulate-ai?utm_source=rss_feed",
+    "published_date": "2026-06-10T23:47:32Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong college sues finance head, director and firm over alleged HK$25m fraud",
+    "title": "FBI disables 13 Chinese suspected spying websites targeting US officials",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356495/hong-kong-college-sues-finance-head-director-and-firm-over-alleged-hk25m-fraud?utm_source=rss_feed",
-    "published_date": "2026-06-09T10:02:40Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3356681/fbi-disables-13-chinese-suspected-spying-websites-targeting-us-officials?utm_source=rss_feed",
+    "published_date": "2026-06-10T23:39:08Z",
+    "category": "Local Events"
   },
   {
-    "title": "Trump’s forced-labour tariffs put Southeast Asia in the firing line",
+    "title": "Chinese propagandists stoking dissent over Trump tariffs and data centres, OpenAI says",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3356496/trumps-forced-labour-tariffs-put-southeast-asia-firing-line?utm_source=rss_feed",
-    "published_date": "2026-06-09T08:27:42Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356680/chinese-propagandists-stoking-dissent-over-trump-tariffs-and-data-centres-openai-says?utm_source=rss_feed",
+    "published_date": "2026-06-10T23:01:24Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo blesses new tower at Spain’s Sagrada Familia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3356678/pope-leo-blesses-new-tower-spains-sagrada-familia?utm_source=rss_feed",
+    "published_date": "2026-06-10T20:43:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US tightens pressure on Iran with new sanctions and threats of more strikes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3356677/us-tightens-pressure-iran-new-sanctions-and-threats-more-strikes?utm_source=rss_feed",
+    "published_date": "2026-06-10T19:01:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Nasa chief defends choice of all-male Artemis III crew",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356676/nasa-chief-defends-choice-all-male-artemis-iii-crew?utm_source=rss_feed",
+    "published_date": "2026-06-10T18:01:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Bill Gates says Epstein blackmailed him using knowledge of his affairs",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3356674/bill-gates-tells-epstein-hearing-he-never-victimised-anyone?utm_source=rss_feed",
+    "published_date": "2026-06-10T17:02:10Z",
+    "category": "Local Events"
   },
   {
     "title": "Gold-laden World Cup trophy’s value surges 157% – how much is the bullion worth?",
@@ -606,55 +662,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3356612/targeted-therapy-could-turn-advanced-lung-cancer-chronic-illness-cuhk-study?utm_source=rss_feed",
     "published_date": "2026-06-10T08:03:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "University town to set aside land to capitalise on future social, tech changes",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3356605/university-town-set-aside-land-capitalise-future-social-tech-changes?utm_source=rss_feed",
-    "published_date": "2026-06-10T07:26:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Filipino ex-cop in South Korean businessman’s 2016 murder caught after 2 years on the run",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356599/filipino-ex-cop-south-korean-businessmans-2016-murder-caught-after-2-years-run?utm_source=rss_feed",
-    "published_date": "2026-06-10T06:54:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese man suffers acute kidney failure, requires emergency dialysis after intense leg workout",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3356456/chinese-man-suffers-acute-kidney-failure-requires-emergency-dialysis-after-intense-leg-workout?utm_source=rss_feed",
-    "published_date": "2026-06-10T06:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japanese fans draw the line at Trump using manga, anime to boost image",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3356590/japanese-fans-draw-line-trump-using-manga-anime-boost-image?utm_source=rss_feed",
-    "published_date": "2026-06-10T05:58:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Teacher gets good behaviour bond after slapping 13-year-old son in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356589/teacher-gets-good-behaviour-bond-after-slapping-13-year-old-son-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-06-10T05:53:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Teen’s drowning forces Indonesia to confront bystander effect: ‘no one helped her’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3356586/teens-drowning-forces-indonesia-confront-bystander-effect-no-one-helped-her?utm_source=rss_feed",
-    "published_date": "2026-06-10T05:17:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Girl, 8, dies after collapsing at home on Hong Kong’s Lantau Island",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3356585/girl-8-dies-after-collapsing-home-hong-kongs-lantau-island?utm_source=rss_feed",
-    "published_date": "2026-06-10T05:12:18Z",
     "category": "Local Events"
   }
 ]
