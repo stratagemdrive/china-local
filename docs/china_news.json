@@ -1,5 +1,12 @@
 [
   {
+    "title": "Poland’s president strips Ukraine’s Zelensky of top award",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357747/polands-president-strips-ukraines-zelensky-top-award?utm_source=rss_feed",
+    "published_date": "2026-06-19T19:29:44Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Italian minister cancels US trip after Trump claims Meloni begged him for photo",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3357722/italian-minister-cancels-us-trip-after-trump-claims-meloni-begged-him-photo?utm_source=rss_feed",
@@ -133,11 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "European Council Summit: Trade with China at a crossroads",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-18/European-Council-Summit-Trade-with-China-at-a-crossroads-1O4AdB3nbFe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-18T12:32:43Z",
-    "category": "Diplomacy"
+    "title": "Trump unveils new Air Force One, as he plans trips to China and Turkey",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357748/trump-unveils-new-air-force-one-gifted-him-qatar?utm_source=rss_feed",
+    "published_date": "2026-06-19T20:00:28Z",
+    "category": "Military"
   },
   {
     "title": "Could China make a sea-skimming hypersonic missile a real nightmare for the US?",
@@ -273,11 +280,25 @@
     "category": "Military"
   },
   {
-    "title": "Ex-China military dog handler has 5 million online followers for low-cost pet treatments",
+    "title": "Asia’s shaky food supply shudders as ‘super’ El Nino arrives",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3357419/ex-china-military-dog-handler-has-5-million-online-followers-low-cost-pet-treatments?utm_source=rss_feed",
-    "published_date": "2026-06-17T10:02:04Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3357703/asias-shaky-food-supply-shudders-super-el-nino-arrives?utm_source=rss_feed",
+    "published_date": "2026-06-20T00:00:10Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Iran floats insurance fees and asserts control over Hormuz",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3357744/iran-floats-insurance-fees-and-asserts-control-over-hormuz?utm_source=rss_feed",
+    "published_date": "2026-06-19T17:12:16Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Ukraine drone strike brings war to streets of Moscow: ‘this is the new reality’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3357740/ukraine-drone-strike-brings-war-streets-moscow-new-reality?utm_source=rss_feed",
+    "published_date": "2026-06-19T15:58:02Z",
+    "category": "Energy"
   },
   {
     "title": "Hormuz reopens, but energy insecurity remains",
@@ -399,25 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "Shipowners hold off on Hormuz transit until US-Iran deal proves ‘material’",
+    "title": "Germany hews EU’s tough China line with call for ‘Plaza Accord’ talks on yuan",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3357254/shipowners-hold-hormuz-transit-until-us-iran-deal-proves-material?utm_source=rss_feed",
-    "published_date": "2026-06-16T05:33:17Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3357742/germany-hews-eus-tough-china-line-call-plaza-accord-talks-yuan?utm_source=rss_feed",
+    "published_date": "2026-06-19T16:32:20Z",
+    "category": "Economy"
   },
   {
-    "title": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel",
+    "title": "Indonesian police foil turtle-smuggling ring in Bali, rescue 21 live animals",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3357219/uk-charges-indian-captain-suspected-russian-shadow-tanker-seized-channel?utm_source=rss_feed",
-    "published_date": "2026-06-15T21:41:41Z",
-    "category": "Energy"
-  },
-  {
-    "title": "China sets 3-year drive to cut industrial energy use, carbon emissions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-15/China-sets-3-year-drive-to-cut-industrial-energy-use-carbon-emissions-1O05DAXDsGI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-15T12:39:49Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3357737/indonesian-smash-turtle-smuggling-ring-rescue-21-live-animals?utm_source=rss_feed",
+    "published_date": "2026-06-19T14:53:36Z",
+    "category": "Economy"
   },
   {
     "title": "China’s private-jet market finding level flight path after sell-offs: source",
@@ -546,18 +560,46 @@
     "category": "Economy"
   },
   {
-    "title": "China tests future of shipping on its next major trade corridor: a US$10 billion canal",
+    "title": "As populations fall, nations that can tap human potential will succeed",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3357607/china-tests-future-shipping-its-next-major-trade-corridor-us10-billion-canal?utm_source=rss_feed",
-    "published_date": "2026-06-18T13:00:22Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3357296/populations-fall-nations-can-tap-human-potential-will-succeed?utm_source=rss_feed",
+    "published_date": "2026-06-19T21:30:05Z",
+    "category": "Local Events"
   },
   {
-    "title": "China-South Asia Expo highlights growing China-Myanmar trade ties",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-18/China-South-Asia-Expo-highlights-growing-China-Myanmar-trade-ties--1O54L04AiAw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-18T12:41:06Z",
-    "category": "Economy"
+    "title": "2 trains collide north of London, killing 1 and injuring dozens",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357749/2-trains-collide-north-london-killing-least-1-person?utm_source=rss_feed",
+    "published_date": "2026-06-19T21:11:38Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK PM Starmer braces for cabinet showdown, with Burnham ready to pounce",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357746/uk-pm-starmer-braces-cabinet-showdown-burnham-ready-pounce?utm_source=rss_feed",
+    "published_date": "2026-06-19T19:01:32Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Zelensky warns Belarus to remove equipment used in Russian attacks or Ukraine will do it",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357745/zelensky-warns-belarus-remove-equipment-used-russian-attacks-or-ukraine-will-do-it?utm_source=rss_feed",
+    "published_date": "2026-06-19T18:17:03Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Taxi fleet severs ties with driver who made mid-road stop to let passengers out",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3357741/taxi-fleet-severs-ties-driver-who-made-mid-road-stop-let-passengers-out?utm_source=rss_feed",
+    "published_date": "2026-06-19T16:02:41Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Illegal gambling in Hong Kong",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/series/3357739/illegal-gambling-hong-kong?utm_source=rss_feed",
+    "published_date": "2026-06-19T15:50:21Z",
+    "category": "Local Events"
   },
   {
     "title": "Hyrox World Championships may draw high-spenders to Hong Kong, experts say",
@@ -655,48 +697,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-06-19/Dragon-Boat-Festival-fires-up-Hangzhou-animation-scene-1O6kAvUyqkM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
     "published_date": "2026-06-19T08:23:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Huangluo Yao Village: The tradition of long hair",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/Huangluo-Yao-Village-The-tradition-of-long-hair-1O6skR6tP9K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T08:22:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Sunny spells for Dragon Boat Festival, day after 2 black rainstorm warnings",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/weather/hong-kong/article/3357682/sunny-spells-dragon-boat-festival-after-2-black-rainstorm-warnings-1-day?utm_source=rss_feed",
-    "published_date": "2026-06-19T08:09:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese film 'Dear You' expands global release to Southeast Asia",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/Chinese-film-Dear-You-expands-global-release-to-Southeast-Asia-1O6qsgZGRVu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T08:09:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dragon boats take to the water in Enyang, Sichuan",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/Dragon-boats-take-to-the-water-in-Enyang-Sichuan-1O6qY36EkF2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T08:00:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Filipinos do not trust the news. Are they sick of divisive politics?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3357670/filipinos-do-not-trust-news-are-they-sick-divisive-politics?utm_source=rss_feed",
-    "published_date": "2026-06-19T08:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beijing's Chaoyang District hosts Dragon Boat Festival celebrations",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/Beijing-s-Chaoyang-District-hosts-Dragon-Boat-Festival-celebrations-1O6o1in7gas/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T07:22:29Z",
     "category": "Local Events"
   }
 ]
