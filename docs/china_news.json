@@ -1,5 +1,19 @@
 [
   {
+    "title": "Iran-US talks to continue through the night after Iranians walked out over Trump threat",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3357843/iran-vows-forces-are-ready-respond-after-trumps-threat-hit-iran-very-hard-again?utm_source=rss_feed",
+    "published_date": "2026-06-21T18:26:05Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Ethiopian PM’s party secures landslide win in national election",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3357841/ethiopian-pms-party-secures-landslide-win-national-election?utm_source=rss_feed",
+    "published_date": "2026-06-21T16:56:06Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China’s Iran strategy an exercise in power without projection",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/world-opinion/article/3357650/chinas-iran-strategy-exercise-power-without-projection?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese Embassy in US celebrates Dragon Boat Festival",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-06-20/Chinese-Embassy-in-US-celebrates-Dragon-Boat-Festival-1O7qsawoJPO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T22:32:41Z",
-    "category": "Diplomacy"
+    "title": "Canada steps up at Rimpac to rebut Trump’s freeriding charge",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3357714/canada-steps-rimpac-rebut-trumps-freeriding-charge?utm_source=rss_feed",
+    "published_date": "2026-06-22T00:01:26Z",
+    "category": "Military"
   },
   {
-    "title": "Chinese Embassy in US celebrates Dragon Boat Festival",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-06-20/Chinese-Embassy-in-US-celebrates-Dragon-Boat-Festival-1O7qsawoJPO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-06-19T22:32:41Z",
-    "category": "Diplomacy"
+    "title": "Red Hawk rising: how the Z-20 family is plugging China’s chronic defence gaps",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3357822/red-hawk-rising-how-z-20-family-plugging-chinas-chronic-defence-gaps?utm_source=rss_feed",
+    "published_date": "2026-06-21T15:00:06Z",
+    "category": "Military"
   },
   {
     "title": "Israeli ‘smear campaign’ targets journalists, threatens safety, Al Jazeera says",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/east-asia/article/3357628/japan-south-korea-not-nuclear-weapons-until-one-them-changes-policy?utm_source=rss_feed",
     "published_date": "2026-06-18T23:17:41Z",
-    "category": "Military"
-  },
-  {
-    "title": "US says goodbye to Air Force One as Qatari jet awaits",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357621/last-ride-us-says-goodbye-air-force-one-qatari-jet-awaits?utm_source=rss_feed",
-    "published_date": "2026-06-18T21:02:58Z",
-    "category": "Military"
-  },
-  {
-    "title": "Al-Qaeda-linked jihadists attack Niger airport, 11 soldiers and 3 civilians killed",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3357619/11-soldiers-and-2-civilians-dead-gunmen-attack-airport-nigers-capital?utm_source=rss_feed",
-    "published_date": "2026-06-18T19:01:55Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "Hong Kong to roll out measures boosting offshore yuan trading in July: finance chief",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357804/hong-kong-roll-out-measures-boosting-offshore-yuan-trading-july-finance-chief?utm_source=rss_feed",
+    "published_date": "2026-06-21T23:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Nie Huihua on the non-Westernness of Chinese government and the challenge to innovation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3357816/nie-huihua-non-westernness-chinese-government-and-challenge-innovation?utm_source=rss_feed",
+    "published_date": "2026-06-21T22:00:21Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China-Asean relations are bigger than mere geopolitics",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3357468/china-asean-relations-are-bigger-mere-geopolitics?utm_source=rss_feed",
+    "published_date": "2026-06-21T21:30:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Bolivian lawmakers approve state of emergency as protests choke supply chain",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3357839/bolivian-lawmakers-approve-state-emergency-protests-choke-supply-chain?utm_source=rss_feed",
+    "published_date": "2026-06-21T14:04:04Z",
+    "category": "Economy"
+  },
+  {
     "title": "KMT accuses DPP of targeting Taiwan’s farmers over trade ties with mainland",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3357828/kmt-accuses-dpp-targeting-taiwans-farmers-over-trade-ties-mainland?utm_source=rss_feed",
@@ -532,32 +560,74 @@
     "category": "Economy"
   },
   {
-    "title": "China adds tariff on Australian beef imports as quota reached",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/China-adds-tariff-on-Australian-beef-imports-as-quota-reached-1O6PketB2bC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T15:15:08Z",
-    "category": "Economy"
+    "title": "Trump-backed candidate wins razor-tight Colombia presidential vote",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3357850/trump-backed-candidate-wins-razor-tight-colombia-presidential-vote?utm_source=rss_feed",
+    "published_date": "2026-06-21T23:54:57Z",
+    "category": "Local Events"
   },
   {
-    "title": "China adds tariff on Australian beef imports as quota reached",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/China-adds-tariff-on-Australian-beef-imports-as-quota-reached-1O6PketB2bC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-19T15:15:08Z",
-    "category": "Economy"
+    "title": "Where is Hong Kong 29 years after handover?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/series/3357848/where-hong-kong-29-years-after-handover?utm_source=rss_feed",
+    "published_date": "2026-06-21T23:03:03Z",
+    "category": "Local Events"
   },
   {
-    "title": "South African youth shine at 2026 'Chinese Bridge' Finals in Durban",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-06-19/South-African-youth-shine-at-2026-Chinese-Bridge-Finals-in-Durban-1O6zn2Im1Ne/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-19T14:54:43Z",
-    "category": "Economy"
+    "title": "People caught vandalising Washington Reflecting Pool to be fully prosecuted",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357847/people-caught-vandalising-washington-reflecting-pool-be-fully-prosecuted?utm_source=rss_feed",
+    "published_date": "2026-06-21T21:41:26Z",
+    "category": "Local Events"
   },
   {
-    "title": "South African youth shine at 2026 'Chinese Bridge' Finals in Durban",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-06-19/South-African-youth-shine-at-2026-Chinese-Bridge-Finals-in-Durban-1O6zn2Im1Ne/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-06-19T14:54:43Z",
-    "category": "Economy"
+    "title": "Revolutionary Guard claim is ‘outright lie’, says Iran’s football federation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/sport/football/article/3357846/revolutionary-guard-claim-outright-lie-says-irans-football-federation?utm_source=rss_feed",
+    "published_date": "2026-06-21T20:38:59Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Castro ally Ramiro Valdes, lauded as a hero of Cuban revolution, dies at 94",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3357845/castro-ally-ramiro-valdes-lauded-hero-cuban-revolution-dies-94?utm_source=rss_feed",
+    "published_date": "2026-06-21T19:44:24Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Thousands rally in Prague against government’s public broadcasting overhaul plan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357844/thousands-rally-prague-against-governments-public-broadcasting-overhaul-plan?utm_source=rss_feed",
+    "published_date": "2026-06-21T19:00:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo exalts first American saint as a model for Christians for her care of migrants",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357842/pope-leo-exalts-first-american-saint-model-christians-her-care-migrants?utm_source=rss_feed",
+    "published_date": "2026-06-21T17:29:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Europe hits 40 degrees Celsius as heatwave threatens tourism industry, wildlife",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357840/europe-hits-40oc-heatwave-threatens-tourism-industry-wildlife?utm_source=rss_feed",
+    "published_date": "2026-06-21T15:21:44Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong father, son arrested after parking ticket thrown at traffic wardens",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357837/hong-kong-father-son-arrested-after-parking-ticket-thrown-traffic-wardens?utm_source=rss_feed",
+    "published_date": "2026-06-21T14:04:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong man, 54, dies after e-bike plunges from goods platform",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3357832/hong-kong-man-54-dies-after-e-bike-plunges-goods-platform?utm_source=rss_feed",
+    "published_date": "2026-06-21T13:10:13Z",
+    "category": "Local Events"
   },
   {
     "title": "Cancer-on-a-chip pioneer Chen Weiqiang returns to China from New York University",
@@ -627,76 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357309/hong-kong-succeed-ai-energy-cannot-be-afterthought?utm_source=rss_feed",
     "published_date": "2026-06-21T08:30:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ancient town in Hunan revives Dragon Boat Festival traditions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/Ancient-town-in-Hunan-revives-Dragon-Boat-Festival-traditions-1O9KfIaiyOc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T08:13:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China's Dragon Boat Festival spending gets a modern makeover",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/China-s-Dragon-Boat-Festival-spending-gets-a-modern-makeover-1O9FdMknJoQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T08:12:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China's Dragon Boat Festival spending gets a modern makeover",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/China-s-Dragon-Boat-Festival-spending-gets-a-modern-makeover-1O9FdMknJoQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-21T08:12:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japanese scholars urge return of Chinese relics looted during wartime",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/Japanese-scholars-urge-return-of-Chinese-relics-looted-during-wartime-1O9Gqt5wWty/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T08:02:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China cabby drives against traffic, runs red lights to rush unconscious toddler to hospital",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3357319/china-cabby-drives-against-traffic-runs-red-lights-rush-unconscious-toddler-hospital?utm_source=rss_feed",
-    "published_date": "2026-06-21T08:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Life in orbit: Busy schedule for China's Shenzhou-23 at space station",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/Life-in-orbit-Busy-schedule-for-China-s-Shenzhou-23-at-space-station-1O9EOdxBK7e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T07:43:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dementia patients, carers of severely disabled may be flagged for priority outreach",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3357817/hong-kong-considers-expanding-priority-care-scheme-better-flag-high-risk-cases?utm_source=rss_feed",
-    "published_date": "2026-06-21T07:37:39Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China Weekly News Quiz: June 15-21, 2026",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/China-Weekly-News-Quiz-June-15-21-2026-1O9DmB8fLtm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T07:33:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Residents in 2 villages can turn houses fully into tourist sites under pilot scheme",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357815/residents-2-villages-can-turn-houses-fully-tourist-sites-under-pilot-scheme?utm_source=rss_feed",
-    "published_date": "2026-06-21T06:47:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Inspired by his father, Xi Jinping centered his governance on people",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-21/Inspired-by-his-father-Xi-Jinping-centered-his-governance-on-people-1O9qsLSMSGY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-21T06:25:24Z",
     "category": "Local Events"
   }
 ]
