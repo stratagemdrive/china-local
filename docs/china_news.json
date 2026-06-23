@@ -1,5 +1,19 @@
 [
   {
+    "title": "‘I will do what I have to do’ if Iran does not stick to deal, Trump says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357978/i-will-do-what-i-have-do-if-iran-does-not-stick-deal-says-trump?utm_source=rss_feed",
+    "published_date": "2026-06-22T21:37:25Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Can Quad break China’s mineral monopoly amid US-India rift?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3357977/can-quad-break-chinas-mineral-monopoly-amid-us-india-rift?utm_source=rss_feed",
+    "published_date": "2026-06-22T21:35:49Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Iran agrees to invite IAEA inspectors back, says US",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3357958/iran-agrees-invite-iaea-inspectors-back-says-us?utm_source=rss_feed",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "How a prize-winning Taiwanese novel could stoke Beijing’s worries over history",
+    "title": "Japan’s defence outreach to counter China’s military rise hits hidden roadblocks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3357758/how-prize-winning-taiwanese-novel-could-stoke-beijings-worries-over-history?utm_source=rss_feed",
-    "published_date": "2026-06-20T10:00:08Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Experts call for human rights governance reform at UN meeting",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-20/Experts-call-for-human-rights-governance-reform-at-UN-meeting-1O7UN5vbJug/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-20T06:47:29Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3357876/japans-defence-outreach-counter-chinas-military-rise-hits-hidden-roadblocks?utm_source=rss_feed",
+    "published_date": "2026-06-22T22:00:10Z",
+    "category": "Military"
   },
   {
     "title": "As Europe rearms, can it decouple its military supply chains from China?",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Japan's 'Three Security Documents' revision shows expansionist nature",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-19/Japan-s-Three-Security-Documents-revision-shows-expansionist-nature-1O6qdxoiJDa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-06-19T10:04:06Z",
-    "category": "Military"
+    "title": "Trump criticises UK’s Starmer after PM announces resignation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357979/trump-criticises-uks-starmer-after-pm-announces-resignation?utm_source=rss_feed",
+    "published_date": "2026-06-22T22:18:40Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Mexican president seeks to restart oil shipments to Cuba as island’s crises deepen",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3357970/mexican-president-seeks-restart-oil-shipments-cuba-islands-crises-deepen?utm_source=rss_feed",
+    "published_date": "2026-06-22T17:57:03Z",
+    "category": "Energy"
   },
   {
     "title": "Russia-held Crimea suspends summer camps as Ukraine strikes squeeze fuel supplies",
@@ -406,18 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "Ukraine hits Moscow oil refinery in major drone attack on Russian capital",
+    "title": "Why South Korea’s AI chip boom is a ‘serious concern’ for its economy",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3357515/drones-hit-moscow-oil-refinery-russia-and-ukraine-exchange-strikes?utm_source=rss_feed",
-    "published_date": "2026-06-18T05:31:23Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/week-asia/economics/article/3357950/why-south-koreas-ai-chip-boom-serious-concern-its-economy?utm_source=rss_feed",
+    "published_date": "2026-06-23T00:00:11Z",
+    "category": "Economy"
   },
   {
-    "title": "Deaths of 3 rugby players in Malaysia expose brutal side of heatwave",
+    "title": "China closing in but US leads in biotech quality and commercial reach, survey finds",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3357514/deaths-3-rugby-players-malaysia-expose-brutal-side-heatwave?utm_source=rss_feed",
-    "published_date": "2026-06-18T05:05:40Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357975/china-closing-us-leads-biotech-quality-and-commercial-reach-survey-finds?utm_source=rss_feed",
+    "published_date": "2026-06-22T20:50:56Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US-China rare earth clash 2.0? Fragile truce tested as tit-for-tat moves return",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3357974/us-china-rare-earth-clash-20-fragile-truce-tested-tit-tat-moves-return?utm_source=rss_feed",
+    "published_date": "2026-06-22T20:42:51Z",
+    "category": "Economy"
+  },
+  {
+    "title": "European Central Bank’s President Lagarde urges talks on yuan undervaluation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation?utm_source=rss_feed",
+    "published_date": "2026-06-22T18:13:40Z",
+    "category": "Economy"
   },
   {
     "title": "Survivors fear scrutiny gaps as Hong Kong fire probe declines statutory powers",
@@ -532,32 +560,53 @@
     "category": "Economy"
   },
   {
-    "title": "China defends role in global supply chains amid Strait of Hormuz crisis",
+    "title": "How Keir Starmer will be replaced as UK PM and will anyone stand against Burnham?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3357890/china-defends-role-global-supply-chains-amid-strait-hormuz-crisis?utm_source=rss_feed",
-    "published_date": "2026-06-22T06:20:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3357982/how-keir-starmer-will-be-replaced-uk-pm-and-will-anyone-stand-against-burnham?utm_source=rss_feed",
+    "published_date": "2026-06-22T23:43:35Z",
+    "category": "Local Events"
   },
   {
-    "title": "A technology changing how we see biological tissue",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-22/A-technology-changing-how-we-see-biological-tissue-1OaZbVIu2NG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-22T03:59:34Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China bans purchase from 46 US companies in government procurement",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-22/China-bans-purchase-from-46-US-companies-in-government-procurement-1Ob1QWLIqjK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-22T02:52:39Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar",
+    "title": "Former Gotti hitman-turned-New Jersey councillor has returned to crime, prosecutors allege",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/article/3357858/zhipu-ai-market-cap-tops-hk1-trillion-shares-glm-52-developer-soar?utm_source=rss_feed",
-    "published_date": "2026-06-22T02:32:00Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357981/former-gotti-hitman-turned-new-jersey-councillor-has-returned-crime-prosecutors-allege?utm_source=rss_feed",
+    "published_date": "2026-06-22T23:15:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What Hong Kong can learn from mainland cities’ 5-year plans",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357711/what-hong-kong-can-learn-mainland-cities-5-year-plans?utm_source=rss_feed",
+    "published_date": "2026-06-22T21:30:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Shooting in Montreal, Canada leaves 3 dead including suspect",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357976/shooting-montreal-canada-leaves-3-dead-including-suspect?utm_source=rss_feed",
+    "published_date": "2026-06-22T21:13:11Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "2 young children found dead in locked car during France heatwave",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3357973/2-young-children-found-dead-locked-car-during-france-heatwave?utm_source=rss_feed",
+    "published_date": "2026-06-22T20:15:38Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China signals openness to Colombia’s Trump-backed president-elect despite US tilt",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3357972/china-signals-openness-colombias-trump-backed-president-elect-despite-us-tilt?utm_source=rss_feed",
+    "published_date": "2026-06-22T18:52:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Clive Davis, towering music executive who reshaped American sound, dies at 94",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357969/clive-davis-towering-music-executive-who-reshaped-american-sound-dies-94?utm_source=rss_feed",
+    "published_date": "2026-06-22T17:24:44Z",
+    "category": "Local Events"
   },
   {
     "title": "Fatal shooting exposes ‘systemic failures’ in Philippine schools",
@@ -648,55 +697,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-06-22/This-summer-feels-so-pink--1ObpXh7diiQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
     "published_date": "2026-06-22T09:13:36Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese ride-hailing giants back Hong Kong plan to cap permits at 10,000",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3357919/mainland-ride-hailing-giants-back-hong-kong-plan-cap-permits-10000?utm_source=rss_feed",
-    "published_date": "2026-06-22T08:43:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Starmer announces resignation, making way for UK’s seventh prime minister in a decade",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3357918/starmer-resigns-making-way-seventh-uk-prime-minister-decade?utm_source=rss_feed",
-    "published_date": "2026-06-22T08:38:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singaporean man traumatised over ex-schoolmate’s AI photos of them as family",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3357916/singaporean-man-traumatised-over-ex-schoolmates-ai-photos-them-family?utm_source=rss_feed",
-    "published_date": "2026-06-22T08:36:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dragon Boat Festival in the village of Guangxi Autonomous Region",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-22/Dragon-Boat-Festival-in-the-village-of-Guangxi-Autonomous-Region--1ObqODGfqBq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-22T08:36:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Paddle-boarding through blue waters in China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-22/Paddle-boarding-through-blue-waters-in-China-1ObiafZTzkA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-22T08:33:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Horses gallop across Zhaosu's Karkant Grassland in Xinjiang",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-22/Horses-gallop-across-Zhaosu-s-Karkant-Grassland-in-Xinjiang-1Obony1FX3i/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-22T08:30:33Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "1 year in prison for gang member who forced 2 Thai women into prostitution in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357911/1-year-prison-gang-member-who-forced-2-thai-women-prostitution-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-06-22T08:30:07Z",
     "category": "Local Events"
   }
 ]
