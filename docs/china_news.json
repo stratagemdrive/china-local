@@ -1,5 +1,19 @@
 [
   {
+    "title": "Burkina Faso cuts diplomatic ties with ex-ruler France",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3358571/burkina-faso-cuts-diplomatic-ties-ex-ruler-france?utm_source=rss_feed",
+    "published_date": "2026-06-26T20:02:48Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Why the Trump-Xi relationship may be the weakest link in US-China ties",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3358566/why-trump-xi-relationship-may-be-weakest-link-us-china-ties?utm_source=rss_feed",
+    "published_date": "2026-06-26T16:36:14Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Europe wants a new Plaza Accord for China – seriously?",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/china-opinion/article/3358271/europe-wants-new-plaza-accord-china-seriously?utm_source=rss_feed",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese FM calls for early normalization of Hormuz shipping",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-25/Chinese-FM-calls-for-early-normalization-of-Hormuz-shipping-1OfOnGNO4sE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-06-25T00:34:53Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "UN investigation: Israel committed genocide targeting Gaza children",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-06-25/UN-investigation-Israel-committed-genocide-targeting-Gaza-children-1OfLBGnm3ny/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-06-24T23:21:11Z",
-    "category": "Diplomacy"
+    "title": "US strikes Iran after Trump says cargo ship attack violated ceasefire",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3358568/trump-says-iran-struck-ship-hormuz-calls-it-foolish-ceasefire-violation?utm_source=rss_feed",
+    "published_date": "2026-06-26T17:10:05Z",
+    "category": "Military"
   },
   {
     "title": "When geography is destiny, Gulf states must diversify their defence, expert says in Dalian",
@@ -270,13 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3358352/china-discovers-rare-coral-reef-blue-hole-disputed-scarborough-shoal?utm_source=rss_feed",
     "published_date": "2026-06-25T10:06:40Z",
-    "category": "Military"
-  },
-  {
-    "title": "Rare coral reef blue hole found in South China Sea",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-25/Rare-coral-reef-blue-hole-found-in-South-China-Sea-1OgiBYs7ZRK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-25T08:59:16Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,55 @@
     "category": "Energy"
   },
   {
+    "title": "Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed",
+    "published_date": "2026-06-27T00:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US billionaire Leon Black defends US$158 million paid to Epstein",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3358570/us-billionaire-leon-black-defends-us158-million-paid-epstein?utm_source=rss_feed",
+    "published_date": "2026-06-26T18:12:49Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump threatens 100% tariff on countries that impose digital services tax",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3358569/trump-threatens-100-tariff-countries-impose-digital-services-tax?utm_source=rss_feed",
+    "published_date": "2026-06-26T17:48:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Germany Christmas market attacker, a Saudi psychiatrist, sentenced to life",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3358564/germany-christmas-market-attacker-saudi-psychiatrist-sentenced-life?utm_source=rss_feed",
+    "published_date": "2026-06-26T15:19:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Why is no one chartering China’s first privately owned research vessel?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3358496/why-no-one-chartering-chinas-first-privately-owned-research-vessel?utm_source=rss_feed",
+    "published_date": "2026-06-26T14:00:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "‘Digital ID cards’: China moves to regulate AI agents with unified identity system",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/policy/article/3358559/digital-id-cards-china-moves-regulate-ai-agents-unified-identity-system?utm_source=rss_feed",
+    "published_date": "2026-06-26T13:45:17Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong civil service chief vows ‘attractive’ pay rise once economy improves",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3358557/hong-kong-civil-service-chief-vows-attractive-pay-rise-once-economy-improves?utm_source=rss_feed",
+    "published_date": "2026-06-26T13:28:32Z",
+    "category": "Economy"
+  },
+  {
     "title": "China Eastern buys 25 A330neo widebody jets as domestic interest rises in Airbus’ wings",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/article/3358540/china-eastern-buys-25-a330neo-widebody-jets-domestic-interest-rises-airbus-wings?utm_source=rss_feed",
@@ -511,53 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "Labour authorities probe case of worker fatally crushed by construction vehicle",
+    "title": "Malaysia has never had so many Chinese tourists. It wants more",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3358418/worker-dies-after-being-run-over-construction-vehicle-hong-kong-sports-ground?utm_source=rss_feed",
-    "published_date": "2026-06-26T02:35:16Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3358515/malaysia-has-never-had-so-many-chinese-tourists-it-wants-more?utm_source=rss_feed",
+    "published_date": "2026-06-27T00:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s award-winning 6G tech turns every wall and pipe into a sensor",
+    "title": "Bible passages to be required reading in Texas public schools",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3358282/chinas-award-winning-6g-tech-turns-every-wall-and-pipe-sensor?utm_source=rss_feed",
-    "published_date": "2026-06-26T01:00:18Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3358574/bible-passages-will-be-required-reading-texas-public-schools?utm_source=rss_feed",
+    "published_date": "2026-06-26T23:45:33Z",
+    "category": "Local Events"
   },
   {
-    "title": "IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom",
+    "title": "Young Americans feel more threatened by AI than young Chinese. Why?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3358365/ipo-connect-pitched-hong-kongs-next-move-boost-finance-hub-role-hurdles-loom?utm_source=rss_feed",
-    "published_date": "2026-06-25T23:00:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3358093/young-americans-feel-more-threatened-ai-young-chinese-why?utm_source=rss_feed",
+    "published_date": "2026-06-26T22:08:34Z",
+    "category": "Local Events"
   },
   {
-    "title": "HKEX pushes deeper into index business as AI reshapes Hong Kong market",
+    "title": "Is the US trying to sway Taiwan’s KMT by receiving its legislative speaker?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/markets/article/3358375/hkex-pushes-deeper-index-business-ai-reshapes-hong-kong-market?utm_source=rss_feed",
-    "published_date": "2026-06-25T22:00:18Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/politics/article/3358539/us-trying-sway-taiwans-kmt-receiving-its-legislative-speaker?utm_source=rss_feed",
+    "published_date": "2026-06-26T22:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "Is the US banning drones from China until it can make better ones itself?",
+    "title": "Former US national security adviser John Bolton pleads guilty to illegally keeping secret info",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3358331/us-banning-drones-china-until-it-can-make-better-ones-itself?utm_source=rss_feed",
-    "published_date": "2026-06-25T22:00:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3358563/former-us-national-security-adviser-john-bolton-pleads-guilty-illegally-having-top-secret-info?utm_source=rss_feed",
+    "published_date": "2026-06-26T15:01:28Z",
+    "category": "Local Events"
   },
   {
-    "title": "EU pitches Brazil a ‘more beneficial’ rare earths deal than US or China",
+    "title": "Education Bureau to deny pay rise to worker after SMS blunder over school places",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3358405/eu-pitches-brazil-more-beneficial-rare-earths-deal-us-or-china?utm_source=rss_feed",
-    "published_date": "2026-06-25T21:37:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3358560/education-bureau-deny-pay-rise-worker-after-sms-blunder-over-school-places?utm_source=rss_feed",
+    "published_date": "2026-06-26T14:10:24Z",
+    "category": "Local Events"
   },
   {
-    "title": "US hearing warns Chinese economic espionage now targets AI",
+    "title": "Venezuela earthquakes death toll rises to 920, other nations rush to help",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/article/3358403/us-hearing-warns-chinese-economic-espionage-now-targets-ai?utm_source=rss_feed",
-    "published_date": "2026-06-25T20:17:21Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3358556/venezuela-earthquakes-death-toll-rises-589-other-nations-rush-help?utm_source=rss_feed",
+    "published_date": "2026-06-26T13:21:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Small aircraft hits Beijing’s tallest skyscraper, prompting evacuations",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3358555/small-aircraft-hits-beijings-tallest-skyscraper-prompting-evacuations?utm_source=rss_feed",
+    "published_date": "2026-06-26T13:19:39Z",
+    "category": "Local Events"
   },
   {
     "title": "‘We love guns’: school shooting exposes reality of Philippine crisis",
@@ -641,62 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3358489/marital-duty-faith-drive-malaysian-women-give-sex-requests-survey?utm_source=rss_feed",
     "published_date": "2026-06-26T08:33:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singapore’s Lee Kuan Yew seen as cool guy amid Europe’s deadly heatwave",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3358486/europe-turns-singapore-keep-its-cool-during-deadly-heatwave?utm_source=rss_feed",
-    "published_date": "2026-06-26T08:29:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How is AI empowering healthcare in China?",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-26/How-is-AI-empowering-healthcare-in-China--1Oi2G9wgeWs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-06-26T08:22:01Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong reports 36% rise in FDI inflows so far this year, InvestHK data shows",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
-    "published_date": "2026-06-26T08:00:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "South Korean ex-first lady Kim Keon-hee gets 7 years in jail for bribery",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3358479/south-korean-ex-first-lady-kim-keon-hee-gets-7-years-jail-bribery?utm_source=rss_feed",
-    "published_date": "2026-06-26T07:55:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "A peek inside Xinjiang's International Grand Bazaar",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-26/A-peek-inside-Xinjiang-s-International-Grand-Bazaar-1Oi0rJY3UhW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-26T07:21:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong beautician pleads guilty to luring 2 women into Myanmar scam factory",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358458/hong-kong-beautician-pleads-guilty-luring-2-women-myanmar-scam-factory?utm_source=rss_feed",
-    "published_date": "2026-06-26T07:19:56Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Tracing the Vision: Listening to the Grassroots",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-26/Tracing-the-Vision-Listening-to-the-Grassroots-1OgoWTieHy8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-26T07:02:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "All you need to know before you see a respiratory doctor",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-06-26/All-you-need-to-know-before-you-see-a-respiratory-doctor-1OhOJbFagHS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-06-26T06:59:39Z",
     "category": "Local Events"
   }
 ]
