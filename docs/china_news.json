@@ -1,5 +1,12 @@
 [
   {
+    "title": "Formal China-US G2 framework key to ‘guarantee’ world peace: top Beijing adviser",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360235/formal-china-us-g2-framework-key-guarantee-world-peace-top-beijing-adviser?utm_source=rss_feed",
+    "published_date": "2026-07-11T14:30:05Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China-India diplomats are shaking hands, but it’s no holds barred for web users. Why?",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3359996/china-india-diplomats-are-shaking-hands-its-no-holds-barred-web-users-why?utm_source=rss_feed",
@@ -133,11 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Premier of DPRK cabinet arrives in Beijing for official visit",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-10/Premier-of-DPRK-Cabinet-arrives-in-Beijing-for-official-visit-1OEYoHvMaME/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-10T03:22:56Z",
-    "category": "Diplomacy"
+    "title": "Iran declares Strait of Hormuz closed, US launches new strikes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360254/iran-declares-strait-hormuz-closed-us-launches-new-strikes?utm_source=rss_feed",
+    "published_date": "2026-07-12T00:00:22Z",
+    "category": "Military"
+  },
+  {
+    "title": "Trump subpoenas journalists over Qatari Air Force One reporting",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360237/trump-subpoenas-journalists-over-qatari-air-force-one-reporting?utm_source=rss_feed",
+    "published_date": "2026-07-11T13:20:02Z",
+    "category": "Military"
   },
   {
     "title": "Ukraine presses allies for resupply as Russia launches ballistic missiles",
@@ -263,20 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-07-10/Nagasaki-urges-Japanese-govt-to-uphold-non-nuclear-principles-1OEIGqqyYhy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-07-10T00:43:12Z",
-    "category": "Military"
-  },
-  {
-    "title": "Philippines looks to space for bird’s-eye view of South China Sea threats",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3360007/philippines-looks-space-birds-eye-view-south-china-sea-threats?utm_source=rss_feed",
-    "published_date": "2026-07-10T00:00:24Z",
-    "category": "Military"
-  },
-  {
-    "title": "China unveils high-power microwave weapon arsenal with up to 100 gigawatts of power",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3360000/100-gigawatts-china-unveils-its-high-power-microwave-weapon-arsenal?utm_source=rss_feed",
-    "published_date": "2026-07-09T14:00:05Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "Reading the Sino-US rivalry: how a quiet literary relationship has shaped views on China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360151/reading-sino-us-rivalry-how-quiet-literary-relationship-has-shaped-views-china?utm_source=rss_feed",
+    "published_date": "2026-07-11T22:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US Democrat Ro Khanna ‘detained’ by Israeli settlers during West Bank visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360247/us-democrat-ro-khanna-detained-israeli-settlers-during-west-bank-visit?utm_source=rss_feed",
+    "published_date": "2026-07-11T15:12:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Student of the Year Awards: 40 pupils lauded as organiser reveals expansion plan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3360233/student-year-awards-40-pupils-lauded-organiser-reveals-expansion-plan?utm_source=rss_feed",
+    "published_date": "2026-07-11T12:35:09Z",
+    "category": "Economy"
+  },
+  {
     "title": "New Zealand-India trade, defence pact celebrated despite criticism",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/australasia/article/3360224/new-zealand-india-trade-defence-pact-celebrated-despite-criticism?utm_source=rss_feed",
@@ -539,25 +560,88 @@
     "category": "Economy"
   },
   {
-    "title": "China to head off AI-fuelled inequality by lifting salaries, narrowing pay gap",
+    "title": "In Malaysia, BN’s Johor ‘blue wave’ leaves Anwar’s PH facing hard questions",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3360145/china-head-ai-fuelled-inequality-lifting-salaries-narrowing-pay-gap?utm_source=rss_feed",
-    "published_date": "2026-07-10T13:00:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3360250/malaysia-bns-johor-blue-wave-leaves-anwars-ph-facing-hard-questions?utm_source=rss_feed",
+    "published_date": "2026-07-12T00:00:22Z",
+    "category": "Local Events"
   },
   {
-    "title": "The next frontier of AI: how ‘world models’ are simulating reality and virtual spaces",
+    "title": "Trump’s crypto windfall showcases his ability to turn loyalty into power",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3360115/next-frontier-ai-how-world-models-are-simulating-reality-and-virtual-spaces?utm_source=rss_feed",
-    "published_date": "2026-07-10T12:30:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3359796/trumps-crypto-windfall-showcases-his-ability-turn-loyalty-power?utm_source=rss_feed",
+    "published_date": "2026-07-11T21:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "Friend sues ex-plastic surgeon for HK$12m over loans tied to manslaughter case",
+    "title": "Taylor Swift paid US$160,000 police bill for her wedding, New York mayor says",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360166/friend-sues-ex-plastic-surgeon-hk12m-over-loans-tied-manslaughter-case?utm_source=rss_feed",
-    "published_date": "2026-07-10T11:43:41Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360252/taylor-swift-foot-us160000-police-bill-her-wedding-new-york-mayor-says?utm_source=rss_feed",
+    "published_date": "2026-07-11T20:04:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Assassinations unleashed under Trump haunt Iran war endgame",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360251/assassinations-unleashed-under-trump-haunt-iran-war-endgame?utm_source=rss_feed",
+    "published_date": "2026-07-11T19:38:14Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Runner gored in the face at Spain’s San Fermin bull run festival",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3360249/runner-gored-face-spains-san-fermin-bull-run-festival?utm_source=rss_feed",
+    "published_date": "2026-07-11T17:18:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Student of the Year Awards: past winners gather to celebrate decades of excellence",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3360242/student-year-awards-past-winners-gather-celebrate-decades-excellence?utm_source=rss_feed",
+    "published_date": "2026-07-11T14:18:49Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Vietnam tourist speedboat capsizes, killing 15 Indian tourists",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3360241/vietnam-tourist-speedboat-capsizes-killing-15-indian-tourists?utm_source=rss_feed",
+    "published_date": "2026-07-11T14:10:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Observatoly’ street sign error prompts Highways Department to review checks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3360240/observatoly-street-sign-error-prompts-highways-department-review-checks?utm_source=rss_feed",
+    "published_date": "2026-07-11T14:06:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What happened before Chinese semiconductor scientist Wang Danhao took his life in the US?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3360236/what-happened-chinese-semiconductor-scientist-wang-danhao-took-his-life-us?utm_source=rss_feed",
+    "published_date": "2026-07-11T14:00:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China’s Long March-10B rocket feat lights up social media: is SpaceX set to lose crown?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3360231/chinas-long-march-10b-rocket-feat-lights-social-media-spacex-set-lose-crown?utm_source=rss_feed",
+    "published_date": "2026-07-11T13:00:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "In China, parents turn to AI to help children select a university degree",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3360144/china-parents-turn-ai-help-children-select-university-degree?utm_source=rss_feed",
+    "published_date": "2026-07-11T13:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Chinese team’s wearable dopamine patch could be used to track depression, Parkinson’s",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3360202/chinese-teams-wearable-dopamine-patch-could-be-used-track-depression-parkinsons?utm_source=rss_feed",
+    "published_date": "2026-07-11T12:00:13Z",
+    "category": "Local Events"
   },
   {
     "title": "UK VAT on private schools triggers record decline in Hong Kong students",
@@ -613,90 +697,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-07-11/Building-a-house-Just-open-the-box-1OFwySHJiZG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
     "published_date": "2026-07-11T07:13:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong could adjust tunnel tolls as traffic surpasses pre-reform peak",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3360210/hong-kong-may-adjust-tunnel-tolls-traffic-surpasses-pre-reform-peak?utm_source=rss_feed",
-    "published_date": "2026-07-11T06:41:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Cambodian villagers fear US$43 million tiger reintroduction plan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3359794/cambodian-villagers-fear-us43-million-tiger-reintroduction-plan?utm_source=rss_feed",
-    "published_date": "2026-07-11T05:30:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "No public subsidies needed for Pak Shek Kok MTR station: Hong Kong minister",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3360207/no-public-subsidies-needed-pak-shek-kok-mtr-station-hong-kong-minister?utm_source=rss_feed",
-    "published_date": "2026-07-11T05:16:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "At Indonesia’s sharia frontier, 21 lashes for a TikTok kiss ‘is our right’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3360159/indonesias-sharia-frontier-21-lashes-tiktok-kiss-our-right?utm_source=rss_feed",
-    "published_date": "2026-07-11T04:00:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump says missiles ‘locked, loaded and aimed at Iran’ amid calls for his killing",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360203/trump-says-missiles-locked-loaded-and-aimed-iran-amid-calls-his-killing?utm_source=rss_feed",
-    "published_date": "2026-07-11T03:51:54Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Bavi: Shanghai raises alert level as nearby cities start evacuating residents",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3360201/typhoon-bavi-flights-and-trains-cancelled-china-steps-emergency-preparations?utm_source=rss_feed",
-    "published_date": "2026-07-11T02:39:36Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China's top legislator meets Namibian president, DPRK premier",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-11/China-s-top-legislator-meets-Namibian-president-DPRK-premier-1OGqLSRcp2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-11T01:02:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China's top legislator meets Namibian president, DPRK premier",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-11/China-s-top-legislator-meets-Namibian-president-DPRK-premier-1OGqLSRcp2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-11T01:02:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Filipino workers in Hong Kong allegedly recruited as surrogates for overseas couples",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3360188/filipino-workers-hong-kong-recruited-surrogates-central-asian-couples?utm_source=rss_feed",
-    "published_date": "2026-07-11T01:00:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Johor election: polls close as Malaysian state begins vote counting",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3360186/malaysias-johor-votes-government-allies-turn-each-other?utm_source=rss_feed",
-    "published_date": "2026-07-11T01:00:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China woman graduates from Tsinghua University 17 years after childhood photo there with dad",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3360174/china-woman-graduates-tsinghua-university-17-years-after-childhood-photo-there-dad?utm_source=rss_feed",
-    "published_date": "2026-07-11T01:00:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "As Typhoon Bavi nears, Chinese bloggers warned amateur AI forecasts may be illegal",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3360171/typhoon-bavi-nears-chinese-bloggers-warned-amateur-ai-forecasts-may-be-illegal?utm_source=rss_feed",
-    "published_date": "2026-07-11T00:00:21Z",
     "category": "Local Events"
   }
 ]
