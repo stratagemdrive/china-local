@@ -1,5 +1,12 @@
 [
   {
+    "title": "Aung San Suu Kyi will be looked after, Myanmar envoy tells Asean",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3360286/aung-san-suu-kyi-will-be-looked-after-myanmar-envoy-tells-asean?utm_source=rss_feed",
+    "published_date": "2026-07-12T12:39:00Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Beijing renews attacks on landmark South China Sea tribunal on ruling’s 10th anniversary",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3360275/beijing-renews-attacks-landmark-south-china-sea-tribunal-rulings-10th-anniversary?utm_source=rss_feed",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Kazakhstan's FM to visit China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-10/Kazakhstan-s-FM-to-visit-China-1OFk09R8652/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-10T08:52:45Z",
-    "category": "Diplomacy"
+    "title": "US military says it has launched more strikes against Iran",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360303/us-military-says-it-has-launched-more-strikes-against-iran?utm_source=rss_feed",
+    "published_date": "2026-07-12T23:48:21Z",
+    "category": "Military"
+  },
+  {
+    "title": "Wu Shicun on why Beijing will not rule out Scarborough Shoal construction",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360243/wu-shicun-why-beijing-will-not-rule-out-scarborough-shoal-construction?utm_source=rss_feed",
+    "published_date": "2026-07-12T22:00:07Z",
+    "category": "Military"
+  },
+  {
+    "title": "What does China’s J-16 fighter jet in ‘beast mode’ mean for PLA Air Force patrols?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3360170/what-does-chinas-j-16-fighter-jet-beast-mode-mean-pla-air-force-patrols?utm_source=rss_feed",
+    "published_date": "2026-07-12T14:00:07Z",
+    "category": "Military"
   },
   {
     "title": "Nasa knows how to deflect an asteroid. Can Japan’s Hayabusa2 pull it off?",
@@ -256,27 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3360135/south-china-sea-expert-wu-shicun-beijings-red-lines?utm_source=rss_feed",
     "published_date": "2026-07-10T22:01:05Z",
-    "category": "Military"
-  },
-  {
-    "title": "Security questions swirl over Trump’s new plane given to him by Qatar",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360195/scare-force-one-security-questions-swirl-over-trumps-new-plane?utm_source=rss_feed",
-    "published_date": "2026-07-10T20:37:51Z",
-    "category": "Military"
-  },
-  {
-    "title": "China reiterates South China Sea arbitration 'award' is illegal",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-10/China-reiterates-South-China-Sea-arbitration-award-is-illegal-1OFDqAWMhxu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-10T13:51:21Z",
-    "category": "Military"
-  },
-  {
-    "title": "China reiterates South China Sea arbitration 'award' is illegal",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-10/China-reiterates-South-China-Sea-arbitration-award-is-illegal-1OFDqAWMhxu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-10T13:51:21Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "UK deal to serve as testing ground for India’s Western trade ambitions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3360198/uk-deal-serve-testing-ground-indias-western-trade-ambitions?utm_source=rss_feed",
+    "published_date": "2026-07-13T00:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Ukraine’s prime minister steps down as Zelensky announces government reshuffle",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3360297/ukraines-prime-minister-steps-down-zelensky-announces-government-reshuffle?utm_source=rss_feed",
+    "published_date": "2026-07-12T16:46:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "For a China on the rise, soft power is vital",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3360029/china-rise-soft-power-vital?utm_source=rss_feed",
+    "published_date": "2026-07-12T12:30:06Z",
+    "category": "Economy"
+  },
+  {
     "title": "Chinese state-owned firms set up semiconductor funds amid calls for ‘patient’ capital",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/article/3360269/chinese-state-owned-firms-set-semiconductor-funds-amid-calls-patient-capital?utm_source=rss_feed",
@@ -539,25 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "Volkswagen China deliveries see 26% drop year on year to lowest point since 2010",
+    "title": "McConnell breaks silence on his health, says a fall led to hospitalisation",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/china-business/article/3360214/volkswagen-china-deliveries-see-26-drop-year-year-lowest-point-2010?utm_source=rss_feed",
-    "published_date": "2026-07-11T08:32:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360304/mcconnell-breaks-silence-his-health-says-fall-led-hospitalisation?utm_source=rss_feed",
+    "published_date": "2026-07-12T23:14:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "Don’t expect the rising tide of AI to lift all boats",
+    "title": "Hong Kong developers ready new home launches amid forecasts of muted price increases",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/world-opinion/article/3360068/dont-expect-rising-tide-ai-lift-all-boats?utm_source=rss_feed",
-    "published_date": "2026-07-11T08:30:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/business/article/3360152/hong-kong-developers-ready-new-home-launches-amid-forecasts-muted-price-increases?utm_source=rss_feed",
+    "published_date": "2026-07-12T23:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese student sets up a will bequeathing US$2.9 million estate to childhood friend",
+    "title": "How Hong Kong can draw line under the 2019-20 protests and move forward",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3360176/chinese-student-sets-will-bequeathing-us29-million-estate-childhood-friend?utm_source=rss_feed",
-    "published_date": "2026-07-11T08:00:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3359958/how-hong-kong-can-draw-line-under-2019-20-protests-and-move-forward?utm_source=rss_feed",
+    "published_date": "2026-07-12T21:30:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "German man charged with kidnapping after supermarket hostage incident in Berlin",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3360302/german-man-charged-kidnapping-after-supermarket-hostage-incident-berlin?utm_source=rss_feed",
+    "published_date": "2026-07-12T20:44:17Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "At least 27 dead, 22 critically injured after fire breaks out at Bangkok pub",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3360301/least-27-dead-after-fire-breaks-out-bangkok-pub?utm_source=rss_feed",
+    "published_date": "2026-07-12T20:01:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Parts of UK at ‘exceptional’ risk of wildfires as heatwave goes on",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3360299/parts-uk-exceptional-risk-wildfires-heatwave-goes?utm_source=rss_feed",
+    "published_date": "2026-07-12T19:19:39Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "2 dead in shooting at Toronto music festival, police searching for suspects",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360298/2-dead-shooting-toronto-music-festival-police-searching-suspects?utm_source=rss_feed",
+    "published_date": "2026-07-12T17:24:10Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Israel to hold parliamentary elections on October 27 as Netanyahu seeks another term",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360296/israel-hold-parliamentary-elections-october-27-netanyahu-seeks-another-term?utm_source=rss_feed",
+    "published_date": "2026-07-12T16:22:11Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Israeli gunfire in Gaza refugee camp kills 6, including 9-year-old girl",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360294/israeli-gunfire-gaza-refugee-camp-kills-6-including-9-year-old-girl?utm_source=rss_feed",
+    "published_date": "2026-07-12T15:36:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "First session of Syria’s parliament convenes after Assad’s ousting",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3360289/first-session-syrias-parliament-convenes-after-assads-ousting?utm_source=rss_feed",
+    "published_date": "2026-07-12T13:37:44Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong’s dog-friendly licence scheme triggers fierce online debate",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3360288/hong-kongs-dog-friendly-licence-scheme-triggers-fierce-online-debate?utm_source=rss_feed",
+    "published_date": "2026-07-12T12:49:52Z",
+    "category": "Local Events"
   },
   {
     "title": "How can Hong Kong age well?",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360276/why-some-hongkongers-take-6-hour-train-ride-zhangjiajie-holiday?utm_source=rss_feed",
     "published_date": "2026-07-12T08:42:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong probes civil service negligence in 15-year delay over baby blunder case",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3360273/hong-kong-probes-civil-service-negligence-15-year-delay-over-baby-blunder-case?utm_source=rss_feed",
-    "published_date": "2026-07-12T08:19:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singer Leehom Wang gets 39 stitches after stage cable trip in China, sparking safety concerns",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3360256/singer-leehom-wang-gets-39-stitches-after-stage-cable-trip-china-sparking-safety-concerns?utm_source=rss_feed",
-    "published_date": "2026-07-12T08:00:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "No fear, just downhill",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-12/No-fear-just-downhill-1OIvb3GBLgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-12T07:36:57Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong police arrest 9 in crackdown on dangerous driving",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360271/hong-kong-police-arrest-9-crackdown-dangerous-driving?utm_source=rss_feed",
-    "published_date": "2026-07-12T07:36:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "What's really holding back China-Philippines ties?",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-12/What-s-really-holding-back-China-Philippines-ties--1OIwi17nj7G/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-12T07:25:44Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US senator and Trump ally Lindsey Graham dies after sudden illness",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3360267/us-senator-and-trump-ally-lindsey-graham-dies-after-sudden-illness?utm_source=rss_feed",
-    "published_date": "2026-07-12T06:55:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Facing Typhoon Bavi: Emergency relief continue as health risks emerge",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-12/Facing-Typhoon-Bavi-Emergency-relief-continue-as-health-risks-emerge--1OIpugSAwSI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-12T06:29:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Fifa World Cup: Hong Kong pubs, restaurants enjoy net gains from big matches",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360266/world-cup-2026-hong-kong-pubs-restaurants-enjoy-net-gains-big-matches?utm_source=rss_feed",
-    "published_date": "2026-07-12T06:24:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China Weekly News Quiz: July 6-12, 2026",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-12/China-Weekly-News-Quiz-July-6-12-2026-1OImJWCVfqw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-12T06:04:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Bavi slams into east China's Zhejiang coast",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-12/Typhoon-Bavi-slams-into-east-China-s-Zhejiang-coast-1OIo7x3lBSM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-12T05:17:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ageing in Hong Kong – should you fear it?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/article/3357058/ageing-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-07-12T04:15:05Z",
     "category": "Local Events"
   }
 ]
