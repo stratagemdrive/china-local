@@ -1,5 +1,19 @@
 [
   {
+    "title": "China blasts ‘unfounded smears’ as Trump’s election claims threaten diplomatic thaw",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360994/china-blasts-unfounded-smears-trumps-election-claims-threaten-diplomatic-thaw?utm_source=rss_feed",
+    "published_date": "2026-07-17T14:00:09Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "To tackle the climate crisis, start small, think big and act at scale",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3360812/tackle-climate-crisis-start-small-think-big-and-act-scale?utm_source=rss_feed",
+    "published_date": "2026-07-17T12:30:05Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "A new chapter in global AI governance: Cooperation beyond divides",
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-07-17/A-new-chapter-in-global-AI-governance-Cooperation-beyond-divides-1OQT8QGNCU0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "China says it opposes unilateral sanctions with no basis in intl. law",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-15/China-says-it-opposes-unilateral-sanctions-with-no-basis-in-intl-law-1ONS4zWBoze/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-15T12:22:56Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "GDI Group of Friends reaffirms UN's role in development cooperation",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-15/GDI-Group-of-Friends-reaffirms-UN-s-role-in-development-cooperation-1ONJvLtSTg4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-15T11:03:40Z",
-    "category": "Diplomacy"
+    "title": "China’s missile test from a submarine is no guarantee of regional stability",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3360612/chinas-missile-test-submarine-no-guarantee-regional-stability?utm_source=rss_feed",
+    "published_date": "2026-07-17T21:30:05Z",
+    "category": "Military"
   },
   {
     "title": "Russian activist arrested a day after predicting Putin will end up in handcuffs",
@@ -273,11 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "14-nation South China Sea statement is an expansionist overreach",
+    "title": "US and Iran attack infrastructure, raising fears of escalation",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3360419/14-nation-south-china-sea-statement-expansionist-overreach?utm_source=rss_feed",
-    "published_date": "2026-07-15T21:30:06Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3361019/us-and-iran-attack-infrastructure-raising-fears-escalation?utm_source=rss_feed",
+    "published_date": "2026-07-17T19:40:22Z",
+    "category": "Energy"
   },
   {
     "title": "US confronts floods, heatwaves, smoky skies all at once amid Trump aid cuts",
@@ -406,11 +413,32 @@
     "category": "Energy"
   },
   {
-    "title": "Climate early action initiative for Horn of Africa unveiled",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-07-10/Climate-early-action-initiative-for-Horn-of-Africa-unveiled-1OFlgz0BlWE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-10T14:56:03Z",
-    "category": "Energy"
+    "title": "Trump Media pitched US$100,000 fee for fastest feed of US president’s posts, sources say",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361022/trump-media-pitched-us100000-fee-fastest-feed-us-presidents-posts-sources-say?utm_source=rss_feed",
+    "published_date": "2026-07-17T22:50:49Z",
+    "category": "Economy"
+  },
+  {
+    "title": "‘Made in EU’: How Europe plans to use China’s tech to pull level with its EV rival by 2028",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3356569/made-eu-how-europe-plans-use-chinas-tech-pull-level-its-ev-rival-2028?utm_source=rss_feed",
+    "published_date": "2026-07-17T22:00:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US lets Hong Kong emergency expire but keeps preferential treatment restrictions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3361011/hong-kong-welcomes-us-move-let-national-emergency-declaration-expire?utm_source=rss_feed",
+    "published_date": "2026-07-17T15:20:52Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Negeri Sembilan snap poll threatens to chip away at Malaysian state’s tech hub goals",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3361005/negeri-sembilan-snap-poll-threatens-chip-away-malaysian-states-tech-hub-goals?utm_source=rss_feed",
+    "published_date": "2026-07-17T14:03:59Z",
+    "category": "Economy"
   },
   {
     "title": "Cathay Pacific delays Middle East flights as US and Iran trade attacks",
@@ -525,32 +553,74 @@
     "category": "Economy"
   },
   {
-    "title": "Singaporean arrested for allegedly strangling Indonesian girlfriend in Bali",
+    "title": "Asian-American groups fear Trump’s escalating rhetoric will fuel prejudice, racism in US",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3360876/singaporean-arrested-allegedly-strangling-indonesian-girlfriend-bali?utm_source=rss_feed",
-    "published_date": "2026-07-17T04:15:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3361023/asian-american-groups-fear-trumps-escalating-rhetoric-will-fuel-prejudice-racism-us?utm_source=rss_feed",
+    "published_date": "2026-07-17T23:14:26Z",
+    "category": "Local Events"
   },
   {
-    "title": "Committee pushes reforms, thanks Wang Fuk Court residents as hearing ends – as it happened",
+    "title": "Trump envoy met with protests in Venice as he arrives on superyacht",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360862/we-hope-offer-answers-committee-counsel-tells-tai-po-fire-inquiry?utm_source=rss_feed",
-    "published_date": "2026-07-17T02:23:54Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3361021/trump-envoy-met-protests-venice-he-arrives-superyacht?utm_source=rss_feed",
+    "published_date": "2026-07-17T21:26:22Z",
+    "category": "Local Events"
   },
   {
-    "title": "Xi Jinping calls for ‘openness’, opposes ‘one country’ rule in AI – as it happened",
+    "title": "Trump blames Canada for wildfire smoke, says he’ll add cost to tariffs",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3360858/chinas-xi-jinping-addresses-world-ai-conference-us-tech-rivalry-heats?utm_source=rss_feed",
-    "published_date": "2026-07-17T02:01:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361020/trump-blames-canada-wildfire-smoke-says-hell-add-cost-tariffs?utm_source=rss_feed",
+    "published_date": "2026-07-17T20:46:56Z",
+    "category": "Local Events"
   },
   {
-    "title": "Is Hong Kong kicking the can down the road with ride-hailing quota?",
+    "title": "Many allegations, little evidence: unpacking the China election-interference records",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3360841/hong-kong-kicking-can-down-road-ride-hailing-quota?utm_source=rss_feed",
-    "published_date": "2026-07-17T00:30:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3361018/many-allegations-little-evidence-unpacking-china-election-interference-records?utm_source=rss_feed",
+    "published_date": "2026-07-17T19:31:27Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Strong quake off Mexican coast rattles Guatemala and El Salvador",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3361017/strong-quake-mexican-coast-rattles-guatemala-and-el-salvador?utm_source=rss_feed",
+    "published_date": "2026-07-17T18:37:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tai Po fire: corrupt players exploited loopholes in regulations, inquiry hears",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3361010/tai-po-fire-corrupt-players-exploited-loopholes-regulations-inquiry-hears?utm_source=rss_feed",
+    "published_date": "2026-07-17T15:06:18Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tai Po fire inquiry legal team calls for bamboo scaffolding to be phased out",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3361000/tai-po-fire-inquiry-panel-calls-bamboo-scaffolding-be-phased-out?utm_source=rss_feed",
+    "published_date": "2026-07-17T14:41:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "J.K. Rowling condemns Amnesty for branding her women’s crisis centre anti-rights",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3361007/jk-rowling-condemns-amnesty-branding-her-womens-crisis-centre-anti-rights?utm_source=rss_feed",
+    "published_date": "2026-07-17T14:31:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK’s next prime minister Andy Burnham vows to ‘give hope back’ to Britons",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3361003/uks-next-prime-minister-andy-burnham-vows-give-hope-back-britons?utm_source=rss_feed",
+    "published_date": "2026-07-17T13:52:43Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China hints at retaliation after US tightens visa rules for students and journalists",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360996/china-hints-retaliation-after-us-tightens-visa-rules-students-and-journalists?utm_source=rss_feed",
+    "published_date": "2026-07-17T13:01:13Z",
+    "category": "Local Events"
   },
   {
     "title": "Chemical tanker seized off Yemen coast in suspected Somali pirate hijack",
@@ -620,76 +690,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3360951/philippines-plan-fortify-coastal-defences-deterrence-or-target?utm_source=rss_feed",
     "published_date": "2026-07-17T09:25:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Mini Kabul’ falls silent as Pakistan targets undocumented Afghans in border province",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3360949/mini-kabul-falls-silent-pakistan-targets-undocumented-afghans-border-province?utm_source=rss_feed",
-    "published_date": "2026-07-17T09:15:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China dismisses Trump's election interference claim as groundless",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-17/China-dismisses-Trump-s-election-interference-claim-as-groundless-1OQWTSuWpjO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-17T08:57:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Agentic AI: the next battleground for Chinese brands",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands?utm_source=rss_feed",
-    "published_date": "2026-07-17T08:30:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rescuers in southwest China race against time to reach residents trapped by landslide",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3360928/rescuers-southwest-china-race-extreme-weather-reach-residents-trapped-landslide?utm_source=rss_feed",
-    "published_date": "2026-07-17T08:00:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "AI conference opens in Shanghai with over 300 global product debuts",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-17/AI-conference-opens-in-Shanghai-with-over-300-global-product-debuts-1OQQf08iaqs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-17T07:51:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong passes bill for Huanggang ‘co-location’ arrangement",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3360923/hong-kong-passes-bill-huanggang-co-location-arrangement?utm_source=rss_feed",
-    "published_date": "2026-07-17T07:43:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beyond bigger models: What WAIC 2026 reveals about AI's next chapter",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-17/Beyond-bigger-models-What-WAIC-2026-reveals-about-AI-s-next-chapter-1OQOdVTqqsg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-17T07:33:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Xi Jinping warns against creating ‘new historical injustices’ in AI era",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3360920/chinese-president-xi-jinping-warns-against-creating-new-historical-injustices-ai-era?utm_source=rss_feed",
-    "published_date": "2026-07-17T07:25:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beyond the box office: How moviegoers reshape China's film industry",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-17/Beyond-the-box-office-How-moviegoers-reshape-China-s-film-industry-1OQOUDnfOO4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-17T06:52:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump’s China election-interference claims spark scapegoat fears among Asian-Americans",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3360909/trumps-china-election-interference-claims-spark-scapegoat-fears-among-asian-americans?utm_source=rss_feed",
-    "published_date": "2026-07-17T06:18:36Z",
     "category": "Local Events"
   }
 ]
