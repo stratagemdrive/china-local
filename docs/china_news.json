@@ -140,6 +140,20 @@
     "category": "Diplomacy"
   },
   {
+    "title": "2 US troops dead, 1 missing after Iran attacks base in Jordan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3361068/2-us-troops-dead-1-missing-after-iran-attacks-base-jordan?utm_source=rss_feed",
+    "published_date": "2026-07-18T18:01:11Z",
+    "category": "Military"
+  },
+  {
+    "title": "Canada to evacuate Ontario community as wildfire smoke chokes US",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361064/canada-evacuate-ontario-community-wildfire-smoke-chokes-us?utm_source=rss_feed",
+    "published_date": "2026-07-18T15:05:11Z",
+    "category": "Military"
+  },
+  {
     "title": "Call to merge housing checking unit with Buildings Department after Tai Po fire",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3361053/call-merge-housing-checking-unit-buildings-department-after-tai-po-fire?utm_source=rss_feed",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/us/article/3360846/beijing-denounces-us-chip-curbs-threat-global-supply-chains?utm_source=rss_feed",
     "published_date": "2026-07-16T19:21:51Z",
-    "category": "Military"
-  },
-  {
-    "title": "Kuwait, Bahrain say air defenses intercept new Iranian drone attacks",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-16/Kuwait-Bahrain-say-air-defenses-intercept-new-Iranian-drone-attacks-1OPBOVLoRyw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-16T14:16:27Z",
-    "category": "Military"
-  },
-  {
-    "title": "Philippine military assures ‘no vacuum’ over top officer’s retirement",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3360838/philippine-military-assures-no-vacuum-over-top-officers-retirement?utm_source=rss_feed",
-    "published_date": "2026-07-16T13:50:45Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,41 @@
     "category": "Energy"
   },
   {
+    "title": "Leon Black told Epstein panel he paid US$21 million to woman to keep affair secret",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361069/leon-black-told-epstein-panel-he-paid-us21-million-woman-keep-affair-secret?utm_source=rss_feed",
+    "published_date": "2026-07-18T19:32:47Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Final report of Tai Po fire inquiry panel delayed to late October: source",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3361060/tai-po-fire-inquiry-panel-delay-submitting-final-report-late-october-source?utm_source=rss_feed",
+    "published_date": "2026-07-18T14:29:00Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Why data may become China’s most durable advantage in the AI race",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3361050/why-data-may-become-chinas-most-durable-advantage-ai-race?utm_source=rss_feed",
+    "published_date": "2026-07-18T14:00:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Chinese social media accounts ‘profit from leaking official corruption scandals’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3361056/chinese-social-media-accounts-profit-leaking-official-corruption-scandals?utm_source=rss_feed",
+    "published_date": "2026-07-18T13:04:42Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Weather weapons: why the atmosphere could become the next geopolitical battleground",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3360967/weather-weapons-why-atmosphere-could-become-next-geopolitical-battleground?utm_source=rss_feed",
+    "published_date": "2026-07-18T12:00:06Z",
+    "category": "Economy"
+  },
+  {
     "title": "Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project",
     "source": "SCMP",
     "url": "https://www.scmp.com/business/article/3361052/hong-kong-homebuyers-snap-138-garden-regency-flats-new-territories-project?utm_source=rss_feed",
@@ -525,39 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "Sun Fanglin, Chinese scientist who paved the way for new cancer drugs, dies aged 58",
+    "title": "Influencers Andrew and Tristan Tate arrested in Miami",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3360937/sun-fanglin-chinese-scientist-who-paved-way-new-cancer-drugs-dies-aged-58?utm_source=rss_feed",
-    "published_date": "2026-07-18T01:00:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361072/influencers-andrew-and-tristan-tate-arrested-miami?utm_source=rss_feed",
+    "published_date": "2026-07-18T23:42:28Z",
+    "category": "Local Events"
   },
   {
-    "title": "Trump Media pitched US$100,000 fee for fastest feed of US president’s posts, sources say",
+    "title": "Cuban dissident artist Otero Alcantara lands in US exile",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361022/trump-media-pitched-us100000-fee-fastest-feed-us-presidents-posts-sources-say?utm_source=rss_feed",
-    "published_date": "2026-07-17T22:50:49Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3361070/cuban-dissident-artist-otero-alcantara-lands-us-exile?utm_source=rss_feed",
+    "published_date": "2026-07-18T23:18:23Z",
+    "category": "Local Events"
   },
   {
-    "title": "‘Made in EU’: How Europe plans to use China’s tech to pull level with its EV rival by 2028",
+    "title": "Did the Ukraine war spark China’s quiet ban on most civilian drone flights in cities?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3356569/made-eu-how-europe-plans-use-chinas-tech-pull-level-its-ev-rival-2028?utm_source=rss_feed",
-    "published_date": "2026-07-17T22:00:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/politics/article/3361035/did-ukraine-war-spark-chinas-quiet-ban-most-civilian-drone-flights-cities?utm_source=rss_feed",
+    "published_date": "2026-07-18T22:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "US lets Hong Kong emergency expire but keeps preferential treatment restrictions",
+    "title": "As the UK discusses an EU return, Hong Kong offers lessons",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/diplomacy/article/3361011/hong-kong-welcomes-us-move-let-national-emergency-declaration-expire?utm_source=rss_feed",
-    "published_date": "2026-07-17T15:20:52Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3360564/uk-discusses-eu-return-hong-kong-offers-lessons?utm_source=rss_feed",
+    "published_date": "2026-07-18T21:30:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "China welcomes US not extending Hong Kong-related national emergency",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-17/China-welcomes-US-not-extending-Hong-Kong-related-national-emergency-1ORmNOrf2jC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-17T15:05:28Z",
-    "category": "Economy"
+    "title": "Israeli rule change clears way for using crocodiles to deter prison breaks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3361067/israeli-rule-change-clears-way-using-crocodiles-deter-prison-breaks?utm_source=rss_feed",
+    "published_date": "2026-07-18T16:38:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China AI summit hears Global South needs equal access to avoid digital divide",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/policy/article/3361057/china-ai-summit-hears-global-south-needs-equal-access-avoid-digital-divide?utm_source=rss_feed",
+    "published_date": "2026-07-18T13:49:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Sonam Wangchuk hospitalised after 21-day hunger strike over exam leaks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3361055/sonam-wangchuk-hospitalised-after-21-day-hunger-strike-over-exam-leaks?utm_source=rss_feed",
+    "published_date": "2026-07-18T12:55:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "3 arrested after 131kg of ketamine disguised as sugar cubes found in air cargo",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361054/3-arrested-after-131kg-ketamine-declared-sugar-cubes-found-air-cargo?utm_source=rss_feed",
+    "published_date": "2026-07-18T11:56:08Z",
+    "category": "Local Events"
   },
   {
     "title": "‘Litany of failures’ blamed as Hong Kong’s Tai Po fire inquiry concludes",
@@ -641,62 +697,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-07-18/Xi-s-key-quotes-on-China-s-efforts-to-advance-global-AI-capacity-1OSjB3PmAo0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
     "published_date": "2026-07-18T06:10:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Where can Hong Kong’s DSE students turn if they don’t get into a public university?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3361034/where-can-hong-kongs-dse-students-turn-if-they-dont-get-public-university?utm_source=rss_feed",
-    "published_date": "2026-07-18T06:09:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump’s Chinese interference claims ‘reveal huge crisis facing American democracy’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3361031/trumps-chinese-interference-claims-reveal-huge-crisis-facing-american-democracy?utm_source=rss_feed",
-    "published_date": "2026-07-18T05:44:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Experts highlight China's role in advancing global AI governance",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-18/Experts-highlight-China-s-role-in-advancing-global-AI-governance-1OScKcIZIE8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-18T05:06:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How South Korean hypermarket chain’s fall reflects ‘time-poor’ consumer demands",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3361002/how-south-korean-hypermarket-chains-fall-reflects-time-poor-consumer-demands?utm_source=rss_feed",
-    "published_date": "2026-07-18T05:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Student-built robots battle it out in NE China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-18/Student-built-robots-battle-it-out-in-NE-China-1OS91zRIE4o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-18T04:59:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Yunnan Yukun fights back to earn first point against Shanghai Port",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-18/Yunnan-Yukun-fights-back-to-earn-first-point-against-Shanghai-Port-1OScz7uqdFK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-07-18T04:07:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese fossil find shows birds shed their dinosaur tails step by step",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3360777/chinese-fossil-find-shows-birds-shed-their-dinosaur-tails-step-step?utm_source=rss_feed",
-    "published_date": "2026-07-18T04:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "90% sign up for Wang Fuk Court buy-back amid concerns over rushed decisions",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3361028/90-sign-wang-fuk-court-buy-back-amid-concerns-over-rushed-decisions?utm_source=rss_feed",
-    "published_date": "2026-07-18T02:52:57Z",
     "category": "Local Events"
   }
 ]
