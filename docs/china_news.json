@@ -1,5 +1,12 @@
 [
   {
+    "title": "Netanyahu accuses NYC’s Mamdani of ‘fomenting hate’, calls ICC war-crimes charges ‘bogus’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361918/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-crimes-charges-bogus?utm_source=rss_feed",
+    "published_date": "2026-07-26T18:44:22Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Unesco adds ancient Japanese capitals Asuka, Fujiwara to World Heritage list",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/east-asia/article/3361872/unesco-adds-ancient-japanese-capitals-asuka-fujiwara-world-heritage-list?utm_source=rss_feed",
@@ -133,11 +140,32 @@
     "category": "Diplomacy"
   },
   {
-    "title": "US-Iran conflict enters prolonged struggle over Strait of Hormuz",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-24/US-Iran-conflict-enters-prolonged-struggle-over-Strait-of-Hormuz-1P2VFobLXKU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-24T14:39:57Z",
-    "category": "Diplomacy"
+    "title": "Pentagon’s Iran war death toll no longer lists 4 troops killed during renewed fighting",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361920/pentagons-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting?utm_source=rss_feed",
+    "published_date": "2026-07-26T20:39:27Z",
+    "category": "Military"
+  },
+  {
+    "title": "2 dead in Ukraine from Russian attacks; 4 killed in Russian-held area hit by Ukraine",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3361916/2-dead-ukraine-russian-attacks-4-killed-russian-held-area-hit-ukraine?utm_source=rss_feed",
+    "published_date": "2026-07-26T17:19:24Z",
+    "category": "Military"
+  },
+  {
+    "title": "Fake ICE raids and kidnapping drills: how Chinese teens prepare for US college",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3361878/fake-ice-raids-and-kidnapping-drills-how-chinese-teens-prepare-us-college?utm_source=rss_feed",
+    "published_date": "2026-07-26T13:00:07Z",
+    "category": "Military"
+  },
+  {
+    "title": "America’s North Korea strategy needs a dose of reality",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3361385/americas-north-korea-strategy-needs-dose-reality?utm_source=rss_feed",
+    "published_date": "2026-07-26T12:30:05Z",
+    "category": "Military"
   },
   {
     "title": "Search for survivors continues as 45 rescued after cargo ship sinks in South China Sea",
@@ -249,34 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-07-25/US-Iran-exchange-strikes-as-de-escalation-remains-uncertain-1P3NZaeqLba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-07-25T04:32:39Z",
-    "category": "Military"
-  },
-  {
-    "title": "Philippine fishing boat leaks oil in waters near China's Huangyan Dao",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-25/Philippine-fishing-boat-leaks-oil-in-waters-near-China-s-Huangyan-Dao-1P3HWyj9FsI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-25T02:00:19Z",
-    "category": "Military"
-  },
-  {
-    "title": "Saudi strikes Houthi sites in Yemen as conflict flares",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3361814/saudi-strikes-houthi-sites-yemen-conflict-flares?utm_source=rss_feed",
-    "published_date": "2026-07-24T23:05:02Z",
-    "category": "Military"
-  },
-  {
-    "title": "Nvidia, Palantir, Meta warn against ‘premature restrictions’ of open-weight models",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/diplomacy/article/3361813/nvidia-palantir-meta-warn-against-premature-restrictions-open-weight-models?utm_source=rss_feed",
-    "published_date": "2026-07-24T21:57:47Z",
-    "category": "Military"
-  },
-  {
-    "title": "The trained architect behind Ukraine’s deep-strike drones: Iryna Terekh",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3361808/iryna-terekh-trained-architect-behind-ukraines-deep-strike-drones?utm_source=rss_feed",
-    "published_date": "2026-07-24T17:39:12Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,48 @@
     "category": "Energy"
   },
   {
+    "title": "How Trump’s Iran ‘own goal’ is hitting long-term US strategy to contain Chinese influence",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3361869/how-trumps-iran-own-goal-hitting-long-term-us-strategy-contain-chinese-influence?utm_source=rss_feed",
+    "published_date": "2026-07-27T00:00:18Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Why Indonesia needs legal trust, not tax cuts, to build a finance hub",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3361785/why-indonesia-needs-legal-trust-not-tax-cuts-build-finance-hub?utm_source=rss_feed",
+    "published_date": "2026-07-27T00:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Nobel laureate Simon Johnson on the AI race and China’s ‘over-automation’ problem",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/china-economy/article/3361690/nobel-laureate-simon-johnson-ai-race-and-chinas-over-automation-problem?utm_source=rss_feed",
+    "published_date": "2026-07-26T22:00:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China has put a Polish university on its European dual-use exports blacklist. Why?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed",
+    "published_date": "2026-07-26T14:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Israeli settlers set fire to West Bank mosques after deadly clash",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3361911/israeli-settlers-set-fire-west-bank-mosques-graffiti-and-arson-reported?utm_source=rss_feed",
+    "published_date": "2026-07-26T13:53:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Chinese scientist faces probe after girl, 6, dies ‘following experimental gene therapy’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3361898/chinese-scientist-faces-probe-after-girl-6-dies-following-experimental-gene-therapy?utm_source=rss_feed",
+    "published_date": "2026-07-26T13:30:13Z",
+    "category": "Economy"
+  },
+  {
     "title": "Low profile, high AI ambition: What leaked comments reveal about DeepSeek’s Liang Wenfeng",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?utm_source=rss_feed",
@@ -518,46 +560,74 @@
     "category": "Economy"
   },
   {
-    "title": "Job fears in changing world make AI a hot subject at China’s vocational schools",
+    "title": "Venezuela opposition leader Machado says she will not take part in US-backed talks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3361747/job-fears-changing-world-make-ai-hot-subject-chinas-vocational-schools?utm_source=rss_feed",
-    "published_date": "2026-07-25T06:00:08Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3361923/venezuela-opposition-leader-machado-says-she-will-not-take-part-us-backed-talks?utm_source=rss_feed",
+    "published_date": "2026-07-26T23:05:30Z",
+    "category": "Local Events"
   },
   {
-    "title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
+    "title": "US border tsar says vetting of ICE officer is under internal review after Maine shooting",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
-    "published_date": "2026-07-25T05:30:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361922/us-border-tsar-says-vetting-ice-officer-under-internal-review-after-maine-shooting?utm_source=rss_feed",
+    "published_date": "2026-07-26T22:18:01Z",
+    "category": "Local Events"
   },
   {
-    "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
+    "title": "UK PM Burnham to welcome Ukraine’s Zelensky in first foreign leader visit",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
-    "published_date": "2026-07-25T02:00:15Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3361921/uks-burnham-welcome-ukraines-zelensky-first-foreign-leader-visit?utm_source=rss_feed",
+    "published_date": "2026-07-26T21:50:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Indonesia’s Bali financial hub ‘a matter of survival’: economic tsar",
+    "title": "The one voice Hong Kong can’t ignore on ride-hailing? The public",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3361764/indonesias-bali-financial-hub-matter-survival-economic-tsar?utm_source=rss_feed",
-    "published_date": "2026-07-25T00:00:22Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361634/one-voice-hong-kong-cant-ignore-ride-hailing-public?utm_source=rss_feed",
+    "published_date": "2026-07-26T21:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "Amid Hormuz woes, China tests Central Asian land corridors to bypass maritime chokepoints",
+    "title": "Raul Castro is absent as Cuba celebrates anniversary of key revolutionary attack",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3361638/china-tests-central-asian-land-corridors-bypass-maritime-chokepoints?utm_source=rss_feed",
-    "published_date": "2026-07-24T22:00:12Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3361919/raul-castro-absent-cuba-celebrates-anniversary-key-revolutionary-attack?utm_source=rss_feed",
+    "published_date": "2026-07-26T19:20:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "US small businesses sue Trump administration over new ‘forced labour’ tariffs",
+    "title": "Chief suspect in Berlin Pride attack shot dead, police say",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361812/us-small-businesses-sue-trump-administration-over-new-forced-labour-tariffs?utm_source=rss_feed",
-    "published_date": "2026-07-24T20:27:19Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3361917/chief-suspect-berlin-pride-attack-shot-dead-police-say?utm_source=rss_feed",
+    "published_date": "2026-07-26T18:15:41Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "After Trump pardon, Honduras ex-president Hernandez returns home",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3361915/former-honduras-president-hernandez-returns-home-after-trump-pardon?utm_source=rss_feed",
+    "published_date": "2026-07-26T16:31:37Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Thailand monastery added to Unesco heritage list, boosting tourism hopes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3361913/thailand-monastery-added-unesco-heritage-list-boosting-tourism-hopes?utm_source=rss_feed",
+    "published_date": "2026-07-26T15:27:48Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Typhoon Noul: Shenzhen girl, 6, blown away by gale, runs back to safety",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3361908/typhoon-noul-shenzhen-girl-6-blown-away-gale-runs-back-safety?utm_source=rss_feed",
+    "published_date": "2026-07-26T13:46:19Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Infant formula maker insists product safe after recalls in Hong Kong and Macau",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3361906/infant-formula-maker-insists-product-safe-after-recalls-hong-kong-and-macau?utm_source=rss_feed",
+    "published_date": "2026-07-26T13:10:29Z",
+    "category": "Local Events"
   },
   {
     "title": "How can Alzheimer’s patients in Hong Kong buy ‘more golden hours’ with family?",
@@ -627,76 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3361868/marches-memes-why-indias-youth-turned-against-modi?utm_source=rss_feed",
     "published_date": "2026-07-26T04:22:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Noul grounds 1,800 flights and halts trains as southern China hit by heavy rains",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs?utm_source=rss_feed",
-    "published_date": "2026-07-26T04:07:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong expands after-school care but some families say they still lack access",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3361859/hong-kong-expands-after-school-care-some-families-say-they-still-lack-access?utm_source=rss_feed",
-    "published_date": "2026-07-26T04:00:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rare medical condition causes Chinese man’s scalp to thicken and fold, resembling human brain",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
-    "published_date": "2026-07-26T03:21:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysian police receive report against Sanusi over race-linked campaign remarks",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3361864/malaysian-police-receive-report-against-sanusi-over-race-linked-campaign-remarks?utm_source=rss_feed",
-    "published_date": "2026-07-26T02:49:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "4 ways Hong Kong can shape its future – and the world’s",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361330/4-ways-hong-kong-can-shape-its-future-and-worlds?utm_source=rss_feed",
-    "published_date": "2026-07-26T01:30:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How Xinjiang offers Hong Kong a bridge to Central Asia — and what the risks are",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361841/how-xinjiang-offers-hong-kong-bridge-central-asia-and-what-risks-are?utm_source=rss_feed",
-    "published_date": "2026-07-26T01:00:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "1 killed, 16 injured after car crashes into crowd in Berlin: police",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-26/1-killed-14-injured-after-car-crashes-into-crowd-in-Berlin-police-1P5hRJO8z72/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-26T00:07:57Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Noul: T8 signal to remain in force at least until noon",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3361858/typhoon-noul-t8-signal-remain-force-until-least-noon?utm_source=rss_feed",
-    "published_date": "2026-07-25T23:48:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "1 killed, several injured at Berlin pride parade, after van drives into crowd",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3361856/berlin-pride-parade-called-after-car-drives-crowd?utm_source=rss_feed",
-    "published_date": "2026-07-25T21:38:28Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Maine Democrats pick Troy Jackson to replace scandal-plagued candidate in key Senate race",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3361855/maine-democrats-pick-troy-jackson-replace-scandal-plagued-candidate-key-senate-race?utm_source=rss_feed",
-    "published_date": "2026-07-25T18:13:12Z",
     "category": "Local Events"
   }
 ]
