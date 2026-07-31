@@ -1,9 +1,30 @@
 [
   {
+    "title": "Gaza deal reached over Hamas disarmament, Israel withdrawal",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-07-31/news-1PdAbjW8Bgc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-07-30T23:50:16Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "How the UN chooses its next Secretary-General",
+    "source": "CGTN",
+    "url": "https://newsus.cgtn.com/news/2026-07-31/How-the-UN-chooses-its-next-Secretary-General-1PdmGMviR6o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-07-30T21:44:21Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Selection for next UN chief gets underway with Grynspan early front runner",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/us/diplomacy/article/3362445/selection-next-un-chief-gets-underway-first-straw-poll?utm_source=rss_feed",
     "published_date": "2026-07-30T20:09:36Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "DR Congo says Rwanda-linked armed group agrees to disarm",
+    "source": "CGTN",
+    "url": "https://newsaf.cgtn.com/news/2026-07-31/DR-Congo-says-Rwanda-linked-armed-group-agrees-to-disarm-1PcWumDMVqw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-07-30T16:37:56Z",
     "category": "Diplomacy"
   },
   {
@@ -119,25 +140,60 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Iran, Ukraine pledge to avoid escalation after ship attack",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-29/Iran-Ukraine-pledge-to-avoid-escalation-after-ship-attack-1Paf3GxlXYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-29T01:37:44Z",
-    "category": "Diplomacy"
+    "title": "China signals buildout of nuclear missile silos for ‘strategic trump cards’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3362573/china-signals-buildout-nuclear-missile-silos-strategic-trump-cards?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:00:07Z",
+    "category": "Military"
   },
   {
-    "title": "China welcomes WTO ruling against Türkiye's vehicle restrictions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-29/China-welcomes-WTO-ruling-against-T-rkiye-s-vehicle-restrictions-1PaiFw54PBe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-07-29T01:37:12Z",
-    "category": "Diplomacy"
+    "title": "Why Japanese stealth fighters over Australia signal a strategic pivot against China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3362533/why-japanese-stealth-fighters-over-australia-signal-strategic-pivot-against-china?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:00:16Z",
+    "category": "Military"
   },
   {
-    "title": "China welcomes WTO ruling against Türkiye's vehicle restrictions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-29/China-welcomes-WTO-ruling-against-T-rkiye-s-vehicle-restrictions-1PaiFw54PBe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-29T01:37:12Z",
-    "category": "Diplomacy"
+    "title": "Xi Jinping urges Chinese armed forces to ‘strengthen military application’ of AI",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3362496/xi-jinping-urges-chinese-armed-forces-strengthen-military-application-ai?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:25:40Z",
+    "category": "Military"
+  },
+  {
+    "title": "South Korea almost shoots down US Marine drone after communication failure",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3362495/south-korea-almost-shoots-down-us-marine-drone-after-communication-failure?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:07:15Z",
+    "category": "Military"
+  },
+  {
+    "title": "Chinese data challenges US-Iran war claims; bamboo vs desertification: SCMP’s 7 highlights",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3362460/chinese-data-challenges-us-iran-war-claims-bamboo-vs-desertification-scmps-7-highlights?utm_source=rss_feed",
+    "published_date": "2026-07-31T04:34:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "What China’s hypersonic anti-ship missile fired from a smaller destroyer signals",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3362473/what-chinas-hypersonic-anti-ship-missile-fired-smaller-destroyer-signals?utm_source=rss_feed",
+    "published_date": "2026-07-31T04:00:26Z",
+    "category": "Military"
+  },
+  {
+    "title": "China’s military modernisation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/plus/news/china/military/article/3362461/chinas-military-modernisation?utm_source=rss_feed",
+    "published_date": "2026-07-31T02:44:19Z",
+    "category": "Military"
+  },
+  {
+    "title": "Will the global testosterone decline accelerate the shift to robot warfare?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3362357/will-global-testosterone-decline-accelerate-shift-robot-warfare?utm_source=rss_feed",
+    "published_date": "2026-07-31T01:00:08Z",
+    "category": "Military"
   },
   {
     "title": "US-led drills edge Japan and South Korea closer on defence",
@@ -224,60 +280,32 @@
     "category": "Military"
   },
   {
-    "title": "Singapore court fines French teenager US$465 for viral straw-licking prank",
+    "title": "China is making a great leap forward in food production – this time for real",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362327/singapore-court-fines-french-teenager-us465-viral-straw-licking-prank?utm_source=rss_feed",
-    "published_date": "2026-07-30T02:58:43Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/china/science/article/3362510/china-making-great-leap-forward-food-production-time-real?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:30:16Z",
+    "category": "Energy"
   },
   {
-    "title": "US launches more strikes on Iran as conflict spreads across region",
+    "title": "Pakistan, Bangladesh face economic squeeze as US-Iran crisis widens",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3362326/us-launches-more-strikes-iran-conflict-spreads-across-region?utm_source=rss_feed",
-    "published_date": "2026-07-30T02:26:11Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/week-asia/economics/article/3362578/pakistan-bangladesh-face-economic-squeeze-us-iran-crisis-widens?utm_source=rss_feed",
+    "published_date": "2026-07-31T11:57:24Z",
+    "category": "Energy"
   },
   {
-    "title": "How Trump’s call for Asia-Pacific allies to raise defence spending may backfire on US",
+    "title": "Singapore ministers awarded US$113,000 each in legal costs in Bloomberg libel suit",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3362301/how-trumps-call-asia-pacific-allies-raise-defence-spending-may-backfire-us?utm_source=rss_feed",
-    "published_date": "2026-07-29T22:00:08Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362498/singapore-ministers-awarded-us113000-each-legal-costs-bloomberg-libel-suit?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:23:59Z",
+    "category": "Energy"
   },
   {
-    "title": "Ambassador Xie Feng on the 99th anniversary of the founding of the PLA",
+    "title": "Japan starts 22nd round of nuclear-contaminated water discharge",
     "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-07-29/Ambassador-Xie-Feng-on-the-99th-anniversary-of-the-founding-of-the-PLA-1PblU0KBd3q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-29T15:36:36Z",
-    "category": "Military"
-  },
-  {
-    "title": "Drills to start as Hong Kong targets September launch of revamped border crossing",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3362303/drills-start-hong-kong-targets-september-launch-revamped-border-crossing?utm_source=rss_feed",
-    "published_date": "2026-07-29T14:21:37Z",
-    "category": "Military"
-  },
-  {
-    "title": "India seeks new anti-AI deepfake law to counter ‘weapons of mass distortion’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3362302/india-seeks-new-anti-ai-deepfake-law-counter-weapons-mass-distortion?utm_source=rss_feed",
-    "published_date": "2026-07-29T13:55:12Z",
-    "category": "Military"
-  },
-  {
-    "title": "Can the US fend off China’s subsea drones? Its coastguard looks for answers",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3362267/can-us-fend-chinas-subsea-drones-its-coastguard-looks-answers?utm_source=rss_feed",
-    "published_date": "2026-07-29T13:00:10Z",
-    "category": "Military"
-  },
-  {
-    "title": "Philippine defence chief warns Chinese teaching exchanges pose grey-zone threat",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3362291/philippine-defence-chief-warns-chinese-teaching-exchanges-pose-grey-zone-threat?utm_source=rss_feed",
-    "published_date": "2026-07-29T12:30:30Z",
-    "category": "Military"
+    "url": "https://news.cgtn.com/news/2026-07-30/Japan-starts-22nd-round-of-nuclear-contaminated-water-discharge-1PcpxDuC9Gw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-07-30T08:47:07Z",
+    "category": "Energy"
   },
   {
     "title": "Extend fuel subsidy or costs will go up, Hong Kong taxi and minibus drivers warn",
@@ -392,32 +420,130 @@
     "category": "Energy"
   },
   {
-    "title": "Brazil tackles clean energy bottleneck",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-07-25/Brazil-tackles-clean-energy-bottleneck-1P3v5eNvCq4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-25T15:22:16Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Kuwait signs record $16 billion energy infrastructure investment deal",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-25/Kuwait-signs-record-16-billion-energy-infrastructure-investment-deal-1P4qpHFAXfy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-25T12:08:32Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Beneath Lamma Island waters, ‘superhero’ plant helps bring back rare turtles",
+    "title": "Despite immense power, the US delivers neither butter nor bullets",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3361833/beneath-waters-hong-kongs-lamma-island-silent-superhero-plant-work?utm_source=rss_feed",
-    "published_date": "2026-07-25T07:32:03Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3362331/despite-immense-power-us-delivers-neither-butter-nor-bullets?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:30:09Z",
+    "category": "Economy"
   },
   {
-    "title": "Family office of Henderson Land boss to fast-track Central Asia green energy plans",
+    "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361801/family-office-henderson-land-boss-fast-track-central-asia-green-energy-plans?utm_source=rss_feed",
-    "published_date": "2026-07-25T01:00:15Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
+    "published_date": "2026-07-31T11:00:25Z",
+    "category": "Economy"
+  },
+  {
+    "title": "But at what cost? The Economist draws backlash over ‘eco-authoritarian’ China label",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3362478/what-cost-economist-draws-backlash-over-eco-authoritarian-china-label?utm_source=rss_feed",
+    "published_date": "2026-07-31T11:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "New EU team to crack down on AI deepfakes, illicit images and hacking",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3362566/new-eu-team-crack-down-ai-deepfakes-illicit-images-and-hacking?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:39:35Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Why Elon Musk would find it hard to decouple Tesla from China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-business/article/3362543/why-elon-musk-would-find-it-hard-decouple-tesla-china?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:00:23Z",
+    "category": "Economy"
+  },
+  {
+    "title": "EU-China trade war: Beijing turns the screws as Brussels tests limits of restraint",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3362502/eu-china-trade-war-beijing-turns-screws-brussels-tests-limits-restraint?utm_source=rss_feed",
+    "published_date": "2026-07-31T09:00:09Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China factories cool, CXMT surges, PLA marks anniversary",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/plus/news/china/politics/article/3362512/china-factories-cool-cxmt-surges-pla-marks-anniversary?utm_source=rss_feed",
+    "published_date": "2026-07-31T09:00:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong economy grows 4.3% on strong external trade, resilient domestic demand",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362538/hong-kong-economy-grows-43-strong-external-trade-resilient-domestic-demand?utm_source=rss_feed",
+    "published_date": "2026-07-31T08:50:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "HSBC to sell US$25b of Australian home loans to Blackstone at a loss of less than US$100m",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/article/3362531/hsbc-sell-us25b-australian-home-loans-blackstone-loss-less-us100m?utm_source=rss_feed",
+    "published_date": "2026-07-31T08:33:17Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s export success is a by-product of self-reliance",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3362409/chinas-export-success-product-self-reliance?utm_source=rss_feed",
+    "published_date": "2026-07-31T08:30:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Quake in Japan’s ‘Silicon Valley’ disrupts car, chip supply chains",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3362514/quake-japans-silicon-valley-disrupts-car-chip-supply-chains?utm_source=rss_feed",
+    "published_date": "2026-07-31T07:32:41Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s Xiaomi takes aim at Tesla, staking 23% lower price on premium SUV",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-business/article/3362494/chinas-xiaomi-takes-aim-tesla-staking-23-lower-price-premium-suv?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:06:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Law firm drops court challenge over files seized in ‘crash-for-cash’ police probe",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362488/law-firm-drops-court-challenge-over-files-seized-crash-cash-police-probe?utm_source=rss_feed",
+    "published_date": "2026-07-31T05:27:19Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Singapore police investigate Massive Attack over Palestinian support at gig",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362475/singapore-police-investigate-massive-attack-over-palestinian-support-gig?utm_source=rss_feed",
+    "published_date": "2026-07-31T03:37:30Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Singapore retailer Love, Bonito warns customers of scam risks after data breach",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362472/singapore-retailer-love-bonito-warns-customers-scam-risks-after-data-breach?utm_source=rss_feed",
+    "published_date": "2026-07-31T03:03:02Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Will US red tape and other infrastructure delays give China the lead in AI race?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3362471/will-us-red-tape-and-other-infrastructure-delays-give-china-lead-ai-race?utm_source=rss_feed",
+    "published_date": "2026-07-31T03:00:53Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Elite company: the listed firms that were China’s most valuable before CXMT",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/markets/article/3362459/elite-company-listed-firms-were-chinas-most-valuable-cxmt?utm_source=rss_feed",
+    "published_date": "2026-07-31T03:00:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Chinese dad sues online gaming companies for US$1.5 to force strict anti-addiction rules",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362463/chinese-dad-sues-online-gaming-companies-us15-force-strict-anti-addiction-rules?utm_source=rss_feed",
+    "published_date": "2026-07-31T02:29:27Z",
+    "category": "Economy"
   },
   {
     "title": "Unitree to launch IPO next week as US-China robotics rivalry intensifies",
@@ -427,276 +553,150 @@
     "category": "Economy"
   },
   {
-    "title": "China voices ‘serious concern’ over new US curbs in trade talks between Bessent and He",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/article/3362440/china-voices-serious-concern-over-new-us-curbs-senior-trade-talks?utm_source=rss_feed",
-    "published_date": "2026-07-30T16:06:15Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Uefa to boycott World Cup in protest of Fifa’s private investors plan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362439/uefa-boycott-world-cup-protest-fifas-private-investors-plan?utm_source=rss_feed",
-    "published_date": "2026-07-30T16:04:37Z",
-    "category": "Economy"
-  },
-  {
-    "title": "As Hong Kong ages and life goes digital, Hang Seng’s Silver Academy helps seniors stay active, connected and confident",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/presented/news/hong-kong/topics/silver-academy/article/3362064/hong-kong-ages-and-life-goes-digital-hang-sengs-silver-academy-helps-seniors-stay-active-connected?utm_source=rss_feed",
-    "published_date": "2026-07-30T16:00:08Z",
-    "category": "Economy"
-  },
-  {
-    "title": "US scientist Elsa Reichmanis defends global collaboration amid scrutiny of science exchange",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-war/article/3362398/us-scientist-elsa-reichmanis-defends-global-collaboration-amid-scrutiny-science-exchange?utm_source=rss_feed",
-    "published_date": "2026-07-30T14:00:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China’s smart-vacuum giants swept up in US robot ban, hitting top options for Americans",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3362418/chinas-smart-vacuum-giants-swept-us-robot-ban-hitting-top-options-americans?utm_source=rss_feed",
-    "published_date": "2026-07-30T13:30:12Z",
-    "category": "Economy"
-  },
-  {
-    "title": "US economic growth slows in second quarter but domestic demand robust",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362427/us-economic-growth-slows-second-quarter-domestic-demand-robust?utm_source=rss_feed",
-    "published_date": "2026-07-30T12:56:19Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Hongkong Land acquires Singapore’s Wheelock Place in US$900m deal",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3362425/hongkong-land-acquires-singapores-wheelock-place-us900m-deal?utm_source=rss_feed",
-    "published_date": "2026-07-30T12:46:20Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Can the West really decouple from China?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/world-opinion/article/3361881/can-west-really-decouple-china?utm_source=rss_feed",
-    "published_date": "2026-07-30T12:30:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "ICAC charges 3 former HSBC managers over accepting bribes to fast-track accounts",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362413/icac-charges-3-former-hsbc-managers-over-accepting-bribes-favour-customers?utm_source=rss_feed",
-    "published_date": "2026-07-30T10:56:48Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China ‘most generous boss’ fires employee for excluding mum from wedding over looks",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362410/china-most-generous-boss-fires-employee-excluding-mum-wedding-over-looks?utm_source=rss_feed",
-    "published_date": "2026-07-30T10:42:52Z",
-    "category": "Economy"
-  },
-  {
-    "title": "As AI spending soars, can China’s tech giants deliver long-term profits?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3362384/ai-spending-soars-can-chinas-tech-giants-deliver-long-term-profits?utm_source=rss_feed",
-    "published_date": "2026-07-30T09:00:10Z",
-    "category": "Economy"
-  },
-  {
-    "title": "BYD to debut first humanoid robots in August as rivalry with Tesla intensifies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/china-business/article/3362362/byd-debut-first-humanoid-robots-august-rivalry-tesla-intensifies?utm_source=rss_feed",
-    "published_date": "2026-07-30T08:00:14Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Hong Kong official slams ‘bias against China’ after new article by Stephen Roach",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3362345/hong-kong-official-slams-bias-against-china-after-new-article-stephen-roach?utm_source=rss_feed",
-    "published_date": "2026-07-30T04:53:24Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Cuba says nearly three-quarters of hotels have shut as travel plunges",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3362334/cuba-says-nearly-three-quarters-hotels-have-shut-travel-plunges?utm_source=rss_feed",
-    "published_date": "2026-07-30T03:48:51Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Zhongji Innolight sees rocky start as shares fall on Hong Kong IPO amid global AI sell-off",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/companies/article/3362321/zhongji-innolight-shares-fall-hong-kong-debut-amid-global-ai-sell?utm_source=rss_feed",
-    "published_date": "2026-07-30T01:40:00Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Malaysia moves to protect local firms as cheap Chinese goods fill market",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3362204/malaysia-moves-protect-local-firms-cheap-chinese-goods-fill-market?utm_source=rss_feed",
-    "published_date": "2026-07-30T01:30:14Z",
-    "category": "Economy"
-  },
-  {
-    "title": "New yacht travel scheme makes waves but can Hong Kong cash in on marine economy?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362309/new-yacht-travel-scheme-makes-waves-can-hong-kong-cash-marine-economy?utm_source=rss_feed",
-    "published_date": "2026-07-30T00:30:07Z",
-    "category": "Economy"
-  },
-  {
-    "title": "HKMA keeps base rate at 4% as US market slumps, fears the Fed is losing inflation fight",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged?utm_source=rss_feed",
-    "published_date": "2026-07-29T23:09:43Z",
-    "category": "Economy"
-  },
-  {
-    "title": "US Fed holds interest rate steady for 5th time in a row",
+    "title": "Chinese vice premier holds video call with US treasury secretary",
     "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-30/news-1PbScEAzPRS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-29T23:07:14Z",
+    "url": "https://newsaf.cgtn.com/news/2026-07-31/Chinese-vice-premier-holds-video-call-with-US-treasury-secretary-1Pd2OqqkiJi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-07-30T16:21:48Z",
     "category": "Economy"
   },
   {
-    "title": "Milei demands expulsion of foreigners expressing ‘hate’ against Argentina",
+    "title": "Need a robo pet buddy? Feline ginseng? The Hong Kong Cat Expo has got you covered",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3362455/milei-demands-expulsion-foreigners-expressing-hate-against-argentina?utm_source=rss_feed",
-    "published_date": "2026-07-30T23:55:35Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3362587/need-robo-pet-buddy-feline-ginseng-hong-kong-cat-expo-has-got-you-covered?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:52:12Z",
     "category": "Local Events"
   },
   {
-    "title": "Trump nominee vows to sharpen US media challenge to China",
+    "title": "Huanggang’s stone-like facade inspired by rock-solid Shenzhen, Hong Kong ties",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3362452/trump-nominee-vows-sharpen-us-media-challenge-china?utm_source=rss_feed",
-    "published_date": "2026-07-30T22:46:26Z",
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3362584/huanggangs-stone-facade-inspired-rock-solid-shenzhen-hong-kong-ties?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:37:50Z",
     "category": "Local Events"
   },
   {
-    "title": "China’s exports feed the Global South’s industrial engines",
+    "title": "Residents sign directives as Hong Kong’s new end-of-life law takes effect",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3362107/chinas-exports-feed-global-souths-industrial-engines?utm_source=rss_feed",
-    "published_date": "2026-07-30T21:30:07Z",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362579/residents-sign-directives-hong-kongs-new-end-life-law-takes-effect?utm_source=rss_feed",
+    "published_date": "2026-07-31T12:12:33Z",
     "category": "Local Events"
   },
   {
-    "title": "US government map of Africa gets every country wrong at global conference",
+    "title": "UK singer Boy George pulls out of London musical after pro-Israel song backlash",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362448/us-government-map-africa-gets-every-country-wrong-global-conference?utm_source=rss_feed",
-    "published_date": "2026-07-30T21:08:41Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3362575/uk-singer-boy-george-pulls-out-london-musical-after-pro-israel-song-backlash?utm_source=rss_feed",
+    "published_date": "2026-07-31T11:24:27Z",
     "category": "Local Events"
   },
   {
-    "title": "Trump weighs US$100,000 fee for foreign students to work in US after graduation",
+    "title": "Malaysia’s baby bust accelerates shift towards greying society",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362447/trump-weighs-us100000-fee-foreign-students-work-us-after-graduation?utm_source=rss_feed",
-    "published_date": "2026-07-30T20:26:30Z",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3362564/malaysias-baby-bust-accelerates-shift-towards-greying-society?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:34:59Z",
     "category": "Local Events"
   },
   {
-    "title": "Top US science journals more likely to reject paper by Chinese authors: study",
+    "title": "Senior Hong Kong policeman sentenced to 6-month jail term for molesting clerk",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3362349/top-us-science-journals-more-likely-reject-paper-chinese-authors-study?utm_source=rss_feed",
-    "published_date": "2026-07-30T15:00:08Z",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362560/senior-hong-kong-policeman-sentenced-6-month-jail-term-molesting-clerk?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:31:58Z",
     "category": "Local Events"
   },
   {
-    "title": "Transport authorities order probe after crash paralyses traffic on airport link",
+    "title": "Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362435/transport-authorities-order-probe-after-crash-paralyses-traffic-airport-link?utm_source=rss_feed",
-    "published_date": "2026-07-30T14:33:38Z",
+    "url": "https://www.scmp.com/tech/article/3362540/video-ai-minimax-challenges-bytedance-low-price-open-weights-new-h3-model?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:30:07Z",
     "category": "Local Events"
   },
   {
-    "title": "Hong Kong must add specialised services to tackle rising youth suicides, NGO says",
+    "title": "Chinese PTSD survivor finds healing through volunteering 15 years after devastating train crash",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362428/hong-kong-must-add-specialised-services-tackle-rising-youth-suicides-ngo-says?utm_source=rss_feed",
-    "published_date": "2026-07-30T13:29:20Z",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362527/chinese-ptsd-survivor-finds-healing-through-volunteering-15-years-after-devastating-train-crash?utm_source=rss_feed",
+    "published_date": "2026-07-31T10:00:14Z",
     "category": "Local Events"
   },
   {
-    "title": "Parts of northern Hong Kong face highest climate disaster risk, study finds",
+    "title": "‘A living neighbour’: Singapore residents fight to save Maju forest as clearance looms",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362429/parts-northern-hong-kong-face-highest-climate-disaster-risk-study-finds?utm_source=rss_feed",
-    "published_date": "2026-07-30T13:27:07Z",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362544/living-neighbour-singapore-residents-fight-save-maju-forest-clearance-looms?utm_source=rss_feed",
+    "published_date": "2026-07-31T09:32:16Z",
     "category": "Local Events"
   },
   {
-    "title": "John Lee meets business and innovation leaders over Hong Kong’s first 5-year plan",
+    "title": "Singapore takes possession of Lee Kuan Yew’s 38 Oxley Road home for conservation",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362426/john-lee-meets-business-and-innovation-leaders-over-hong-kongs-first-5-year-plan?utm_source=rss_feed",
-    "published_date": "2026-07-30T12:54:56Z",
+    "url": "https://www.scmp.com/week-asia/people/article/3362535/singapore-takes-possession-lee-kuan-yews-38-oxley-road-home-conservation?utm_source=rss_feed",
+    "published_date": "2026-07-31T08:43:39Z",
     "category": "Local Events"
   },
   {
-    "title": "ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark",
+    "title": "Candidates taking DSE exams on mainland face 220% entry fee jump to HK$8,000",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark?utm_source=rss_feed",
-    "published_date": "2026-07-30T12:30:16Z",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3362519/candidates-taking-dse-exams-mainland-face-220-entry-fee-jump-hk8000?utm_source=rss_feed",
+    "published_date": "2026-07-31T08:09:51Z",
     "category": "Local Events"
   },
   {
-    "title": "Viagra shows potential against cancer spread",
+    "title": "Xi Jinping meets foreign leaders: tracker, July 2026",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/article/3362421/viagra-shows-potential-against-cancer-spread?utm_source=rss_feed",
-    "published_date": "2026-07-30T11:47:51Z",
+    "url": "https://www.scmp.com/plus/news/china/article/3362479/xi-jinping-meets-foreign-leaders-tracker-july-2026?utm_source=rss_feed",
+    "published_date": "2026-07-31T07:47:39Z",
     "category": "Local Events"
   },
   {
-    "title": "6 hurt as truck and minibus collide on Hong Kong’s Castle Peak Road",
+    "title": "Super Typhoon Dolphin set to bring very hot weather to Hong Kong next week",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3362415/6-hurt-truck-and-minibus-collide-hong-kongs-castle-peak-road?utm_source=rss_feed",
-    "published_date": "2026-07-30T11:18:39Z",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362511/super-typhoon-dolphin-set-bring-very-hot-weather-hong-kong-next-week?utm_source=rss_feed",
+    "published_date": "2026-07-31T07:18:24Z",
     "category": "Local Events"
   },
   {
-    "title": "US man hikes out of mountains for help after being impaled by trekking pole",
+    "title": "Hong Kong backtracks on requiring hotels to put fire escape hoods in rooms",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362404/us-man-hikes-out-mountains-help-after-being-impaled-trekking-pole?utm_source=rss_feed",
-    "published_date": "2026-07-30T09:53:13Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3362509/hong-kong-backtracks-requiring-hotels-put-fire-escape-hoods-rooms?utm_source=rss_feed",
+    "published_date": "2026-07-31T07:10:40Z",
     "category": "Local Events"
   },
   {
-    "title": "Hong Kong doctor spared jail for fraudulently obtaining cough syrup, ADHD drugs",
+    "title": "Malaysian pilot arrested in Indonesia with 70,000 Ecstasy pills after drug-fuelled flight",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362402/hong-kong-doctor-spared-jail-fraudulently-obtaining-cough-syrup-adhd-drugs?utm_source=rss_feed",
-    "published_date": "2026-07-30T09:44:11Z",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3362508/malaysian-pilot-arrested-indonesia-70000-ecstasy-pills-after-drug-fuelled-flight?utm_source=rss_feed",
+    "published_date": "2026-07-31T07:01:38Z",
     "category": "Local Events"
   },
   {
-    "title": "Malaysia’s Anwar seizes on haj fund report ahead of Negeri Sembilan election",
+    "title": "July Politburo meeting read-out",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3362397/malaysias-anwar-seizes-haj-fund-report-ahead-negeri-sembilan-election?utm_source=rss_feed",
-    "published_date": "2026-07-30T09:35:04Z",
+    "url": "https://www.scmp.com/plus/news/china/politics/article/3362504/july-politburo-meeting-read-out?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:55:40Z",
     "category": "Local Events"
   },
   {
-    "title": "Japanese mall is rebuilt to withstand earthquakes. Then it collapses again",
+    "title": "Paralysis inspires Chinese man to build mind-controlled wheelchair that wins top prize",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3362392/japanese-mall-rebuilt-withstand-earthquakes-then-it-collapses-again?utm_source=rss_feed",
-    "published_date": "2026-07-30T09:04:24Z",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362489/paralysis-inspires-chinese-man-build-mind-controlled-wheelchair-wins-top-prize?utm_source=rss_feed",
+    "published_date": "2026-07-31T06:00:22Z",
     "category": "Local Events"
   },
   {
-    "title": "Singapore Marmite fans salty as local distribution ends and online prices soar",
+    "title": "‘Fear and anger’ drive parents to seek legal review of city’s custody of baby Danny",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362375/singapore-marmite-fans-salty-local-distribution-ends-and-online-prices-soar?utm_source=rss_feed",
-    "published_date": "2026-07-30T08:11:40Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3362482/fear-and-anger-drive-parents-seek-legal-review-citys-custody-their-infant?utm_source=rss_feed",
+    "published_date": "2026-07-31T04:22:44Z",
     "category": "Local Events"
   },
   {
-    "title": "Triassic fish for lunch? Chinese fossil reveals oldest preserved reptile stomach",
+    "title": "Hong Kong cancels amber rainstorm warning, but wet weather to last until Monday",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3362341/triassic-fish-lunch-chinese-fossil-reveals-oldest-preserved-reptile-stomach?utm_source=rss_feed",
-    "published_date": "2026-07-30T08:00:11Z",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362469/amber-warning-issued-friday-heavy-rain-and-thunder-expected-over-weekend?utm_source=rss_feed",
+    "published_date": "2026-07-31T02:51:46Z",
     "category": "Local Events"
   },
   {
-    "title": "India’s West Bengal shells out for eggs in school meals after outcry",
+    "title": "Southwest China landslide death toll rises to 51 as search and rescue continues",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3362369/indias-west-bengal-shells-out-eggs-school-meals-after-outcry?utm_source=rss_feed",
-    "published_date": "2026-07-30T07:32:36Z",
+    "url": "https://www.scmp.com/news/china/politics/article/3362468/southwest-china-landslide-death-toll-rises-51-search-and-rescue-continues?utm_source=rss_feed",
+    "published_date": "2026-07-31T02:47:36Z",
     "category": "Local Events"
   }
 ]
