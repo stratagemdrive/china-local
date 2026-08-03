@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trump says new talks with Iran to begin on Monday after calling off strikes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3362732/trump-says-new-talks-iran-begin-monday-after-calling-strikes?utm_source=rss_feed",
+    "published_date": "2026-08-02T23:16:06Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Iran’s foreign minister warns of any ‘adventurous action’ by US",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3362669/irans-foreign-minister-warns-any-adventurous-action-us?utm_source=rss_feed",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Malaysia clamps down on social media-fuelled hiking risks",
+    "title": "Philippines eyes Ukraine’s drone know-how for South China Sea",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3362283/malaysia-clamps-down-social-media-fuelled-hiking-risks?utm_source=rss_feed",
-    "published_date": "2026-07-29T11:22:50Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3362562/philippines-eyes-ukraines-drone-know-how-south-china-sea?utm_source=rss_feed",
+    "published_date": "2026-08-03T00:00:20Z",
+    "category": "Military"
+  },
+  {
+    "title": "China’s military goal is to stand neck and neck with the US: ex-PLA colonel Zhou Bo",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3362704/chinas-military-goal-stand-neck-and-neck-us-ex-pla-colonel-zhou-bo?utm_source=rss_feed",
+    "published_date": "2026-08-02T22:00:11Z",
+    "category": "Military"
+  },
+  {
+    "title": "Chinese rocket scientists find ‘most effective’ way to nuke a doomsday asteroid",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3362361/chinese-rocket-scientists-find-most-effective-way-nuke-doomsday-asteroid?utm_source=rss_feed",
+    "published_date": "2026-08-02T14:00:12Z",
+    "category": "Military"
   },
   {
     "title": "Beijing warns Manila of ‘powerful’ South China Sea toolbox ready for ‘head-on blow’",
@@ -256,27 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/military/article/3362558/taiwans-political-parties-deadlocked-over-efforts-boost-military-drone-capacity?utm_source=rss_feed",
     "published_date": "2026-08-01T04:00:11Z",
-    "category": "Military"
-  },
-  {
-    "title": "Thousands rally in Kyiv, renew calls for defense minister's return",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-01/Thousands-rally-in-Kyiv-renew-calls-for-defense-minister-s-return-1Pfih8xbLSU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-01T02:39:10Z",
-    "category": "Military"
-  },
-  {
-    "title": "The Road to Victory: Into the deep blue",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-01/The-Road-to-Victory-Into-the-deep-blue-1OX9xmW62Ag/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-01T01:41:06Z",
-    "category": "Military"
-  },
-  {
-    "title": "China teen shares top university acceptance with hero who saved her from river 16 years ago",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362600/china-teen-shares-top-university-acceptance-hero-who-saved-her-river-16-years-ago?utm_source=rss_feed",
-    "published_date": "2026-08-01T01:00:22Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "Global institutional investors eager to trade Chinese bond futures in Hong Kong, HKEX says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/markets/article/3362586/global-institutional-investors-eager-trade-chinese-bond-futures-hong-kong-hkex-says?utm_source=rss_feed",
+    "published_date": "2026-08-03T00:00:23Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Price war fears grip China’s EV market after woeful July sales figures",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-evs/article/3362717/price-war-fears-grip-chinas-ev-market-after-woeful-july-sales-figures?utm_source=rss_feed",
+    "published_date": "2026-08-02T23:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Greek police arrest suspect over British woman’s body found in suitcase",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3362728/greek-police-arrest-suspect-over-british-womans-body-found-suitcase?utm_source=rss_feed",
+    "published_date": "2026-08-02T18:00:47Z",
+    "category": "Economy"
+  },
+  {
     "title": "Why Hong Kong’s elites must become risk-takers again",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362239/why-hong-kongs-elites-must-become-risk-takers-again?utm_source=rss_feed",
@@ -539,25 +560,88 @@
     "category": "Economy"
   },
   {
-    "title": "Japan’s ruling party MPs form group to protect US$2.1 billion trading card market",
+    "title": "2 fire service contractors linked to Tai Po tragedy still running, open to new contracts",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3362620/japans-ruling-party-mps-form-group-protect-us21-billion-trading-card-market?utm_source=rss_feed",
-    "published_date": "2026-08-01T02:01:12Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3362710/2-fire-service-contractors-linked-tai-po-tragedy-still-running-open-new-contracts?utm_source=rss_feed",
+    "published_date": "2026-08-03T00:00:32Z",
+    "category": "Local Events"
   },
   {
-    "title": "Ready player 3: India offers Asean a US-China alternative",
+    "title": "Eastern Washington fires have burned 600 structures and forced evacuation of 60,000 people",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3362555/ready-player-3-india-offers-asean-us-china-alternative?utm_source=rss_feed",
-    "published_date": "2026-08-01T00:00:13Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3362733/eastern-washington-fires-have-burned-600-structures-and-forced-evacuation-60000-people?utm_source=rss_feed",
+    "published_date": "2026-08-02T23:59:58Z",
+    "category": "Local Events"
   },
   {
-    "title": "US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model",
+    "title": "Legco-executive dialogue must deliver more than novelty for Hong Kong",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model?utm_source=rss_feed",
-    "published_date": "2026-07-31T22:53:21Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362534/legco-executive-dialogue-must-deliver-more-novelty-hong-kong?utm_source=rss_feed",
+    "published_date": "2026-08-02T21:30:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Jailed ex-leader Maduro welcomes ‘any path to dialogue’ in Venezuela ahead of US talks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
+    "published_date": "2026-08-02T20:40:52Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK PM Burnham signals support for written constitution",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3362730/uk-pm-burnham-signals-support-written-constitution?utm_source=rss_feed",
+    "published_date": "2026-08-02T19:51:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Brazil’s President Lula, 80, says ‘in great shape’ as he launches bid for a fourth term",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
+    "published_date": "2026-08-02T18:27:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Death toll from migrant rush into Spain’s Ceuta rises to 72",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3362727/death-toll-migrant-rush-spains-ceuta-rises-72?utm_source=rss_feed",
+    "published_date": "2026-08-02T17:44:55Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "At least 14 dead in suicide bomb attack at anti-militant rally in Pakistan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3362726/least-14-dead-suicide-bomb-attack-anti-militant-rally-pakistan?utm_source=rss_feed",
+    "published_date": "2026-08-02T16:31:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "2 crew members dead, 2 found alive after firefighting helicopters collide in Greece",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3362725/greece-firefighting-helicopters-collide-battle-contain-wildfires-continues?utm_source=rss_feed",
+    "published_date": "2026-08-02T15:16:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362724/hong-kong-csrc-deepen-financial-ties-ahead-first-yuan-bond-futures-launch?utm_source=rss_feed",
+    "published_date": "2026-08-02T15:02:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Jardine Foundation to end scholarships for Oxford, Cambridge undergrads",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3362723/jardine-foundation-cut-scholarship-scheme-oxford-cambridge-undergrads?utm_source=rss_feed",
+    "published_date": "2026-08-02T14:39:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Israeli strikes kill 18 in Gaza, minister says no deal to halt attacks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3362722/israeli-strikes-kill-9-gaza-cabinet-minister-says-no-deal-stop?utm_source=rss_feed",
+    "published_date": "2026-08-02T14:04:37Z",
+    "category": "Local Events"
   },
   {
     "title": "‘Pets are meant to be spoiled’: Hong Kong cat owners spend big at feline expo",
@@ -613,90 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362678/kowloon-walled-city-action-film-sequels-gritty-nostalgic-set-draws-residents?utm_source=rss_feed",
     "published_date": "2026-08-02T09:00:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rosewood Hotel Group to press on with clubhouse takeover as opposition escalates",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362701/rosewood-hotel-group-press-clubhouse-takeover-opposition-escalates?utm_source=rss_feed",
-    "published_date": "2026-08-02T08:35:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From gendered sacrifice to ancient politics: DNA lifts shroud on early Chinese civilisation",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3362676/gendered-sacrifice-ancient-politics-dna-lifts-shroud-early-chinese-civilisation?utm_source=rss_feed",
-    "published_date": "2026-08-02T08:00:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "CUHK earmarks Pak Shek Kok site for new medical building and 10th college",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362696/cuhk-earmarks-pak-shek-kok-site-new-medical-building-and-10th-college?utm_source=rss_feed",
-    "published_date": "2026-08-02T07:18:00Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China floods: large parts of country remain on alert as Gansu province death toll rises",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/article/3362695/china-floods-large-parts-country-remain-alert-gansu-province-death-toll-rises?utm_source=rss_feed",
-    "published_date": "2026-08-02T06:58:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Filipino housekeepers mop up growing demand across Japan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3362689/filipino-housekeepers-mop-growing-demand-across-japan?utm_source=rss_feed",
-    "published_date": "2026-08-02T06:16:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Triathlete, 59, who started swimming during amber rainstorm warning found dead",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3362690/search-under-way-triathlete-59-who-went-missing-hong-kong-race?utm_source=rss_feed",
-    "published_date": "2026-08-02T06:06:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "South Korean McDonald’s axes popular corn burger after customers bite into stones",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3362687/south-korean-mcdonalds-axes-popular-corn-burger-after-customers-bite-stones?utm_source=rss_feed",
-    "published_date": "2026-08-02T05:33:33Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan quake victim dies of heatstroke while sheltering in car amid ‘extreme heat’ warning",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3362685/japan-quake-victim-dies-heatstroke-while-sheltering-car-amid-extreme-heat-warning?utm_source=rss_feed",
-    "published_date": "2026-08-02T04:45:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nepal mourns climber Nirmal Purja after death is confirmed on Pakistan’s Broad Peak",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3362683/nepal-mourns-climber-nirmal-purja-after-death-confirmed-pakistans-broad-peak?utm_source=rss_feed",
-    "published_date": "2026-08-02T04:04:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Public anger in Hong Kong over low signal during 2006 Typhoon Prapiroon – SCMP archive",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3362675/public-anger-hong-kong-over-low-signal-during-2006-typhoon-prapiroon-scmp-archive?utm_source=rss_feed",
-    "published_date": "2026-08-02T03:30:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From meteorites to Monet: Shenzhen’s new museums draw Hongkongers beyond dining",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3362665/meteorites-monet-shenzhens-new-museums-draw-hongkongers-beyond-dining?utm_source=rss_feed",
-    "published_date": "2026-08-02T03:00:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Are Singaporeans losing faith, or just dropping the labels?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362570/are-singaporeans-losing-faith-or-just-dropping-labels?utm_source=rss_feed",
-    "published_date": "2026-08-02T03:00:12Z",
     "category": "Local Events"
   }
 ]
