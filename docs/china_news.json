@@ -1,5 +1,33 @@
 [
   {
+    "title": "Ukraine’s Zelensky makes first visit to Russia-friendly Serbia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363366/ukraines-zelensky-makes-first-visit-russia-friendly-serbia?utm_source=rss_feed",
+    "published_date": "2026-08-07T20:03:08Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Hong Kong designer sues Prada for US$5 million over abandoned Rolls-Royce project",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363359/hong-kong-designer-sues-prada-us5-million-over-abandoned-rolls-royce-project?utm_source=rss_feed",
+    "published_date": "2026-08-07T15:45:31Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Race for UN top job enters final stage: choice may ‘make or break’ organisation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3363269/race-un-top-job-enters-final-stage-choice-may-make-or-break-organisation?utm_source=rss_feed",
+    "published_date": "2026-08-07T15:00:07Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Where do China-Israel ties stand after closure of consulate in Chengdu?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3363325/where-do-china-israel-ties-stand-after-closure-consulate-chengdu?utm_source=rss_feed",
+    "published_date": "2026-08-07T12:00:06Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Lebanon, Israel end 7th round of talks amid renewed border escalation",
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-08-07/Lebanon-Israel-end-7th-round-of-talks-amid-renewed-border-escalation-1PphcfupkOs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
@@ -112,32 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "US revokes visa of Brazil’s ambassador to Washington in escalating row",
+    "title": "Trump ally Abelardo de la Espriella sworn in as Colombia president",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3362990/us-revokes-visa-brazils-ambassador-washington-escalating-row?utm_source=rss_feed",
-    "published_date": "2026-08-05T02:49:24Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/americas/article/3363371/trump-ally-abelardo-de-la-espriella-sworn-colombia-president?utm_source=rss_feed",
+    "published_date": "2026-08-07T22:46:04Z",
+    "category": "Military"
   },
   {
-    "title": "US revokes Brazilian ambassador's visa in diplomatic rift",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-05/US-revokes-Brazilian-ambassador-s-visa-in-diplomatic-rift-1Pm0oCqCsO4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-05T02:10:37Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Bachelet-led panel urges Latin America not to choose sides in US-China rivalry",
+    "title": "US judge blocks Pentagon’s ‘Chinese military’ label for WuXi AppTec",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/article/3362979/bachelet-led-panel-urges-latin-america-not-choose-sides-us-china-rivalry?utm_source=rss_feed",
-    "published_date": "2026-08-04T18:50:12Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "UN: Five global bodies join Sudan peace talks",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-08-04/UN-Five-global-bodies-join-Sudan-peace-talks-1Pl4i933ALm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-04T14:02:18Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/us/article/3363369/us-judge-blocks-pentagons-chinese-military-label-wuxi-apptec?utm_source=rss_feed",
+    "published_date": "2026-08-07T20:38:37Z",
+    "category": "Military"
   },
   {
     "title": "Saudi Arabia, Turkey and Pakistan sign joint defence deal amid regional turmoil",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3363136/why-russias-ballistic-missiles-are-breaking-through-ukraine?utm_source=rss_feed",
     "published_date": "2026-08-06T05:53:33Z",
-    "category": "Military"
-  },
-  {
-    "title": "Japan marks 81st A-bomb anniversary amid debate over nuclear policies",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-06/Japan-marks-81st-A-bomb-anniversary-amid-debate-over-nuclear-policies-1PnOvs1siu4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-06T04:52:39Z",
-    "category": "Military"
-  },
-  {
-    "title": "Russian drone factory boss badly injured in car blast that killed driver",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363122/russian-drone-factory-boss-badly-injured-car-blast-kills-driver?utm_source=rss_feed",
-    "published_date": "2026-08-06T04:14:45Z",
     "category": "Military"
   },
   {
@@ -413,11 +413,46 @@
     "category": "Energy"
   },
   {
-    "title": "Hungary to develop 4 GW of wind power capacity by 2030, PM Magyar says",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-07-31/news-1PeCkm2yX8k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-07-31T14:47:54Z",
-    "category": "Energy"
+    "title": "Trump renews effort to fire Fed’s Lisa Cook despite Supreme Court ruling",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363370/trump-renews-effort-fire-feds-lisa-cook-despite-supreme-court-ruling?utm_source=rss_feed",
+    "published_date": "2026-08-07T21:11:21Z",
+    "category": "Economy"
+  },
+  {
+    "title": "UnionPay to plug Chinese payment apps into Brazil’s Pix after US tariffs over the system",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3363365/unionpay-plug-chinese-payment-apps-brazils-pix-after-us-tariffs-over-system?utm_source=rss_feed",
+    "published_date": "2026-08-07T19:59:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims?utm_source=rss_feed",
+    "published_date": "2026-08-07T13:55:04Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Chinese exam fraud ring helped candidates cheat their way to government-funded jobs",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3363354/chinese-exam-fraud-ring-helped-candidates-cheat-their-way-government-funded-jobs?utm_source=rss_feed",
+    "published_date": "2026-08-07T13:53:55Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US universities report more Chinese applicants despite visa crackdown",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3363327/us-universities-report-more-chinese-applicants-despite-visa-crackdown?utm_source=rss_feed",
+    "published_date": "2026-08-07T13:00:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
+    "published_date": "2026-08-07T12:54:54Z",
+    "category": "Economy"
   },
   {
     "title": "China’s lab-grown diamonds get an AI boost as industry rides demand for chip cooling",
@@ -518,46 +553,67 @@
     "category": "Economy"
   },
   {
-    "title": "Cambridge star professor Jason Arday resigns amid plagiarism probe",
+    "title": "Maradona’s ‘Hand of God’ ball heads to US auction",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3363220/cambridge-star-professor-jason-arday-resigns-amid-plagiarism-probe?utm_source=rss_feed",
-    "published_date": "2026-08-06T19:57:16Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/americas/article/3363372/maradonas-hand-god-ball-heads-us-auction?utm_source=rss_feed",
+    "published_date": "2026-08-07T22:56:57Z",
+    "category": "Local Events"
   },
   {
-    "title": "Argentina renews US$19 billion China currency swap, brushing off Washington’s pressure",
+    "title": "Trump pick Todd Blanche clears major hurdle in bid to become US attorney general",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/article/3363219/argentina-renews-us19-billion-china-currency-swap-brushing-washingtons-pressure?utm_source=rss_feed",
-    "published_date": "2026-08-06T19:21:23Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363368/trump-pick-todd-blanche-clears-major-hurdle-bid-become-us-attorney-general?utm_source=rss_feed",
+    "published_date": "2026-08-07T20:30:46Z",
+    "category": "Local Events"
   },
   {
-    "title": "China buys at least 10 more cargoes of US soybeans, traders say",
+    "title": "US unveils critical minerals deals in latest push to counter China",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363218/china-buys-least-10-more-cargoes-us-soybeans-traders-say?utm_source=rss_feed",
-    "published_date": "2026-08-06T18:44:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/us/article/3363367/us-unveils-critical-minerals-deals-latest-push-counter-china?utm_source=rss_feed",
+    "published_date": "2026-08-07T20:29:56Z",
+    "category": "Local Events"
   },
   {
-    "title": "Africa becomes battleground for weight-loss drugs",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-08-06/Africa-becomes-battleground-for-weight-loss-drugs-1PmI5wU09LW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-06T14:52:14Z",
-    "category": "Economy"
+    "title": "US court blocks Trump’s US$400 million White House ballroom project",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363361/us-court-blocks-trumps-us400-million-white-house-ballroom-project?utm_source=rss_feed",
+    "published_date": "2026-08-07T15:46:28Z",
+    "category": "Local Events"
   },
   {
-    "title": "Will latest trade ‘speed bump’ slow China-US ties, or even stop Xi-Trump summit?",
+    "title": "Typhoon Dolphin: Hongkongers stuck in Okinawa prepare for low supplies, power cuts",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3363156/will-latest-trade-speed-bump-slow-china-us-ties-or-even-stop-xi-trump-summit?utm_source=rss_feed",
-    "published_date": "2026-08-06T14:00:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3363357/typhoon-dolphin-hongkongers-stuck-okinawa-prepare-low-supplies-power-cuts?utm_source=rss_feed",
+    "published_date": "2026-08-07T14:59:14Z",
+    "category": "Local Events"
   },
   {
-    "title": "Former Standard Chartered bank staff jailed over HK$28m Africa investment scam",
+    "title": "Chinese breakthrough paves way for production of graphene-based quantum chips",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363206/former-standard-chartered-bankers-jailed-over-hk28m-africa-investment-scam?utm_source=rss_feed",
-    "published_date": "2026-08-06T13:07:24Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/science/article/3363350/chinese-breakthrough-paves-way-production-graphene-based-quantum-chips?utm_source=rss_feed",
+    "published_date": "2026-08-07T13:01:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "The world that made Confucius – and the China he made",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3363031/world-made-confucius-and-china-he-made?utm_source=rss_feed",
+    "published_date": "2026-08-07T12:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Bus driver kicked explosive drone out of the air at German airport",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3363344/bus-driver-kicked-explosive-drone-out-air-german-airport?utm_source=rss_feed",
+    "published_date": "2026-08-07T11:57:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Anger in Malaysia as Liow’s money-laundering charges dropped after US$2.4 million fine",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3363343/anger-malaysia-liows-money-laundering-charges-dropped-after-us24-million-fine?utm_source=rss_feed",
+    "published_date": "2026-08-07T11:56:13Z",
+    "category": "Local Events"
   },
   {
     "title": "HKU virologist spared conviction for assaulting man and damaging his phone",
@@ -634,69 +690,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3363273/south-korean-football-body-offered-sex-services-foreign-referees-2011-2012-report?utm_source=rss_feed",
     "published_date": "2026-08-07T07:08:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China ‘delivery rider poet’ known for writing verses on scrap paper wins elite literature prize",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3363266/china-delivery-rider-poet-known-writing-verses-scrap-paper-wins-elite-literature-prize?utm_source=rss_feed",
-    "published_date": "2026-08-07T06:27:28Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "1,230 times the size of Hong Kong: China deploys drones, AI as Typhoon Dolphin nears coast",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast?utm_source=rss_feed",
-    "published_date": "2026-08-07T05:53:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia Airlines parent orders mandatory drug testing for pilots after arrest",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363260/malaysia-airlines-parent-orders-mandatory-drug-testing-pilots-after-arrest?utm_source=rss_feed",
-    "published_date": "2026-08-07T05:20:48Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s Lingnan University student union ceases operations after 6 decades",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3363258/hong-kongs-lingnan-university-student-union-ceases-operations-after-6-decades?utm_source=rss_feed",
-    "published_date": "2026-08-07T05:03:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong tourism sector urges action with visitor spending 44% below 2018 level",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363256/hong-kong-tourism-sector-urges-action-visitor-spending-44-below-2018-level?utm_source=rss_feed",
-    "published_date": "2026-08-07T04:54:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysian ex-PM Ismail Sabri’s corruption charges delayed by health woes",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3363252/malaysian-ex-pm-ismail-sabris-corruption-charges-delayed-health-woes?utm_source=rss_feed",
-    "published_date": "2026-08-07T04:05:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "What China’s expanded funding for HIV/Aids in Africa means as US cuts health aid",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3363179/what-chinas-expanded-funding-hiv/aids-africa-means-us-cuts-health-aid?utm_source=rss_feed",
-    "published_date": "2026-08-07T04:00:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Teen gunman among 7 killed in Thailand school shooting",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3363249/least-10-students-wounded-thai-school-shooting?utm_source=rss_feed",
-    "published_date": "2026-08-07T03:55:48Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Temperatures could hit 37 degrees Celsius in Hong Kong over extremely hot weekend",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3363247/temperatures-could-hit-36-degrees-celsius-hong-kong-over-extremely-hot-weekend?utm_source=rss_feed",
-    "published_date": "2026-08-07T03:40:14Z",
     "category": "Local Events"
   }
 ]
