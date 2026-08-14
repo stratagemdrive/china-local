@@ -1,5 +1,12 @@
 [
   {
+    "title": "Multi-property owner loses HK$10 million after fraudster poses as possible tenant",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364106/multi-property-owner-loses-hk10-million-after-fraudster-poses-possible-tenant?utm_source=rss_feed",
+    "published_date": "2026-08-14T14:41:54Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "UN atrocity report adds friction to Myanmar junta’s diplomatic push for legitimacy",
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3364049/un-atrocity-report-adds-friction-myanmar-juntas-diplomatic-push-legitimacy?utm_source=rss_feed",
@@ -133,11 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "2.4 million Afghan girls banned from schools 5 years after Taliban takeover, UN says",
+    "title": "Chinese drone maker DJI gets another shot at Pentagon blacklist removal",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/article/3363701/24-million-afghan-girls-banned-schools-5-years-after-taliban-takeover-un-says?utm_source=rss_feed",
-    "published_date": "2026-08-11T17:33:36Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed",
+    "published_date": "2026-08-14T20:23:55Z",
+    "category": "Military"
   },
   {
     "title": "Nato jets shoot down foreign drone after it enters Latvian airspace",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Chinese, Indonesian navies hold drill east of Taiwan Island",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-13/Chinese-Indonesian-navies-hold-drill-east-of-Taiwan-Island-1Pyp2XSkE48/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-13T09:22:35Z",
-    "category": "Military"
+    "title": "Toxic gas leak kills 8 at Bangladesh ship-breaking yard",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3364101/toxic-gas-leak-kills-8-bangladesh-ship-breaking-yard?utm_source=rss_feed",
+    "published_date": "2026-08-14T14:06:54Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Philippines’ Marcos says China oil talks have ‘moved forward’ despite maritime row",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3364098/philippines-marcos-says-china-oil-talks-have-moved-forward-despite-south-china-sea-row?utm_source=rss_feed",
+    "published_date": "2026-08-14T13:16:38Z",
+    "category": "Energy"
   },
   {
     "title": "At least 7 killed in India after hydropower project tunnel collapses",
@@ -406,18 +420,46 @@
     "category": "Energy"
   },
   {
-    "title": "Trump extends Jones Act waiver for 90 days, narrows scope",
+    "title": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3363586/trump-extends-jones-act-waiver-90-days-narrows-scope?utm_source=rss_feed",
-    "published_date": "2026-08-10T22:06:50Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed",
+    "published_date": "2026-08-14T22:45:52Z",
+    "category": "Economy"
   },
   {
-    "title": "Russia says 13 killed in Ukraine drone attack on oil-refining city 900km from Moscow",
+    "title": "Italian police recover stolen Renoir, Cezanne and Matisse artworks worth millions",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3363560/russia-says-13-killed-ukraine-drone-attack-oil-refining-area-900km-moscow?utm_source=rss_feed",
-    "published_date": "2026-08-10T12:09:58Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/europe/article/3364116/italian-police-recover-stolen-renoir-cezanne-and-matisse-artworks-worth-millions?utm_source=rss_feed",
+    "published_date": "2026-08-14T17:48:25Z",
+    "category": "Economy"
+  },
+  {
+    "title": "URA posts HK$338 million operating surplus after three years of losses",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364109/ura-posts-hk338-million-operating-surplus-after-three-years-losses?utm_source=rss_feed",
+    "published_date": "2026-08-14T15:40:27Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China, Brazil to launch 24/7 disaster early warning satellite for South America",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america?utm_source=rss_feed",
+    "published_date": "2026-08-14T14:00:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US-China AI decoupling ‘manageable’ for trade – but tech curbs a ‘wild card’: Citi",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3364073/us-china-ai-decoupling-manageable-trade-tech-curbs-wild-card-citi?utm_source=rss_feed",
+    "published_date": "2026-08-14T13:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "For China, Trump’s new drone tariffs threaten to deepen trade rift with US",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3364062/china-trumps-new-drone-tariffs-threaten-deepen-trade-rift-us?utm_source=rss_feed",
+    "published_date": "2026-08-14T12:00:09Z",
+    "category": "Economy"
   },
   {
     "title": "Wrong radio frequency by Cathay crew led to Nato jet interception: report",
@@ -518,46 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "South Korea’s moon landing, quantum chips: Seoul bets big on post-AI economy",
+    "title": "Trump says he’ll soon declare Strait of Hormuz to be US territory",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3363902/south-koreas-moon-landing-quantum-chips-seoul-bets-big-post-ai-economy?utm_source=rss_feed",
-    "published_date": "2026-08-14T00:00:13Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3364120/trump-says-hell-soon-declare-strait-hormuz-be-us-territory?utm_source=rss_feed",
+    "published_date": "2026-08-14T21:02:13Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s STEM students turn to Singapore as Western study options shrink",
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3363892/chinas-stem-students-turn-singapore-western-study-options-shrink?utm_source=rss_feed",
-    "published_date": "2026-08-13T22:00:13Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3364119/jason-arday-ex-cambridge-professor-centre-plagiarism-scandal-found-dead?utm_source=rss_feed",
+    "published_date": "2026-08-14T20:41:32Z",
+    "category": "Local Events"
   },
   {
-    "title": "Bird remains found in engine after man nearly sucked out of window on Ryanair flight",
+    "title": "Iran war: Trump dismisses concerns over conditions on USS Abraham Lincoln aircraft carrier",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3363961/bird-remains-found-engine-after-man-nearly-sucked-out-window-ryanair-flight?utm_source=rss_feed",
-    "published_date": "2026-08-13T20:30:30Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3364117/iran-war-trump-dismisses-concerns-over-conditions-uss-abraham-lincoln-aircraft-carrier?utm_source=rss_feed",
+    "published_date": "2026-08-14T20:08:37Z",
+    "category": "Local Events"
   },
   {
-    "title": "US scholar questions assumptions behind 'China squeeze' narrative",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-13/US-scholar-questions-assumptions-behind-China-squeeze-narrative-1PA9A417yZq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-08-13T14:45:03Z",
-    "category": "Economy"
-  },
-  {
-    "title": "US scholar questions assumptions behind 'China squeeze' narrative",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-13/US-scholar-questions-assumptions-behind-China-squeeze-narrative-1PA9A417yZq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-13T14:45:03Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model",
+    "title": "Luigi Mangione pleads guilty in federal case, admits he killed US insurance CEO",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363927/alibaba-adds-commercial-restrictions-open-weight-qwen38-max-ai-model?utm_source=rss_feed",
-    "published_date": "2026-08-13T13:30:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3364111/luigi-mangione-pleads-guilty-federal-case-admits-killing-insurance-ceo?utm_source=rss_feed",
+    "published_date": "2026-08-14T16:01:59Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "How a US crackdown is upending plans for Chinese ‘birth tourists’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/policy/article/3364055/how-us-crackdown-upending-plans-chinese-birth-tourists?utm_source=rss_feed",
+    "published_date": "2026-08-14T15:00:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pilot dies after helicopter crash in German forest",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3364107/pilot-dies-after-helicopter-crash-german-forest?utm_source=rss_feed",
+    "published_date": "2026-08-14T14:52:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Bomb-disposal team, light public housing unit win chief executive’s award",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3364105/bomb-disposal-team-light-public-housing-unit-win-chief-executives-award?utm_source=rss_feed",
+    "published_date": "2026-08-14T14:42:01Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What does the first visit to the Kuril Islands by Vladimir Putin mean for China?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/article/3364100/what-does-first-visit-kuril-islands-vladimir-putin-mean-china?utm_source=rss_feed",
+    "published_date": "2026-08-14T13:42:55Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US team sent to Taiwan to train coastguards amid surge in mainland Chinese activity",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3364096/us-team-sent-taiwan-train-coastguards-amid-surge-mainland-chinese-activity?utm_source=rss_feed",
+    "published_date": "2026-08-14T12:09:00Z",
+    "category": "Local Events"
   },
   {
     "title": "Indonesian families of Lion Air crash victims suffer again, ‘predatory’ lawyer evades jail",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3364030/hong-kong-teens-will-fight-illness-incredibly-low-after-near-death-scares?utm_source=rss_feed",
     "published_date": "2026-08-14T08:12:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US organ donation organisation’s shutdown invokes Chinese students’ worst fears",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3364028/us-organ-donation-organisations-shutdown-invokes-chinese-students-worst-fears?utm_source=rss_feed",
-    "published_date": "2026-08-14T07:56:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Diamond buyer jailed for stealing HK$11 million in gems to fund gambling habit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364026/diamond-buyer-jailed-stealing-hk111-million-gems-fund-gambling-habit?utm_source=rss_feed",
-    "published_date": "2026-08-14T07:44:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Why does 'eat well' mean so much in China?",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-14/Why-does-eat-well-mean-so-much-in-China--1PBkS8c40Zq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-08-14T07:39:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese national jailed in Singapore for burgling luxury homes on first visit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3364023/chinese-national-jailed-singapore-burgling-luxury-homes-first-visit?utm_source=rss_feed",
-    "published_date": "2026-08-14T07:38:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Man admits molesting girlfriend’s 11-year-old daughter, taking over 200 photos, videos",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364021/man-admits-molesting-girlfriends-11-year-old-daughter-taking-over-200-photos-videos?utm_source=rss_feed",
-    "published_date": "2026-08-14T07:37:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "WTTC: China's gateway cities connect global visitors",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-14/WTTC-China-s-gateway-cities-connect-global-visitors-1PBiLBTvyla/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-08-14T07:30:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "WEF: AI reshapes travel for smarter, more immersive experiences",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-14/WEF-AI-reshapes-travel-for-smarter-more-immersive-experiences-1PBey1GDjhe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-08-14T07:30:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "BizTalk | AI-powered travel reshaping global tourism",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-14/BizTalk-AI-powered-travel-reshaping-global-tourism-1PBjWFJGPjW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-08-14T07:29:52Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "APEC Shenzhen: How the city connects China with the Asia-Pacific",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-14/APEC-Shenzhen-How-the-city-connects-China-with-the-Asia-Pacific-1PA5KTKoLhC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-08-14T07:29:50Z",
     "category": "Local Events"
   }
 ]
