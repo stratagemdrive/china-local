@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trump steps up stunts as US midterms loom",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3365723/trump-steps-stunts-us-midterms-loom?utm_source=rss_feed",
+    "published_date": "2026-08-29T19:01:41Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Hongkongers can use either ID or home return permit at revamped Huanggang Port",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3365700/hongkongers-can-use-either-id-or-home-return-permit-revamped-huanggang-port?utm_source=rss_feed",
@@ -133,11 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "IRGC: Hormuz Strait to stay closed if US does not accept Iran's terms",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-27/IRGC-Hormuz-Strait-to-stay-closed-if-US-does-not-accept-Iran-s-terms-1PWxjRhceyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-27T05:32:56Z",
-    "category": "Diplomacy"
+    "title": "North Korea’s defence minister dismissed in reshuffle of military leadership",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3365724/north-koreas-defence-minister-dismissed-reshuffle-military-leadership?utm_source=rss_feed",
+    "published_date": "2026-08-29T23:54:52Z",
+    "category": "Military"
+  },
+  {
+    "title": "Nepal floods: rescuers send air pipe into tunnel with trapped workers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3365721/nepal-floods-rescuers-send-air-pipe-tunnel-trapped-workers?utm_source=rss_feed",
+    "published_date": "2026-08-29T17:38:22Z",
+    "category": "Military"
   },
   {
     "title": "What Japan’s coming fighter jet deployment to India means for China",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/east-asia/article/3365527/south-korea-japan-and-us-set-joint-drills-despite-trump-cuts?utm_source=rss_feed",
     "published_date": "2026-08-28T03:35:37Z",
-    "category": "Military"
-  },
-  {
-    "title": "Japan to double security aid to 12 Indo-Pacific nations",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3365517/japan-double-security-aid-12-indo-pacific-nations?utm_source=rss_feed",
-    "published_date": "2026-08-28T02:35:06Z",
-    "category": "Military"
-  },
-  {
-    "title": "Thirty years of advancing equal opportunity",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/presented/news/hong-kong/topics/eocs-30th-anniversary/article/3364748/thirty-years-advancing-equal-opportunity?utm_source=rss_feed",
-    "published_date": "2026-08-28T02:00:08Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,20 @@
     "category": "Energy"
   },
   {
+    "title": "‘Chilling effect’: Japan’s whistle-blowers weigh high price of speaking out",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3365629/chilling-effect-japans-whistle-blowers-weigh-high-price-speaking-out?utm_source=rss_feed",
+    "published_date": "2026-08-30T00:00:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Jason Arday’s death is not just a ‘woke Cambridge’ tragedy",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3365241/jason-ardays-death-not-just-woke-cambridge-tragedy?utm_source=rss_feed",
+    "published_date": "2026-08-29T21:30:07Z",
+    "category": "Economy"
+  },
+  {
     "title": "Japan probes 39kg of bread dumped in national park",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/east-asia/article/3365716/japan-probes-39kg-bread-dumped-national-park?utm_source=rss_feed",
@@ -546,18 +560,32 @@
     "category": "Economy"
   },
   {
-    "title": "‘Never sell love for money’: China actress Jing Tian hits back at crypto mogul Justin Sun’s claims",
+    "title": "Former UN official says Hong Kong’s low fertility offers opportunity. Here’s how",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3365611/never-sell-love-money-china-actress-jing-tian-hits-back-crypto-mogul-justin-suns-claims?utm_source=rss_feed",
-    "published_date": "2026-08-28T10:11:33Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3365715/former-un-official-says-hong-kongs-low-fertility-offers-opportunity-heres-how?utm_source=rss_feed",
+    "published_date": "2026-08-30T01:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "How Singapore investors are lured by foreign-stock scams",
+    "title": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3365604/how-singapore-investors-are-lured-foreign-stock-scams?utm_source=rss_feed",
-    "published_date": "2026-08-28T09:41:52Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
+    "published_date": "2026-08-29T22:00:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Far-right activist Milo Yiannopoulos deported after immigration arrest in US",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3365722/far-right-activist-milo-yiannopoulos-deported-after-immigration-arrest-us?utm_source=rss_feed",
+    "published_date": "2026-08-29T18:08:03Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Man held after laundry capsules dumped into pond, killing catfish and injuring turtles",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365720/man-held-after-laundry-capsules-dumped-pond-killing-catfish-and-injuring-turtles?utm_source=rss_feed",
+    "published_date": "2026-08-29T15:58:28Z",
+    "category": "Local Events"
   },
   {
     "title": "Chinese coastguard has 0.3% chance of using weapons in disputed waters, war game suggests",
@@ -669,34 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3365686/china-nepal-floods-rescuers-pull-2-survivors-out-rubble-near-tibet-border-crossing?utm_source=rss_feed",
     "published_date": "2026-08-29T04:47:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Why some Wang Fuk Court owners have refused buy-back deal even as deadline nears",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3365680/why-some-wang-fuk-court-owners-have-refused-buy-back-deal-even-deadline-nears?utm_source=rss_feed",
-    "published_date": "2026-08-29T04:00:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How the Philippines missed a Korean gambling racket worth US$3.8 billion",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3365619/how-philippines-missed-korean-gambling-racket-worth-us38-billion?utm_source=rss_feed",
-    "published_date": "2026-08-29T02:30:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US judge throws out confessions of alleged 9/11 mastermind: report",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-29/US-judge-throws-out-confessions-of-alleged-9-11-mastermind-report-1PZQSUCZdZe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-29T02:17:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nepali envoy says mudslide response coordinated with China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-08-29/Nepali-envoy-says-mudslide-response-coordinated-with-China-1PZLGnA0iCA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-08-29T02:09:46Z",
     "category": "Local Events"
   }
 ]
