@@ -1,5 +1,19 @@
 [
   {
+    "title": "New Zealand ‘must never be seen as a proxy’, former PM Helen Clark warns",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3366103/new-zealand-must-never-be-seen-proxy-former-pm-warns?utm_source=rss_feed",
+    "published_date": "2026-09-03T00:00:15Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "SCO takes landmark stand on nuclear security as Iran comes under renewed attack",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366108/sco-takes-landmark-stand-nuclear-security-iran-comes-under-renewed-attack?utm_source=rss_feed",
+    "published_date": "2026-09-02T15:00:08Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Israel ready to remove Palestinians in Gaza once US approves, minister says",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3366150/israel-ready-remove-palestinians-gaza-once-us-approves-minister-says?utm_source=rss_feed",
@@ -123,20 +137,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/policy/article/3365980/call-trump-xi-ai-safety-talks-comes-state-media-slams-us-ai-governance?utm_source=rss_feed",
     "published_date": "2026-09-01T12:00:10Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Xi leaves Kyrgyzstan after SCO summit, state visit",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-01/Xi-leaves-Kyrgyzstan-after-SCO-summit-state-visit-1Q5uEEiVfXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-01T11:49:35Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Xi leaves Kyrgyzstan after SCO summit, state visit",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-01/Xi-leaves-Kyrgyzstan-after-SCO-summit-state-visit-1Q5uEEiVfXy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-01T11:49:35Z",
     "category": "Diplomacy"
   },
   {
@@ -280,6 +280,13 @@
     "category": "Military"
   },
   {
+    "title": "2 Filipino sailors killed in Iran’s attack on vessel, Saudi Arabia says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366151/2-filipino-sailors-killed-irans-attack-vessel-saudi-arabia-says?utm_source=rss_feed",
+    "published_date": "2026-09-02T15:10:11Z",
+    "category": "Energy"
+  },
+  {
     "title": "US Chevron to expand Venezuela oil operations with US$7 billion plan",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3366144/us-chevron-expand-venezuela-oil-operations-us7-billion-plan?utm_source=rss_feed",
@@ -413,11 +420,53 @@
     "category": "Energy"
   },
   {
-    "title": "Xi, Putin to meet in Bishkek for Power of Siberia 2 pipeline talks: Kremlin",
+    "title": "China launches largest-ever academic misconduct crackdown after Student Geng scandal",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3365710/xi-putin-meet-bishkek-power-siberia-2-pipeline-talks-kremlin?utm_source=rss_feed",
-    "published_date": "2026-08-29T13:00:11Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/science/article/3366106/china-launches-largest-ever-academic-misconduct-crackdown-after-student-geng-scandal?utm_source=rss_feed",
+    "published_date": "2026-09-03T01:00:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Rare large-scale MTR topside tender draws heavyweight Hong Kong developers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/property/article/3366126/rare-large-scale-mtr-topside-tender-draws-heavyweight-hong-kong-developers?utm_source=rss_feed",
+    "published_date": "2026-09-03T00:00:19Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump calls Xi’s Washington visit ‘exciting’, but claims US leads China in AI race",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366162/trump-calls-xis-washington-visit-exciting-claims-us-leads-china-ai-race?utm_source=rss_feed",
+    "published_date": "2026-09-02T23:13:30Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US lawmakers target China, birth tourism as citizenship fight intensifies",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/politics/article/3366161/us-lawmakers-target-china-birth-tourism-citizenship-fight-intensifies?utm_source=rss_feed",
+    "published_date": "2026-09-02T22:18:42Z",
+    "category": "Economy"
+  },
+  {
+    "title": "3 key belt and road connectivities that Hong Kong drives",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365366/3-key-belt-and-road-connectivities-hong-kong-drives?utm_source=rss_feed",
+    "published_date": "2026-09-02T21:30:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Dutch shift 86 tonnes of gold from US and Canada to UK over ‘geopolitical unrest’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366158/dutch-shift-86-tonnes-gold-us-and-canada-uk-over-geopolitical-unrest?utm_source=rss_feed",
+    "published_date": "2026-09-02T18:31:29Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Vietnam arrests deputy minister over probe into huge bribes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366153/vietnam-arrests-deputy-minister-over-probe-huge-bribes?utm_source=rss_feed",
+    "published_date": "2026-09-02T15:24:40Z",
+    "category": "Economy"
   },
   {
     "title": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
@@ -511,53 +560,39 @@
     "category": "Economy"
   },
   {
-    "title": "China’s multipolar world order must prove it can be peaceful",
+    "title": "Chinese entrepreneur launches itch-scratching services, earning US$15,000 a month",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3365750/chinas-multipolar-world-order-must-prove-it-can-be-peaceful?utm_source=rss_feed",
-    "published_date": "2026-09-02T01:30:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366154/chinese-entrepreneur-launches-itch-scratching-services-earning-us15000-month?utm_source=rss_feed",
+    "published_date": "2026-09-03T01:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "Enflame’s US$900m IPO tests appetite for China’s ‘little dragon’ AI chipmakers",
+    "title": "Her nude became a sticker: Hong Kong women say image abuse thrives despite law",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/big-tech/article/3366025/enflames-us900m-ipo-tests-appetite-chinas-little-dragon-ai-chipmakers?utm_source=rss_feed",
-    "published_date": "2026-09-02T00:30:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366152/my-nude-became-sticker-hong-kong-women-say-image-abuse-thrives-despite-law?utm_source=rss_feed",
+    "published_date": "2026-09-03T00:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "China Pushes for Homes to Be Completed Before They’re Sold",
-    "source": "Sixth Tone",
-    "url": "https://www.sixthtone.com/news/1018976/China Pushes for Homes to Be Completed Before They’re Sold",
-    "published_date": "2026-09-02T00:00:00Z",
-    "category": "Economy"
-  },
-  {
-    "title": "G20 finance ministers wrap up meeting in US state of North Carolina",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-09-02/G20-finance-ministers-wrap-up-meeting-in-US-state-of-North-Carolina-1Q6jasvJImQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-01T23:11:19Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Congress advances new bill to give US edge in open-source AI race with China",
+    "title": "Trump to speak on both nights of Republican midterm convention amid turnout concerns",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/economy-trade-business/article/3366035/congress-advances-new-bill-give-us-edge-open-source-ai-race-china?utm_source=rss_feed",
-    "published_date": "2026-09-01T21:08:28Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366163/trump-speak-both-nights-republican-midterm-convention-amid-turnout-concerns?utm_source=rss_feed",
+    "published_date": "2026-09-02T23:43:48Z",
+    "category": "Local Events"
   },
   {
-    "title": "UK’s Burnham pledges to restore hope as he makes House of Commons debut as PM",
+    "title": "Trump ‘happy’ Prince Harry and Meghan left US: ‘I was not a fan’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3366034/uks-burnham-pledges-restore-hope-he-makes-house-commons-debut-pm?utm_source=rss_feed",
-    "published_date": "2026-09-01T20:40:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366160/trump-happy-prince-harry-and-meghan-left-us-i-was-not-fan?utm_source=rss_feed",
+    "published_date": "2026-09-02T19:50:46Z",
+    "category": "Local Events"
   },
   {
-    "title": "Africa Food Systems Forum opens in Rwanda",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-09-02/Africa-Food-Systems-Forum-opens-in-Rwanda-1Q5jvDunAyI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-01T18:04:53Z",
-    "category": "Economy"
+    "title": "Iran war: Trump floats renaming Strait of Hormuz as ‘Trump Strait’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366156/iran-war-trump-floats-renaming-strait-hormuz-trump-strait?utm_source=rss_feed",
+    "published_date": "2026-09-02T16:41:43Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong police arrest clinic operator over sales of bogus ‘cancer vaccine’",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/people/article/3366086/former-malaysian-minister-arrested-state-haj-fund-corruption-probe?utm_source=rss_feed",
     "published_date": "2026-09-02T07:37:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "9 children, 5 others injured after 2 buses collide at Hong Kong primary school",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3366084/least-14-injured-after-2-buses-collide-hong-kong-primary-school?utm_source=rss_feed",
-    "published_date": "2026-09-02T07:21:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese research team may have cracked secret to crossbreeding Asian and African rice",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3366073/chinese-research-team-may-have-cracked-secret-crossbreeding-asian-and-african-rice?utm_source=rss_feed",
-    "published_date": "2026-09-02T06:20:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "CityU investigates after clip shows man carrying woman in bra, shorts at disco night",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3366064/cityu-vows-zero-tolerance-orientation-disco-night-video-triggers-probe?utm_source=rss_feed",
-    "published_date": "2026-09-02T05:34:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US journalist jailed for 2 years for working as a Chinese agent",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3366062/us-journalist-jailed-2-years-working-chinese-agent?utm_source=rss_feed",
-    "published_date": "2026-09-02T05:07:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Flood-hit Nepal urges tourists to return: ‘our mountain trails are waiting for you’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3366061/flood-hit-nepal-urges-tourists-return-our-mountain-trails-are-waiting-you?utm_source=rss_feed",
-    "published_date": "2026-09-02T05:05:02Z",
     "category": "Local Events"
   }
 ]
