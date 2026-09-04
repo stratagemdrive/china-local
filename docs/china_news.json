@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ecuador’s ex-president and Chinese ambassador seek to avoid jail over belt and road dam",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3366283/ecuadors-ex-president-and-chinese-ambassador-seek-avoid-jail-over-belt-and-road-dam?utm_source=rss_feed",
+    "published_date": "2026-09-03T21:36:52Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Mexican foreign minister to meet Wang Yi in China as US demands trade ties rollback",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3366265/mexican-foreign-minister-meet-wang-yi-china-us-demands-trade-ties-rollback?utm_source=rss_feed",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "China-Egypt cultural exchange event highlights bilateral cooperation",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-02/China-Egypt-cultural-exchange-event-highlights-bilateral-cooperation-1Q73pz42MI8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-02T10:04:09Z",
-    "category": "Diplomacy"
+    "title": "‘Point of grievance’: Philippines urged to rethink school safety approach",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3366267/point-grievance-philippines-urged-rethink-school-safety-approach?utm_source=rss_feed",
+    "published_date": "2026-09-04T00:00:16Z",
+    "category": "Military"
+  },
+  {
+    "title": "US urged to consider military strikes to stop China achieving AGI first",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
+    "published_date": "2026-09-03T22:13:33Z",
+    "category": "Military"
+  },
+  {
+    "title": "Holdout juror preventing verdict in Lindsay Clancy’s US child murder trial, lawyer says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366282/holdout-juror-preventing-verdict-lindsay-clancys-murder-trial-lawyer-says?utm_source=rss_feed",
+    "published_date": "2026-09-03T21:04:00Z",
+    "category": "Military"
   },
   {
     "title": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
@@ -259,25 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "South China Sea island build-up heightens Vietnam’s security concerns",
+    "title": "Mercury-bound spacecraft on home stretch of nearly decade-long voyage: ‘brilliant moment’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3366080/south-china-sea-island-build-heightens-vietnams-security-concerns?utm_source=rss_feed",
-    "published_date": "2026-09-02T08:00:07Z",
-    "category": "Military"
-  },
-  {
-    "title": "Typhoon Saudel regenerates as tropical storm over South China Sea",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-02/Typhoon-Saudel-regenerates-as-tropical-storm-over-South-China-Sea-1Q6N3ECgXgk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-02T07:19:03Z",
-    "category": "Military"
-  },
-  {
-    "title": "Chinese mainland slams Taiwan authorities over record defense budget",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-02/Chinese-mainland-slams-Taiwan-authorities-over-record-defense-budget-1Q6IX9TyQpy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-02T05:55:41Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/europe/article/3366279/mercury-bound-spacecraft-home-stretch-nearly-decade-long-voyage-brilliant-moment?utm_source=rss_feed",
+    "published_date": "2026-09-03T17:29:20Z",
+    "category": "Energy"
   },
   {
     "title": "Orangutan in Indonesia dies after exposure to haze fires, abnormalities in lungs",
@@ -413,11 +420,11 @@
     "category": "Energy"
   },
   {
-    "title": "Could joint oil and gas projects help ease Beijing and Manila’s South China Sea tensions?",
+    "title": "ICE officer charged with lying to investigators in shooting of Venezuelan man",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3365709/could-joint-oil-and-gas-projects-help-ease-beijing-and-manilas-south-china-sea-tensions?utm_source=rss_feed",
-    "published_date": "2026-08-30T06:00:14Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366280/ice-officer-charged-lying-investigators-shooting-venezuelan-man?utm_source=rss_feed",
+    "published_date": "2026-09-03T18:34:28Z",
+    "category": "Economy"
   },
   {
     "title": "Hong Kong regulator reclassifies certain funds with exposure to private markets",
@@ -553,11 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "Five years on Beijing Stock Exchange fuels China's hard tech push",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-02/Five-years-on-Beijing-Stock-Exchange-fuels-China-s-hard-tech-push-1Q726jmmdSE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-09-02T10:35:01Z",
-    "category": "Economy"
+    "title": "Faster and cheaper: why Hongkongers are heading north for medical care",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366276/faster-and-cheaper-why-hongkongers-are-heading-north-medical-care?utm_source=rss_feed",
+    "published_date": "2026-09-04T00:30:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Chinese-American community alarmed after Chinese national dies in ICE custody",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366287/chinese-american-community-alarmed-after-chinese-national-dies-ice-custody?utm_source=rss_feed",
+    "published_date": "2026-09-03T23:42:30Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong poised to top New York, London in finance-hub ranking: GFCI creator",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3366230/hong-kong-poised-top-new-york-london-finance-hub-ranking-gfci-creator?utm_source=rss_feed",
+    "published_date": "2026-09-03T23:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump takes mail-in ballot fight to US Supreme Court",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366285/trump-takes-mail-ballot-fight-us-supreme-court?utm_source=rss_feed",
+    "published_date": "2026-09-03T22:43:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Scientists studying cockroach milk and nose-blowing win Ig Nobel prizes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366281/scientists-studying-cockroach-milk-and-nose-blowing-win-ig-nobel-prizes?utm_source=rss_feed",
+    "published_date": "2026-09-03T20:07:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Just 4 of 28 lifts at Queen Mary Hospital block set for service once repairs done",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366278/just-4-28-lifts-queen-mary-hospital-block-set-service-once-repairs-done?utm_source=rss_feed",
+    "published_date": "2026-09-03T15:34:38Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong Nepalese man searches for cousin missing in flood: ‘I cannot sleep’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366277/i-cannot-sleep-hong-kong-nepalese-man-searches-cousin-missing-flood?utm_source=rss_feed",
+    "published_date": "2026-09-03T15:23:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China-Singapore security team claims breakthrough in hacking Starlink terminals",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals?utm_source=rss_feed",
+    "published_date": "2026-09-03T15:00:08Z",
+    "category": "Local Events"
   },
   {
     "title": "Outcry over ‘weapons of love’ forces Hong Kong charity to scrap student contest",
@@ -641,62 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3366237/chinas-rare-earth-cerium-drug-can-kill-gout-pains-once-and-all-scientists?utm_source=rss_feed",
     "published_date": "2026-09-03T10:09:01Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "As hordes head to Shenzhen, Hong Kong bars, restaurants sign up for more floor space",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/article/3366205/hordes-head-shenzhen-hong-kong-bars-restaurants-sign-more-floor-space?utm_source=rss_feed",
-    "published_date": "2026-09-03T10:00:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Nepal is not closed’: tour operators battle flood fallout, urge visitors to return",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3366231/nepal-not-closed-tour-operators-battle-flood-fallout-urge-visitors-return?utm_source=rss_feed",
-    "published_date": "2026-09-03T10:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Disgraced lawmaker William Wong to face 4 charges, including dangerous driving",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366238/disgraced-lawmaker-william-wong-face-4-charges-including-dangerous-driving?utm_source=rss_feed",
-    "published_date": "2026-09-03T09:16:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "75.8% of flat owners at block unscathed by Tai Po fire agree to sell to authorities",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3366233/758-flat-owners-block-unscathed-tai-po-fire-agree-sell-authorities?utm_source=rss_feed",
-    "published_date": "2026-09-03T09:01:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Louis Koo, his production house sued for HK$149 million over failed loan repayment",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366225/louis-koo-his-production-house-sued-hk149-million-over-failed-loan-repayment?utm_source=rss_feed",
-    "published_date": "2026-09-03T08:31:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Operators of over 60% of subdivided flats apply for 3-year window to meet rules",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3366201/operators-over-60-subdivided-flats-apply-3-year-grace-period-meet-rules?utm_source=rss_feed",
-    "published_date": "2026-09-03T06:14:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Luxury homes in Singapore’s largest money laundering case hit the auction block",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366198/luxury-homes-singapores-largest-money-laundering-case-hit-auction-block?utm_source=rss_feed",
-    "published_date": "2026-09-03T06:03:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong considers DNA testing amid concerns over ‘fighting dog’ classification",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3366195/hong-kong-considers-dna-testing-amid-concerns-over-fighting-dog-classification?utm_source=rss_feed",
-    "published_date": "2026-09-03T05:35:20Z",
     "category": "Local Events"
   }
 ]
