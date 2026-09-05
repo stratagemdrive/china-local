@@ -1,5 +1,12 @@
 [
   {
+    "title": "UN adopts new map: Africa bigger, North America and Europe smaller",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/article/3366446/un-adopts-new-map-africa-bigger-north-america-and-europe-smaller?utm_source=rss_feed",
+    "published_date": "2026-09-04T18:58:44Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China and South Korea accuse each other of undermining key national principles",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3366418/china-and-south-korea-accuse-each-other-undermining-key-principles?utm_source=rss_feed",
@@ -129,13 +136,6 @@
     "title": "Xi's Kyrgyzstan visit promotes permanent friendship, says Chinese FM",
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-09-03/Xi-s-Kyrgyzstan-visit-promotes-permanent-friendship-says-Chinese-FM-1Q8In0U2geI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-03T13:19:52Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Xi's Kyrgyzstan visit promotes permanent friendship, says Chinese FM",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-03/Xi-s-Kyrgyzstan-visit-promotes-permanent-friendship-says-Chinese-FM-1Q8In0U2geI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-09-03T13:19:52Z",
     "category": "Diplomacy"
   },
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "What Sputnik couldn’t do to American science, Beijing has",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3366099/what-sputnik-couldnt-do-american-science-beijing-has?utm_source=rss_feed",
+    "published_date": "2026-09-04T21:30:04Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump threatens to cut trade with some countries if Fed doesn’t lower rates",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366445/trump-threatens-cut-trade-some-countries-if-fed-doesnt-lower-rates?utm_source=rss_feed",
+    "published_date": "2026-09-04T17:38:40Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US job market rebounds with 162,000 new jobs, far surpassing expectations",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/economy-trade-business/article/3366441/us-job-market-rebounds-162000-new-jobs-unemployment-rate-stays-41-cent?utm_source=rss_feed",
+    "published_date": "2026-09-04T14:54:18Z",
+    "category": "Economy"
+  },
+  {
     "title": "IVF clinic’s embryo specimen mix-up linked to ‘intentional unlawful conduct’",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366438/ivf-clinics-embryo-specimen-mix-linked-intentional-unlawful-conduct?utm_source=rss_feed",
@@ -539,25 +560,53 @@
     "category": "Economy"
   },
   {
-    "title": "Experts: Xi's state visit to inject new momentum into China-Egypt ties",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-03/Experts-Xi-s-state-visit-to-inject-new-momentum-into-China-Egypt-ties-1Q8lKBGIBMI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-03T12:27:18Z",
-    "category": "Economy"
+    "title": "Silver linings: in Southeast Asia, ageing is big business",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3366402/silver-linings-southeast-asia-ageing-big-business?utm_source=rss_feed",
+    "published_date": "2026-09-05T00:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "Experts: Xi's state visit to inject new momentum into China-Egypt ties",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-03/Experts-Xi-s-state-visit-to-inject-new-momentum-into-China-Egypt-ties-1Q8lKBGIBMI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-03T12:27:18Z",
-    "category": "Economy"
+    "title": "Tetris says it didn’t give White House permission for ‘Build the Wall’ game",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366448/tetris-says-it-didnt-give-white-house-permission-build-wall-game?utm_source=rss_feed",
+    "published_date": "2026-09-04T23:57:46Z",
+    "category": "Local Events"
   },
   {
-    "title": "China outlines new five-year plan for sports powerhouse drive",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-03/China-outlines-new-five-year-plan-for-sports-powerhouse-drive-1Q8EZsYNdNS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-03T12:14:13Z",
-    "category": "Economy"
+    "title": "Talk is growing of a Tesla-SpaceX merger. Will geopolitics throw a spanner in the works?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-war/article/3366387/talk-growing-tesla-spacex-merger-will-geopolitics-throw-spanner-works?utm_source=rss_feed",
+    "published_date": "2026-09-04T22:00:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Mistrial declared in Lindsay Clancy child killings case",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366447/mistrial-declared-lindsay-clancy-child-killings-case?utm_source=rss_feed",
+    "published_date": "2026-09-04T19:22:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "5 EU nations plan to send rejected migrants to non-EU ‘return hubs’, target 2027",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366443/5-eu-nations-plan-send-rejected-migrants-non-eu-return-hubs-target-2027?utm_source=rss_feed",
+    "published_date": "2026-09-04T15:55:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Why the EU is giving Arctic shipping the cold shoulder as China and Russia push ahead",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366324/why-eu-giving-arctic-shipping-cold-shoulder-china-and-russia-push-ahead?utm_source=rss_feed",
+    "published_date": "2026-09-04T15:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "2 floors of Rumsey Street car park to close for 6 weeks for Interpol meeting use",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366440/2-floors-rumsey-street-car-park-close-6-weeks-interpol-meeting-use?utm_source=rss_feed",
+    "published_date": "2026-09-04T14:53:58Z",
+    "category": "Local Events"
   },
   {
     "title": "Dairy Queen to make Hong Kong comeback with 4 stores. Is it scooping up cheap rents?",
@@ -648,55 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3366341/hong-kong-proposes-grade-2-heritage-status-kennedy-town-selfie-spot-sea-wall?utm_source=rss_feed",
     "published_date": "2026-09-04T06:27:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Snow in Malaysia? Viral highway fun dampened by soapy truth",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366331/snow-malaysia-viral-highway-fun-dampened-soapy-truth?utm_source=rss_feed",
-    "published_date": "2026-09-04T05:44:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "White House video games depict migrant captures, building border wall",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366329/white-house-launches-video-games-depicting-migrant-arrests-and-border-walls?utm_source=rss_feed",
-    "published_date": "2026-09-04T05:29:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s Xi eyes Apec trilateral; no outrunning deadly Nepal floods: SCMP’s 7 highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/article/3366291/chinas-xi-eyes-apec-trilateral-no-outrunning-deadly-nepal-floods-scmps-7-highlights?utm_source=rss_feed",
-    "published_date": "2026-09-04T04:15:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Cathay Pacific extends Dubai and Riyadh flight suspension through November",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3366308/cathay-pacific-extends-dubai-and-riyadh-flight-suspension-through-november?utm_source=rss_feed",
-    "published_date": "2026-09-04T04:04:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China stands to gain from US visa restrictions targeting African countries",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3366306/china-stands-gain-us-visa-restrictions-targeting-african-countries?utm_source=rss_feed",
-    "published_date": "2026-09-04T03:59:52Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Zelenskyy says US to hold separate talks in Moscow and Kyiv",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-04/Zelenskyy-says-US-to-hold-separate-talks-in-Moscow-and-Kyiv-1Q9QSbDbrTa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-04T02:46:59Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US strikes kill 18, injure 142: Iran’s Health Ministry",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-04/US-strikes-kill-18-injure-142-Iran-s-Health-Ministry-1Q9NPmSfOfK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-04T02:44:03Z",
     "category": "Local Events"
   }
 ]
