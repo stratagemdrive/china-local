@@ -1,5 +1,12 @@
 [
   {
+    "title": "Argentina threatens to sanction oil projects around Falkland Islands",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3366511/argentina-threatens-sanction-oil-projects-around-falkland-islands?utm_source=rss_feed",
+    "published_date": "2026-09-05T23:46:54Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Taiwan remains Asia’s ‘most dangerous’ issue, former Singaporean diplomat warns",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3366488/taiwan-remains-asias-most-dangerous-issue-former-singaporean-diplomat-warns?utm_source=rss_feed",
@@ -133,11 +140,32 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese FM: Xi's proposal offers Chinese solution for Mideast peace",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-03/Chinese-FM-Xi-s-proposal-offers-Chinese-solution-for-Mideast-peace-1Q8SlibQQP6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-03T14:20:30Z",
-    "category": "Diplomacy"
+    "title": "Commemoration held for late Serb war criminal Ratko Mladic",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366507/commemoration-held-late-serb-war-criminal-ratko-mladic?utm_source=rss_feed",
+    "published_date": "2026-09-05T19:57:58Z",
+    "category": "Military"
+  },
+  {
+    "title": "2 pilots killed after Greek air force plane crashes at annual air show",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366502/2-pilots-killed-after-greek-air-force-plane-crashes-annual-air-show?utm_source=rss_feed",
+    "published_date": "2026-09-05T17:07:27Z",
+    "category": "Military"
+  },
+  {
+    "title": "US strikes 3 Iranian oil tankers after warships targeted, military says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366498/us-disables-or-destroys-3-iran-oil-tankers-after-warships-targeted?utm_source=rss_feed",
+    "published_date": "2026-09-05T14:59:57Z",
+    "category": "Military"
+  },
+  {
+    "title": "How Asian shipyards in Japan, Korea and Philippines keep US warships battle ready",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3366489/how-asian-shipyards-japan-korea-and-philippines-keep-us-warships-battle-ready?utm_source=rss_feed",
+    "published_date": "2026-09-05T14:00:06Z",
+    "category": "Military"
   },
   {
     "title": "Chinese man, Nepali woman found alive 10 days after flood",
@@ -249,34 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-09-04/news-1Q9VRjTXr6E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-09-04T03:34:44Z",
-    "category": "Military"
-  },
-  {
-    "title": "‘Point of grievance’: Philippines urged to rethink school safety approach",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3366267/point-grievance-philippines-urged-rethink-school-safety-approach?utm_source=rss_feed",
-    "published_date": "2026-09-04T00:00:16Z",
-    "category": "Military"
-  },
-  {
-    "title": "US urged to consider military strikes to stop China achieving AGI first",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
-    "published_date": "2026-09-03T22:13:33Z",
-    "category": "Military"
-  },
-  {
-    "title": "Holdout juror preventing verdict in Lindsay Clancy’s US child murder trial, lawyer says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366282/holdout-juror-preventing-verdict-lindsay-clancys-murder-trial-lawyer-says?utm_source=rss_feed",
-    "published_date": "2026-09-03T21:04:00Z",
-    "category": "Military"
-  },
-  {
-    "title": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
-    "published_date": "2026-09-03T14:00:08Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "German rocket reaches space as Europe enters satellite launch race",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366509/german-rocket-reaches-space-europe-enters-satellite-launch-race?utm_source=rss_feed",
+    "published_date": "2026-09-05T22:06:47Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Competitors dig deep at Hungarian gravedigging contest",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366506/competitors-dig-deep-hungarian-gravedigging-contest?utm_source=rss_feed",
+    "published_date": "2026-09-05T19:27:47Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Egypt sentences TV presenter, 11 others to death in drugs case",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3366504/egypt-sentences-tv-presenter-11-others-death-drugs-case?utm_source=rss_feed",
+    "published_date": "2026-09-05T17:38:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366501/us-ambassador-calls-violent-israeli-settlers-terrorists-after-weeks-west-bank-unrest?utm_source=rss_feed",
+    "published_date": "2026-09-05T16:50:54Z",
+    "category": "Economy"
+  },
+  {
     "title": "Singapore investigates racism related to China-Nepal disaster, Air India investment",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366484/singapore-investigates-racism-related-nepal-tibet-disaster-air-india-investment?utm_source=rss_feed",
@@ -532,32 +560,39 @@
     "category": "Economy"
   },
   {
-    "title": "Thailand suspends building of 49 data centres as resource strain concerns grow",
+    "title": "Viral Jennie clip tests limits of South Korea’s AI deepfake laws",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366435/thailand-suspends-building-49-data-centres-resource-strain-concerns-grow?utm_source=rss_feed",
-    "published_date": "2026-09-04T13:40:27Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/people/article/3366411/viral-jennie-clip-tests-limits-south-koreas-ai-deepfake-laws?utm_source=rss_feed",
+    "published_date": "2026-09-06T00:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "CGTN, Canadian journalists explore better-life tech in Dongguan",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-04/CGTN-Canadian-journalists-explore-better-life-tech-in-Dongguan-1Qahy7Odhpm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-04T12:45:52Z",
-    "category": "Economy"
+    "title": "UK’s Prince William to represent King Charles at funeral of Norway’s King Harald",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366510/uks-prince-william-represent-king-charles-funeral-norways-king-harald?utm_source=rss_feed",
+    "published_date": "2026-09-05T22:41:41Z",
+    "category": "Local Events"
   },
   {
-    "title": "The US’ dangerous reversion to imperialism in Latin America",
+    "title": "Gen Z is turning filial piety into a career path",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/world-opinion/article/3366092/us-dangerous-reversion-imperialism-latin-america?utm_source=rss_feed",
-    "published_date": "2026-09-04T12:30:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3365271/gen-z-turning-filial-piety-career-path?utm_source=rss_feed",
+    "published_date": "2026-09-05T21:30:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "5 ParknShop and contractor staff who forged pay claims plead guilty to fraud",
+    "title": "At least 22 dead, several injured, in fire at DR Congo wedding reception",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366412/5-parknshop-and-contractor-staff-who-forged-pay-claims-plead-guilty-fraud?utm_source=rss_feed",
-    "published_date": "2026-09-04T10:45:08Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/africa/article/3366508/least-22-dead-several-injured-fire-dr-congo-wedding-party?utm_source=rss_feed",
+    "published_date": "2026-09-05T20:49:01Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong’s first astronaut Lai Ka-ying to give live lecture from space",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3366497/hong-kongs-first-astronaut-lai-ka-ying-give-live-lecture-space?utm_source=rss_feed",
+    "published_date": "2026-09-05T14:31:36Z",
+    "category": "Local Events"
   },
   {
     "title": "UK government condemns masked anti-immigrant protesters blocking Dover port",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time?utm_source=rss_feed",
     "published_date": "2026-09-05T07:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Middle East war drives 35% rise in Hongkongers’ overseas help requests",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3366465/middle-east-war-drives-35-rise-hongkongers-overseas-help-requests?utm_source=rss_feed",
-    "published_date": "2026-09-05T06:45:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins?utm_source=rss_feed",
-    "published_date": "2026-09-05T06:21:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s leader outlines 3 key new growth drivers ahead of first 5-year plan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366460/hong-kongs-leader-outlines-3-key-new-growth-drivers-first-five-year-plan?utm_source=rss_feed",
-    "published_date": "2026-09-05T04:44:50Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Saudel: days of flooding trigger fatal landslide in central China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3366459/typhoon-saudel-days-flooding-trigger-fatal-landslide-central-china?utm_source=rss_feed",
-    "published_date": "2026-09-05T04:44:34Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Bangladesh measles outbreak nears 1,000 child deaths as hospital wards overflow",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3366453/bangladesh-measles-outbreak-nears-1000-child-deaths-hospital-wards-overflow?utm_source=rss_feed",
-    "published_date": "2026-09-05T03:45:07Z",
     "category": "Local Events"
   }
 ]
