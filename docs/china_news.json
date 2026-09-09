@@ -1,5 +1,19 @@
 [
   {
+    "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366833/us-secretary-state-rubio-arrives-colombia-clarify-china-ties-sign-minerals-deal?utm_source=rss_feed",
+    "published_date": "2026-09-08T19:53:40Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Putin and Trump discuss Ukraine in ‘extremely frank’ call",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3366832/putin-and-trump-discuss-ukraine-extremely-frank-call?utm_source=rss_feed",
+    "published_date": "2026-09-08T19:21:39Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Could China sanction US for illegal international seabed mining? A study says yes",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3366759/could-china-sanction-us-illegal-international-seabed-mining-study-says-yes?utm_source=rss_feed",
@@ -126,18 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "UN rights chief warns AI could pose ‘existential’ risk to humanity’",
+    "title": "No foreign soldiers: Japan shuts down proposal to fix military shortfall",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3366672/un-rights-chief-warns-ai-could-pose-existential-risk-humanity?utm_source=rss_feed",
-    "published_date": "2026-09-07T13:15:50Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3366770/no-foreign-soldiers-japan-shuts-down-proposal-fix-military-shortfall?utm_source=rss_feed",
+    "published_date": "2026-09-09T00:00:13Z",
+    "category": "Military"
   },
   {
-    "title": "China vows deeper cooperation with Qatar in energy, AI and Middle East de-escalation",
+    "title": "How Japan is digging in to deter – and withstand – a conflict over Taiwan",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3366671/china-vows-deeper-cooperation-qatar-energy-ai-and-middle-east-de-escalation?utm_source=rss_feed",
-    "published_date": "2026-09-07T13:00:26Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/military/article/3366766/how-japan-digging-deter-and-withstand-conflict-over-taiwan?utm_source=rss_feed",
+    "published_date": "2026-09-08T22:00:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "US says it destroyed 5 Iranian oil tankers after missile attacks on warship",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366837/us-strikes-iranian-tankers-after-more-attempted-missile-attacks-navy-warship?utm_source=rss_feed",
+    "published_date": "2026-09-08T21:42:36Z",
+    "category": "Military"
   },
   {
     "title": "South Korea sends fact-finding team to assess Strait of Hormuz conditions",
@@ -259,25 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "Iranians recount horrors of suspected US missile attack on first day of war",
+    "title": "Trump’s Venezuela oil deal: why China can wait and watch",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3366603/iranians-recount-horrors-suspected-us-missile-attack-first-day-war?utm_source=rss_feed",
-    "published_date": "2026-09-07T05:57:59Z",
-    "category": "Military"
-  },
-  {
-    "title": "Hundreds killed in deadliest Yemen fighting since 2022 truce collapsed",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3366595/hundreds-killed-deadliest-yemen-fighting-2022-truce-collapsed?utm_source=rss_feed",
-    "published_date": "2026-09-07T04:57:08Z",
-    "category": "Military"
-  },
-  {
-    "title": "Taiping Ferry and the Four Crossings",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-07/Taiping-Ferry-and-the-Four-Crossings-1Qa4SKDgrSg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-07T03:33:25Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3366521/trumps-venezuela-oil-deal-why-china-can-wait-and-watch?utm_source=rss_feed",
+    "published_date": "2026-09-08T21:30:06Z",
+    "category": "Energy"
   },
   {
     "title": "Chinese scientists propose turning abandoned coal mines into underground farms",
@@ -413,11 +420,39 @@
     "category": "Energy"
   },
   {
-    "title": "U.S. gets access to Venezuelan oil while removing Venezuelan nationals",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-09-05/U-S-gets-access-to-Venezuelan-oil-while-removing-Venezuelan-nationals-1QaRf4lyCDS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-04T17:17:33Z",
-    "category": "Energy"
+    "title": "Trump bans some Canada goods, puts 50% tariffs on others",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others?utm_source=rss_feed",
+    "published_date": "2026-09-09T00:01:49Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump transport chief blasts Ford’s business deals with Chinese firms",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366839/trump-transport-chief-blasts-fords-business-deals-chinese-firms?utm_source=rss_feed",
+    "published_date": "2026-09-08T23:37:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US accuses Chinese AI firms of ‘malicious’ copying of AI technology",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology?utm_source=rss_feed",
+    "published_date": "2026-09-08T20:50:57Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Huawei goes on trial in US for racketeering after nearly decade of litigation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation?utm_source=rss_feed",
+    "published_date": "2026-09-08T18:57:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US targets Iran’s airlines with sweeping new sanctions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366828/us-targets-irans-airlines-sweeping-new-sanctions?utm_source=rss_feed",
+    "published_date": "2026-09-08T17:08:12Z",
+    "category": "Economy"
   },
   {
     "title": "China’s Xi Jinping urges deeper UK ties in first call with Andy Burnham",
@@ -525,39 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "China targets fourfold boost in AI computing capacity by 2030 in major tech push",
+    "title": "Hong Kong agencies warn of lingering Jakarta flight delays after volcano eruption",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push?utm_source=rss_feed",
-    "published_date": "2026-09-08T06:00:20Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366820/hong-kong-agencies-warn-lingering-jakarta-flight-delays-after-volcano-eruption?utm_source=rss_feed",
+    "published_date": "2026-09-09T00:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "China's foreign trade expands 17.6 percent in first eight months",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-08/China-s-foreign-trade-expands-17-6-percent-in-first-eight-months-1Qgvh8yWpLG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-08T02:41:10Z",
-    "category": "Economy"
+    "title": "Albania protests against Trump-linked development turn violent after 100th day",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366838/albania-protests-against-trump-linked-development-turn-violent-after-100th-day?utm_source=rss_feed",
+    "published_date": "2026-09-08T21:59:41Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese VP meets Bulgarian, Cambodian, Serbian deputy prime ministers",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-08/Chinese-VP-meets-Bulgarian-Cambodian-Serbian-deputy-prime-ministers-1QgoCQdE6eQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-08T01:55:47Z",
-    "category": "Economy"
+    "title": "Nicaragua hands gold concession to sister firm of US-sanctioned Chinese miner",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3366836/nicaragua-hands-gold-concession-sister-firm-us-sanctioned-chinese-miner?utm_source=rss_feed",
+    "published_date": "2026-09-08T21:40:31Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese VP meets Bulgarian, Cambodian, Serbian deputy prime ministers",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-08/Chinese-VP-meets-Bulgarian-Cambodian-Serbian-deputy-prime-ministers-1QgoCQdE6eQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-09-08T01:55:47Z",
-    "category": "Economy"
+    "title": "White House pulls ‘Build the Wall’ game after warning from Tetris",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366834/white-house-pulls-build-wall-game-after-warning-tetris?utm_source=rss_feed",
+    "published_date": "2026-09-08T20:02:18Z",
+    "category": "Local Events"
   },
   {
-    "title": "Von der Leyen announces 200-million-euro Greenland package",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-08/Von-der-Leyen-announces-200-million-euro-Greenland-package-1QgpFVUb6KY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-08T01:51:00Z",
-    "category": "Economy"
+    "title": "Singapore man Malone Lam pleads guilty after massive US bitcoin heist and spending spree",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree?utm_source=rss_feed",
+    "published_date": "2026-09-08T18:31:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "New York leaders ‘lied’ about toxic air after 9/11, Mayor Zohran Mamdani says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366829/new-york-leaders-lied-about-toxic-air-after-9/11-mayor-zohran-mamdani-says?utm_source=rss_feed",
+    "published_date": "2026-09-08T17:47:43Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tung Chee-hwa, Hong Kong’s first chief executive, dies aged 89",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3366827/hong-kongs-first-chief-executive-tung-chee-hwa-dies-aged-89?utm_source=rss_feed",
+    "published_date": "2026-09-08T17:00:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Singapore ‘open’ to using chemical castration for sex offenders if proven effective",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366826/singapore-open-using-chemical-castration-sex-offenders-if-proven-effective?utm_source=rss_feed",
+    "published_date": "2026-09-08T15:41:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Endangered Sumatran tigers born in Greece as zoos build safety net",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3366823/endangered-sumatran-tigers-born-greece-zoos-build-safety-net?utm_source=rss_feed",
+    "published_date": "2026-09-08T15:05:51Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong students drop in global rankings for maths, science and literacy",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3366775/gold-jacket-purple-trousers-hong-kong-celebrates-leslie-cheungs-70th-birthday?utm_source=rss_feed",
     "published_date": "2026-09-08T09:10:36Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Cambodia’s scam gangs; Filipino-Americans decry ‘xenophobia’ games: 7 Asia highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/article/3366764/cambodias-scam-gangs-filipino-americans-decry-xenophobia-games-7-asia-highlights?utm_source=rss_feed",
-    "published_date": "2026-09-08T08:59:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong reserves right to seek compensation over faulty hospital lift work",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3366761/hong-kong-reserves-right-seek-compensation-over-faulty-hospital-lift-work?utm_source=rss_feed",
-    "published_date": "2026-09-08T08:38:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s first astronaut to give live space lecture to students on Wednesday",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3366760/hong-kongs-first-astronaut-give-live-space-lecture-students-wednesday?utm_source=rss_feed",
-    "published_date": "2026-09-08T08:36:25Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysian woman who stabbed boyfriend to death over sex demand gets 12 years",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3366757/malaysian-woman-who-stabbed-boyfriend-death-over-sex-demand-gets-12-years?utm_source=rss_feed",
-    "published_date": "2026-09-08T08:06:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "A year on, Nepal remembers 76 lives lost in protests that ousted government",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3366755/year-nepal-remembers-76-lives-lost-protests-ousted-government?utm_source=rss_feed",
-    "published_date": "2026-09-08T08:05:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Thieves steal art worth millions from Renoir Museum in France",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3366752/thieves-steal-art-worth-millions-renoir-museum-france?utm_source=rss_feed",
-    "published_date": "2026-09-08T07:54:45Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippine ex-speaker stashed billions of pesos ‘he could no longer hide’: prosecutors",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3366749/philippine-ex-speaker-stashed-billions-he-could-no-longer-hide-prosecutors?utm_source=rss_feed",
-    "published_date": "2026-09-08T07:38:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s MTR Corp wins bid as part of group to build new Sydney station, properties",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3366743/hong-kongs-mtr-corp-wins-bid-part-group-build-new-sydney-station-properties?utm_source=rss_feed",
-    "published_date": "2026-09-08T06:41:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Expand Hong Kong’s MPF investment choices, lure mainland pension funds: financial council",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3366722/expand-hong-kongs-mpf-investment-choices-lure-mainland-pension-funds-financial-council?utm_source=rss_feed",
-    "published_date": "2026-09-08T06:30:08Z",
     "category": "Local Events"
   }
 ]
