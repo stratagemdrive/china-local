@@ -1,5 +1,12 @@
 [
   {
+    "title": "Iran, UAE leaders discuss de-escalation as oil supply worries spike",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367318/iranian-president-abu-dhabi-crown-prince-meet-sidelines-brics-summit-india?utm_source=rss_feed",
+    "published_date": "2026-09-12T13:59:21Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Will Malaysia’s Umno pull the plug on coalition partner PH?",
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3367316/will-malaysias-umno-pull-plug-coalition-partner-ph?utm_source=rss_feed",
@@ -133,11 +140,32 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Tech, EV and aerospace executives likely to join Xi’s US trip to mirror Trump team",
+    "title": "China’s anti-corruption law is going global. What does it mean for overseas firms?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3367094/tech-ev-and-aerospace-executives-likely-join-xis-us-trip-mirror-trump-team?utm_source=rss_feed",
-    "published_date": "2026-09-10T22:00:09Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/politics/article/3367286/chinas-anti-corruption-law-going-global-what-does-it-mean-overseas-firms?utm_source=rss_feed",
+    "published_date": "2026-09-13T00:00:16Z",
+    "category": "Military"
+  },
+  {
+    "title": "Houthis hit Saudi base amid renewed fighting with Yemen government forces",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3367329/houthis-hit-saudi-base-after-renewed-fighting-yemen-government-forces?utm_source=rss_feed",
+    "published_date": "2026-09-12T23:46:28Z",
+    "category": "Military"
+  },
+  {
+    "title": "Bulgaria probes explosion at weapon storage site",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3367324/bulgaria-probes-explosion-weapon-storage-site?utm_source=rss_feed",
+    "published_date": "2026-09-12T15:23:58Z",
+    "category": "Military"
+  },
+  {
+    "title": "Why PLA’s laser-equipped Type 19 vehicle could matter in a Taiwan conflict",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3367305/why-plas-laser-equipped-type-19-vehicle-could-matter-taiwan-conflict?utm_source=rss_feed",
+    "published_date": "2026-09-12T14:00:05Z",
+    "category": "Military"
   },
   {
     "title": "Alarm as Syria plans private jet hub on former torture site",
@@ -249,34 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-09-11/Yemen-s-Houthis-deploy-forces-to-strategic-Hanish-Islands-in-Red-Sea-1Qlw57KD6bS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-09-11T03:19:03Z",
-    "category": "Military"
-  },
-  {
-    "title": "China calls for political settlement of Iranian nuclear issue",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-11/China-calls-for-political-settlement-of-Iranian-nuclear-issue-1QlhIWkpUvC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-11T03:12:25Z",
-    "category": "Military"
-  },
-  {
-    "title": "China calls for political settlement of Iranian nuclear issue",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-11/China-calls-for-political-settlement-of-Iranian-nuclear-issue-1QlhIWkpUvC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-11T03:12:25Z",
-    "category": "Military"
-  },
-  {
-    "title": "Canada, Ukraine to scale up military drone production",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-11/news-1QlfAJrOpHO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-10T23:14:30Z",
-    "category": "Military"
-  },
-  {
-    "title": "Canada unveils US$254 million air defence package for Ukraine",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3367106/canada-unveils-us254-million-air-defence-package-ukraine?utm_source=rss_feed",
-    "published_date": "2026-09-10T18:05:20Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake?utm_source=rss_feed",
+    "published_date": "2026-09-13T00:00:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "J.D. Vance group courted Brazil’s Flavio Bolsonaro over anti-China rare earth deal: report",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367328/jd-vance-network-courted-brazils-flavio-bolsonaro-over-anti-china-mineral-deal-report?utm_source=rss_feed",
+    "published_date": "2026-09-12T22:55:23Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Anthropic boss Amodei calls for AI slowdown, Altman and Musk agree",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367325/anthropic-boss-calls-ai-slowdown-after-researchers-superintelligence-warning?utm_source=rss_feed",
+    "published_date": "2026-09-12T16:57:09Z",
+    "category": "Economy"
+  },
+  {
     "title": "US-China decoupling could benefit other countries, China trade war game suggests",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests?utm_source=rss_feed",
@@ -539,25 +560,46 @@
     "category": "Economy"
   },
   {
-    "title": "China’s trade fairs drive trade expansion across the Global South",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-09-12/China-s-trade-fairs-drive-trade-expansion-across-the-Global-South-1QmIuniFF7O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-11T21:08:28Z",
-    "category": "Economy"
+    "title": "As Asia rapidly ages, who cares for the carers when they grow old?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3367222/asia-rapidly-ages-who-cares-carers-when-they-grow-old?utm_source=rss_feed",
+    "published_date": "2026-09-13T00:00:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "Americans mark 25 years since 9/11 attacks amid enduring grief, reflection",
+    "title": "Celine Dion makes long-awaited return to stage in Paris",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367265/americans-mark-25-years-9/11-attacks-amid-enduring-grief-reflection?utm_source=rss_feed",
-    "published_date": "2026-09-11T17:06:42Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3367327/celine-dion-makes-long-awaited-return-stage-paris?utm_source=rss_feed",
+    "published_date": "2026-09-12T22:05:19Z",
+    "category": "Local Events"
   },
   {
-    "title": "Brazil’s Flavio Bolsonaro under investigation over alleged corruption",
+    "title": "‘Woman Unknown’ wins Gold Lion at Venice Film Festival",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3367262/brazils-flavio-bolsonaro-under-investigation-over-alleged-corruption?utm_source=rss_feed",
-    "published_date": "2026-09-11T15:45:55Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3367326/woman-unknown-wins-gold-lion-venice-film-festival?utm_source=rss_feed",
+    "published_date": "2026-09-12T20:05:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "39 pupils and staff fall ill after eating school lunches in Sha Tin",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3367323/39-pupils-and-staff-fall-ill-after-eating-school-lunches-sha-tin?utm_source=rss_feed",
+    "published_date": "2026-09-12T15:20:39Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Farage’s Reform UK gets second record £36 million donation in 48 hours",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3367321/farages-reform-uk-gets-second-record-ps36-million-donation-48-hours?utm_source=rss_feed",
+    "published_date": "2026-09-12T14:24:25Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Quality concerns prompt further tests on concrete used in 3 public housing blocks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3367319/quality-concerns-prompt-further-tests-concrete-used-3-public-housing-blocks?utm_source=rss_feed",
+    "published_date": "2026-09-12T14:10:08Z",
+    "category": "Local Events"
   },
   {
     "title": "Xi tells Modi China and India bear ‘significant responsibilities’ as Global South powers",
@@ -655,48 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/health-environment/article/3367221/when-indonesia-burns-these-women-run-towards-fire?utm_source=rss_feed",
     "published_date": "2026-09-12T04:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "What is AGI? How China’s AI firms are catching up as OpenAI Astra sparks debate",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
-    "published_date": "2026-09-12T03:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump says Irish unification would be ‘a  fantastic thing’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3367273/ireland-deploys-snipers-and-4000-police-trump-visit?utm_source=rss_feed",
-    "published_date": "2026-09-12T02:47:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China's State Council executive meeting addresses computing networks",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/China-s-State-Council-executive-meeting-addresses-computing-networks-1Qn4aS67Oyk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-12T02:00:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippines bets big on rail, but can it fix a broken transport network?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3367264/philippines-bets-big-rail-can-it-fix-broken-transport-network?utm_source=rss_feed",
-    "published_date": "2026-09-12T02:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese delegation attends 37th Session of FAO Committee on Fisheries",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/Chinese-delegation-attends-37th-Session-of-FAO-Committee-on-Fisheries-1Qn3QxwFyvu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-12T01:55:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese delegation attends 37th Session of FAO Committee on Fisheries",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/Chinese-delegation-attends-37th-Session-of-FAO-Committee-on-Fisheries-1Qn3QxwFyvu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-12T01:55:11Z",
     "category": "Local Events"
   }
 ]
