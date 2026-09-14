@@ -1,5 +1,26 @@
 [
   {
+    "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
+    "published_date": "2026-09-14T00:00:10Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Senior Western figures at Ukraine station before Russia train strike, rail operator says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3367370/senior-western-figures-ukraine-station-russia-train-strike-rail-operator-says?utm_source=rss_feed",
+    "published_date": "2026-09-13T17:35:57Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Carney pushes idea of making Canada an ‘associate member’ of the EU: reports",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367369/carney-pushes-idea-making-canada-associate-member-eu-reports?utm_source=rss_feed",
+    "published_date": "2026-09-13T16:48:55Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "France apologises for criticising US’ human rights record after backlash",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3367336/france-apologises-criticising-us-human-rights-record-after-backlash?utm_source=rss_feed",
@@ -116,27 +137,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-09-12/President-Xi-meets-Indian-PM-Modi-1QnMjpGFSyQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-09-12T11:47:36Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Brics summit: Chinese leader Xi calls for cooperation on AI-powered industrial plan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3367303/chinese-leader-xi-urges-brics-play-its-due-role-bringing-peace-middle-east?utm_source=rss_feed",
-    "published_date": "2026-09-12T10:21:03Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "President Xi announces China will take over BRICS presidency next year",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/news-1QnDlGDYGmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-12T09:42:10Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "President Xi announces China will take over BRICS presidency next year",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/news-1QnDlGDYGmQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-12T09:42:10Z",
     "category": "Diplomacy"
   },
   {
@@ -280,6 +280,13 @@
     "category": "Military"
   },
   {
+    "title": "New attacks in Hormuz and Saudi Arabia test nerves as war’s spread worsens oil disruption",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3367372/iran-set-unveil-temporary-hormuz-agreement-gulf-nations-monday?utm_source=rss_feed",
+    "published_date": "2026-09-13T18:57:50Z",
+    "category": "Energy"
+  },
+  {
     "title": "China’s FAST telescope maps neutral hydrogen, the cosmic gas for making stars",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3367154/chinas-fast-telescope-maps-neutral-hydrogen-cosmic-gas-making-stars?utm_source=rss_feed",
@@ -413,11 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "China willing to help advance global energy security: vice premier",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-11/China-willing-to-help-advance-global-energy-security-vice-premier-1Qlhml8ZuAo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-09-11T00:37:29Z",
-    "category": "Energy"
+    "title": "Hong Kong aims to scale its tech ecosystem and nurture more unicorns: HKSTP CEO",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/article/3367351/hong-kong-aims-scale-its-tech-ecosystem-and-nurture-more-unicorns-hkstp-ceo?utm_source=rss_feed",
+    "published_date": "2026-09-13T23:00:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Veteran investor Fang Fenglei on why the China ‘investibility’ debate is no debate at all",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/china-business/article/3367212/veteran-investor-fang-fenglei-why-china-investibility-debate-no-debate-all?utm_source=rss_feed",
+    "published_date": "2026-09-13T22:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump downplays need to check AI development, says he is unwilling to cede edge to China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china?utm_source=rss_feed",
+    "published_date": "2026-09-13T19:27:47Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Ahead of US Fed meeting, Trump says America should have world’s lowest interest rate",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3367371/ahead-us-fed-meeting-trump-says-america-should-have-worlds-lowest-interest-rate?utm_source=rss_feed",
+    "published_date": "2026-09-13T17:55:51Z",
+    "category": "Economy"
   },
   {
     "title": "Seeking cash for AI, China’s Z.ai eyes new US$5b fundraising push after July share sale",
@@ -532,32 +560,53 @@
     "category": "Economy"
   },
   {
-    "title": "Anthropic boss Amodei calls for AI slowdown, Altman and Musk agree",
+    "title": "Beijing’s ‘trust issue’ with Hong Kong and what the city can promise in its 5-year plan",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367325/anthropic-boss-calls-ai-slowdown-after-researchers-superintelligence-warning?utm_source=rss_feed",
-    "published_date": "2026-09-12T16:57:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3367367/beijings-trust-issue-hong-kong-and-what-city-can-promise-its-5-year-plan?utm_source=rss_feed",
+    "published_date": "2026-09-14T00:30:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "Georgian official says China key to country's export diversification",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-12/Georgian-official-says-China-key-to-country-s-export-diversification-1QnQKbxX5QY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-12T13:27:15Z",
-    "category": "Economy"
+    "title": "Man up, break down: unpacking the Philippines’ male suicide crisis",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3367229/man-break-down-unpacking-philippines-male-suicide-crisis?utm_source=rss_feed",
+    "published_date": "2026-09-14T00:00:08Z",
+    "category": "Local Events"
   },
   {
-    "title": "US-China decoupling could benefit other countries, China trade war game suggests",
+    "title": "Uganda buries one-time ‘boy king’ whose death has sparked a succession battle",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3367290/us-china-decoupling-could-benefit-other-countries-china-trade-war-game-suggests?utm_source=rss_feed",
-    "published_date": "2026-09-12T12:00:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/africa/article/3367376/uganda-buries-one-time-boy-king-whose-death-has-sparked-succession-battle?utm_source=rss_feed",
+    "published_date": "2026-09-13T21:30:47Z",
+    "category": "Local Events"
   },
   {
-    "title": "French police probe if sabotage derailed train and injured 44",
+    "title": "Will Hong Kong’s educators learn from sliding Pisa results?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3367310/french-police-probe-if-sabotage-derailed-train-and-injured-44?utm_source=rss_feed",
-    "published_date": "2026-09-12T11:48:47Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367209/will-hong-kongs-educators-learn-sliding-pisa-results?utm_source=rss_feed",
+    "published_date": "2026-09-13T21:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump to consider releasing 9/11 records after families’ request",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367375/trump-consider-releasing-9/11-records-after-families-request?utm_source=rss_feed",
+    "published_date": "2026-09-13T21:01:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "French must come first, far-right leader Le Pen says at election campaign launch",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3367368/french-must-come-first-far-right-leader-le-pen-says-election-campaign-launch?utm_source=rss_feed",
+    "published_date": "2026-09-13T16:29:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Top-level online schooling offers route to leading universities",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/new-model-online-schooling/article/3366605/top-level-online-schooling-offers-route-leading-universities?utm_source=rss_feed",
+    "published_date": "2026-09-13T16:00:07Z",
+    "category": "Local Events"
   },
   {
     "title": "Supplier to end classroom lunch portioning at Sha Tin school after 39 fall ill",
@@ -648,55 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3367344/rising-number-south-korean-beauticians-providing-illicit-treatments-hong-kong?utm_source=rss_feed",
     "published_date": "2026-09-13T08:00:02Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Forget low-calorie food, Chinese youth turn to tasteless, chewy snacks to lose weight",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367339/forget-low-calorie-food-chinese-youth-turn-tasteless-chewy-snacks-lose-weight?utm_source=rss_feed",
-    "published_date": "2026-09-13T06:16:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Indonesia searches for 130 passengers after ship sinks in Java Sea",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367333/indonesian-ship-240-passengers-aboard-loses-contact-java-sea?utm_source=rss_feed",
-    "published_date": "2026-09-13T03:29:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Senior Chinese legislator attends China-Russia enterprises forum",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-13/Senior-Chinese-legislator-attends-China-Russia-enterprises-forum-1QoBBSdDguA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-13T02:01:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Senior Chinese legislator attends China-Russia enterprises forum",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-13/Senior-Chinese-legislator-attends-China-Russia-enterprises-forum-1QoBBSdDguA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-09-13T02:01:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Denisovan fossils in China reveal an ancient ‘hunting paradise’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3367311/denisovan-fossils-china-reveal-ancient-hunting-paradise?utm_source=rss_feed",
-    "published_date": "2026-09-13T02:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Warming cities can’t afford to sacrifice their urban parks",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/asia-opinion/article/3366905/warming-cities-cant-afford-sacrifice-their-urban-parks?utm_source=rss_feed",
-    "published_date": "2026-09-13T01:30:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How to solve Hong Kong’s triple whammy: ageing population, baby dearth and job losses?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3367312/how-solve-hong-kongs-triple-whammy-ageing-population-baby-dearth-and-job-losses?utm_source=rss_feed",
-    "published_date": "2026-09-13T01:00:08Z",
     "category": "Local Events"
   }
 ]
