@@ -1,5 +1,19 @@
 [
   {
+    "title": "Poland eyes deeper Philippines defence ties following Black Hawk deal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3367900/poland-eyes-deeper-philippines-defence-ties-following-black-hawk-deal?utm_source=rss_feed",
+    "published_date": "2026-09-18T00:00:17Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "US approves sale of 48 F-35 jets to Saudi Arabia despite Israeli concerns",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3367912/us-approves-sale-48-f-35-jets-saudi-arabia-despite-israeli-concerns?utm_source=rss_feed",
+    "published_date": "2026-09-17T21:06:14Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China’s Wang Yi holds phone call with Rubio days before Xi visits US",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3366812/chinas-wang-yi-holds-phone-call-rubio-days-xi-visits-us?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese defence chief skirts flashpoints at Xiangshan Forum ahead of Xi-Trump summit",
+    "title": "Trump says ‘major progress’ made towards US base in Poland",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3367735/chinese-defence-chief-skirts-flashpoints-xiangshan-forum-ahead-xi-trump-summit?utm_source=rss_feed",
-    "published_date": "2026-09-16T12:00:06Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367911/trump-says-major-progress-made-towards-us-base-poland?utm_source=rss_feed",
+    "published_date": "2026-09-17T20:01:22Z",
+    "category": "Military"
   },
   {
-    "title": "Key quotes from President Xi's remarks in meeting with Indian PM Modi",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-16/Key-quotes-from-President-Xi-s-remarks-in-meeting-with-Indian-PM-Modi-1Qu90XGgfbq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-16T11:15:31Z",
-    "category": "Diplomacy"
+    "title": "Trump seen with image of apparent Kennedy Centre demolition",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367907/trump-seen-image-apparent-kennedy-centre-demolition?utm_source=rss_feed",
+    "published_date": "2026-09-17T16:56:51Z",
+    "category": "Military"
   },
   {
     "title": "China, US may unveil measures to boost military ties when Xi visits Washington",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/military/article/3367678/should-china-use-its-maritime-militia-backup-force-south-china-sea?utm_source=rss_feed",
     "published_date": "2026-09-16T07:00:08Z",
-    "category": "Military"
-  },
-  {
-    "title": "Chinese defense minister urges consensus, action for global security",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-consensus-action-for-global-security-1QtLtnDp3Qk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-16T03:17:07Z",
-    "category": "Military"
-  },
-  {
-    "title": "Chinese defense minister urges consensus, action for global security",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-consensus-action-for-global-security-1QtLtnDp3Qk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-16T03:17:07Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "China has gained pace in the space race by recovering rockets – but can it relaunch one?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3367874/china-has-gained-pace-space-race-recovering-rockets-can-it-relaunch-one?utm_source=rss_feed",
+    "published_date": "2026-09-17T22:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US trade chief pressed Brazil to review Anglo American nickel sale to China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367913/us-trade-chief-pressed-brazil-review-anglo-american-nickel-sale-china?utm_source=rss_feed",
+    "published_date": "2026-09-17T21:11:34Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US sanctions boost China’s science-driven innovation by over 70%, study finds",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3367792/us-sanctions-boost-chinas-science-driven-innovation-over-70-study-finds?utm_source=rss_feed",
+    "published_date": "2026-09-17T18:00:08Z",
+    "category": "Economy"
+  },
+  {
     "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries?utm_source=rss_feed",
@@ -539,25 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "China’s rocket boom turns Hainan into a space hub. Can launches fuel wider growth?",
+    "title": "The story begins …",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/policy/article/3367752/chinas-rocket-boom-turns-hainan-space-hub-can-launches-fuel-wider-growth?utm_source=rss_feed",
-    "published_date": "2026-09-16T22:00:08Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/plus/news/hong-kong/hong-kong-economy/article/3367918/story-begins?utm_source=rss_feed",
+    "published_date": "2026-09-18T01:01:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "US Federal Reserve raises interest rates for first time in 3 years, irking Trump",
+    "title": "Scientists trace half the DNA in Xinjiang’s oldest tombs to Yellow River farmers",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367774/us-federal-reserve-raises-interest-rates-first-time-3-years-risking-trumps-ire?utm_source=rss_feed",
-    "published_date": "2026-09-16T18:15:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/science/article/3367886/scientists-trace-half-dna-xinjiangs-oldest-tombs-yellow-river-farmers?utm_source=rss_feed",
+    "published_date": "2026-09-18T01:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong targets gold trading, FPS-UnionPay link to boost yuan use",
+    "title": "Hong Kong’s new chapter",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367770/hong-kong-targets-gold-trading-fps-unionpay-link-boost-yuan-use?utm_source=rss_feed",
-    "published_date": "2026-09-16T15:37:51Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/plus/news/hong-kong/politics/article/3367919/hong-kongs-new-chapter?utm_source=rss_feed",
+    "published_date": "2026-09-18T01:00:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Blanket of security planned for state funeral of Tung Chee-hwa in Hong Kong",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3367908/blanket-security-planned-state-funeral-tung-chee-hwa-hong-kong?utm_source=rss_feed",
+    "published_date": "2026-09-18T00:30:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "King Charles was ‘giddily elated’ after Diana’s death, her brother says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3367916/king-charles-was-giddily-elated-after-dianas-death-her-brother-says?utm_source=rss_feed",
+    "published_date": "2026-09-17T23:46:50Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "White House pulls Trump nominee to head ICE",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367915/white-house-pulls-trump-nominee-head-ice?utm_source=rss_feed",
+    "published_date": "2026-09-17T23:07:17Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong malls bet on Asian Games to boost footfall, tenant sales amid spending shifts",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/companies/article/3367822/hong-kong-malls-bet-asian-games-boost-footfall-tenant-sales-amid-spending-shifts?utm_source=rss_feed",
+    "published_date": "2026-09-17T23:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US families ramp up efforts for loved ones’ release from China ahead of Xi’s visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3367914/us-families-ramp-efforts-loved-ones-release-china-ahead-xis-visit?utm_source=rss_feed",
+    "published_date": "2026-09-17T21:53:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What the China-Nepal floods teach us about crisis communication",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3367709/what-china-nepal-floods-teach-us-about-crisis-communication?utm_source=rss_feed",
+    "published_date": "2026-09-17T21:30:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "New cat species identified in Bolivia, first in over a century",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3367909/new-cat-species-identified-bolivia-first-over-century?utm_source=rss_feed",
+    "published_date": "2026-09-17T17:12:46Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong hits out at US panel over Jimmy Lai hearing and sanctions bill",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3367906/hong-kong-hits-out-us-panel-over-jimmy-lai-hearing-and-sanctions-bill?utm_source=rss_feed",
+    "published_date": "2026-09-17T16:59:15Z",
+    "category": "Local Events"
   },
   {
     "title": "Rare honour: Trump will greet Xi at Andrews, not just the White House",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/people/article/3367892/gone-too-far-thai-pm-anutin-slams-foreign-lawbreakers-backlash-builds?utm_source=rss_feed",
     "published_date": "2026-09-17T12:52:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Carney seizes Canada-EU associate membership plan despite Trump’s ire",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3367880/carney-seizes-canada-eu-associate-membership-plan-despite-trumps-ire?utm_source=rss_feed",
-    "published_date": "2026-09-17T10:55:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ancient Chinese scholars drank ink for poetic inspiration or poor handwriting penalties",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3367876/ancient-chinese-scholars-drank-ink-poetic-inspiration-or-poor-handwriting-penalties?utm_source=rss_feed",
-    "published_date": "2026-09-17T10:27:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia confronts complexities of schizophrenia after school killing ruling",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3367875/malaysia-confronts-complexities-schizophrenia-after-school-killing-ruling?utm_source=rss_feed",
-    "published_date": "2026-09-17T10:20:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong will lack 130,000 workers by 2028, fewer than projected due to talent policies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367871/hong-kong-will-lack-130000-workers-2028-fewer-projected-due-talent-policies?utm_source=rss_feed",
-    "published_date": "2026-09-17T10:14:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Indonesia faces reckoning over maritime safety after deadly ferry disaster",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3367863/indonesia-faces-reckoning-over-maritime-safety-after-deadly-ferry-disaster?utm_source=rss_feed",
-    "published_date": "2026-09-17T09:30:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Depraved’ Singaporean paedophile, who abused daughter, granddaughters, jailed",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3367848/depraved-singaporean-paedophile-who-abused-daughter-granddaughters-jailed?utm_source=rss_feed",
-    "published_date": "2026-09-17T08:12:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong police officer left paralysed in 2005 knife attack dies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3367837/hong-kong-police-officer-left-paralysed-2005-knife-attack-dies?utm_source=rss_feed",
-    "published_date": "2026-09-17T06:56:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "22 months’ jail for Hong Kong driver who fatally struck student at traffic junction",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3367834/22-months-jail-hong-kong-driver-who-fatally-struck-student-traffic-junction?utm_source=rss_feed",
-    "published_date": "2026-09-17T06:41:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong targets 240 air destinations by 2030, eyeing new Uzbekistan routes",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367830/hong-kong-airport-records-10-passenger-growth-cargo-falls-second-month?utm_source=rss_feed",
-    "published_date": "2026-09-17T06:23:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s ‘AI city brain’ to cost initial HK$200m, but ‘won’t catch thieves’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3367829/hong-kongs-ai-city-brain-will-not-tap-personal-data-breach-privacy-john-lee?utm_source=rss_feed",
-    "published_date": "2026-09-17T06:17:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "After far-right AfD win, Germany’s embattled chancellor faces more election tests",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3367826/after-far-right-afd-win-germanys-embattled-chancellor-faces-more-election-tests?utm_source=rss_feed",
-    "published_date": "2026-09-17T06:05:26Z",
     "category": "Local Events"
   }
 ]
