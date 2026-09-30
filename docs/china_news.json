@@ -1,5 +1,33 @@
 [
   {
+    "title": "‘Hold the status quo’? US Congress reviews Xi-Trump summit outcomes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369261/hold-status-quo-us-congress-members-review-xi-trump-summit?utm_source=rss_feed",
+    "published_date": "2026-09-30T01:01:52Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Xi-Trump summit drew Chinese CEOs. So why couldn’t they get a seat at the table?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369238/xi-trump-summit-drew-chinese-ceos-so-why-couldnt-they-get-seat-table?utm_source=rss_feed",
+    "published_date": "2026-09-29T22:00:05Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "America’s foreign policy of coercion must end",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3368546/americas-foreign-policy-coercion-must-end?utm_source=rss_feed",
+    "published_date": "2026-09-29T21:30:07Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369254/trump-rejects-calls-work-china-ai-safety-despite-xi-summit-progress?utm_source=rss_feed",
+    "published_date": "2026-09-29T19:32:03Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "What trap? US-China relations show conflict is far from inevitable",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/china-opinion/article/3369045/what-trap-us-china-relations-show-conflict-far-inevitable?utm_source=rss_feed",
@@ -112,32 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "What message does the China-US consensus send to the world?",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-28/What-message-does-the-China-US-consensus-send-to-the-world--1QNGXRqKDBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-28T05:22:43Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "What message does the China-US consensus send to the world?",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-28/What-message-does-the-China-US-consensus-send-to-the-world--1QNGXRqKDBu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-28T05:22:43Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "UN official urges more funding as El Nino threatens Horn of Africa",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-28/UN-official-urges-more-funding-as-El-Nino-threatens-Horn-of-Africa-1QNzrgVgMhi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-09-28T01:10:39Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Scott Kennedy on China’s ‘slow tech dragon’ and 2 more Xi-Trump meetings",
+    "title": "China expands overseas military presence with new Laos air force centre",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3368936/scott-kennedy-chinas-slow-tech-dragon-and-2-more-xi-trump-meetings?utm_source=rss_feed",
-    "published_date": "2026-09-27T22:00:14Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/military/article/3369253/china-expands-overseas-military-presence-new-laos-air-force-centre?utm_source=rss_feed",
+    "published_date": "2026-09-29T19:08:41Z",
+    "category": "Military"
+  },
+  {
+    "title": "Mystery over UK airbase scare as police find petrol, not explosives",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369251/mystery-over-uk-airbase-scare-police-find-petrol-not-explosives?utm_source=rss_feed",
+    "published_date": "2026-09-29T18:21:50Z",
+    "category": "Military"
   },
   {
     "title": "Israel’s Gaza air strike kills Hamas commander behind October 7, 2023 attack",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/south-asia/article/3368972/afghanistan-says-28-dead-fighters-came-pakistan-islamabad-denies-ties?utm_source=rss_feed",
     "published_date": "2026-09-27T14:37:53Z",
-    "category": "Military"
-  },
-  {
-    "title": "UK arrests 5 after incident near airbase used by US bombers",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3368968/uk-arrests-5-after-incident-near-airbase-used-us-bombers?utm_source=rss_feed",
-    "published_date": "2026-09-27T14:00:18Z",
-    "category": "Military"
-  },
-  {
-    "title": "Keep out: why Greenland is the US military’s new eyes in the Arctic on China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3368940/keep-out-why-greenland-us-militarys-new-eyes-arctic-china?utm_source=rss_feed",
-    "published_date": "2026-09-27T12:00:11Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "US-China trade truce remains ‘fragile’ after Xi-Trump summit, analysts say",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369263/us-china-trade-truce-remains-fragile-after-xi-trump-summit-analysts-say?utm_source=rss_feed",
+    "published_date": "2026-09-30T01:30:21Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Raising Hong Kong’s birth rate is an economic imperative",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3368854/raising-hong-kongs-birth-rate-economic-imperative?utm_source=rss_feed",
+    "published_date": "2026-09-30T01:30:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed",
+    "published_date": "2026-09-30T00:00:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "PM Burnham vows big shake-up for UK in high-risk political speech",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369256/pm-burnham-vows-big-shake-uk-high-risk-political-speech?utm_source=rss_feed",
+    "published_date": "2026-09-29T20:16:49Z",
+    "category": "Economy"
+  },
+  {
     "title": "US consumer confidence sinks to 12-year low over inflation, stagnant wages",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/us/economy-trade-business/article/3369245/us-consumer-confidence-sinks-12-year-low-over-inflation-stagnant-wages?utm_source=rss_feed",
@@ -532,32 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "Man who allegedly hid 3 spy cameras in Hong Kong gym changing rooms out on bail",
+    "title": "Family of 4 in hospital after fire at Sha Tin public housing estate",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369143/man-who-allegedly-hid-3-pinhole-cameras-hong-kong-gym-changing-rooms-out-bail?utm_source=rss_feed",
-    "published_date": "2026-09-29T04:26:53Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3369262/family-4-hospital-after-fire-sha-tin-public-housing-estate?utm_source=rss_feed",
+    "published_date": "2026-09-30T01:24:22Z",
+    "category": "Local Events"
   },
   {
-    "title": "Technology helps every grain make it to the granary in China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-29/Technology-helps-every-grain-make-it-to-the-granary-in-China-1QPlFAQmXLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-29T02:59:27Z",
-    "category": "Economy"
+    "title": "Cheap and illegal: mainland Chinese post social media adverts for services in Hong Kong",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3369247/cheap-and-illegal-mainlanders-post-social-media-adverts-services-hong-kong?utm_source=rss_feed",
+    "published_date": "2026-09-30T00:35:54Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong mustn’t miss the boat on the Pinglu Canal and Asean trade",
+    "title": "Gaza on stage: concert activism meets Malaysia, Singapore red lines",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3368947/hong-kong-mustnt-miss-boat-pinglu-canal-and-asean-trade?utm_source=rss_feed",
-    "published_date": "2026-09-29T01:30:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369248/gaza-stage-concert-activism-meets-malaysia-singapore-red-lines?utm_source=rss_feed",
+    "published_date": "2026-09-30T00:00:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese team sets world record with swarm of 116 underwater drones",
+    "title": "Ex-American Idol singer Caleb Flynn convicted of fatally shooting his wife",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3369031/chinese-team-sets-world-record-swarm-116-underwater-drones?utm_source=rss_feed",
-    "published_date": "2026-09-29T01:00:17Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369260/ex-american-idol-singer-caleb-flynn-convicted-fatally-shooting-his-wife?utm_source=rss_feed",
+    "published_date": "2026-09-29T23:32:53Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "5 universities in Hong Kong rank in top 100 in ‘historic’ shift from West to East",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3369243/5-universities-hong-kong-rank-top-100-historic-shift-west-east?utm_source=rss_feed",
+    "published_date": "2026-09-29T23:30:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Morocco’s king appoints El Mansouri as first woman prime minister",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3369259/moroccos-king-appoints-el-mansouri-first-woman-prime-minister?utm_source=rss_feed",
+    "published_date": "2026-09-29T22:37:33Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Man dragged to death by New York subway train after bag gets caught in door",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369258/man-dragged-death-new-york-subway-train-after-bag-gets-caught-door?utm_source=rss_feed",
+    "published_date": "2026-09-29T21:59:03Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "87-year-old woman whose eviction sparked protests in Spain is returning home",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369250/87-year-old-woman-whose-eviction-sparked-protests-spain-returning-home?utm_source=rss_feed",
+    "published_date": "2026-09-29T17:54:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Eiffel Tower chief out over removal of women staff for Hindu group’s visit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369249/eiffel-tower-chief-stepping-down-over-removal-women-staff-hindu-groups-visit?utm_source=rss_feed",
+    "published_date": "2026-09-29T17:36:21Z",
+    "category": "Local Events"
   },
   {
     "title": "Dare to try: A visibly rewarding creative journey into Disney",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369215/man-charged-over-ai-image-crocodile-singapore-reservoir-led-search?utm_source=rss_feed",
     "published_date": "2026-09-29T10:37:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singapore or bust: how Indonesian student’s crowdfunding plea shows degree of desirability",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369210/singapore-or-bust-how-indonesian-students-crowdfunding-plea-shows-degree-desirability?utm_source=rss_feed",
-    "published_date": "2026-09-29T10:18:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China mourns death of music legend Liu Huan, voice of 2008 Beijing Olympic theme song",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3369199/china-mourns-death-music-legend-liu-huan-voice-2008-beijing-olympic-theme-song?utm_source=rss_feed",
-    "published_date": "2026-09-29T10:00:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Mahathir ‘lonely’ as family and Malaysia mourn Siti Hasmah",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3369197/mahathir-lonely-family-and-malaysia-mourn-siti-hasmah?utm_source=rss_feed",
-    "published_date": "2026-09-29T09:13:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong man jailed 3 years for hammer attack on associate who later died",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369185/hong-kong-man-jailed-3-years-hammer-attack-associate-who-later-died?utm_source=rss_feed",
-    "published_date": "2026-09-29T08:19:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China offers 15-year research grants to the world’s brightest young scientists",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3368750/china-offers-15-year-research-grants-worlds-brightest-young-scientists?utm_source=rss_feed",
-    "published_date": "2026-09-29T08:06:50Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippines struggles to fill 20,000 teaching jobs: ‘we are facing a learning crisis’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369126/philippines-struggles-fill-20000-teaching-jobs-we-are-facing-learning-crisis?utm_source=rss_feed",
-    "published_date": "2026-09-29T08:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia’s Forest City wants a rebirth. Scams, crime stand in the way",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369173/malaysias-forest-city-wants-rebirth-scams-crime-stand-way?utm_source=rss_feed",
-    "published_date": "2026-09-29T07:46:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Just 0.5% of nurses trained outside Hong Kong, authorities say amid hiring row",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3369171/05-nurses-trained-outside-hong-kong-authorities-say-amid-hiring-row?utm_source=rss_feed",
-    "published_date": "2026-09-29T07:18:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US forces set to complete withdrawal from Iraq after 2 decades",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3369168/us-forces-set-complete-withdrawal-iraq-after-2-decades?utm_source=rss_feed",
-    "published_date": "2026-09-29T07:03:10Z",
     "category": "Local Events"
   }
 ]
