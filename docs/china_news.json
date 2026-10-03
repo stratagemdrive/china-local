@@ -1,5 +1,12 @@
 [
   {
+    "title": "‘No retreat’: key Trump ally urges continued US-China engagement on rare earths",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369505/no-retreat-key-trump-ally-urges-continued-us-china-engagement-rare-earths?utm_source=rss_feed",
+    "published_date": "2026-10-02T22:00:09Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Donald Trump is planning trip to the Philippines for Asean summit",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3369624/donald-trump-planning-trip-philippines-asean-summit?utm_source=rss_feed",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Border mine blasts show why both Koreas urgently need to restore communication",
+    "title": "Why a film about a dictator has South Korea at war with itself",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3369329/border-mine-blasts-show-why-both-koreas-urgently-need-restore-communication?utm_source=rss_feed",
-    "published_date": "2026-10-01T00:00:10Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369548/why-film-about-dictator-has-south-korea-war-itself?utm_source=rss_feed",
+    "published_date": "2026-10-03T01:30:13Z",
+    "category": "Military"
+  },
+  {
+    "title": "US blast simulation targets China’s alleged secret nuclear testing",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+    "published_date": "2026-10-02T22:38:41Z",
+    "category": "Military"
+  },
+  {
+    "title": "Taiwan coastguard uses water cannons to warn off mainland Chinese fishing vessel",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel?utm_source=rss_feed",
+    "published_date": "2026-10-02T18:33:28Z",
+    "category": "Military"
   },
   {
     "title": "China’s PLA sets up new military academy colleges for AI, drones and discipline",
@@ -256,27 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3369394/trump-defence-chief-says-us-slashed-number-generals-and-admirals-20?utm_source=rss_feed",
     "published_date": "2026-09-30T21:42:41Z",
-    "category": "Military"
-  },
-  {
-    "title": "UK PM says ‘strong indications’ Iran involved in bomb scare at US-run airbase",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3369387/uk-pm-says-strong-indications-iran-involved-bomb-scare-us-run-airbase?utm_source=rss_feed",
-    "published_date": "2026-09-30T16:51:39Z",
-    "category": "Military"
-  },
-  {
-    "title": "The Long March at 90: A Chinese epic that speaks to all humanity",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-09-30/The-Long-March-at-90-A-Chinese-epic-that-speaks-to-all-humanity-1QROiZhcFcA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-09-30T15:23:14Z",
-    "category": "Military"
-  },
-  {
-    "title": "Russia sends nuclear warning to Nato over its Kaliningrad enclave",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3369374/russia-sends-nuclear-warning-nato-over-its-kaliningrad-enclave?utm_source=rss_feed",
-    "published_date": "2026-09-30T14:19:35Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,41 @@
     "category": "Energy"
   },
   {
+    "title": "China has dominated tungsten for decades. Can US cash in Central Asia loosen its grip?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3369599/china-has-dominated-tungsten-decades-can-us-cash-central-asia-loosen-its-grip?utm_source=rss_feed",
+    "published_date": "2026-10-03T01:00:14Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
+    "published_date": "2026-10-02T21:57:01Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Brazil’s Lula hails ‘bold’ Chinese investors as rival pitches rare earths to Trump",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369636/brazils-lula-hails-bold-chinese-investors-rival-pitches-rare-earths-trump?utm_source=rss_feed",
+    "published_date": "2026-10-02T21:04:21Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Panama auditor targets ex-port regulators and CK Hutchison’s executives in canal probe",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369635/panama-auditor-targets-ex-port-regulators-and-hong-kong-firms-executives-canal-probe?utm_source=rss_feed",
+    "published_date": "2026-10-02T19:10:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "New York governor attacks handling of Cornell gang rape case, appoints special prosecutor",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369632/new-york-governor-attacks-handling-cornell-gang-rape-case-appoints-special-prosecutor?utm_source=rss_feed",
+    "published_date": "2026-10-02T17:10:53Z",
+    "category": "Economy"
+  },
+  {
     "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
@@ -525,39 +560,39 @@
     "category": "Economy"
   },
   {
-    "title": "Hong Kong invests billions to accelerate innovation of impactful solutions as an AI-powered future comes into focus",
+    "title": "Hong Kong vs Singapore in tackling bad behaviour",
     "source": "SCMP",
-    "url": "https://www.scmp.com/presented/news/hong-kong/topics/impactful-aiss-approved-projects/article/3369190/hong-kong-invests-billions-accelerate-innovation-impactful-solutions-ai-powered-future-comes-focus?utm_source=rss_feed",
-    "published_date": "2026-10-01T16:00:16Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369302/hong-kong-vs-singapore-tackling-bad-behaviour?utm_source=rss_feed",
+    "published_date": "2026-10-03T01:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "US jobless claims fall to lowest since mid-July",
+    "title": "Hongkongers lose HK$220 million to customer service scams in August",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369480/us-jobless-claims-fall-lowest-mid-july?utm_source=rss_feed",
-    "published_date": "2026-10-01T15:11:25Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369628/hongkongers-lose-hk220-million-customer-service-scams-august?utm_source=rss_feed",
+    "published_date": "2026-10-03T01:00:20Z",
+    "category": "Local Events"
   },
   {
-    "title": "US tells France, Germany: release EU diesel stocks or face export ban",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-01/US-tells-France-Germany-release-EU-diesel-stocks-or-face-export-ban-1QTnNn9vHBC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-01T13:23:39Z",
-    "category": "Economy"
+    "title": "Going ‘car-lite’: why more Singaporeans are quitting driving",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3369591/going-car-lite-why-more-singaporeans-are-quitting-driving?utm_source=rss_feed",
+    "published_date": "2026-10-03T00:00:17Z",
+    "category": "Local Events"
   },
   {
-    "title": "EU retools Trump trade war tripwire into China shipments surge alarm",
+    "title": "Trump expected to name Jay Clayton as AI tsar",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3369477/eu-retools-trump-trade-war-tripwire-china-shipments-surge-alarm?utm_source=rss_feed",
-    "published_date": "2026-10-01T13:20:16Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369639/trump-expected-name-jay-clayton-ai-tsar?utm_source=rss_feed",
+    "published_date": "2026-10-02T22:41:49Z",
+    "category": "Local Events"
   },
   {
-    "title": "Investigators probe why co-pilot stabbed captain of flyDubai flight to Israel",
+    "title": "King Charles to acknowledge ‘darkest days’ of colonial rule on Caribbean tour",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3369475/investigators-probe-why-co-pilot-stabbed-captain-flydubai-flight-israel?utm_source=rss_feed",
-    "published_date": "2026-10-01T12:45:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3369633/king-charles-acknowledge-darkest-days-colonial-rule-caribbean-tour?utm_source=rss_feed",
+    "published_date": "2026-10-02T18:11:53Z",
+    "category": "Local Events"
   },
   {
     "title": "Off-duty senior ambulanceman dies after abseiling fall on Kowloon Peak",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust?utm_source=rss_feed",
     "published_date": "2026-10-02T08:00:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Abby Choi struck with hammer during car trip ruse to fetch daughter, court hears",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369542/abby-choi-struck-hammer-during-fake-car-trip-fetch-daughter-court-hears?utm_source=rss_feed",
-    "published_date": "2026-10-02T07:35:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s AI compute ambitions demand innovation",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-    "published_date": "2026-10-02T07:05:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Mainland tourists pack Hong Kong stores, but retailers report modest spending",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369535/mainland-chinese-visitors-pack-hong-kong-shopping-centres-day-2-national-day-break?utm_source=rss_feed",
-    "published_date": "2026-10-02T06:33:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Rain dampens visitor numbers at Hong Kong attractions on day 2 of ‘golden week’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369534/rain-dampens-visitor-numbers-hong-kong-attractions-day-2-golden-week?utm_source=rss_feed",
-    "published_date": "2026-10-02T06:28:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
-    "published_date": "2026-10-02T05:44:12Z",
     "category": "Local Events"
   }
 ]
