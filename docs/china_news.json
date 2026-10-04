@@ -420,6 +420,13 @@
     "category": "Energy"
   },
   {
+    "title": "Young Chinese hire ‘life stand-ins’ to cook and care for elderly parents amid booming trend",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369676/young-chinese-hire-life-stand-ins-cook-and-care-elderly-parents-amid-booming-trend?utm_source=rss_feed",
+    "published_date": "2026-10-04T02:20:53Z",
+    "category": "Economy"
+  },
+  {
     "title": "How US-China RISC-V collaboration is deepening despite chip rivalry",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/tech-trends/article/3369590/how-us-china-risc-v-collaboration-deepening-despite-chip-rivalry?utm_source=rss_feed",
@@ -553,11 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "Heads of State head to Egypt for inaugural Alamein Africa Forum",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-10-02/Heads-of-State-head-to-Egypt-for-inaugural-Alamein-Africa-Forum-1QV7X8klu0M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-02T15:54:43Z",
-    "category": "Economy"
+    "title": "Cornell University boss breaks silence over rape case uproar",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369677/cornell-university-boss-breaks-silence-over-rape-case-uproar?utm_source=rss_feed",
+    "published_date": "2026-10-04T02:21:48Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
+    "published_date": "2026-10-04T02:00:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Name and shame: Japan’s tame answer to jobseeker sex harassment",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3369593/name-and-shame-japans-tame-answer-jobseeker-sex-harassment?utm_source=rss_feed",
+    "published_date": "2026-10-04T01:30:14Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "To become a dog-friendly city, Hong Kong needs dog literacy",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369242/become-dog-friendly-city-hong-kong-needs-dog-literacy?utm_source=rss_feed",
+    "published_date": "2026-10-04T01:30:10Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump shares Senator Tom Cotton’s phone number in daylight saving time clash",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369675/trump-shares-senator-tom-cottons-phone-number-daylight-saving-time-clash?utm_source=rss_feed",
+    "published_date": "2026-10-04T01:21:41Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong’s cancer research drawing global attention, says leading body’s chief",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369670/hong-kongs-cancer-research-drawing-global-attention-says-leading-bodys-chief?utm_source=rss_feed",
+    "published_date": "2026-10-04T01:00:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Sinking city, rising rage: Bangkok’s floods fuel fury over government inaction",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3369592/sinking-city-rising-rage-bangkoks-floods-fuel-fury-over-government-inaction?utm_source=rss_feed",
+    "published_date": "2026-10-04T00:00:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
+    "published_date": "2026-10-03T23:11:44Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China and Africa boost law enforcement ties in crackdown on cross-border cybercrime",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369660/china-and-africa-boost-law-enforcement-ties-crackdown-cross-border-cybercrime?utm_source=rss_feed",
+    "published_date": "2026-10-03T22:00:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Baby bonuses fail to address the fear of falling behind",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3369277/baby-bonuses-fail-address-fear-falling-behind?utm_source=rss_feed",
+    "published_date": "2026-10-03T21:30:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
+    "published_date": "2026-10-03T16:53:29Z",
+    "category": "Local Events"
   },
   {
     "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3369653/better-expected-73800-subdivided-flats-apply-3-year-grace-period?utm_source=rss_feed",
     "published_date": "2026-10-03T06:26:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Restaurant business grows 10% on first 2 days of break as arrivals top 2018 peak",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369651/mainland-chinese-arrivals-first-2-days-golden-week-holiday-top-2018-total?utm_source=rss_feed",
-    "published_date": "2026-10-03T06:13:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong Airport Authority to reshape 11 Skies as a high-end tourism landmark",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369648/hong-kong-airport-authority-reshape-11-skies-high-end-tourism-landmark?utm_source=rss_feed",
-    "published_date": "2026-10-03T05:59:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Residents near Xiangjiang River battlefields keep history alive",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-03/Residents-near-Xiangjiang-River-battlefields-keep-history-alive-1QVbFbUxfos/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-03T02:18:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Viral video of 9-month-old Chinese baby climbing mountain steps sparks safety concerns",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3369625/viral-video-9-month-old-chinese-baby-climbing-mountain-steps-sparks-safety-concerns?utm_source=rss_feed",
-    "published_date": "2026-10-03T02:00:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia is building a new research corridor across Asia to meet China’s rise: scientists",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3369619/malaysia-building-new-research-corridor-across-asia-meet-chinas-rise-scientists?utm_source=rss_feed",
-    "published_date": "2026-10-03T02:00:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong vs Singapore in tackling bad behaviour",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369302/hong-kong-vs-singapore-tackling-bad-behaviour?utm_source=rss_feed",
-    "published_date": "2026-10-03T01:30:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hongkongers lose HK$220 million to customer service scams in August",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369628/hongkongers-lose-hk220-million-customer-service-scams-august?utm_source=rss_feed",
-    "published_date": "2026-10-03T01:00:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "9 injured after car crashes into crowd north of Sydney",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-03/news-1QVSNOGdO12/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-03T00:57:01Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Going ‘car-lite’: why more Singaporeans are quitting driving",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3369591/going-car-lite-why-more-singaporeans-are-quitting-driving?utm_source=rss_feed",
-    "published_date": "2026-10-03T00:00:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Trump expected to name Jay Clayton as AI tsar",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369639/trump-expected-name-jay-clayton-ai-tsar?utm_source=rss_feed",
-    "published_date": "2026-10-02T22:41:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "King Charles to acknowledge ‘darkest days’ of colonial rule on Caribbean tour",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3369633/king-charles-acknowledge-darkest-days-colonial-rule-caribbean-tour?utm_source=rss_feed",
-    "published_date": "2026-10-02T18:11:53Z",
     "category": "Local Events"
   }
 ]
