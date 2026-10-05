@@ -1,5 +1,19 @@
 [
   {
+    "title": "Zheng Yongnian on China-US realism and battling for the upper hand before the next summit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3369686/zheng-yongnian-china-us-realism-and-battling-upper-hand-next-summit?utm_source=rss_feed",
+    "published_date": "2026-10-04T22:00:17Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Iran tells US there is no military solution to Middle East war",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3369731/iran-tells-us-there-no-military-solution-middle-east-war?utm_source=rss_feed",
+    "published_date": "2026-10-04T19:44:29Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China urged to build ‘system’ to protect expanding overseas interests",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3369678/china-urged-build-system-protect-expanding-overseas-interests?utm_source=rss_feed",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Energy prices, cost of living top ASEAN energy transition concerns",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-02/Energy-prices-cost-of-living-top-ASEAN-energy-transition-concerns-1QUAE3i67PW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-02T06:43:07Z",
-    "category": "Diplomacy"
+    "title": "US Air Force removes all bombers from UK airbase targeted by suspected terror attack",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369734/us-air-force-removes-all-bombers-uk-airbase-targeted-suspected-terror-attack?utm_source=rss_feed",
+    "published_date": "2026-10-04T21:31:53Z",
+    "category": "Military"
   },
   {
-    "title": "Japan poll: 57% urge Takaichi to improve ties with China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-02/Japan-poll-57-urge-Takaichi-to-improve-ties-with-China-1QUo3C4KjZu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-02T06:00:17Z",
-    "category": "Diplomacy"
+    "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelensky",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky?utm_source=rss_feed",
+    "published_date": "2026-10-04T16:45:32Z",
+    "category": "Military"
   },
   {
     "title": "China’s hospital ships project a different kind of naval power in Africa",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369487/putin-warns-russia-will-use-all-weapons-arsenal-if-any-its-territory-attacked?utm_source=rss_feed",
     "published_date": "2026-10-01T21:09:10Z",
-    "category": "Military"
-  },
-  {
-    "title": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
-    "published_date": "2026-10-01T14:00:31Z",
-    "category": "Military"
-  },
-  {
-    "title": "‘No beardos, no weirdos’: Hegseth deepens Pentagon purge as China channels reopen",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3369478/no-beardos-no-weirdos-hegseth-deepens-pentagon-purge-china-channels-reopen?utm_source=rss_feed",
-    "published_date": "2026-10-01T13:52:15Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "HKU eyes Northern Metropolis expansion to boost research capacity, attract talent",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3369716/hku-eyes-northern-metropolis-expansion-boost-research-capacity-attract-talent?utm_source=rss_feed",
+    "published_date": "2026-10-05T01:00:13Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions, EU hopes collide",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369733/serb-separatist-dodik-declares-victory-bosnia-vote-ethnic-tensions-eu-hopes-collide?utm_source=rss_feed",
+    "published_date": "2026-10-04T20:36:54Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Netanyahu orders security review of international flights to Israel after Flydubai attack",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+    "published_date": "2026-10-04T20:09:25Z",
+    "category": "Economy"
+  },
+  {
     "title": "Hong Kong woman loses HK$21.5 million in cryptocurrency scam",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369712/hong-kong-woman-loses-hk215-million-cryptocurrency-scam?utm_source=rss_feed",
@@ -539,25 +560,88 @@
     "category": "Economy"
   },
   {
-    "title": "AI and new ideas reshape China's animation industry",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-03/AI-and-new-ideas-reshape-China-s-animation-industry-1QWjkl4kEBG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-03T07:18:16Z",
-    "category": "Economy"
-  },
-  {
-    "title": "UAE attorney-general says Flydubai co-pilot attempted terrorist act",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-03/news-1QWeJ1fwxLa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-03T06:03:47Z",
-    "category": "Economy"
-  },
-  {
-    "title": "G20 countries divided over US call to curb excess industrial capacity",
+    "title": "Malaysians choose family over shopping or holidays, domestic travel data shows",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369647/g20-countries-divided-over-us-call-curb-excess-industrial-capacity?utm_source=rss_feed",
-    "published_date": "2026-10-03T05:59:32Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369737/malaysians-choose-family-over-shopping-or-holidays-domestic-travel-data-shows?utm_source=rss_feed",
+    "published_date": "2026-10-05T01:46:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "FBI chief Kash Patel and country singer Alexis Wilkins announce engagement",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369738/fbi-chief-kash-patel-and-country-singer-alexis-wilkins-announce-engagement?utm_source=rss_feed",
+    "published_date": "2026-10-05T01:28:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Laotian man freed from eSwatini jail 14 months after US third-country deportation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369736/laotian-man-freed-eswatini-jail-14-months-after-us-third-country-deportation?utm_source=rss_feed",
+    "published_date": "2026-10-05T00:48:16Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Rigid goals not set in Hong Kong’s 5-year plan to allay fears of planned economy: Tse",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3369715/hong-kong-resisted-rigid-5-year-plan-goals-allay-planned-economy-fears-minister?utm_source=rss_feed",
+    "published_date": "2026-10-05T00:30:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Malaysia’s Anwar set to unveil crowd-pleasing budget as political pressure rises",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3369573/malaysias-anwar-set-unveil-crowd-pleasing-budget-political-pressure-rises?utm_source=rss_feed",
+    "published_date": "2026-10-05T00:00:17Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Search continues for missing Bermuda to Boston flight as crews plan to comb seabed",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369735/search-continues-missing-bermuda-boston-flight-crews-plan-comb-seabed?utm_source=rss_feed",
+    "published_date": "2026-10-04T22:56:01Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hundreds of schools to close on Monday as education protests rock France",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed",
+    "published_date": "2026-10-04T18:42:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Dozens detained at a rally in Moscow held by Kremlin-friendly Communist Party, party says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3369729/dozens-detained-rally-moscow-held-kremlin-friendly-communist-party-party-says?utm_source=rss_feed",
+    "published_date": "2026-10-04T18:17:20Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Brazil heads to run-off between Lula and pro-Trump Senator Flavio Bolsonaro",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3369728/brazilians-head-polls-high-stakes-polarised-election?utm_source=rss_feed",
+    "published_date": "2026-10-04T17:48:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK Green Party adopts ‘Zionism is racism’ policy, drawing backlash from Israel",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3369725/uk-green-party-adopts-zionism-racism-policy-drawing-backlash-israel?utm_source=rss_feed",
+    "published_date": "2026-10-04T16:26:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong builders take three WorldSkills honours in best CIC haul",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3369508/hong-kong-builders-take-three-worldskills-honours-best-cic-haul?utm_source=rss_feed",
+    "published_date": "2026-10-04T16:00:14Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Police surround Wong Tai Sin flat after woman reportedly seen with knife in area",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369724/police-surround-wong-tai-sin-flat-after-woman-reportedly-seen-knife-area?utm_source=rss_feed",
+    "published_date": "2026-10-04T15:56:19Z",
+    "category": "Local Events"
   },
   {
     "title": "Supporters of Imran Khan begin ‘long march’ to Islamabad",
@@ -613,90 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3369693/beijing-fights-invasive-moths-parasitic-wasps-and-caterpillar-catching-contests?utm_source=rss_feed",
     "published_date": "2026-10-04T11:00:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "TCM or Western medicine for sports injuries? Why this Hong Kong athlete chose both",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/lifestyle/health-wellness/article/3369447/tcm-or-western-medicine-sports-injuries-why-hong-kong-athlete-chose-both?utm_source=rss_feed",
-    "published_date": "2026-10-04T11:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s only monogamous emperor: why Hongzhi refused a harem, remained dedicated to wife",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3369702/chinas-only-monogamous-emperor-why-hongzhi-refused-harem-remained-dedicated-wife?utm_source=rss_feed",
-    "published_date": "2026-10-04T10:30:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Helpers, employers voice concerns over Hong Kong plan to import carers in 2027",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3369701/hong-kong-set-begin-importing-hundreds-carers-second-half-2027?utm_source=rss_feed",
-    "published_date": "2026-10-04T10:22:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong should review reducing number of Legco seats to cut costs, Rita Fan says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3369700/hong-kong-should-review-reducing-number-legco-seats-cut-cost-rita-fan-says?utm_source=rss_feed",
-    "published_date": "2026-10-04T10:03:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Russia strikes Kyiv bridge as Germany’s Merz visits, pledges aid",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3369698/russia-strikes-kyiv-bridge-germanys-merz-visits-pledges-aid?utm_source=rss_feed",
-    "published_date": "2026-10-04T09:55:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "66% of Hong Kong’s 8-year-olds could be short-sighted by 2028, experts warn",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3369696/66-hong-kongs-8-year-olds-could-be-short-sighted-2028-experts-warn?utm_source=rss_feed",
-    "published_date": "2026-10-04T08:51:40Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China lashes out at Xinjiang ‘lie’ after US lawmaker urges Starbucks to close new stores",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3369689/china-lashes-out-xinjiang-lie-after-us-lawmaker-urges-starbucks-close-new-stores?utm_source=rss_feed",
-    "published_date": "2026-10-04T08:00:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "5 dead in 3 weeks: are Indonesia’s whale strandings on the rise?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3369613/5-dead-3-weeks-are-indonesias-whale-strandings-rise?utm_source=rss_feed",
-    "published_date": "2026-10-04T08:00:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Flight to Okinawa diverts back to Hong Kong after suspected landing gear fault",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3369690/flight-okinawa-diverts-back-hong-kong-after-suspected-landing-gear-fault?utm_source=rss_feed",
-    "published_date": "2026-10-04T06:47:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan’s Takaichi presses US after marine arrested over murder-robbery of woman",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3369687/japans-takaichi-presses-us-after-marine-arrested-over-murder-robbery-woman?utm_source=rss_feed",
-    "published_date": "2026-10-04T06:12:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "3 students arrested in Malaysia over murder of girl found dead at school",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3369683/3-students-arrested-malaysia-over-murder-girl-found-dead-school?utm_source=rss_feed",
-    "published_date": "2026-10-04T04:29:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Indonesians sue their president over haze – can it clear the air?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3369594/indonesians-sue-president-over-haze-can-it-clear-air?utm_source=rss_feed",
-    "published_date": "2026-10-04T04:00:11Z",
     "category": "Local Events"
   }
 ]
