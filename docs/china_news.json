@@ -1,5 +1,12 @@
 [
   {
+    "title": "Xi Jinping meets foreign leaders: tracker, September 2026",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3370259/xi-jinping-meets-foreign-leaders-tracker-september-2026?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:39:33Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "It’s time for China to offer more than statements on Hormuz",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/world-opinion/article/3369792/its-time-china-offer-more-statements-hormuz?utm_source=rss_feed",
@@ -133,11 +140,53 @@
     "category": "Diplomacy"
   },
   {
-    "title": "US, WHO press Moscow over plague after death of Russian lab tech",
+    "title": "How quickly is China learning from the Ukraine war’s latest drone tactics?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3369967/trump-says-will-speak-putin-plague-after-death-russian-lab-tech?utm_source=rss_feed",
-    "published_date": "2026-10-06T23:42:07Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/military/article/3370212/how-quickly-china-learning-ukraine-wars-latest-drone-tactics?utm_source=rss_feed",
+    "published_date": "2026-10-09T01:00:07Z",
+    "category": "Military"
+  },
+  {
+    "title": "US to live-stream firing squad execution of Fort Hood shooter Nidal Hasan",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370245/us-live-stream-firing-squad-execution-military-base-shooter-nidal-hasan?utm_source=rss_feed",
+    "published_date": "2026-10-08T22:05:41Z",
+    "category": "Military"
+  },
+  {
+    "title": "Pentagon unveils US$350 million quantum computing push as China rivalry grows",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/science-technology/article/3370243/pentagon-unveils-us350-million-quantum-computing-push-china-rivalry-grows?utm_source=rss_feed",
+    "published_date": "2026-10-08T21:33:59Z",
+    "category": "Military"
+  },
+  {
+    "title": "After failed US execution, Christa Pike is walking with help and eating, lawyers say",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370242/after-failed-us-execution-christa-pike-walking-mentally-foggy-lawyer-says?utm_source=rss_feed",
+    "published_date": "2026-10-08T21:33:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "National security must not kill Philippines-China academic ties",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3369991/national-security-must-not-kill-philippines-china-academic-ties?utm_source=rss_feed",
+    "published_date": "2026-10-08T21:30:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "The long-deployed USS Abraham Lincoln returns home to San Diego from Middle East",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370240/long-deployed-uss-abraham-lincoln-returns-home-san-diego-middle-east?utm_source=rss_feed",
+    "published_date": "2026-10-08T19:21:32Z",
+    "category": "Military"
+  },
+  {
+    "title": "UK navy sailor appears in London court on charges of spying for Russia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3370237/royal-navy-sailor-appears-london-court-charges-spying-russia?utm_source=rss_feed",
+    "published_date": "2026-10-08T18:11:24Z",
+    "category": "Military"
   },
   {
     "title": "UK Ministry of Defence patrols arrest 2 Latvians near RAF base",
@@ -231,53 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "China’s thorium-229 nuclear clock beats Vienna’s on stability, studies show",
+    "title": "From kitchen waste to sky-high costs: inside Hong Kong’s quest for green jet fuel",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3370006/chinas-thorium-229-nuclear-clock-beats-viennas-stability-studies-show?utm_source=rss_feed",
-    "published_date": "2026-10-07T15:00:07Z",
-    "category": "Military"
-  },
-  {
-    "title": "Can ‘neutral’ Malaysia stay above the fray in the US-China tech rivalry?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3370087/can-neutral-malaysia-stay-above-fray-us-china-tech-rivalry?utm_source=rss_feed",
-    "published_date": "2026-10-07T13:25:59Z",
-    "category": "Military"
-  },
-  {
-    "title": "US and China must set rules before autonomous fighters cross paths",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3369855/us-and-china-must-set-rules-autonomous-fighters-cross-paths?utm_source=rss_feed",
-    "published_date": "2026-10-07T12:30:06Z",
-    "category": "Military"
-  },
-  {
-    "title": "‘No more dumping, no more spying’: European Parliament hardens line on China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370075/no-more-dumping-no-more-spying-european-parliament-hardens-line-china?utm_source=rss_feed",
-    "published_date": "2026-10-07T11:48:55Z",
-    "category": "Military"
-  },
-  {
-    "title": "How will new longer-range aircraft boost Manila’s South China Sea surveillance?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3370027/how-will-new-longer-range-aircraft-boost-manilas-south-china-sea-surveillance?utm_source=rss_feed",
-    "published_date": "2026-10-07T11:00:14Z",
-    "category": "Military"
-  },
-  {
-    "title": "EU 'obsessed' with militarization: Kremlin",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-07/news-1R3alajv4Mo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-07T10:15:40Z",
-    "category": "Military"
-  },
-  {
-    "title": "Israel continues demolishing buildings in Gaza a year after ceasefire",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3370017/israel-continues-demolishing-buildings-gaza-year-after-ceasefire?utm_source=rss_feed",
-    "published_date": "2026-10-07T08:11:19Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370198/kitchen-waste-sky-high-costs-inside-hong-kongs-quest-green-jet-fuel?utm_source=rss_feed",
+    "published_date": "2026-10-09T00:30:06Z",
+    "category": "Energy"
   },
   {
     "title": "Yemen’s Houthis attack Aden airport as fighting intensifies",
@@ -413,11 +420,39 @@
     "category": "Energy"
   },
   {
-    "title": "Mars shelter problem can be solved with engineered yeast, gelatin and sand: paper",
+    "title": "Ukraine’s Zelensky accuses US of inaction as Russian strikes kill nearly 80 in 2 days",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3368830/mars-shelter-problem-can-be-solved-engineered-yeast-gelatin-and-sand-paper?utm_source=rss_feed",
-    "published_date": "2026-10-04T04:00:07Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/world/europe/article/3370253/ukraines-zelensky-accuses-us-inaction-russian-strikes-kill-nearly-80-2-days?utm_source=rss_feed",
+    "published_date": "2026-10-09T01:49:58Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Central retail shop bought by Swiss heir in ‘rare’ Hong Kong market move",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/property/article/3370181/central-retail-shop-bought-swiss-heir-rare-hong-kong-market-move?utm_source=rss_feed",
+    "published_date": "2026-10-08T23:00:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China breakthrough projected to push sustainable jet fuel gross profit margin past 50%",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3370144/china-breakthrough-projected-push-sustainable-jet-fuel-gross-profit-margin-past-50?utm_source=rss_feed",
+    "published_date": "2026-10-08T22:00:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US probes Harvard, Yale, MIT, other universities over alleged visa fraud, with China focus",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3370239/us-investigates-9-universities-over-alleged-visa-fraud-focus-china?utm_source=rss_feed",
+    "published_date": "2026-10-08T19:05:23Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s BYD considering lithium battery plant in Argentina, foreign minister says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370236/chinas-byd-considering-lithium-battery-plant-argentina-foreign-minister-says?utm_source=rss_feed",
+    "published_date": "2026-10-08T17:52:55Z",
+    "category": "Economy"
   },
   {
     "title": "UK police accept ex-prince Andrew search warrants must be ‘legally quashed’",
@@ -525,39 +560,95 @@
     "category": "Economy"
   },
   {
-    "title": "Chancay-Shanghai maritime route is supercharging China-Peru trade",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-10-08/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade--1R3XzsJTbB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-07T22:47:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Chancay-Shanghai maritime route is supercharging China-Peru trade",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-10-08/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade--1R3XzsJTbB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-07T22:47:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Chancay-Shanghai maritime route is supercharging China-Peru trade",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-10-08/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade--1R3XzsJTbB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-07T22:47:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Trump urged Xi to talk to Takaichi and lift export curbs on Japan, sources say",
+    "title": "Sacred splashes: ancient Chinese ritual of ‘elephant washing’ for good fortune",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370064/trump-urged-xi-talk-takaichi-and-lift-export-curbs-japan-sources-say?utm_source=rss_feed",
-    "published_date": "2026-10-07T22:00:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3370261/sacred-splashes-ancient-chinese-ritual-elephant-washing-good-fortune?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:50:31Z",
+    "category": "Local Events"
   },
   {
-    "title": "New York’s famed Chrysler Building finally finds a buyer",
+    "title": "New York mayor urges Trump to remove ICE after driver with child in car is shot",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370102/new-yorks-famed-chrysler-building-finally-finds-buyer?utm_source=rss_feed",
-    "published_date": "2026-10-07T20:04:14Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370260/new-york-mayor-urges-trump-remove-ice-after-driver-child-car-shot?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:47:38Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Singapore film festival rejects South Korean party’s calls to drop The Assassin(s)",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370256/singapore-film-festival-rejects-south-korean-partys-calls-drop-assassins?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:30:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "27 people, groups named finalists for 14th Spirit of Hong Kong Awards",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3370228/27-people-groups-named-finalists-14th-spirit-hong-kong-awards?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:15:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong police to launch international academy, reveal details of new degree",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370200/hong-kong-police-launch-international-academy-reveal-details-new-degree?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:00:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Rare Chinese calligraphy scroll resurfaces after 81 years, sells for US$22.6 million",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3370197/rare-chinese-calligraphy-scroll-resurfaces-after-81-years-sells-us226-million?utm_source=rss_feed",
+    "published_date": "2026-10-09T02:00:13Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "3 dilemmas on keeping AI under control are converging",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3369808/3-dilemmas-keeping-ai-under-control-are-converging?utm_source=rss_feed",
+    "published_date": "2026-10-09T01:30:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "3 siblings killed in Malaysia crash after insisting on going to haze-closed school",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370251/3-siblings-killed-malaysia-crash-after-insisting-going-haze-closed-school?utm_source=rss_feed",
+    "published_date": "2026-10-09T01:23:44Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "South Korea struggles to curb sexual exploitation sites 10 years after Soranet scandal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3370222/south-korea-struggles-curb-sexual-exploitation-sites-10-years-after-soranet-scandal?utm_source=rss_feed",
+    "published_date": "2026-10-09T00:00:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Flavio Bolsonaro says he would work with China and US as Brazil’s president",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3370246/flavio-bolsonaro-says-he-would-work-china-and-us-brazils-president?utm_source=rss_feed",
+    "published_date": "2026-10-08T23:37:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong rejects US downgrade to lowest tier in human trafficking report",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370244/hong-kong-rejects-us-downgrade-lowest-tier-human-trafficking-report?utm_source=rss_feed",
+    "published_date": "2026-10-08T21:43:50Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Venezuela’s Maduro and wife Flores tortured US citizens to stay in power: US prosecutors",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370241/venezuelas-maduro-and-wife-flores-tortured-us-citizens-stay-power-us-prosecutors?utm_source=rss_feed",
+    "published_date": "2026-10-08T20:10:26Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "German official killed, another injured during firearms inspection",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3370238/german-official-killed-another-injured-during-firearms-inspection?utm_source=rss_feed",
+    "published_date": "2026-10-08T18:32:48Z",
+    "category": "Local Events"
   },
   {
     "title": "Trump says US will not attack Iran before November’s midterm elections",
@@ -606,97 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370213/least-33-dead-russian-bomb-blast-east-ukraine-stronghold?utm_source=rss_feed",
     "published_date": "2026-10-08T12:00:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China nominates Song Li for WHO chief as agency faces funding shake-up from US exit",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370214/china-nominates-song-li-who-chief-agency-faces-funding-shake-us-exit?utm_source=rss_feed",
-    "published_date": "2026-10-08T11:51:02Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong police arrest students as alleged key figures in HK$2.16 million scam ring",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370211/hong-kong-students-arrested-alleged-core-members-hk216m-fraud-syndicate?utm_source=rss_feed",
-    "published_date": "2026-10-08T11:36:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Canada’s Anne Carson wins 2026 Nobel Prize in Literature for ‘inventive’ spin on classics",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370205/canadas-anne-carson-wins-2026-nobel-prize-literature?utm_source=rss_feed",
-    "published_date": "2026-10-08T11:07:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "National security police arrest 2 over alleged seditious social media posts",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370185/national-security-police-arrest-2-over-alleged-seditious-social-media-posts?utm_source=rss_feed",
-    "published_date": "2026-10-08T09:09:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong child abuse case prompts calls to watch for signs of psychological harm",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370183/hong-kong-child-abuse-case-prompts-calls-watch-signs-psychological-harm?utm_source=rss_feed",
-    "published_date": "2026-10-08T09:04:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "To retire or not to retire? Malaysia divided over working past 60",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3370171/retire-or-not-retire-malaysia-divided-over-working-past-60?utm_source=rss_feed",
-    "published_date": "2026-10-08T09:00:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Iron cage beds at elderly home in Thailand fuel anger, owner defends ‘innovation’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3370178/iron-cage-beds-elderly-home-thailand-fuel-anger-owner-defends-innovation?utm_source=rss_feed",
-    "published_date": "2026-10-08T08:33:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "In Indonesia, will VP Gibran’s ‘diploma-gate’ haunt his future after court ruling?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3370175/indonesia-will-vp-gibrans-diploma-gate-haunt-his-future-after-court-ruling?utm_source=rss_feed",
-    "published_date": "2026-10-08T08:13:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Police recover HK$30 million in gold swapped for fabric softener in hotel theft",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370172/police-recover-hk30-million-gold-swapped-fabric-softener-hotel-theft?utm_source=rss_feed",
-    "published_date": "2026-10-08T08:06:40Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese team says its all-in-one mini artificial pancreas offers next-gen diabetes care",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3370145/chinese-team-says-its-all-one-mini-artificial-pancreas-offers-next-gen-diabetes-care?utm_source=rss_feed",
-    "published_date": "2026-10-08T08:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US AI firm Anthropic enables Chinese-language options for Claude chatbot",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed",
-    "published_date": "2026-10-08T07:38:25Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Abby Choi’s ex-father-in-law ‘cunning old fox’ who clung to her wealth, court told",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370164/abby-chois-ex-father-law-cunning-old-fox-who-clung-her-wealth-court-told?utm_source=rss_feed",
-    "published_date": "2026-10-08T07:29:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "US judge blocks release of alleged Beijing agent accused of filming Taiwan leader’s son",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370146/us-judge-blocks-release-alleged-beijing-agent-accused-filming-taiwan-leaders-son?utm_source=rss_feed",
-    "published_date": "2026-10-08T06:00:13Z",
     "category": "Local Events"
   }
 ]
