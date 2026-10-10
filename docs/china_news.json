@@ -1,5 +1,19 @@
 [
   {
+    "title": "Modi and Xi can’t bridge the India-China divide by themselves",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3370033/modi-and-xi-cant-bridge-india-china-divide-themselves?utm_source=rss_feed",
+    "published_date": "2026-10-10T01:30:04Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai?utm_source=rss_feed",
+    "published_date": "2026-10-10T00:01:05Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "US slaps sanctions on ICC, hours after ex-judge wins Nobel",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370403/us-slaps-sanctions-icc-hours-after-ex-judge-wins-nobel?utm_source=rss_feed",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "North Korea decries medical aid, says ‘nothing to give or receive’ from Seoul",
+    "title": "The EU is its own worst enemy",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3370150/north-korea-decries-medical-aid-says-nothing-give-or-receive-seoul?utm_source=rss_feed",
-    "published_date": "2026-10-08T06:11:14Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "German President Steinmeier targets China trip as Berlin sharpens trade stance",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370140/german-president-steinmeier-targets-china-trip-berlin-sharpens-trade-stance?utm_source=rss_feed",
-    "published_date": "2026-10-08T05:06:24Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3370176/eu-its-own-worst-enemy?utm_source=rss_feed",
+    "published_date": "2026-10-09T21:30:05Z",
+    "category": "Military"
   },
   {
     "title": "With war project, US tech ecosystem is beginning to look a lot like China’s",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Did a US warship lose power while chasing a Chinese destroyer in the South China Sea?",
+    "title": "Why a Communist Party boss had a coffee shop date with Chinese content creators",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3370182/did-us-warship-lose-power-while-chasing-chinese-destroyer-south-china-sea?utm_source=rss_feed",
-    "published_date": "2026-10-08T13:00:06Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/china/politics/article/3370417/why-communist-party-boss-had-coffee-shop-date-chinese-content-creators?utm_source=rss_feed",
+    "published_date": "2026-10-10T02:01:07Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Trump announces major diesel deal with Russia ahead of US midterm elections next month",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370409/trump-says-us-get-diesel-russia-stunning-bid-ease-prices?utm_source=rss_feed",
+    "published_date": "2026-10-09T19:23:30Z",
+    "category": "Energy"
   },
   {
     "title": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
@@ -406,18 +420,25 @@
     "category": "Energy"
   },
   {
-    "title": "Yemeni government forces seize control of Bab el-Mandeb Strait, minister says",
+    "title": "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3369825/yemeni-government-forces-seize-control-bab-el-mandeb-strait-minister-says?utm_source=rss_feed",
-    "published_date": "2026-10-05T13:23:24Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/science/article/3370149/new-taipei-hong-kong-subsea-route-opened-cut-risk-and-meet-ai-demand?utm_source=rss_feed",
+    "published_date": "2026-10-10T01:00:06Z",
+    "category": "Economy"
   },
   {
-    "title": "China turning CO₂ emissions into resources",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-05/China-turning-CO-emissions-into-resources-1QZJoD7MjPa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-05T11:41:30Z",
-    "category": "Energy"
+    "title": "Southeast Asia takes on Big Tech to protect children online",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3370362/childs-play-southeast-asia-takes-big-tech-protect-kids-online?utm_source=rss_feed",
+    "published_date": "2026-10-10T00:00:25Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Port of LA, key US point for China imports, has best-ever quarter despite trade uncertainty",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370410/key-us-port-china-imports-records-best-ever-quarter-despite-trade-uncertainty?utm_source=rss_feed",
+    "published_date": "2026-10-09T20:54:02Z",
+    "category": "Economy"
   },
   {
     "title": "Developer of One Stanley pledges 6-year warranty and checks amid steel bar probe",
@@ -539,25 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "China breakthrough projected to push sustainable jet fuel gross profit margin past 50%",
+    "title": "Chinese police crack real-life ‘Breaking Bad’ drug lab, arresting ex-chemistry professor",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3370144/china-breakthrough-projected-push-sustainable-jet-fuel-gross-profit-margin-past-50?utm_source=rss_feed",
-    "published_date": "2026-10-08T22:00:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3370405/chinese-police-crack-real-life-breaking-bad-drug-lab-arresting-ex-chemistry-professor?utm_source=rss_feed",
+    "published_date": "2026-10-10T02:00:17Z",
+    "category": "Local Events"
   },
   {
-    "title": "US probes Harvard, Yale, MIT, other universities over alleged visa fraud, with China focus",
+    "title": "Malaysia urged to police its firms in Indonesia as haze shuts schools",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/article/3370239/us-investigates-9-universities-over-alleged-visa-fraud-focus-china?utm_source=rss_feed",
-    "published_date": "2026-10-08T19:05:23Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3370388/malaysia-urged-police-its-firms-indonesia-haze-shuts-schools?utm_source=rss_feed",
+    "published_date": "2026-10-10T02:00:12Z",
+    "category": "Local Events"
   },
   {
-    "title": "China’s BYD considering lithium battery plant in Argentina, foreign minister says",
+    "title": "Japanese brewer designs “wobbly” beer glass to encourage responsible drinking",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370236/chinas-byd-considering-lithium-battery-plant-argentina-foreign-minister-says?utm_source=rss_feed",
-    "published_date": "2026-10-08T17:52:55Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3370416/japanese-brewer-designs-wobbly-beer-glass-encourage-responsible-drinking?utm_source=rss_feed",
+    "published_date": "2026-10-10T01:57:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "India’s capital locked down as youth protest targets election chief",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3370415/central-delhi-locked-down-internet-cut-youth-protest-demands-election-chief-quit?utm_source=rss_feed",
+    "published_date": "2026-10-10T01:13:54Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Lack of heat action plan leaves Hong Kong’s vulnerable residents at risk, experts warn",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3370406/lack-heat-action-plan-leaves-hong-kongs-vulnerable-residents-risk-experts-warn?utm_source=rss_feed",
+    "published_date": "2026-10-10T01:00:11Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Anthropic AI model sent fake murder tip to US police, hit government sites",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites?utm_source=rss_feed",
+    "published_date": "2026-10-10T00:51:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump picks Truth Social’s Katie Zacharia as White House press secretary",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370413/trump-picks-truth-socials-katie-zacharia-white-house-press-secretary?utm_source=rss_feed",
+    "published_date": "2026-10-09T22:37:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Panama rocked by 2 powerful earthquakes, multiple aftershocks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3370411/panama-rocked-2-powerful-earthquakes-multiple-aftershocks?utm_source=rss_feed",
+    "published_date": "2026-10-09T22:10:33Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What are the concerns and priorities behind the new language used to define China-US ties?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370323/what-are-concerns-and-priorities-behind-new-language-used-define-china-us-ties?utm_source=rss_feed",
+    "published_date": "2026-10-09T22:00:09Z",
+    "category": "Local Events"
   },
   {
     "title": "Omani Flydubai co-pilot planned to crash plane into Israeli airport, UAE says",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3370380/uks-ex-prince-andrew-gets-us399000-compensation-his-mansion-lease?utm_source=rss_feed",
     "published_date": "2026-10-09T11:40:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "EU removes Panama from tax haven blacklist",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3370376/eu-removes-panama-tax-haven-blacklist?utm_source=rss_feed",
-    "published_date": "2026-10-09T11:12:50Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Saudi Arabia says 3 killed at Riyadh airport as Yemen war expands",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3370366/saudi-arabia-says-3-killed-riyadh-airport-yemen-war-expands?utm_source=rss_feed",
-    "published_date": "2026-10-09T10:08:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s hotel room rates disappoint during ‘golden week’ despite tourism boom",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/china-business/article/3370279/chinas-hotel-room-rates-disappoint-during-golden-week-despite-tourism-boom?utm_source=rss_feed",
-    "published_date": "2026-10-09T10:00:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia budget: healthcare boost, Malay businesses to get more public projects",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3370316/malaysia-budget-anwar-boost-welfare-keep-subsidies-amid-inflation-worries?utm_source=rss_feed",
-    "published_date": "2026-10-09T07:31:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ex-university student jailed for 7 years for rape, sexual assault and voyeurism",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370307/former-university-student-jailed-7-years-rape-sexual-assault-5-women?utm_source=rss_feed",
-    "published_date": "2026-10-09T07:02:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Legal arguments delay trial over murder of Hong Kong socialite Abby Choi again",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370308/legal-arguments-delay-trial-over-murder-hong-kong-socialite-abby-choi-again?utm_source=rss_feed",
-    "published_date": "2026-10-09T06:59:26Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Spirit of Hong Kong Awards: scientist’s soybean research pushes agricultural frontier",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370232/spirit-hong-kong-awards-scientists-soybean-research-pushes-agricultural-frontier?utm_source=rss_feed",
-    "published_date": "2026-10-09T06:15:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong needs tougher inspection regime, experts say after CK Asset building fiasco",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370294/hong-kong-needs-tougher-inspection-regime-experts-say-after-ck-asset-building-fiasco?utm_source=rss_feed",
-    "published_date": "2026-10-09T06:01:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan angry after Russia seeks extradition of ICC chief targeted by US",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3370288/japan-angry-after-russia-seeks-extradition-icc-chief-targeted-us?utm_source=rss_feed",
-    "published_date": "2026-10-09T05:30:01Z",
     "category": "Local Events"
   }
 ]
