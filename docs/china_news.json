@@ -1,5 +1,19 @@
 [
   {
+    "title": "In AI, India’s choice needn’t be between a US leash or Chinese hook",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3369950/ai-indias-choice-neednt-be-between-us-leash-or-chinese-hook?utm_source=rss_feed",
+    "published_date": "2026-10-10T21:30:07Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
+    "published_date": "2026-10-10T18:31:07Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Will Taiwan issue derail Washington and Beijing’s latest reset? Analysts are sceptical",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3370402/will-taiwan-issue-derail-washington-and-beijings-latest-reset-analysts-are-sceptical?utm_source=rss_feed",
@@ -123,20 +137,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
     "published_date": "2026-10-08T13:23:04Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "French president's diplomatic adviser to visit China",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-08T13:23:04Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "It’s time for China to offer more than statements on Hormuz",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/world-opinion/article/3369792/its-time-china-offer-more-statements-hormuz?utm_source=rss_feed",
-    "published_date": "2026-10-08T12:30:06Z",
     "category": "Diplomacy"
   },
   {
@@ -280,6 +280,13 @@
     "category": "Military"
   },
   {
+    "title": "Isaias kills 4 in US, leaves 670,000 without power",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
+    "published_date": "2026-10-10T20:29:50Z",
+    "category": "Energy"
+  },
+  {
     "title": "Chinese nickel investors brace for headwinds as Indonesia weighs smelter freeze",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/global-economy/article/3370344/chinese-nickel-investors-brace-headwinds-indonesia-weighs-smelter-freeze?utm_source=rss_feed",
@@ -413,11 +420,25 @@
     "category": "Energy"
   },
   {
-    "title": "EU wants to track potential rogue efforts to block out the sun",
+    "title": "Hangzhou is doubling down on tech – minus the viral hype",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3369959/eu-wants-track-potential-rogue-efforts-block-out-sun?utm_source=rss_feed",
-    "published_date": "2026-10-06T16:39:43Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3370174/hangzhou-doubling-down-tech-minus-viral-hype?utm_source=rss_feed",
+    "published_date": "2026-10-11T01:30:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
+    "published_date": "2026-10-10T22:00:12Z",
+    "category": "Economy"
+  },
+  {
+    "title": "9 dead, including children and pregnant woman, in shooting in Erie, Pennsylvania",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed",
+    "published_date": "2026-10-10T21:25:34Z",
+    "category": "Economy"
   },
   {
     "title": "Senior civil servants could face disciplinary action over Tai Po fire if named in report",
@@ -539,25 +560,32 @@
     "category": "Economy"
   },
   {
-    "title": "A new American economy emerges from the Fed's September minutes",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-09/A-new-American-economy-emerges-from-the-Fed-s-September-minutes-1R6fgkU6O8U/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-09T10:49:18Z",
-    "category": "Economy"
+    "title": "Bar Association urges proxy cap, electronic voting to curb building bid-rigging",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370457/bar-association-urges-proxy-cap-electronic-voting-curb-building-bid-rigging?utm_source=rss_feed",
+    "published_date": "2026-10-11T01:00:18Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong outlines new liquidity reforms as US market rally pulls funds away",
+    "title": "Who rules Negeri Sembilan? Royal row tests Malaysia’s constitutional order",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3370363/hong-kong-outlines-new-liquidity-reforms-us-market-rally-pulls-funds-away?utm_source=rss_feed",
-    "published_date": "2026-10-09T10:01:00Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
+    "published_date": "2026-10-11T00:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "China rejects yuan complaints, ‘golden week’ travel, Canton Fair",
+    "title": "Tiger kills man who entered big cat enclosure at UK wildlife park",
     "source": "SCMP",
-    "url": "https://www.scmp.com/plus/economy/china-economy/article/3370339/china-rejects-yuan-complaints-golden-week-travel-canton-fair?utm_source=rss_feed",
-    "published_date": "2026-10-09T09:02:34Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/europe/article/3370465/tiger-kills-man-who-entered-big-cat-enclosure-uk-wildlife-park?utm_source=rss_feed",
+    "published_date": "2026-10-10T23:20:01Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Christa Pike out of hospital and back in prison after surviving US execution attempt",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370456/christa-pike-out-hospital-and-back-prison-after-surviving-us-execution-attempt?utm_source=rss_feed",
+    "published_date": "2026-10-10T16:43:39Z",
+    "category": "Local Events"
   },
   {
     "title": "Palestinian leader Abbas postpones elections to September 2027",
@@ -669,34 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370408/fortune-hk72m-flat-and-family-feud-inside-abby-choi-murder-trial?utm_source=rss_feed",
     "published_date": "2026-10-10T07:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong to expand community recycling after shelving waste-charging scheme",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370429/hong-kong-expand-community-recycling-after-shelving-waste-charging-scheme?utm_source=rss_feed",
-    "published_date": "2026-10-10T06:12:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "South Korea: 38 injured as ceiling collapses during Daegu sales event",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3370427/south-korea-38-injured-ceiling-collapses-during-daegu-sales-event?utm_source=rss_feed",
-    "published_date": "2026-10-10T05:27:44Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Could Indonesia’s ‘content governor’ rival Prabowo for the presidency in 2029?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3370400/could-indonesias-content-governor-rival-prabowo-presidency-2029?utm_source=rss_feed",
-    "published_date": "2026-10-10T05:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Spirit of Hong Kong Awards: explorer inspires youth through glacial field trips",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370424/spirit-hong-kong-awards-explorer-inspires-youth-through-glacial-field-trips?utm_source=rss_feed",
-    "published_date": "2026-10-10T04:51:48Z",
     "category": "Local Events"
   }
 ]
