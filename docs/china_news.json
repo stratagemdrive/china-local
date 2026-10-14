@@ -1,5 +1,12 @@
 [
   {
+    "title": "Peru governor touts Chinese interest in deep-water port pitched as Chancay alternative",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/article/3370786/peru-governor-touts-chinese-interest-deep-water-port-pitched-chancay-alternative?utm_source=rss_feed",
+    "published_date": "2026-10-13T20:10:35Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Spanish royals visit Ceuta to back enclave amid border migration strain with Morocco",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3370760/spanish-royals-visit-ceuta-back-enclave-amid-border-migration-strain-morocco?utm_source=rss_feed",
@@ -130,13 +137,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-10-12/Trump-s-energy-ceasefire-claim-What-s-behind-and-how-nations-react-1RaZKgz0X4I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
     "published_date": "2026-10-12T06:49:45Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "At least 139 migrants dead, dozens missing after boat capsizes off Djibouti",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3370522/least-139-migrants-dead-dozens-missing-after-boat-capsizes-djibouti?utm_source=rss_feed",
-    "published_date": "2026-10-12T01:05:42Z",
     "category": "Diplomacy"
   },
   {
@@ -280,6 +280,20 @@
     "category": "Military"
   },
   {
+    "title": "Aramco facility hit as Houthis and Saudi coalition exchange attacks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3370793/aramco-facility-hit-houthis-and-saudi-coalition-exchange-attacks?utm_source=rss_feed",
+    "published_date": "2026-10-14T01:33:54Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Smart economics: tackle climate change and air pollution together",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3370530/smart-economics-tackle-climate-change-and-air-pollution-together?utm_source=rss_feed",
+    "published_date": "2026-10-13T21:30:05Z",
+    "category": "Energy"
+  },
+  {
     "title": "Nasa’s Perseverance rover on Mars breaks record for off-planet driving",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3370701/nasas-perseverance-rover-mars-breaks-record-planet-driving?utm_source=rss_feed",
@@ -406,18 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "Araghchi: US‑Israeli strikes on Iran pose 'serious' eco risks",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-11/news-1R9DFu0Rt96/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-11T07:51:42Z",
-    "category": "Energy"
+    "title": "Does Hong Kong’s economy serve the people or profit?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370554/does-hong-kongs-economy-serve-people-or-profit?utm_source=rss_feed",
+    "published_date": "2026-10-14T01:30:05Z",
+    "category": "Economy"
   },
   {
-    "title": "Isaias kills 4 in US, leaves 670,000 without power",
+    "title": "2 Taiwanese executives arrested over mainland components in military drones",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
-    "published_date": "2026-10-10T20:29:50Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/military/article/3370764/2-taiwanese-executives-arrested-over-mainland-components-military-drones?utm_source=rss_feed",
+    "published_date": "2026-10-14T01:00:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US fines Bank of America US$1.2 billion, says it violated money laundering, sanctions laws",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370791/us-fines-bank-america-us12-billion-says-it-violated-money-laundering-sanctions-laws?utm_source=rss_feed",
+    "published_date": "2026-10-13T23:55:49Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump’s ‘golden age’ push hands top science honours to big tech. Will it work?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3370777/trumps-golden-age-push-hands-top-science-honours-big-tech-will-it-work?utm_source=rss_feed",
+    "published_date": "2026-10-13T22:00:10Z",
+    "category": "Economy"
   },
   {
     "title": "Taiwanese finance minister plans to join Apec meeting in Hong Kong",
@@ -532,32 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "Hong Kong electronics fairs to showcase 120 robots as firms aim to expand AI use",
+    "title": "Hong Kong MTR trains skip Lam Tin station after smoke reported on platform",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370622/hong-kong-electronics-fairs-showcase-120-robots-firms-aim-expand-ai-use?utm_source=rss_feed",
-    "published_date": "2026-10-12T12:32:48Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3370794/hong-kong-mtr-trains-skip-lam-tin-station-after-smoke-reported-platform?utm_source=rss_feed",
+    "published_date": "2026-10-14T01:35:37Z",
+    "category": "Local Events"
   },
   {
-    "title": "‘Inconvenient truth’: Man City case spotlights realities of UK-UAE ties",
+    "title": "Why did Hong Kong’s 11 Skies fail and can the megaproject be rescued?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3370627/inconvenient-truth-man-city-case-spotlights-realities-uk-uae-ties?utm_source=rss_feed",
-    "published_date": "2026-10-12T12:20:44Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370781/why-did-hong-kongs-11-skies-fail-and-can-megaproject-be-rescued?utm_source=rss_feed",
+    "published_date": "2026-10-14T00:30:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "China details consensus with EU on hybrid, EV trade",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-12/China-details-consensus-with-EU-on-hybrid-EV-trade-1RbmjrGxTH2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-12T11:24:42Z",
-    "category": "Economy"
+    "title": "Why younger Japanese now fear Trump’s US more than China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3370732/why-younger-japanese-now-fear-trumps-us-more-china?utm_source=rss_feed",
+    "published_date": "2026-10-14T00:00:13Z",
+    "category": "Local Events"
   },
   {
-    "title": "China details consensus with EU on hybrid, EV trade",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-12/China-details-consensus-with-EU-on-hybrid-EV-trade-1RbmjrGxTH2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-12T11:24:42Z",
-    "category": "Economy"
+    "title": "Public comments flood US government websites over proposed H-1B, OPT fee hikes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3370790/public-comments-flood-us-government-websites-over-proposed-h-1b-opt-fee-hikes?utm_source=rss_feed",
+    "published_date": "2026-10-13T22:17:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Russia detains Japanese journalist on suspicion of spying",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3370789/russia-detains-japanese-journalist-suspicion-spying?utm_source=rss_feed",
+    "published_date": "2026-10-13T22:08:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Cornell suspends frat parties after alleged gang rape",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370788/cornell-suspends-frat-parties-after-alleged-gang-rape?utm_source=rss_feed",
+    "published_date": "2026-10-13T20:50:34Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump press secretary Katie Zacharia says she passed bar exam in China, raising eyebrows",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/politics/article/3370787/trumps-new-press-secretary-faces-questions-over-over-claim-she-passed-bar-exam-china?utm_source=rss_feed",
+    "published_date": "2026-10-13T20:43:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3370785/pope-leos-lung-surgery-successfully-completed-vatican-says?utm_source=rss_feed",
+    "published_date": "2026-10-13T20:04:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tupac Shakur murder: ex-gang leader sentenced to 40 years to life in prison",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3370784/tupac-shakur-murder-ex-gang-leader-sentenced-40-years-life-prison?utm_source=rss_feed",
+    "published_date": "2026-10-13T19:34:52Z",
+    "category": "Local Events"
   },
   {
     "title": "Six Flags closes some rides after man flung to his death from roller coaster",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/south-asia/article/3370751/indias-cockroach-movement-leaders-arrested-again-voter-roll-dispute-grows?utm_source=rss_feed",
     "published_date": "2026-10-13T10:46:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Commuters stranded as track fire disrupts MTR services in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370750/commuters-stranded-track-fire-disrupts-mtr-services-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-10-13T10:44:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "179 reports of people trapped in lifts after power dip in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370719/4-elderly-women-among-179-reported-trapped-lifts-after-power-dip-hong-kong?utm_source=rss_feed",
-    "published_date": "2026-10-13T10:25:29Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Doctors warn of physical limits as China viral ‘flash step’ dance sends imitators to hospital",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3370745/doctors-warn-physical-limits-china-viral-flash-step-dance-sends-imitators-hospital?utm_source=rss_feed",
-    "published_date": "2026-10-13T10:05:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Is Indonesia’s haze rhetoric ‘unempathetic’? Oxygen quip tests regional cooperation",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3370743/indonesias-haze-rhetoric-unempathetic-oxygen-quip-tests-regional-cooperation?utm_source=rss_feed",
-    "published_date": "2026-10-13T10:00:45Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "British Council to resume IELTS exams after 4-day stoppage across China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3370728/british-council-resume-ielts-exams-after-4-days-cancellations-across-china?utm_source=rss_feed",
-    "published_date": "2026-10-13T09:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hongkong Post contract staff to be prioritised for other civil service roles",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370721/postmen-denied-permanent-contracts-offered-priority-other-civil-service-roles?utm_source=rss_feed",
-    "published_date": "2026-10-13T08:38:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Lessons for life: Hong Kong educator looks beyond exams and interviews",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3370694/lessons-life-hong-kong-educator-looks-beyond-exams-and-interviews?utm_source=rss_feed",
-    "published_date": "2026-10-13T08:15:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Philippines drops 3 impeachment charges against Sara Duterte despite evidence",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3370708/philippines-drops-3-impeachment-charges-against-sara-duterte-despite-evidence?utm_source=rss_feed",
-    "published_date": "2026-10-13T07:56:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Fiji’s justice minister resigns after intimate video goes viral online",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3370706/fijis-justice-minister-resigns-after-intimate-video-goes-viral-online?utm_source=rss_feed",
-    "published_date": "2026-10-13T07:47:51Z",
     "category": "Local Events"
   }
 ]
