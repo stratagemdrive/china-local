@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump’s second Asean summit presence comes at a price for region",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3371132/trumps-second-asean-summit-presence-comes-price-region?utm_source=rss_feed",
+    "published_date": "2026-10-18T00:00:08Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed",
+    "published_date": "2026-10-17T18:33:59Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China’s embassy issues fresh Thailand travel alert over kidnappings, job scams",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3371266/chinas-embassy-issues-fresh-thailand-travel-warning-over-kidnappings-job-scams?utm_source=rss_feed",
@@ -122,20 +136,6 @@
     "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-16T12:47:15Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-16T12:47:15Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
     "published_date": "2026-10-16T12:47:15Z",
     "category": "Diplomacy"
   },
@@ -420,6 +420,13 @@
     "category": "Energy"
   },
   {
+    "title": "Hong Kong orders lift contractors to review doors installed over past 10 years",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3371272/hong-kong-orders-lift-contractors-review-doors-installed-over-past-10-years?utm_source=rss_feed",
+    "published_date": "2026-10-17T15:57:09Z",
+    "category": "Economy"
+  },
+  {
     "title": "AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/china-economy/article/3370754/ai-glasses-travel-guides-cheaper-china-technical-hitches-slow-adoption?utm_source=rss_feed",
@@ -553,11 +560,39 @@
     "category": "Economy"
   },
   {
-    "title": "Single neurons act like tiny computers, China study finds",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-16/Single-neurons-act-like-tiny-computers-China-study-finds-1Rii3XGnN4Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-16T14:19:25Z",
-    "category": "Economy"
+    "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
+    "published_date": "2026-10-17T23:56:30Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "19 dead, 25 hurt in stampede at India religious festival",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3371278/19-dead-25-hurt-stampede-india-religious-festival?utm_source=rss_feed",
+    "published_date": "2026-10-17T23:31:57Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
+    "published_date": "2026-10-17T22:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "‘Cockroach’ party founder released by Indian police",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/south-asia/article/3371274/cockroach-party-founder-released-indian-police?utm_source=rss_feed",
+    "published_date": "2026-10-17T17:48:50Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Albanian police fire rubber bullets as student protesters call for PM to quit",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3371273/albanian-police-fire-rubber-bullets-student-protesters-call-pm-quit?utm_source=rss_feed",
+    "published_date": "2026-10-17T16:05:10Z",
+    "category": "Local Events"
   },
   {
     "title": "AI used for first time to analyse lawmakers’ 5-year plan, policy address debate",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371234/ex-malaysian-minister-nik-nazmi-admits-lapse-judgment-after-khalwat-arrest?utm_source=rss_feed",
     "published_date": "2026-10-17T04:26:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "The butterfly effect: one man’s mission to help nature and communities coexist",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371129/butterfly-effect-one-mans-mission-help-nature-and-communities-coexist?utm_source=rss_feed",
-    "published_date": "2026-10-17T04:15:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong touts key advantages over London in bid to become global gold hub",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371228/hong-kong-touts-distinct-features-set-it-apart-london-global-gold-hub-push?utm_source=rss_feed",
-    "published_date": "2026-10-17T04:01:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Shunned in the West, Ye hands Indonesia a rare mega-tour coup",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371180/shunned-west-ye-hands-indonesia-rare-mega-tour-coup?utm_source=rss_feed",
-    "published_date": "2026-10-17T04:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "3 Mexican men jailed for over 158 years for Australian, US surfer murders",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3371227/3-mexican-men-jailed-over-158-years-australian-us-surfer-murders?utm_source=rss_feed",
-    "published_date": "2026-10-17T03:39:33Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "A companion between appointments: Hong Kong student’s AI tool for cancer patients",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371128/companion-between-appointments-hong-kong-students-ai-tool-cancer-patients?utm_source=rss_feed",
-    "published_date": "2026-10-17T02:15:05Z",
     "category": "Local Events"
   }
 ]
