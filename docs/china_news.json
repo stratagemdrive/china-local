@@ -1,5 +1,12 @@
 [
   {
+    "title": "First Quad leaders’ summit after 2 years in Manila next month, Rubio confirms",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms",
+    "published_date": "2026-10-20T17:13:44Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Will Xi, Trump, Putin meet at Apec? First, they must agree on an agenda",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3371544/will-xi-trump-putin-meet-apec-first-they-must-agree-agenda",
@@ -133,11 +140,39 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese FM holds talks with Montenegrin counterpart",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-19/Chinese-FM-holds-talks-with-Montenegrin-counterpart-1Rmmi1tx2Bq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-19T03:55:46Z",
-    "category": "Diplomacy"
+    "title": "Brazil’s family farming backbone embraces Chinese AI to reverse vital sector’s decline",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3371528/brazils-family-farming-backbone-embraces-chinese-ai-reverse-vital-sectors-decline",
+    "published_date": "2026-10-21T01:00:12Z",
+    "category": "Military"
+  },
+  {
+    "title": "Musk ordered slowdown of Starlink service Ukraine military relies on, report says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371563/musk-ordered-slowdown-starlink-service-ukraine-military-relies-report-says",
+    "published_date": "2026-10-20T22:49:12Z",
+    "category": "Military"
+  },
+  {
+    "title": "US troops in South Korea must be ready for missions beyond peninsula, commander says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says",
+    "published_date": "2026-10-20T21:52:49Z",
+    "category": "Military"
+  },
+  {
+    "title": "France to deploy troops in response to protests after violent riots sweep cities",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
+    "published_date": "2026-10-20T16:17:23Z",
+    "category": "Military"
+  },
+  {
+    "title": "China close to matching US spending on ‘new way of war’, Republican senator warns",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371555/china-close-matching-us-spending-new-way-war-republican-senator-warns",
+    "published_date": "2026-10-20T16:12:30Z",
+    "category": "Military"
   },
   {
     "title": "UK to deploy fighter planes to help Saudi Arabia’s defence against Houthis",
@@ -242,41 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3371422/us-adds-wrongful-detention-warning-americans-travelling-china?utm_source=rss_feed",
     "published_date": "2026-10-19T18:16:04Z",
-    "category": "Military"
-  },
-  {
-    "title": "US adds ‘wrongful detention’ warning for Americans travelling to China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3371422/us-adds-wrongful-detention-warning-americans-travelling-china",
-    "published_date": "2026-10-19T18:16:04Z",
-    "category": "Military"
-  },
-  {
-    "title": "US Supreme Court denies bid by accused 9/11 mastermind to revive plea deal",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371419/us-supreme-court-denies-bid-accused-9/11-mastermind-revive-plea-deal?utm_source=rss_feed",
-    "published_date": "2026-10-19T16:48:40Z",
-    "category": "Military"
-  },
-  {
-    "title": "US, China should learn from Cold War-era arms control to tackle AI risks: ex-US official",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/economy/global-economy/article/3371382/us-china-should-learn-cold-war-era-arms-control-tackle-ai-risks-ex-us-official?utm_source=rss_feed",
-    "published_date": "2026-10-19T13:00:06Z",
-    "category": "Military"
-  },
-  {
-    "title": "Houthi missile attack on Yemen base kills 53",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-19/news-1Rng6jXLREA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-19T12:48:23Z",
-    "category": "Military"
-  },
-  {
-    "title": "Egypt backs Saudi Arabia amidst rising Houthi attacks",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-10-19/Egypt-backs-Saudi-Arabia-amidst-rising-Houthi-attacks-1RmX5fsZS5W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-19T10:27:11Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "Why Anthropic has a major China problem ahead of its blockbuster IPO",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/big-tech/article/3371504/why-anthropic-has-major-china-problem-ahead-its-blockbuster-ipo",
+    "published_date": "2026-10-21T00:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Commercial lenders shouldering heavier AI burden than central banks: ICBC president",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3371521/commercial-lenders-shouldering-heavier-ai-burden-central-banks-icbc-president",
+    "published_date": "2026-10-20T23:00:08Z",
+    "category": "Economy"
+  },
+  {
+    "title": "‘Poster child’: why more Chinese firms have Thailand in their expansion plans",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/economy/global-economy/article/3371529/poster-child-why-more-chinese-firms-have-thailand-their-expansion-plans",
+    "published_date": "2026-10-20T22:00:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Britain’s ban on pro-Palestinian author Sally Rooney makes it a laughing stock",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3371369/britains-ban-pro-palestinian-author-sally-rooney-makes-it-laughing-stock",
+    "published_date": "2026-10-20T21:30:06Z",
+    "category": "Economy"
+  },
+  {
     "title": "China’s hybrid car exports to EU surge by more than 200% as import cap looms",
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/global-economy/article/3371541/chinas-hybrid-car-exports-eu-surge-more-200-import-cap-looms",
@@ -532,32 +560,67 @@
     "category": "Economy"
   },
   {
-    "title": "Cell publisher investigates editor accused of soliciting bribes from China",
+    "title": "In Japan, Takaichi’s first-year leadership style threatens hold on power",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3371384/cell-publisher-investigates-editor-accused-soliciting-bribes-china",
-    "published_date": "2026-10-20T01:00:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3371567/japan-takaichis-first-year-leadership-style-threatens-hold-power",
+    "published_date": "2026-10-21T01:17:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers",
+    "title": "From ideas to impact",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/banking-finance/article/3371334/hong-kong-cement-its-role-yuan-bond-hub-appealing-more-sovereign-borrowers?utm_source=rss_feed",
-    "published_date": "2026-10-20T00:00:11Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/presented/news/hong-kong/topics/bringing-innovation-community-trials/article/3371511/ideas-impact",
+    "published_date": "2026-10-21T01:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "Money manager eyes Asia-Pacific property for growth, but tells investors to keep bet on US",
+    "title": "Why foreign companies are still betting on Hong Kong’s culinary reputation",
     "source": "SCMP",
-    "url": "https://www.scmp.com/business/article/3371391/money-manager-eyes-asia-pacific-property-growth-tells-investors-keep-bet-us?utm_source=rss_feed",
-    "published_date": "2026-10-19T23:00:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371385/why-foreign-companies-are-still-betting-hong-kongs-culinary-reputation",
+    "published_date": "2026-10-21T00:30:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
+    "title": "Southeast Asian families tying house move to top schools spur privilege worries",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft?utm_source=rss_feed",
-    "published_date": "2026-10-19T22:36:07Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371554/southeast-asian-families-tying-house-move-top-schools-spur-privilege-worries",
+    "published_date": "2026-10-21T00:00:24Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump administration says it has revoked over 300,000 visas",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371565/trump-administration-says-it-has-revoked-over-300000-visas",
+    "published_date": "2026-10-20T23:53:20Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Musk says SpaceX and Tesla are exploring blockbuster merger deal",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371564/musk-says-spacex-and-tesla-are-exploring-blockbuster-merger-deal",
+    "published_date": "2026-10-20T23:35:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Shark kills woman swimming off South Africa’s Eastern Cape",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3371560/shark-kills-woman-swimming-south-africas-eastern-cape",
+    "published_date": "2026-10-20T18:03:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "UK rearrests duo on suspicion of aiding Iran in alleged plot at US-run airbase",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3371559/uk-rearrests-duo-suspicion-aiding-iran-alleged-plot-us-run-airbase",
+    "published_date": "2026-10-20T17:49:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Another World drawn by hand and heart: A key animator's seven-year craft",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/how-hkmu-grad-draws-another-world/article/3371019/another-world-drawn-hand-and-heart-key-animators-seven-year-craft",
+    "published_date": "2026-10-20T16:00:14Z",
+    "category": "Local Events"
   },
   {
     "title": "Second land tender at Hong Kong’s border tech hub draws 9 bids",
@@ -634,69 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/economy/article/3371455/night-violence-lingers-over-paris-one-chinese-cafe-owner-counts-costs-protest",
     "published_date": "2026-10-20T09:00:30Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong to focus on infrastructure monitoring in first phase of ‘AI city brain’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371494/hong-kong-focus-infrastructure-monitoring-first-phase-ai-city-brain",
-    "published_date": "2026-10-20T08:41:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Calls to sue Indonesia over haze; Pinduoduo craze sweeps Malaysia: 7 Asia highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/article/3371470/calls-sue-indonesia-over-haze-pinduoduo-craze-sweeps-malaysia-7-asia-highlights",
-    "published_date": "2026-10-20T07:30:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How a Malaysian coffee shop menu became latest political battleground",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371474/how-malaysian-coffee-shop-menu-became-latest-political-battleground",
-    "published_date": "2026-10-20T07:00:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysian student who called out Najib’s donation drive fires back at trolls",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371473/malaysian-student-who-called-out-najibs-donation-drive-fires-back-trolls",
-    "published_date": "2026-10-20T06:53:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Luxury homeowner fined HK$255,800 after eighth prosecution over illegal renovations",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371471/luxury-homeowner-fined-hk255800-after-eighth-prosecution-over-illegal-renovations",
-    "published_date": "2026-10-20T06:42:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia’s Anwar promises ‘full disclosure’ as ‘corporate mafia’ scandal grows",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3371468/malaysias-anwar-promises-full-disclosure-corporate-mafia-scandal-grows",
-    "published_date": "2026-10-20T06:31:50Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From Paris to Tirana, why protests and riots are sweeping across Europe",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3371458/paris-tirana-why-protests-and-riots-are-sweeping-across-europe",
-    "published_date": "2026-10-20T05:03:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dire straits: why Filipino sailors continue to brave troubled Middle East waters",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3371457/dire-straits-why-filipino-sailors-continue-brave-troubled-middle-east-waters",
-    "published_date": "2026-10-20T05:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Australian police charge man after attack on MP Helen Haines",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/australasia/article/3371447/heroic-barber-recalls-tackling-car-attacker-australian-mp-helen-haines",
-    "published_date": "2026-10-20T03:12:46Z",
     "category": "Local Events"
   }
 ]
