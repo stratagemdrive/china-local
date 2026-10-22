@@ -1,5 +1,12 @@
 [
   {
+    "title": "US orders diplomats to leave Saudi Arabia amid Houthi strikes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
+    "published_date": "2026-10-21T23:48:53Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Tesla signs deal to integrate Alipay into its cars as China competition heats up",
     "source": "SCMP",
     "url": "https://www.scmp.com/tech/big-tech/article/3371668/tesla-signs-deal-integrate-alipay-its-cars-china-competition-heats",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese FM urges Eurasia trust, friendship, cooperation, partnership",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-20/Wang-Yi-urges-stronger-China-Bulgaria-ties-to-boost-China-EU-relations-1RobK67TQyY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-20T03:58:13Z",
-    "category": "Diplomacy"
+    "title": "Beijing hits out after Taipei bans mainland travel for Sun Yat-sen anniversary",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3371695/beijing-hits-out-after-taipei-bans-mainland-travel-sun-yat-sen-anniversary",
+    "published_date": "2026-10-22T01:00:10Z",
+    "category": "Military"
+  },
+  {
+    "title": "Pakistan and the US factor as China looks to sell its J-35 stealth jets",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3371561/pakistan-and-us-factor-china-looks-sell-its-j-35-stealth-jets",
+    "published_date": "2026-10-21T21:30:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "China says it allowed Philippines to resupply warship amid diplomatic tensions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371693/china-says-it-allowed-philippines-resupply-warship-amid-diplomatic-tensions",
+    "published_date": "2026-10-21T20:57:34Z",
+    "category": "Military"
   },
   {
     "title": "Taiwan’s Iran-style attack drone could swamp PLA air defences: analysts",
@@ -256,27 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3371525/chinese-military-vessels-and-spy-drones-track-keen-sword-war-games-japan",
     "published_date": "2026-10-20T12:00:07Z",
-    "category": "Military"
-  },
-  {
-    "title": "Hong Kong issues amber travel alert for France as school protests turn violent",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371526/hong-kong-issues-amber-travel-alert-france-school-protests-turn-violent",
-    "published_date": "2026-10-20T10:56:34Z",
-    "category": "Military"
-  },
-  {
-    "title": "PLA Navy followed US vessel on patrol in South China Sea hotspot, Beijing says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3371517/pla-navy-followed-us-vessel-patrol-south-china-sea-hotspot-beijing-says",
-    "published_date": "2026-10-20T10:10:43Z",
-    "category": "Military"
-  },
-  {
-    "title": "Chinese air force reveals Y-20B tanker-transport variant in official training image",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3371487/chinese-air-force-reveals-y-20b-tanker-transport-variant-official-training-image",
-    "published_date": "2026-10-20T10:00:11Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "China’s Unitree unveils ‘guardian’ robot that can disarm attackers, lift cars",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars",
+    "published_date": "2026-10-22T00:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Takaichi remains popular with Japanese public. Can she maintain her grip on LDP?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3371661/takaichi-remains-popular-japanese-public-can-she-maintain-her-grip-ldp",
+    "published_date": "2026-10-22T00:00:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Could Hong Kong’s student housing boom lure property giants off the sidelines?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/article/3371634/could-hong-kongs-student-housing-boom-lure-property-giants-sidelines",
+    "published_date": "2026-10-21T23:00:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "US colleges scale back cooperation with Chinese institutions after Pentagon’s push",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3371690/us-colleges-scale-back-cooperation-chinese-institutions-after-pentagons-push",
+    "published_date": "2026-10-21T19:38:29Z",
+    "category": "Economy"
+  },
+  {
     "title": "Suspicious letters containing white powder sent to 2 Hong Kong media outlets",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371676/suspicious-letters-containing-white-powder-sent-2-hong-kong-media-outlets",
@@ -532,32 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "APEC Finance Ministers' Meeting opens in Hong Kong",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-20/APEC-Finance-Ministers-Meeting-opens-in-Hong-Kong-1Rp1R5LwbVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-20T14:48:51Z",
-    "category": "Economy"
+    "title": "Prabowo warns regional critics Indonesia won’t be ‘insulted’ over haze",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371700/prabowo-warns-regional-critics-indonesia-wont-be-insulted-over-haze",
+    "published_date": "2026-10-22T00:54:00Z",
+    "category": "Local Events"
   },
   {
-    "title": "China urges US to stop smearing, suppressing Chinese companies",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-20/China-urges-US-to-stop-smearing-suppressing-Chinese-companies-1Rp1zh5fwY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-20T14:43:04Z",
-    "category": "Economy"
+    "title": "Hong Kong raids spark health warning over beauty jabs using dead people’s skin",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371673/health-warning-over-beauty-jabs-using-dead-peoples-skin-following-hong-kong-raids",
+    "published_date": "2026-10-22T00:30:05Z",
+    "category": "Local Events"
   },
   {
-    "title": "China urges US to stop smearing, suppressing Chinese companies",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-20/China-urges-US-to-stop-smearing-suppressing-Chinese-companies-1Rp1zh5fwY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-20T14:43:04Z",
-    "category": "Economy"
+    "title": "‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371697/comrade-raul-beijing-defends-cubas-ex-leader-over-florida-murder-warrant",
+    "published_date": "2026-10-21T23:02:27Z",
+    "category": "Local Events"
   },
   {
-    "title": "China urges US to stop smearing, suppressing Chinese companies",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-20/China-urges-US-to-stop-smearing-suppressing-Chinese-companies-1Rp1zh5fwY0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-20T14:43:04Z",
-    "category": "Economy"
+    "title": "Ramaswamy faces firestorm over US political ad featuring Democrat rival’s estranged mother",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371696/ramaswamy-faces-firestorm-over-us-political-ad-featuring-democrat-rivals-estranged-mother",
+    "published_date": "2026-10-21T22:34:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Websites go dark worldwide as AI exposes critical security flaws",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/article/3371694/websites-go-dark-worldwide-ai-exposes-critical-security-flaws",
+    "published_date": "2026-10-21T22:10:59Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371692/top-democrat-says-chip-restrictions-are-key-lever-us-ai-edge-over-china",
+    "published_date": "2026-10-21T20:36:57Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo doesn’t need further treatment for lung cancer, doctors say",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3371691/pope-leo-doesnt-need-further-treatment-lung-cancer-doctors-say",
+    "published_date": "2026-10-21T20:23:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
+    "published_date": "2026-10-21T19:08:19Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump faces fresh questions over ties to Putin after envoy’s ‘humanitarian’ praise",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371687/trump-faces-fresh-questions-over-ties-humanitarian-putin",
+    "published_date": "2026-10-21T17:08:51Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "“Talent in, Impact Out”: Inside The Education University of Hong Kong's vision for an interconnected world of talent and expertise",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/eduhks-internationalisation-drive/article/3371512/talent-impact-out-inside-education-university-hong-kongs-vision-interconnected-world-talent-and",
+    "published_date": "2026-10-21T16:00:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "A Tale of Two Cities, retold in style",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/topics/tale-wealth-and-wellness/article/3371162/tale-two-cities-retold-style",
+    "published_date": "2026-10-21T16:00:07Z",
+    "category": "Local Events"
   },
   {
     "title": "Unvaccinated girl, 12, becomes Hong Kong’s second child flu death this season",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3371667/macron-takes-veiled-shot-trump-netanyahu-over-stupid-france-riot-remarks",
     "published_date": "2026-10-21T11:45:43Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong tours avoid France protest areas as schools cancel planned trips",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371660/hong-kong-tours-avoid-france-protest-areas-schools-cancel-planned-trips",
-    "published_date": "2026-10-21T10:39:25Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Putin says Russia to restart peace deal talks with US and Ukraine",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371659/putin-holds-ukraine-peace-talks-trumps-envoy-witkoff-frees-american-hubbard",
-    "published_date": "2026-10-21T10:17:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s Election Committee race: should you care? Here’s what you need to know",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/article/3371658/hong-kongs-election-committee-race-more-contests-familiar-faces-and-what-comes-next",
-    "published_date": "2026-10-21T10:02:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
-    "published_date": "2026-10-21T10:00:41Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China AI researcher rises to Xiaomi’s top level in 10 months, talks work-life balance",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3371581/china-ai-researcher-rises-xiaomis-top-level-10-months-talks-work-life-balance",
-    "published_date": "2026-10-21T10:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Attitudes shifting in Hong Kong’s favour as city reaps Apec benefits: Paul Chan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371654/attitudes-shifting-hong-kongs-favour-city-reaps-apec-benefits-paul-chan",
-    "published_date": "2026-10-21T09:50:12Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Nepo baby’ uproar in Philippines after Gen Z jet-setter named urban poor commissioner",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3371647/nepo-baby-uproar-philippines-after-gen-z-jet-setter-named-urban-poor-commissioner",
-    "published_date": "2026-10-21T09:27:00Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "For Filipinos, virtual assistant trumps doctor as ‘dream job’. But what’s the reality?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3371614/filipinos-virtual-assistant-trumps-doctor-dream-job-whats-reality",
-    "published_date": "2026-10-21T09:00:13Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Strongest storm of the year barrels towards Taiwan and mainland China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3371627/strongest-storm-year-barrels-towards-taiwan-and-mainland-china",
-    "published_date": "2026-10-21T08:00:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia bars civil servants from using Waze, citing Israel’s control of app",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3371631/malaysia-bars-civil-servants-using-waze-citing-israels-control-app",
-    "published_date": "2026-10-21T07:53:33Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Nothing is set in stone’: Peak lighting project suspended amid tree damage fears",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371630/work-hong-kongs-peak-trail-light-project-suspended-amid-environmental-outcry",
-    "published_date": "2026-10-21T07:50:51Z",
     "category": "Local Events"
   }
 ]
