@@ -1,5 +1,19 @@
 [
   {
+    "title": "Zelensky hopes Beijing can use ‘influence’ over Moscow to help stop Ukraine war",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371987/zelensky-hopes-beijing-can-use-influence-over-moscow-help-stop-ukraine-war",
+    "published_date": "2026-10-23T20:51:17Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371983/melania-trump-brokers-ceasefire-russian-occupied-ukraine-city-white-house-says",
+    "published_date": "2026-10-23T16:26:41Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "China warns against space arms race, urges equal rights for all in outer space",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
@@ -123,20 +137,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3371730/what-kim-yo-jongs-border-warnings-reveal-about-inter-korean-escalation-risk",
     "published_date": "2026-10-22T04:35:54Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Asean wants a single digital economy. Will different state laws hobble its goal?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3371685/asean-wants-single-digital-economy-will-different-state-laws-hobble-its-goal",
-    "published_date": "2026-10-22T02:30:19Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Chinese FM meets Djibouti's counterpart",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-22/Chinese-FM-meets-Djibouti-s-counterpart-1RrjSMlD7t6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-22T00:27:56Z",
     "category": "Diplomacy"
   },
   {
@@ -420,6 +420,27 @@
     "category": "Energy"
   },
   {
+    "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+    "published_date": "2026-10-23T22:29:03Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
+    "published_date": "2026-10-23T20:04:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
+    "published_date": "2026-10-23T18:13:09Z",
+    "category": "Economy"
+  },
+  {
     "title": "Rocket debris hitting US homeland is ‘embarrassing’ for China, says astronomer",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3371947/rocket-debris-hitting-us-homeland-embarrassing-china-says-astronomer",
@@ -539,25 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat",
+    "title": "Hong Kong private secondary sector expands as local universities’ reputation grows",
     "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
-    "published_date": "2026-10-22T13:30:09Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3371974/hong-kong-private-secondary-sector-expands-local-universities-reputation-grows",
+    "published_date": "2026-10-24T01:00:21Z",
+    "category": "Local Events"
   },
   {
-    "title": "South Africa investigates outbreaks linked to poor water quality",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-10-22/South-Africa-investigates-outbreaks-linked-to-poor-water-quality-1Rs9OODtdVS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-22T12:46:50Z",
-    "category": "Economy"
+    "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+    "published_date": "2026-10-24T01:00:11Z",
+    "category": "Local Events"
   },
   {
-    "title": "China issues guidelines to integrate sci-tech, industry innovation",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-22/China-issues-guidelines-to-integrate-sci-tech-industry-innovation-1RsbXZQGEQU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-22T12:32:56Z",
-    "category": "Economy"
+    "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
+    "published_date": "2026-10-24T00:00:19Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US, allies and China vie for influence through Pacific security deals",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+    "published_date": "2026-10-23T22:27:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "What will China’s fifth plenum mean for the root-and-branch corruption drive?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
+    "published_date": "2026-10-23T22:00:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Why raising Asia’s fertility rate starts with giving people time to date",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
+    "published_date": "2026-10-23T21:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Kenya reports second Ebola death, a close relative of first patient",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3371988/kenya-reports-second-ebola-death-close-relative-first-patient",
+    "published_date": "2026-10-23T21:19:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3371984/gunmen-kill-7-jordan-church-king-vows-retaliation",
+    "published_date": "2026-10-23T17:17:41Z",
+    "category": "Local Events"
   },
   {
     "title": "France unrest sparks travel jitters for Southeast Asian tourists",
@@ -641,62 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3371900/chinas-head-transplant-advocate-ren-xiaoping-completes-12-hour-landmark-surgery-russia",
     "published_date": "2026-10-23T07:44:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong constable paralysed in 2005 knife attack laid to rest with full honours",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371899/hong-kong-constable-paralysed-2005-knife-attack-laid-rest-full-honours",
-    "published_date": "2026-10-23T07:42:51Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Typhoon Champi disrupts more than 70 flights between Hong Kong and Taiwan",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3371885/super-typhoon-champi-disrupts-more-70-flights-between-hong-kong-and-taiwan",
-    "published_date": "2026-10-23T06:39:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Indonesian wildfires threaten world’s oldest cave paintings in Sulawesi",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3371884/indonesian-wildfires-threaten-worlds-oldest-cave-paintings-sulawesi",
-    "published_date": "2026-10-23T06:31:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "2 women arrested over alleged child abuse after girl, 11, posts plea for help",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371878/2-women-arrested-over-alleged-child-abuse-after-girl-11-posts-plea-help",
-    "published_date": "2026-10-23T05:52:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "France braces for more unrest as police face scrutiny over weapons and tactics",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3371879/france-braces-more-unrest-police-tactics-and-weapons-face-scrutiny",
-    "published_date": "2026-10-23T05:50:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong security chief vows accountability, reforms ahead of Tai Po fire report",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3371874/security-chief-vows-accountability-reforms-ahead-tai-po-fire-reports-release",
-    "published_date": "2026-10-23T05:19:53Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "No bots: Japan drafts rules for social media platforms ahead of local elections",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3371871/no-bots-japan-drafts-rules-social-media-platforms-ahead-local-elections",
-    "published_date": "2026-10-23T04:48:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘I am not resigning’: embattled leader digs in as Malaysia royal crisis deepens",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3371866/i-am-not-resigning-embattled-leader-digs-malaysia-royal-crisis-deepens",
-    "published_date": "2026-10-23T04:35:02Z",
     "category": "Local Events"
   }
 ]
