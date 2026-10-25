@@ -140,6 +140,13 @@
     "category": "Diplomacy"
   },
   {
+    "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+    "published_date": "2026-10-25T00:00:14Z",
+    "category": "Military"
+  },
+  {
     "title": "China’s J-20 stealth jet designers plan to put powerful radar into aircraft wing",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing",
@@ -270,13 +277,6 @@
     "source": "CGTN",
     "url": "https://news.cgtn.com/news/2026-10-22/China-holds-gathering-to-mark-90th-anniversary-of-Long-March-victory-1RrvECp6XOo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
     "published_date": "2026-10-22T02:24:49Z",
-    "category": "Military"
-  },
-  {
-    "title": "Beijing hits out after Taipei bans mainland travel for Sun Yat-sen anniversary",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3371695/beijing-hits-out-after-taipei-bans-mainland-travel-sun-yat-sen-anniversary",
-    "published_date": "2026-10-22T01:00:10Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,13 @@
     "category": "Energy"
   },
   {
+    "title": "German man detained after fire wrecks Hitler’s ‘Eagle’s Nest’ mountain retreat",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat",
+    "published_date": "2026-10-24T16:35:33Z",
+    "category": "Economy"
+  },
+  {
     "title": "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
@@ -553,11 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "UBS: Chinese firms are shifting from cost to tech advantages",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-23/UBS-Chinese-firms-are-shifting-from-cost-to-tech-advantages-1RtIJJzhYgE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-23T11:39:03Z",
-    "category": "Economy"
+    "title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats",
+    "published_date": "2026-10-24T22:50:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
+    "published_date": "2026-10-24T22:00:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump, a critic of early voting, votes early in Florida",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372041/trump-critic-early-voting-votes-early-florida",
+    "published_date": "2026-10-24T21:58:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "How to share AI wealth? Neither the US nor Asia has the answer",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer",
+    "published_date": "2026-10-24T21:30:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption",
+    "published_date": "2026-10-24T18:00:35Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Man arrested over suspected rat poison in stray cat food at Kowloon park",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372037/man-arrested-over-suspected-rat-poison-stray-cat-food-kowloon-park",
+    "published_date": "2026-10-24T15:47:48Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities",
+    "published_date": "2026-10-24T14:33:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "2 projector stands removed from controversial Peak lighting project after outcry",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3372034/2-projector-stands-removed-controversial-peak-lighting-project-after-outcry",
+    "published_date": "2026-10-24T14:27:49Z",
+    "category": "Local Events"
   },
   {
     "title": "How Operation Santa Claus grew from Christmas donations to ‘engine’ of change",
@@ -641,62 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/transport/article/3372008/16000-sign-exam-drive-taxis-or-ride-hailing-cars-hong-kong",
     "published_date": "2026-10-24T06:36:54Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "In besieged Yemeni city, drinking water supplies hit crisis levels",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels",
-    "published_date": "2026-10-24T06:05:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong customs seizes 600 million illicit cigarettes in first 9 months of 2026",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372004/hong-kong-customs-seizes-600-million-illicit-cigarettes-first-9-months-2026",
-    "published_date": "2026-10-24T05:48:57Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-    "published_date": "2026-10-24T04:30:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Overseas Filipinos feel heartache over missing parcels for loved ones, demand answers",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371982/overseas-filipinos-feel-heartache-over-missing-parcels-loved-ones-demand-answers",
-    "published_date": "2026-10-24T04:00:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371978/crypto-platform-alert-lists-opens-hong-kong-office-prompting-calls-scrutiny",
-    "published_date": "2026-10-24T04:00:16Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Revised law to maintain Japan’s imperial family size takes effect",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3371993/revised-law-maintain-japans-imperial-family-size-takes-effect",
-    "published_date": "2026-10-24T03:30:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "French cooking schools fuel fine-dining dreams of India’s young chefs",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3371991/french-cooking-schools-fuel-fine-dining-dreams-indias-young-chefs",
-    "published_date": "2026-10-24T02:15:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
-    "published_date": "2026-10-24T02:14:29Z",
     "category": "Local Events"
   }
 ]
