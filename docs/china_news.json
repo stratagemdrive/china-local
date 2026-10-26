@@ -1,5 +1,12 @@
 [
   {
+    "title": "North Korea tells UN South ‘fabricated’ border landmine blast",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3372100/north-korea-tells-un-south-fabricated-border-landmine-blast",
+    "published_date": "2026-10-26T00:51:49Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "East Asia’s cultural economies are bridging politics-driven divides",
     "source": "SCMP",
     "url": "https://www.scmp.com/opinion/asia-opinion/article/3371868/east-asias-cultural-economies-are-bridging-politics-driven-divides",
@@ -130,13 +137,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
     "published_date": "2026-10-23T14:22:26Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi meeting",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3371952/opportunistic-experts-weigh-manilas-minilateral-agenda-ahead-trump-xi-meeting",
-    "published_date": "2026-10-23T14:00:14Z",
     "category": "Diplomacy"
   },
   {
@@ -406,18 +406,39 @@
     "category": "Energy"
   },
   {
-    "title": "Albanian PM Edi Rama refuses to quit as violent protests enter 6th day",
+    "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3371332/albanian-pm-edi-rama-refuses-quit-violent-protests-enter-6th-day?utm_source=rss_feed",
-    "published_date": "2026-10-18T23:04:07Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
+    "published_date": "2026-10-26T00:30:22Z",
+    "category": "Economy"
   },
   {
-    "title": "How China made climate resilience part of its economic growth strategy",
+    "title": "South Korean CEO’s 4-year jail term over plant fire that killed 23 spurs anger",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
-    "published_date": "2026-10-18T21:30:06Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/week-asia/people/article/3372044/south-korean-ceos-4-year-jail-term-over-plant-fire-killed-23-spurs-anger",
+    "published_date": "2026-10-26T00:00:19Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+    "published_date": "2026-10-25T23:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Why cloud computing pioneer Wang Jian thinks space is the next AI frontier",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3371979/why-cloud-computing-pioneer-wang-jian-thinks-space-next-ai-frontier",
+    "published_date": "2026-10-25T22:00:20Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Philippines plan ‘appropriate legal action’ against Thomas Markle",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372089/philippines-plan-appropriate-legal-action-against-thomas-markle",
+    "published_date": "2026-10-25T15:26:17Z",
+    "category": "Economy"
   },
   {
     "title": "HK Express passenger injured after power bank overheats on flight to Jeju",
@@ -525,39 +546,88 @@
     "category": "Economy"
   },
   {
-    "title": "China opposes US proposal to expand outbound investment curbs",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/China-opposes-US-proposal-to-expand-outbound-investment-curbs-1RvDF2byKyI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-24T14:47:25Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Leading Chinese economic commentator Ren Zeping’s social media account restricted",
+    "title": "Hong Kong to tighten burgeoning premium financing market as red flags, risks emerge",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted",
-    "published_date": "2026-10-24T13:50:26Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge",
+    "published_date": "2026-10-26T01:00:07Z",
+    "category": "Local Events"
   },
   {
-    "title": "Xiongan's underground backbone: The tech inside a 'city of the future'",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/Xiongan-s-underground-backbone-The-tech-inside-a-city-of-the-future--1RvhxiGJ0Dm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-24T11:10:40Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Xiongan's underground backbone: The tech inside a 'city of the future'",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/Xiongan-s-underground-backbone-The-tech-inside-a-city-of-the-future--1RvhxiGJ0Dm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-24T11:10:40Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+    "title": "Why North Korean leader Kim Jong-un toured a Chinese bus factory in Dandong",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern",
-    "published_date": "2026-10-24T10:03:53Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372102/why-north-korean-leader-kim-jong-un-toured-chinese-bus-factory-dandong",
+    "published_date": "2026-10-26T00:59:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Interpol’s Hong Kong meeting to consider ‘silver notice’ targeting criminal assets",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372074/interpols-hong-kong-meeting-consider-silver-notice-targeting-criminal-assets",
+    "published_date": "2026-10-26T00:00:29Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump cites 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372097/trump-cites-9/11-urging-michigan-voters-oppose-muslim-senate-candidate-el-sayed",
+    "published_date": "2026-10-25T22:29:09Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Peak lighting outcry spotlights the trouble with fast-track governance",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372057/peak-lighting-outcry-spotlights-trouble-fast-track-governance",
+    "published_date": "2026-10-25T21:30:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Brazil’s election left hanging as judge extends vote after polls close, sparking chaos",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3372096/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours",
+    "published_date": "2026-10-25T21:18:45Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Presidential race in Bulgaria heads to run-off after record low turnout",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372095/presidential-race-bulgaria-heads-run-after-record-low-turnout",
+    "published_date": "2026-10-25T20:03:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Venezuela opposition leader Machado returns home after fraught year in exile",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3372094/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-exile",
+    "published_date": "2026-10-25T19:31:04Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump ‘not trying to meddle’ in Alaska election results by suing over Senate race: Blanche",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372093/trump-not-trying-meddle-alaska-election-results-suing-over-senate-race-blanche",
+    "published_date": "2026-10-25T18:49:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "France’s Le Pen vows to restore ‘rule of law’ at presidential campaign launch",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372092/frances-le-pen-vows-restore-rule-law-presidential-campaign-launch",
+    "published_date": "2026-10-25T18:01:33Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3372091/netanyahu-warns-iran-may-try-disrupt-election-says-dont-test-us",
+    "published_date": "2026-10-25T17:29:00Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Storms batter northern Europe, hitting power supplies, flights and phones",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372090/storms-batter-northern-europe-hitting-power-supplies-flights-and-phones",
+    "published_date": "2026-10-25T16:44:37Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong to boost Huanggang Port capacity after Halloween, concert congestion",
@@ -613,90 +683,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3372064/how-chinas-regional-leadership-changes-offer-clues-future-communist-party",
     "published_date": "2026-10-25T10:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "How ancient Chinese night watchmen patrolled streets, used ‘dripping buckets’ to tell time",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372045/how-ancient-chinese-night-watchmen-patrolled-streets-used-dripping-buckets-tell-time",
-    "published_date": "2026-10-25T10:00:05Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Upgrade or eyesore? Why Hong Kong’s Peak light display has hit a snag",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372069/upgrade-or-eyesore-why-hong-kongs-peak-light-display-has-hit-snag",
-    "published_date": "2026-10-25T09:04:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Serbia votes as ruling party faces student-led anti-corruption list",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3372068/serbia-votes-ruling-party-faces-student-led-anti-corruption-list",
-    "published_date": "2026-10-25T08:53:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beijing pledges to back Taiwan’s pro-unification ‘patriots’ as it marks key anniversary",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3372065/beijing-commemorates-end-japanese-rule-over-taiwan-call-reunification",
-    "published_date": "2026-10-25T08:05:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Veteran Hong Kong stock commentator Louie Shum dies aged 66",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372063/veteran-hong-kong-stock-commentator-louie-shum-dies-aged-66",
-    "published_date": "2026-10-25T07:46:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Weeknd wows Hong Kong fans with tribute song sampling Faye Wong classic",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372062/weeknd-wows-hong-kong-fans-tribute-song-sampling-faye-wong-classic",
-    "published_date": "2026-10-25T07:34:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "1 million Hong Kong employees to get ‘full portability’ of MPF funds in December",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372056/1-million-hong-kong-employees-get-full-portability-mpf-funds-december",
-    "published_date": "2026-10-25T06:06:04Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Novel idea: Thailand, Vietnam take books on the road in reading drive",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3371941/novel-idea-thailand-vietnam-take-books-road-reading-drive",
-    "published_date": "2026-10-25T05:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Law enforcement alerted to firm offering LGBTQ surrogacy services in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372052/law-enforcement-alerted-about-firm-offering-lgbtq-surrogacy-services-hong-kong",
-    "published_date": "2026-10-25T04:49:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Will AI-powered open-door vending machines reshape Hong Kong’s retail landscape?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372024/will-ai-powered-open-door-vending-machines-reshape-hong-kongs-retail-landscape",
-    "published_date": "2026-10-25T04:00:15Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "M6.5 quake hits Bonin Islands, Japan – CENC",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-25/news-1RwunMWqLfi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-25T02:16:42Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Mum, good’: Chinese woman wakes vegetative daughter-in-law after 17 years of care",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-law-after-17-years-care",
-    "published_date": "2026-10-25T02:15:07Z",
     "category": "Local Events"
   }
 ]
