@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ebola patient evacuated from Nigeria to Switzerland",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/africa/article/3372215/ebola-patient-evacuated-nigeria-switzerland",
+    "published_date": "2026-10-26T18:21:42Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Death of former PM Yasuo Fukuda leaves void in fraught China-Japan relations",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3372192/death-former-pm-yasuo-fukuda-leaves-void-fraught-china-japan-relations",
@@ -133,11 +140,25 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Chinese FM meets UN high commissioner for refugees",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-24T00:13:10Z",
-    "category": "Diplomacy"
+    "title": "Australia to host USS Colorado as first US nuclear submarine under Aukus pact",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/australasia/article/3372225/australia-host-uss-colorado-first-us-nuclear-submarine-under-aukus-pact",
+    "published_date": "2026-10-27T01:25:06Z",
+    "category": "Military"
+  },
+  {
+    "title": "What message is China sending with latest footage of ‘no-notice’ DF rocket drill?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3372206/what-message-china-sending-latest-footage-no-notice-df-rocket-drill",
+    "published_date": "2026-10-27T00:00:19Z",
+    "category": "Military"
+  },
+  {
+    "title": "Mecca pact countries in Iran in bid to stop war restarting",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3372218/mecca-pact-countries-iran-bid-stop-war-restarting",
+    "published_date": "2026-10-26T19:47:10Z",
+    "category": "Military"
   },
   {
     "title": "China’s next-generation KJ-3000 radar planes may have quietly entered production",
@@ -256,27 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372014/4-pilots-killed-mid-air-collision-philippine-military-planes",
     "published_date": "2026-10-24T07:42:50Z",
-    "category": "Military"
-  },
-  {
-    "title": "Israel launches major operation in West Bank after soldiers killed",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3372010/israel-launches-major-operation-west-bank-after-soldiers-killed",
-    "published_date": "2026-10-24T07:00:20Z",
-    "category": "Military"
-  },
-  {
-    "title": "Iran reports tanker blasts in Hormuz as Trump hints at renewed strikes",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/Iran-reports-tanker-blasts-in-Hormuz-as-Trump-hints-at-renewed-strikes-1RuSG1ODy0M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-24T03:56:53Z",
-    "category": "Military"
-  },
-  {
-    "title": "Major trial for new Ebola vaccine begins in DR Congo amid outbreak",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-24/Major-trial-for-new-Ebola-vaccine-begins-in-DR-Congo-amid-outbreak-1RuT23tmIwg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-24T03:48:16Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "Can Hong Kong deliver in trying to build its yuan credentials?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372184/can-hong-kong-deliver-trying-build-its-yuan-credentials",
+    "published_date": "2026-10-27T00:30:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Southeast Asia’s housing paradox: too many homes, too few buyers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3372208/southeast-asias-housing-paradox-too-many-homes-too-few-buyers",
+    "published_date": "2026-10-27T00:00:24Z",
+    "category": "Economy"
+  },
+  {
+    "title": "How Shimao’s sale of 2 hotels reveals the growing complexity of Hong Kong debt workouts",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/article/3372067/how-shimaos-sale-2-hotels-reveals-growing-complexity-hong-kong-debt-workouts",
+    "published_date": "2026-10-26T23:00:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "How Hong Kong’s 5-year plan can fuel its financial clout",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3371934/how-hong-kongs-5-year-plan-can-fuel-its-financial-clout",
+    "published_date": "2026-10-26T21:30:06Z",
+    "category": "Economy"
+  },
+  {
     "title": "Hong Kong proposes more homes, less office space at Hung Hom harbourfront",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3372204/hong-kong-proposes-more-homes-less-office-space-hung-hom-harbourfront",
@@ -532,32 +560,88 @@
     "category": "Economy"
   },
   {
-    "title": "Philippines plan ‘appropriate legal action’ against Thomas Markle",
+    "title": "Hong Kong wants to be a regional hub for Halloween. Why not?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372089/philippines-plan-appropriate-legal-action-against-thomas-markle",
-    "published_date": "2026-10-25T15:26:17Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372109/hong-kong-wants-be-regional-hub-halloween-why-not",
+    "published_date": "2026-10-27T01:30:08Z",
+    "category": "Local Events"
   },
   {
-    "title": "HK Express passenger injured after power bank overheats on flight to Jeju",
+    "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3372088/hk-express-passenger-injured-after-power-bank-overheats-flight-jeju",
-    "published_date": "2026-10-25T14:46:45Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
+    "published_date": "2026-10-27T01:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "Louie Shum’s death: heart disease in Hong Kong and what to do in an emergency",
+    "title": "China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372082/louie-shums-death-heart-disease-hong-kong-and-what-do-emergency",
-    "published_date": "2026-10-25T12:50:34Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/business/china-evs/article/3372153/china-grants-permits-vw-joint-venture-xpeng-autonomous-driving-race-intensifies",
+    "published_date": "2026-10-27T00:00:14Z",
+    "category": "Local Events"
   },
   {
-    "title": "How technology is making government services easier in Hainan",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-25/How-technology-is-making-government-services-easier-in-Hainan-1RwXTmNt7tS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-25T12:38:49Z",
-    "category": "Economy"
+    "title": "Evening sessions urged as fraud, money-laundering cases pack Hong Kong courts",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372211/evening-sessions-urged-fraud-money-laundering-cases-pack-hong-kong-courts",
+    "published_date": "2026-10-26T23:00:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Israel election: Netanyahu touts Trump backing, suggests they may restart war on Iran",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3372222/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran",
+    "published_date": "2026-10-26T22:29:05Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US rapper Macklemore launches Free Palestine Tour in Ireland after Ed Sheeran rift",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372221/us-rapper-macklemore-launches-free-palestine-tour-ireland-after-ed-sheeran-rift",
+    "published_date": "2026-10-26T22:00:02Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump claims Brazil election ‘rigged’ as Bolsonaro’s party acknowledges result",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3372220/brazils-flavio-bolsonaro-says-he-will-lead-opposition-lula-government",
+    "published_date": "2026-10-26T21:34:03Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "European levy on non-EU parcels kicks in on Sunday in bid to curb China influx",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372219/new-levy-non-eu-parcels-kicks-sunday-bid-curb-influx-china",
+    "published_date": "2026-10-26T20:39:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Burnham rules out UK return to EU free movement without referendum",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372217/burnham-rules-out-uk-return-eu-free-movement-without-referendum",
+    "published_date": "2026-10-26T19:16:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "6 US citizens sue Trump, saying media ban deprives them of news as audience stakeholders",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372216/6-us-citizens-sue-trump-saying-media-ban-deprives-them-news-audience-stakeholders",
+    "published_date": "2026-10-26T18:56:18Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Daughter of ex-FBI director Comey was unlawfully fired as federal prosecutor, judge rules",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372214/judge-rules-daughter-ex-fbi-director-comey-was-unlawfully-fired-federal-prosecutor",
+    "published_date": "2026-10-26T17:58:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Walter Koenig, Star Trek’s original Pavel Chekov, dies at 90",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372213/walter-koenig-star-treks-original-pavel-chekov-dies-90",
+    "published_date": "2026-10-26T17:25:02Z",
+    "category": "Local Events"
   },
   {
     "title": "Thousands of observers expected at polling places to monitor the vote on US election day",
@@ -613,90 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3372197/us-singer-chris-brown-avoids-jail-after-guilty-plea-uk-nightclub-incident",
     "published_date": "2026-10-26T12:48:25Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singaporean woman admits conspiring to abuse Megan Khung, helping dispose of her body",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3372195/singaporean-woman-admits-conspiring-abuse-megan-khung-disposing-her-body",
-    "published_date": "2026-10-26T12:40:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "14 Hong Kong civil servants sue colleague over HK$28.9 million Mark Six winnings",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372186/14-hong-kong-civil-servants-sue-colleague-over-hk289-million-mark-six-winnings",
-    "published_date": "2026-10-26T12:00:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "2 workers dangle more than 30 storeys up after Jardine House gondola fault",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372188/two-workers-dangle-more-30-storeys-after-jardine-house-gondola-fault",
-    "published_date": "2026-10-26T11:59:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Do Hong Kong’s cardboard grannies have a future making just HK$30 for day’s work?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372130/how-will-hong-kongs-cardboard-scavengers-survive-prices-drop-after-new-policy",
-    "published_date": "2026-10-26T11:00:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Why China’s new estimate on Greenland ice loss speed is 55% lower than America’s",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3372129/why-chinas-new-estimate-greenland-ice-loss-speed-55-lower-americas",
-    "published_date": "2026-10-26T10:19:46Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Why China’s heritage-listed Dog-Carrying Festival honours canines as sacred lifesavers",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372156/why-chinas-heritage-listed-dog-carrying-festival-honours-canines-sacred-lifesavers",
-    "published_date": "2026-10-26T10:00:14Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Kweichow Moutai Becomes Premier Partner of the Hong Kong Open 2026, Deepening Its Global Presence",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/presented/news/hong-kong/topics/moutai-premier-partner-hk-open/article/3371944/kweichow-moutai-becomes-premier-partner-hong-kong-open-2026-deepening-its-global-presence",
-    "published_date": "2026-10-26T09:50:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Weeknd’s ‘Hong Kong’ captures nostalgia for bygone era, video director says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372168/weeknds-hong-kong-captures-nostalgia-bygone-era-video-director-says",
-    "published_date": "2026-10-26T09:12:48Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Lula secures surprise win to retain Brazil presidency",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3372167/lula-secures-surprise-win-retain-brazil-presidency",
-    "published_date": "2026-10-26T09:07:52Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "What Hongkongers need to know about the latest changes to the MPF scheme",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372162/what-hongkongers-need-know-about-latest-changes-mpf-scheme",
-    "published_date": "2026-10-26T08:28:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
-    "published_date": "2026-10-26T08:00:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "In Australia, Sydney’s second airport blows some passengers off course",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/australasia/article/3372145/australia-sydneys-second-airport-blows-some-passengers-course",
-    "published_date": "2026-10-26T07:40:16Z",
     "category": "Local Events"
   }
 ]
