@@ -1,5 +1,12 @@
 [
   {
+    "title": "Most Malaysians held for drug crimes abroad detained in Indonesia, China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372654/most-malaysians-held-drug-crimes-abroad-detained-indonesia-china",
+    "published_date": "2026-10-30T02:18:18Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Singapore wields ‘quiet diplomacy’ in minister’s surprise visit to Indonesia amid haze tensions",
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3372629/singapore-wields-quiet-diplomacy-ministers-surprise-visit-indonesia-amid-haze-tensions",
@@ -133,11 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "China urges US to immediately end blockade and pressure on Cuba",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-28/China-urges-US-to-immediately-end-blockade-and-pressure-on-Cuba-1RBESuzeh56/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-28T06:17:18Z",
-    "category": "Diplomacy"
+    "title": "Pentagon accuses fired US general of leaking sensitive information",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372653/pentagon-accuses-fired-us-general-leaking-sensitive-information",
+    "published_date": "2026-10-30T02:12:12Z",
+    "category": "Military"
+  },
+  {
+    "title": "Inside the PLA’s new austerity drive: lean, mean, printing-on-both-sides machine",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3372552/inside-plas-new-austerity-drive-lean-mean-printing-both-sides-machine",
+    "published_date": "2026-10-30T01:00:11Z",
+    "category": "Military"
   },
   {
     "title": "China tests powerful AI that could one day be used on submarines",
@@ -266,18 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "2 men charged in UK with helping Iran over air force base incident",
+    "title": "EU considering Canada as ‘associate member’ despite internal opposition",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3372342/2-men-charged-uk-helping-iran-over-air-force-base-incident",
-    "published_date": "2026-10-27T14:02:48Z",
-    "category": "Military"
-  },
-  {
-    "title": "Taiwan vows vigilance as Beijing releases detailed satellite imagery of island landmarks",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3372328/taiwan-vows-vigilance-beijing-releases-detailed-satellite-imagery-island-landmarks",
-    "published_date": "2026-10-27T14:00:17Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition",
+    "published_date": "2026-10-29T19:43:34Z",
+    "category": "Energy"
   },
   {
     "title": "Thailand and Vietnam meat seizures highlight deepening risk of unsafe food on the table",
@@ -413,11 +420,39 @@
     "category": "Energy"
   },
   {
-    "title": "Tibetan river hosting world’s biggest dam is facing increasing flood risk: study",
+    "title": "Kindness returned: Chinese woman helped disabled man 8 years ago, now gets financial aid",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3371763/tibetan-river-hosting-worlds-biggest-dam-facing-increasing-flood-risk-study",
-    "published_date": "2026-10-26T02:00:09Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372646/kindness-returned-chinese-woman-helped-disabled-man-8-years-ago-now-gets-financial-aid",
+    "published_date": "2026-10-30T02:00:39Z",
+    "category": "Economy"
+  },
+  {
+    "title": "As AI transforms global markets, Cyberport Venture & Capital Forum 2026 brings together the investors and innovators shaping what's next",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/presented/news/hong-kong/topics/cvcf-2026-shapes-agentic-economy/article/3372499/ai-transforms-global-markets-cyberport-venture-capital-forum-2026-brings-together-investors-and",
+    "published_date": "2026-10-30T01:20:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Can AI teach kids to think? Malaysia’s classroom tech push faces a reality check",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/people/article/3372605/can-ai-teach-kids-think-malaysias-classroom-tech-push-faces-reality-check",
+    "published_date": "2026-10-30T00:00:26Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong’s wider yuan push: a gateway to the world?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372636/hong-kongs-wider-yuan-push-gateway-world",
+    "published_date": "2026-10-29T22:00:18Z",
+    "category": "Economy"
+  },
+  {
+    "title": "In Michigan Senate race, Trump’s softer China tone gives candidates room to look elsewhere",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/us-elections/article/3372640/michigan-senate-race-trumps-softer-china-tone-gives-candidates-room-look-elsewhere",
+    "published_date": "2026-10-29T20:49:13Z",
+    "category": "Economy"
   },
   {
     "title": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting",
@@ -525,39 +560,81 @@
     "category": "Economy"
   },
   {
-    "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
+    "title": "France’s protests, like Hong Kong’s in 2019, risk being defined by violence",
     "source": "SCMP",
-    "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
-    "published_date": "2026-10-29T07:30:10Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3372437/frances-protests-hong-kongs-2019-risk-being-defined-violence",
+    "published_date": "2026-10-30T01:30:08Z",
+    "category": "Local Events"
   },
   {
-    "title": "How Flavio Bolsonaro pulled off a clandestine escape to the US",
+    "title": "Will Tai Po fire reforms wipe out collusion in Hong Kong’s building maintenance industry?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3372545/how-flavio-bolsonaro-pulled-clandestine-escape-us",
-    "published_date": "2026-10-29T06:14:38Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/article/3372635/will-tai-po-fire-reforms-wipe-out-collusion-hong-kongs-building-maintenance-industry",
+    "published_date": "2026-10-30T00:44:33Z",
+    "category": "Local Events"
   },
   {
-    "title": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+    "title": "Australian mushroom killer Erin Patterson likely to die in jail after failed appeal",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back",
-    "published_date": "2026-10-29T04:00:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/asia/australasia/article/3372648/australian-mushroom-killer-erin-patterson-likely-die-jail-after-failed-appeal",
+    "published_date": "2026-10-30T00:41:24Z",
+    "category": "Local Events"
   },
   {
-    "title": "South Korea’s chipmakers are raking it in. Can China close the gap?",
+    "title": "Hong Kong national security judge Alex Lee promoted to the Court of Appeal",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/economics/article/3372439/south-koreas-chipmakers-are-raking-it-can-china-close-gap",
-    "published_date": "2026-10-29T00:00:20Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372645/hong-kong-national-security-judge-alex-lee-promoted-court-appeal",
+    "published_date": "2026-10-30T00:07:37Z",
+    "category": "Local Events"
   },
   {
-    "title": "Huawei opens defence in US criminal trial, touting its record of innovation",
+    "title": "Chinese scholars warned of challenge of ‘translating academic research into policy’",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/us/article/3372491/huawei-opens-defence-us-criminal-trial-touting-its-record-innovation",
-    "published_date": "2026-10-28T20:26:16Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372557/chinese-scholars-warned-challenge-translating-academic-research-policy",
+    "published_date": "2026-10-30T00:00:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority",
+    "published_date": "2026-10-29T23:32:33Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Chinese scientists dissatisfied with jobs but optimistic about future, survey says",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372643/chinese-scientists-dissatisfied-jobs-optimistic-about-future-survey-says",
+    "published_date": "2026-10-29T22:22:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Brazil’s Flavio Bolsonaro mocked at home after self-exile to US",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3372641/brazils-flavio-bolsonaro-mocked-home-after-self-exile-us",
+    "published_date": "2026-10-29T21:42:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Can Canada, UK and Australia grasp chance offered by US-China rivalry?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3372303/can-canada-uk-and-australia-grasp-chance-offered-us-china-rivalry",
+    "published_date": "2026-10-29T21:30:07Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Patrick Stewart, of Star Trek and X-Men fame, dies at 86",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372639/patrick-stewart-star-trek-and-x-men-fame-dies-86",
+    "published_date": "2026-10-29T20:17:56Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "3 killed in rock spire collapse in Turkey’s touristic Cappadocia",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372637/3-killed-rock-spire-collapse-turkeys-touristic-cappadocia",
+    "published_date": "2026-10-29T17:58:57Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong’s John Lee apologises for Tai Po fire, unveils reforms as housing chief resigns",
@@ -620,83 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372608/hong-kong-scraps-lighting-attraction-peak-after-public-outcry",
     "published_date": "2026-10-29T11:56:31Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Lit cigarette, combustibles and ‘human fault’ led to deadly Hong Kong fire: report",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372602/lit-cigarette-combustibles-and-human-fault-led-deadly-hong-kong-fire-report",
-    "published_date": "2026-10-29T11:11:47Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Later hours unlikely to boost bottle sales at Hong Kong wine festival: exhibitors",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372601/later-hours-unlikely-boost-bottle-sales-hong-kong-wine-festival-exhibitors-say",
-    "published_date": "2026-10-29T11:05:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "10 US states to vote on data centre development on election day amid opposition",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372600/10-us-states-vote-data-centre-development-election-day-amid-opposition",
-    "published_date": "2026-10-29T10:54:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Why students in ancient China honoured teachers by gifting wild vegetables",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372585/why-students-ancient-china-honoured-teachers-gifting-wild-vegetables",
-    "published_date": "2026-10-29T10:00:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chain of failures: 5 key takeaways from report on Tai Po blaze",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372584/chain-failures-5-key-takeaways-report-tai-po-blaze",
-    "published_date": "2026-10-29T09:12:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Spain begins 3 days of mourning after high-speed train disaster",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3372573/spain-begins-3-days-mourning-after-high-speed-train-disaster",
-    "published_date": "2026-10-29T08:31:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Singapore also at risk’: Indonesian minister urges calm over internet cable jab",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3372566/singapore-also-risk-indonesian-minister-urges-calm-over-internet-cable-jab",
-    "published_date": "2026-10-29T07:55:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "2 men charged in Malaysia after dog seen being dragged behind motorbike",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372561/2-men-charged-malaysia-after-dog-seen-being-dragged-behind-motorbike",
-    "published_date": "2026-10-29T07:39:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong police officer denies mishandling DNA samples in Abby Choi murder case",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372556/hong-kong-police-officer-denies-mishandling-dna-samples-abby-choi-murder-case",
-    "published_date": "2026-10-29T07:19:02Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Housing chief Winnie Ho resigns, government admits ‘decades of failure’ led to Tai Po fire – as it happened",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372542/tai-po-fire-inquiry-hard-hitting-report-tragedy-set-be-released",
-    "published_date": "2026-10-29T06:40:49Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "At least 1 senior official to take rap for deadly Tai Po fire as part of ‘bold’ reforms",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3372536/least-1-senior-official-take-rap-deadly-tai-po-fire-part-bold-reforms",
-    "published_date": "2026-10-29T05:39:16Z",
     "category": "Local Events"
   }
 ]
