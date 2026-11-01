@@ -1,5 +1,12 @@
 [
   {
+    "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+    "published_date": "2026-10-31T16:17:17Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "UK PM Burnham ‘open’ to slavery apology, but not reparations",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3372842/uk-pm-burnham-open-slavery-apology-not-reparations",
@@ -133,11 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "UN names China's Blue Bay initiative world restoration flagship",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-30/UN-names-China-s-Blue-Bay-initiative-world-restoration-flagship-1REKczVaEDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-30T02:28:10Z",
-    "category": "Diplomacy"
+    "title": "‘Flirtatious’ US$2,500 photo shoots for ‘lonely’ middle-aged women spark backlash in China",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china",
+    "published_date": "2026-11-01T02:00:21Z",
+    "category": "Military"
   },
   {
     "title": "Iran’s supreme leader warns US, Israel against war",
@@ -273,11 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "New images suggest China’s fourth aircraft carrier could launch in 2027, analysts say",
+    "title": "Clashes break out at France’s Halloween protests, as hundreds of thousands take to streets",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3372578/new-images-suggest-chinas-fourth-aircraft-carrier-could-launch-2027-analysts-say",
-    "published_date": "2026-10-29T13:00:09Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/europe/article/3372854/clashes-break-out-frances-halloween-protests-hundreds-thousands-take-streets",
+    "published_date": "2026-10-31T18:23:31Z",
+    "category": "Energy"
   },
   {
     "title": "China places former Sinopec and CNOOC boss Fu Chengyu, 75, under corruption probe",
@@ -413,11 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "Saudi-Houthi attacks continue as both sides report strikes",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-28/Saudi-Houthi-attacks-continue-as-both-sides-report-strikes-1RBsjILgc8M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-28T04:03:55Z",
-    "category": "Energy"
+    "title": "Woman arrested for threatening to shoot Trump at Florida rally",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372859/woman-arrested-threatening-shoot-trump-florida-rally",
+    "published_date": "2026-11-01T00:59:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Southeast Asia’s EV boom sidelines local car parts suppliers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers",
+    "published_date": "2026-11-01T00:00:10Z",
+    "category": "Economy"
+  },
+  {
+    "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+    "published_date": "2026-10-31T23:49:22Z",
+    "category": "Economy"
+  },
+  {
+    "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
+    "published_date": "2026-10-31T19:32:58Z",
+    "category": "Economy"
   },
   {
     "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
@@ -532,32 +560,60 @@
     "category": "Economy"
   },
   {
-    "title": "The flaw in Australia’s ‘China threat’ thesis",
+    "title": "Russia surpasses France in African youth appeal, still trails China: survey",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/asia-opinion/article/3372519/flaw-australias-china-threat-thesis",
-    "published_date": "2026-10-30T21:30:08Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey",
+    "published_date": "2026-11-01T02:00:17Z",
+    "category": "Local Events"
   },
   {
-    "title": "Central government office commends HKSAR's probe into residential fire",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-30/Central-government-office-commends-HKSAR-s-probe-into-residential-fire-1RFwhnUD5WU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-30T13:56:05Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Why the Philippines remains a hotspot for transnational drug syndicates",
+    "title": "South Korea’s latest chart sensation has a secret: the singer isn’t human",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3372777/why-philippines-remains-hotspot-transnational-drug-syndicates",
-    "published_date": "2026-10-30T13:27:02Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3372767/south-koreas-latest-chart-sensation-has-secret-singer-isnt-human",
+    "published_date": "2026-11-01T02:00:14Z",
+    "category": "Local Events"
   },
   {
-    "title": "China signals moderately loose policy, capital market reform",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-30/China-signals-moderately-loose-policy-capital-market-reform-1RFsh1f6yEE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-10-30T12:34:39Z",
-    "category": "Economy"
+    "title": "Hong Kong’s art trading hub ambitions rest on more than headline sales",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372464/hong-kongs-art-trading-hub-ambitions-rest-more-headline-sales",
+    "published_date": "2026-11-01T01:30:08Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pump pressure: how rising fuel costs leave Hong Kong drivers running on fumes",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372851/pump-pressure-how-rising-fuel-costs-leave-hong-kong-drivers-running-fumes",
+    "published_date": "2026-11-01T01:00:12Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "How the Zhuhai air show charted China’s path from catching up to flying high",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3372822/how-zhuhai-air-show-charted-chinas-path-catching-flying-high",
+    "published_date": "2026-10-31T22:00:15Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hongkongers need more than 4 walls and a roof to make a home",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372381/hongkongers-need-more-4-walls-and-roof-make-home",
+    "published_date": "2026-10-31T21:30:10Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Judge throws out Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372857/judge-throws-out-trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter",
+    "published_date": "2026-10-31T20:24:33Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "German police fire water cannon during tense ‘Gen Z’ protests",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372853/german-police-fire-water-cannon-during-tense-gen-z-protests",
+    "published_date": "2026-10-31T17:35:19Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong man falls from luxury housing complex, striking domestic helper below",
@@ -641,62 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/society/article/3372768/hong-kong-has-released-full-report-tai-po-fire-tragedy-heres-all-you-need-know",
     "published_date": "2026-10-31T07:30:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia’s Melaka poll begins as 79 cleared in test for Anwar’s coalition",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3372821/malaysias-melaka-poll-begins-79-cleared-test-anwars-coalition",
-    "published_date": "2026-10-31T06:57:03Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Data of nearly 17,000 mainland students leaked in Hong Kong exams body breach",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3372817/nearly-17000-students-hit-data-leak-hong-kong-exams-authority",
-    "published_date": "2026-10-31T06:06:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong socialite Abby Choi’s remains found in soup pots and fridge, court told",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372814/hong-kong-socialite-abby-chois-remains-found-soup-pots-and-fridge-court-told",
-    "published_date": "2026-10-31T05:23:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "From digital pets to robot pals: how AI is changing Hong Kong classrooms",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3372812/digital-pets-robot-pals-how-ai-changing-hong-kong-classrooms",
-    "published_date": "2026-10-31T05:09:55Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Shenzhen too pricey? Cost-conscious Hongkongers dig deeper into mainland China",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3372740/shenzhen-too-pricey-cost-conscious-hongkongers-dig-deeper-mainland-china",
-    "published_date": "2026-10-31T04:00:09Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong’s Jumbo Floating Restaurant catches fire before opening, kills 34 – SCMP archive",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/article/3372522/hong-kongs-jumbo-floating-restaurant-catches-fire-opening-kills-34-scmp-archive",
-    "published_date": "2026-10-31T03:15:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hainan's digital reporting system streamlines grassroots governance",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-31/Hainan-s-digital-reporting-system-streamlines-grassroots-governance-1RFtRmFlg3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-31T02:49:32Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hainan's digital reporting system streamlines grassroots governance",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-10-31/Hainan-s-digital-reporting-system-streamlines-grassroots-governance-1RFtRmFlg3u/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-31T02:49:32Z",
     "category": "Local Events"
   }
 ]
