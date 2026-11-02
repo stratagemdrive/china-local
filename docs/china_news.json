@@ -140,6 +140,20 @@
     "category": "Diplomacy"
   },
   {
+    "title": "Heat director Michael Mann accidentally shoots self at gun range",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372914/heat-director-michael-mann-accidentally-shoots-self-gun-range",
+    "published_date": "2026-11-02T01:39:55Z",
+    "category": "Military"
+  },
+  {
+    "title": "Iliana Iotova wins Bulgaria’s presidential run-off election",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
+    "published_date": "2026-11-01T19:14:49Z",
+    "category": "Military"
+  },
+  {
     "title": "China’s Xi says strict party governance has positive impact, does not stifle growth",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/politics/article/3372901/chinas-xi-says-strict-party-governance-has-positive-impact-does-not-stifle-growth",
@@ -263,20 +277,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/china/diplomacy/article/3372764/beijing-drills-water-cannons-and-drones-near-disputed-south-china-sea-shoals",
     "published_date": "2026-10-30T11:39:56Z",
-    "category": "Military"
-  },
-  {
-    "title": "Saudi Arabia says Houthis-launched drone destroyed near Mecca, group denies",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3372733/saudi-arabia-says-houthis-launched-drone-destroyed-near-mecca-group-denies",
-    "published_date": "2026-10-30T09:25:58Z",
-    "category": "Military"
-  },
-  {
-    "title": "China carries out GJ-21 drone take-off, landing from first Type 076 warship: state media",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3372726/china-carries-out-gj-21-drone-take-landing-first-type-076-warship-state-media",
-    "published_date": "2026-10-30T09:03:23Z",
     "category": "Military"
   },
   {
@@ -420,6 +420,55 @@
     "category": "Energy"
   },
   {
+    "title": "Has Hong Kong’s IPO boom hit a wall – or is a year-end rush still to come?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/markets/article/3372736/has-hong-kongs-ipo-boom-hit-wall-or-year-end-rush-still-come",
+    "published_date": "2026-11-02T01:00:15Z",
+    "category": "Economy"
+  },
+  {
+    "title": "North Korea hackers behind Japan’s massive GMO data leak, investigation finds",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3372913/north-korea-hackers-behind-japans-massive-gmo-data-leak-investigation-finds",
+    "published_date": "2026-11-02T00:58:40Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Drug maker Rohto plans clinical trials in Hong Kong as OASES’ first Japan partner",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372885/drug-maker-rohto-plans-clinical-trials-hong-kong-oases-first-japan-partner",
+    "published_date": "2026-11-02T00:30:11Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Humans vs AI art: why game studios hire Southeast Asian talent",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3372761/humans-vs-ai-art-why-game-studios-hire-southeast-asian-talent",
+    "published_date": "2026-11-02T00:00:16Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3372873/hong-kong-summit-test-wall-street-sentiment-amid-geopolitical-strains-tech-volatility",
+    "published_date": "2026-11-01T23:30:16Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Joshua Cooper Ramo on whether the US can handle the stress test of China’s rise",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3372879/joshua-cooper-ramo-whether-us-can-handle-stress-test-chinas-rise",
+    "published_date": "2026-11-01T22:00:18Z",
+    "category": "Economy"
+  },
+  {
+    "title": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+    "published_date": "2026-11-01T18:01:03Z",
+    "category": "Economy"
+  },
+  {
     "title": "Former Apple Daily publisher joins mainland China tour for rehabilitated offenders",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/hong-kong/politics/article/3372905/former-apple-daily-publisher-joins-mainland-china-tour-rehabilitated-offenders",
@@ -511,53 +560,74 @@
     "category": "Economy"
   },
   {
-    "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+    "title": "In South Korea, Lee’s overseas trips fuel familiar battle over presidential perks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
-    "published_date": "2026-10-31T23:49:22Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3372915/south-korea-lees-overseas-trips-fuel-familiar-battle-over-presidential-perks",
+    "published_date": "2026-11-02T02:12:06Z",
+    "category": "Local Events"
   },
   {
-    "title": "China's Geely Auto Group to enter the Canadian auto market in 2027",
-    "source": "CGTN",
-    "url": "https://newsus.cgtn.com/news/2026-11-01/China-s-Geely-Auto-Group-to-enter-the-Canadian-auto-market-in-2027-1RHEnWMgsbC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-10-31T19:41:37Z",
-    "category": "Economy"
+    "title": "What can Cambridge teach Hong Kong about building university towns?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3372890/what-can-cambridge-teach-hong-kong-about-building-university-towns",
+    "published_date": "2026-11-02T02:00:17Z",
+    "category": "Local Events"
   },
   {
-    "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+    "title": "Apec China summit: from traffic curbs to tree planting, Shenzhen’s plans enter final phase",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
-    "published_date": "2026-10-31T19:32:58Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/politics/article/3372880/apec-china-summit-traffic-curbs-tree-planting-shenzhens-plans-enter-final-phase",
+    "published_date": "2026-11-02T02:00:10Z",
+    "category": "Local Events"
   },
   {
-    "title": "HKT says US order ‘ceased’ as firm reportedly agrees to exit American market",
+    "title": "Why reforms alone won’t prevent a repeat of Tai Po fire",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3372848/hkt-says-us-order-ceased-firm-reportedly-agrees-exit-american-market",
-    "published_date": "2026-10-31T14:39:19Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372734/why-reforms-alone-wont-prevent-repeat-tai-po-fire",
+    "published_date": "2026-11-02T01:30:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "Chinese archaeologists set for hi-tech excavations with AI and deep-sea robots",
+    "title": "Will losing US midterms see Trump double down or signal beginning of the end?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3372841/chinese-archaeologists-set-hi-tech-excavations-ai-and-deep-sea-robots",
-    "published_date": "2026-10-31T13:30:06Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/us/us-elections/article/3372795/will-losing-us-midterms-see-trump-double-down-or-signal-beginning-end",
+    "published_date": "2026-11-02T00:00:25Z",
+    "category": "Local Events"
   },
   {
-    "title": "Hong Kong may raise GDP forecast as growth could hit 5-year high: Paul Chan",
+    "title": "9 dead as private jet crashes in fireball near Trump’s Florida estate",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372830/hong-kong-may-raise-gdp-forecast-growth-poised-5-year-high-paul-chan",
-    "published_date": "2026-10-31T10:20:59Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372912/private-jet-carrying-9-crashes-florida-roadside-erupting-massive-fireball",
+    "published_date": "2026-11-01T21:31:36Z",
+    "category": "Local Events"
   },
   {
-    "title": "Africa suffering in ‘strongmen’ era, says governance watchdog",
+    "title": "Democratic divisions shake up pivotal Michigan Senate race as congresswoman breaks ranks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3372832/africa-suffering-strongmen-era-says-governance-watchdog",
-    "published_date": "2026-10-31T10:06:23Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372911/democratic-divisions-shake-pivotal-michigan-senate-race-congresswoman-breaks-ranks",
+    "published_date": "2026-11-01T21:00:36Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
+    "published_date": "2026-11-01T19:53:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Longest truce of Ukraine war ends in Kherson region",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
+    "published_date": "2026-11-01T18:25:28Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Wave of US Halloween weekend shootings leaves 6 dead, dozens wounded",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372906/4-dead-15-injured-3-separate-shootings-dallas-texas-halloween-night-police-say",
+    "published_date": "2026-11-01T17:02:08Z",
+    "category": "Local Events"
   },
   {
     "title": "Somali piracy resurges as Iranian vessel seized carrying 23 crew",
@@ -627,76 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3372882/97-chinas-first-female-conductor-still-performs-public-wowing-audiences",
     "published_date": "2026-11-01T10:00:17Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Turkey moves Kurdish militant leader as part of peace process",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
-    "published_date": "2026-11-01T09:45:06Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "El Nino, weak monsoon behind Hong Kong’s warmest October since records began",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372881/el-nino-weak-monsoon-behind-hong-kongs-warmest-october-142-years",
-    "published_date": "2026-11-01T09:15:58Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s global initiatives offer ray of hope in a turbulent world",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3372669/chinas-global-initiatives-offer-ray-hope-turbulent-world",
-    "published_date": "2026-11-01T08:30:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3372875/beijing-ramps-maritime-patrols-around-taiwan-prompting-taipei-shadow-ships",
-    "published_date": "2026-11-01T07:32:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "As US midterms near, Trump administration ramps up rhetoric with bigoted, racist memes",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372874/us-midterms-near-trump-administration-ramps-rhetoric-bigoted-racist-memes",
-    "published_date": "2026-11-01T07:11:23Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Malaysia’s Loke decries school dinner alcohol claims as political attack",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372871/malaysias-loke-decries-school-dinner-alcohol-claims-political-attack",
-    "published_date": "2026-11-01T07:00:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Could Taipei’s unexpectedly tight mayoral race add to cross-strait tensions?",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3372865/could-taipeis-unexpectedly-tight-mayoral-race-add-cross-strait-tensions",
-    "published_date": "2026-11-01T06:00:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hate paper straws? Asia’s new alternatives are another eco trap",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/health-environment/article/3372751/hate-paper-straws-asias-new-alternatives-are-another-eco-trap",
-    "published_date": "2026-11-01T05:00:10Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ex-Japanese adult film actress awake after alleged drugging in Hong Kong",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372866/ex-japanese-adult-film-actress-intensive-care-after-alleged-drugging-hong-kong",
-    "published_date": "2026-11-01T04:45:02Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Guangzhou reclaims crown as China’s busiest airport after US$8 billion mega expansion",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/economy/china-economy/article/3372756/guangzhou-reclaims-crown-chinas-busiest-airport-after-us8-billion-mega-expansion",
-    "published_date": "2026-11-01T04:00:16Z",
     "category": "Local Events"
   }
 ]
