@@ -1,5 +1,33 @@
 [
   {
+    "title": "China training Solomon Islands police to use water cannons under security pact",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373153/china-training-solomon-islands-police-use-water-cannons-under-security-pact",
+    "published_date": "2026-11-04T00:00:19Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Democrats notch early wins as control of the US Congress hangs in the balance",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/us-elections/article/3373188/trumps-fate-balance-us-midterm-elections-put-house-senate-grabs",
+    "published_date": "2026-11-03T23:00:59Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Greenland ratifies Trump deal despite questions about value",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3373187/greenland-ratifies-trump-deal-despite-questions-about-value",
+    "published_date": "2026-11-03T19:24:38Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373185/china-accuses-philippine-politicians-intolerable-conduct-tensions-escalate",
+    "published_date": "2026-11-03T18:42:37Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "UK’s King Charles calls slavery ‘monstrous injustice’, as PM mulls apology",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/europe/article/3373184/uks-king-charles-calls-slavery-monstrous-injustice-pm-mulls-apology",
@@ -112,32 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Talks are the only way out, China tells Iran as US threat hangs over Middle East",
+    "title": "China’s new nightmare: a Japanese containment arc in the Indo-Pacific",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3373010/talks-are-only-way-out-china-tells-iran-us-threat-hangs-over-middle-east",
-    "published_date": "2026-11-02T11:45:31Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3372983/chinas-new-nightmare-japanese-containment-arc-indo-pacific",
+    "published_date": "2026-11-03T21:30:06Z",
+    "category": "Military"
   },
   {
-    "title": "China's top diplomat meets deputy secretary of Iran SNSC",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-02T10:15:12Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "China's top diplomat meets deputy secretary of Iran SNSC",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-02/China-s-top-diplomat-meets-deputy-secretary-of-Iran-SNSC-1RKgzMiVQqc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-02T10:15:12Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "India offers Asean counterterrorism lessons, but will one size fit all?",
+    "title": "Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3372998/why-indias-asean-anti-terrorism-partnership-offer-may-not-be-one-size-fits-all",
-    "published_date": "2026-11-02T09:38:21Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
+    "published_date": "2026-11-03T19:04:21Z",
+    "category": "Military"
   },
   {
     "title": "Trump axes US$3.8b annual military aid for Israel: ‘they no longer need it’",
@@ -266,18 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "China’s Xi says strict party governance has positive impact, does not stifle growth",
+    "title": "Chinese scientists discover thickening ground ice in parts of warming Tibet",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3372901/chinas-xi-says-strict-party-governance-has-positive-impact-does-not-stifle-growth",
-    "published_date": "2026-11-01T13:47:24Z",
-    "category": "Military"
-  },
-  {
-    "title": "Russia, Ukraine trade drone strikes as Zelenskyy urges air defense aid",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-01/Russia-Ukraine-trade-drone-strikes-as-Zelenskyy-urges-air-defense-aid-1RINjeeo4eI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-01T13:16:56Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/china/science/article/3373097/chinese-scientists-discover-thickening-ground-ice-parts-warming-tibet",
+    "published_date": "2026-11-04T02:00:12Z",
+    "category": "Energy"
   },
   {
     "title": "Cuba flight, Taiwan trade pushback, Panama probe: 7 Latin America relations reads",
@@ -413,11 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "Climate shocks increase health risks for Africa's most vulnerable",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-10-29/Climate-shocks-increase-health-risks-for-Africa-s-most-vulnerable-1RtPSYbtIFq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-10-28T20:45:11Z",
-    "category": "Energy"
+    "title": "Malaysian police arrest woman over viral shopping mall brawl",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373200/malaysian-police-arrest-woman-over-viral-shopping-mall-brawl",
+    "published_date": "2026-11-04T02:52:28Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Baidu’s new AI simulator gives robotaxis a crash course in rare road hazards",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards",
+    "published_date": "2026-11-04T01:30:05Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Vietnam surpasses Indonesia on per-person GDP. Is Thailand next?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3373113/vietnam-surpasses-indonesia-person-gdp-thailand-next",
+    "published_date": "2026-11-04T00:00:16Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump says US close to trade deal with Canada, Carney says work remains",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373190/trump-says-us-close-trade-deal-canada-carney-says-work-remains",
+    "published_date": "2026-11-03T23:42:34Z",
+    "category": "Economy"
   },
   {
     "title": "Indonesian police arrest 3 for tapping Prabowo’s phone",
@@ -532,32 +560,39 @@
     "category": "Economy"
   },
   {
-    "title": "China's central bank to raise forex reserve requirement ratio for financial institutions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-03/China-s-central-bank-to-raise-forex-reserve-requirement-ratio-for-financial-institutions-1RLp2n0i3vy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-03T01:58:38Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China's central bank to raise forex reserve requirement ratio for financial institutions",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-03/China-s-central-bank-to-raise-forex-reserve-requirement-ratio-for-financial-institutions-1RLp2n0i3vy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-03T01:58:38Z",
-    "category": "Economy"
-  },
-  {
-    "title": "US judge dismisses Trump administration’s Harvard race data admissions case",
+    "title": "Chinese woman invites late ex-husband’s mother to live with her 12 years after divorce",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373048/us-judge-dismisses-trump-administrations-harvard-race-data-admissions-case",
-    "published_date": "2026-11-02T21:49:22Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373192/chinese-woman-invites-late-ex-husbands-mother-live-her-12-years-after-divorce",
+    "published_date": "2026-11-04T02:00:15Z",
+    "category": "Local Events"
   },
   {
-    "title": "Legal body’s new Hong Kong office targets developing Southeast Asian economies",
+    "title": "Will US midterm results lead to disruption in Washington’s ties with China?",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373030/legal-bodys-new-hong-kong-office-targets-developing-southeast-asian-economies",
-    "published_date": "2026-11-02T14:02:32Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373194/will-us-midterm-results-lead-disruption-washingtons-ties-china",
+    "published_date": "2026-11-04T01:35:14Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Praised as heroes, stung by criticism: firefighters torn over Tai Po blaze report",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3373182/praised-heroes-stung-criticism-firefighters-torn-over-tai-po-blaze-report",
+    "published_date": "2026-11-04T00:30:56Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "US midterms: what happened while Asia slept, and when to expect results",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/us/us-elections/article/3373191/us-midterms-what-happened-while-asia-slept-and-when-expect-results",
+    "published_date": "2026-11-03T23:57:21Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Spain’s transport minister resigns after train crash that killed 69",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3373189/spains-transport-minister-resigns-after-train-crash-killed-69",
+    "published_date": "2026-11-03T21:55:32Z",
+    "category": "Local Events"
   },
   {
     "title": "Hong Kong BN(O) visa holders exempt from UK’s proposed 10-year settlement wait",
@@ -662,41 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/week-asia/politics/article/3373133/fake-students-indonesia-police-rally-raise-questions-over-efforts-counter-dissent",
     "published_date": "2026-11-03T09:21:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japanese voters yearn for ‘strong politician’ like Trump, but without his showmanship",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3373131/japanese-voters-yearn-strong-politician-trump-without-his-showmanship",
-    "published_date": "2026-11-03T09:15:08Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Singapore hit-and-run: organiser of fund for orphaned boy vows transparency",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/people/article/3373119/singapore-hit-and-run-organiser-fund-orphaned-boy-vows-transparency",
-    "published_date": "2026-11-03T08:50:20Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "2 Pakistani police officers guarding polio workers killed by suspected militants",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3373114/2-pakistani-police-officers-guarding-polio-workers-killed-suspected-militants",
-    "published_date": "2026-11-03T08:45:07Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s historic first space docking in 2011 – SCMP archive",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3373086/chinas-historic-first-space-docking-2011-scmp-archive",
-    "published_date": "2026-11-03T08:15:38Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Protests in Indonesia over haze; Malaysia’s 1MDB scandal lingers on: 7 Asia highlights",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/article/3373095/protests-indonesia-over-haze-malaysias-1mdb-scandal-lingers-7-asia-highlights",
-    "published_date": "2026-11-03T08:15:07Z",
     "category": "Local Events"
   }
 ]
