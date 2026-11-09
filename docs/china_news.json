@@ -1,5 +1,19 @@
 [
   {
+    "title": "Singapore minister says Cop31 has ‘enough to work on’ without new targets",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373729/singapore-minister-says-cop31-has-enough-work-without-new-targets",
+    "published_date": "2026-11-09T02:24:57Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Israel’s President Herzog gives Gadi Eisenkot the first chance to form the next government",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3373722/israels-president-herzog-gives-gadi-eisenkot-first-chance-form-next-government",
+    "published_date": "2026-11-08T22:47:54Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Will Democrats sway ‘unshackled’ Trump’s Russia-Ukraine stance after midterm rout?",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
@@ -126,18 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "How North Korea turns child prodigies into crypto thieves",
+    "title": "Philippines seeks bespoke BrahMos missiles from India for island defence",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3373627/how-north-korea-turns-child-prodigies-crypto-thieves",
-    "published_date": "2026-11-07T03:01:34Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/week-asia/politics/article/3373650/philippines-seeks-bespoke-brahmos-missiles-india-island-defence",
+    "published_date": "2026-11-09T01:13:51Z",
+    "category": "Military"
   },
   {
-    "title": "HKUST president Nancy Ip wins second Unesco prize for Alzheimer’s research",
+    "title": "UK’s King Charles, Prince Harry honour war dead at separate Remembrance Day events",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3373626/hkust-president-nancy-ip-wins-unesco-prize-alzheimers-research",
-    "published_date": "2026-11-07T02:54:06Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/europe/article/3373720/king-charles-and-prince-harry-mark-remembrance-day-separately",
+    "published_date": "2026-11-08T20:05:03Z",
+    "category": "Military"
   },
   {
     "title": "Is China getting faster at integrating new nuclear missiles into its forces?",
@@ -266,18 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "China passes law to prevent, punish cross-border corruption",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-06/China-passes-law-to-prevent-punish-cross-border-corruption-1RQnmWfvd0k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-06T01:50:40Z",
-    "category": "Military"
-  },
-  {
-    "title": "China’s new PLA theatre chiefs identified as anti-corruption drive clears ranks",
+    "title": "Drone attack on Iraq gas field causes power outages",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3373437/chinas-new-pla-theatre-chiefs-identified-anti-corruption-drive-clears-ranks",
-    "published_date": "2026-11-06T01:00:08Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
+    "published_date": "2026-11-08T22:09:47Z",
+    "category": "Energy"
   },
   {
     "title": "Chinese engineers reduce cargo ship fuel use by 5% with high-speed torpedo tech",
@@ -413,11 +420,25 @@
     "category": "Energy"
   },
   {
-    "title": "Africa's El Nino readiness: From early warning to early action",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-11-04/Africa-s-El-Nino-readiness-From-early-warning-to-early-action-1RMjIeXKeCk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-03T16:34:33Z",
-    "category": "Energy"
+    "title": "AI pulls up the civil service ladder to Southeast Asia’s middle class",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class",
+    "published_date": "2026-11-09T02:00:38Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s comfortable brain-reading device achieves 94% mind-typing accuracy in day-long use",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3373477/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-day-long-use",
+    "published_date": "2026-11-09T02:00:33Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong records nearly 18% rise in ransomware cases amid drop in tech crime",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373691/hong-kong-records-nearly-18-rise-ransomware-cases-amid-drop-tech-crime",
+    "published_date": "2026-11-08T23:00:43Z",
+    "category": "Economy"
   },
   {
     "title": "China orders statistics bureau to fight fake data with modern technology",
@@ -539,25 +560,88 @@
     "category": "Economy"
   },
   {
-    "title": "Midterm power shift sets up new policy battles in US Congress",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-07/Midterm-power-shift-sets-up-new-policy-battles-in-US-Congress-1RSzpMBT4zu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-07T12:44:02Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China-Switzerland trade partnership offers a model amid fraught EU ties",
+    "title": "China digital bed bug map lets travellers flag hotels nationwide upon spotting pests",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3373312/china-switzerland-trade-partnership-offers-model-amid-fraught-eu-ties",
-    "published_date": "2026-11-07T12:30:05Z",
-    "category": "Economy"
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373726/china-digital-bed-bug-map-lets-travellers-flag-hotels-nationwide-upon-spotting-pests",
+    "published_date": "2026-11-09T02:05:09Z",
+    "category": "Local Events"
   },
   {
-    "title": "Adidas executive: Made for China, now a global hit",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-07/Adidas-executive-Made-for-China-now-a-global-hit-1RSuErlKQYE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-07T10:09:12Z",
-    "category": "Economy"
+    "title": "Low pay, fatigue and staff shortages put Hong Kong’s aviation hub status at risk: unions",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3373714/low-pay-fatigue-and-staff-shortages-put-hong-kongs-aviation-hub-status-risk-unions",
+    "published_date": "2026-11-09T02:00:47Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "To be Asia’s events capital, Hong Kong must offer ticketing that works",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373443/be-asias-events-capital-hong-kong-must-offer-ticketing-works",
+    "published_date": "2026-11-09T01:30:17Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Thousands flock to South Korean border park for rare view of North Korean weapon",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3373725/thousands-flock-south-korean-border-park-rare-view-north-korean-weapon",
+    "published_date": "2026-11-09T00:58:17Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump says ‘only kidding’ about naming UFC’s Dana White as press secretary",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373723/trump-says-only-kidding-about-naming-ufcs-dana-white-press-secretary",
+    "published_date": "2026-11-09T00:38:23Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong VTC courses touted as short cut to residency for babies of mainland mothers",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3373694/hong-kong-vtc-courses-touted-short-cut-residency-babies-mainland-mothers",
+    "published_date": "2026-11-09T00:30:31Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Why Indonesia’s death penalty lives on, even as executions dwindle",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/week-asia/politics/article/3373601/why-indonesias-death-penalty-lives-even-executions-dwindle",
+    "published_date": "2026-11-09T00:00:38Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hong Kong must retain the talent its world-class universities nurture",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373538/hong-kong-must-retain-talent-its-world-class-universities-nurture",
+    "published_date": "2026-11-08T21:30:06Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Police make arrest in deadly shooting at North Carolina university",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373719/police-make-arrest-deadly-shooting-north-carolina-university",
+    "published_date": "2026-11-08T18:59:32Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Media industry still plagued by sexual abuse, UK minister warns",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3373718/media-industry-still-has-problem-sexual-abuse-uk-culture-minister-says",
+    "published_date": "2026-11-08T18:35:55Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Pope Leo tells Argentina’s Trump ally Milei that leaders must know limits of power",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
+    "published_date": "2026-11-08T17:53:30Z",
+    "category": "Local Events"
+  },
+  {
+    "title": "Iran executes 3 more men over January protests",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+    "published_date": "2026-11-08T17:06:47Z",
+    "category": "Local Events"
   },
   {
     "title": "Tens of thousands of Dutch protesters take to Amsterdam streets to support Palestinians",
@@ -613,90 +697,6 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373129/donald-trump-elected-45th-president-united-states-2016-scmp-archive",
     "published_date": "2026-11-08T13:30:18Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Defects at Hong Kong MTR station ‘unimaginable’, engineers and lawmakers say",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3373705/defects-hong-kong-mtr-station-unimaginable-engineers-and-lawmakers-say",
-    "published_date": "2026-11-08T12:49:56Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China eyes gig workers and influencers as delegates for Communist Party congress",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3373702/china-eyes-gig-workers-and-influencers-delegates-communist-party-congress",
-    "published_date": "2026-11-08T12:30:19Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "China’s focus on getting its house in order offers lessons in governance",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/china-opinion/article/3373416/chinas-focus-getting-its-house-order-offers-lessons-governance",
-    "published_date": "2026-11-08T12:30:11Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "‘Can’t be inaccurate’: how 2 tiny robot arms could halve digestive cancer surgery time",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3373668/cant-be-inaccurate-how-two-tiny-robot-arms-could-halve-digestive-cancer-surgery-time",
-    "published_date": "2026-11-08T11:00:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
-    "published_date": "2026-11-08T10:22:27Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Chinese dad whose daughter died in crash visits junction daily to catch traffic violators",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373688/chinese-dad-whose-daughter-died-crash-visits-junction-daily-catch-traffic-violators",
-    "published_date": "2026-11-08T10:00:37Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Plugged in, not locked in: middle powers navigate US-China AI rivalry",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3373682/plugged-not-locked-middle-powers-navigate-us-china-ai-rivalry",
-    "published_date": "2026-11-08T09:09:21Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Winter’s knocking? Cold front to slash Hong Kong temperatures to 16 degrees",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/weather/hong-kong/article/3373687/winters-knocking-cold-front-slash-hong-kong-temperatures-16-degrees",
-    "published_date": "2026-11-08T08:23:24Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "52% of Hong Kong’s underprivileged children spend over 2 hours a day on devices",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3373686/52-hong-kongs-underprivileged-children-spend-over-2-hours-day-devices",
-    "published_date": "2026-11-08T08:19:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "3 hikers injured after being hit by landing paraglider in Hong Kong country park",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3373685/3-hikers-injured-after-being-hit-landing-paraglider-hong-kong-country-park",
-    "published_date": "2026-11-08T08:18:35Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Demerit system for contractors ‘not ruled out’, Hong Kong development chief says",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/article/3373683/demerit-system-contractors-not-ruled-out-hong-kong-development-chief-says",
-    "published_date": "2026-11-08T07:18:22Z",
-    "category": "Local Events"
-  },
-  {
-    "title": "Hong Kong must build ‘reassuring’ environment amid political criticism: Paul Lam",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3373677/hong-kong-must-build-reassuring-environment-amid-political-criticism-paul-lam",
-    "published_date": "2026-11-08T04:36:22Z",
     "category": "Local Events"
   }
 ]
