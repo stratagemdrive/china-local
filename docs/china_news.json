@@ -1,5 +1,33 @@
 [
   {
+    "title": "Lithuanian president confirms talks on renaming Taiwan office in diplomatic U-turn",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373838/lithuania-asked-taipei-change-name-office-beijings-national-day-reports",
+    "published_date": "2026-11-09T14:16:09Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373831/can-xi-jinping-and-vladimir-putin-give-donald-trump-iran-exit-he-needs",
+    "published_date": "2026-11-09T14:00:06Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Hong Kong teams up with Monaco yacht club to develop Skytopia’s marina",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3373833/hong-kong-teams-monaco-yacht-club-develop-skytopias-marina",
+    "published_date": "2026-11-09T13:24:02Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Cop31 leaders urge world to accelerate fight against global warming",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/article/3373785/cop31-leaders-urge-world-accelerate-fight-against-global-warming",
+    "published_date": "2026-11-09T08:13:15Z",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Singapore minister says Cop31 has ‘enough to work on’ without new targets",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373729/singapore-minister-says-cop31-has-enough-work-without-new-targets",
@@ -11,6 +39,20 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3373722/israels-president-herzog-gives-gadi-eisenkot-first-chance-form-next-government",
     "published_date": "2026-11-08T22:47:54Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Egypt reopens embassy in Tripoli after 12-year closure",
+    "source": "CGTN",
+    "url": "https://newsaf.cgtn.com/news/2026-11-08/Egypt-reopens-embassy-in-Tripoli-after-12-year-closure-1RUefWAKgsE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T13:03:02Z",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Tanzania, UNDP allocate $2 million for environmental projects",
+    "source": "CGTN",
+    "url": "https://newsaf.cgtn.com/news/2026-11-08/Tanzania-UNDP-allocate-2-million-for-environmental-projects-1RUhW6FhMgo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T12:47:39Z",
     "category": "Diplomacy"
   },
   {
@@ -98,46 +140,32 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Iran's Araghchi in 48-hour diplomatic spree with 12 counterparts",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-07/Iran-s-Araghchi-in-48-hour-diplomatic-spree-with-12-counterparts-1RSFYbwUd1K/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-07T12:52:58Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Austrian companies deepen roots in China as bilateral trade ties grow",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-07/Austrian-companies-deepen-roots-in-China-as-bilateral-trade-ties-grow-1RSFLOUBRII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-07T12:35:52Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Austrian companies deepen roots in China as bilateral trade ties grow",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-07/Austrian-companies-deepen-roots-in-China-as-bilateral-trade-ties-grow-1RSFLOUBRII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-07T12:35:52Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Trump’s war secretary Hegseth and Pacific Command chief Paparo may ‘soon visit China’",
+    "title": "Hegseth calls Iran war necessary and waves off expected impeachment push",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3373649/trumps-war-secretary-hegseth-and-pacific-command-chief-paparo-may-soon-visit-china",
-    "published_date": "2026-11-07T11:06:25Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push",
+    "published_date": "2026-11-09T19:34:12Z",
+    "category": "Military"
   },
   {
-    "title": "Ghana dialogue explores China's governance and global development",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-11-07/Ghana-dialogue-explores-China-s-governance-and-global-development-1RSCJH7DDOM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-07T10:49:23Z",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Chinese consulate in Melbourne demands justice after fatal stabbing of delivery worker",
+    "title": "Fresh GJ-11 footage gives a glimpse of weapon bay on China’s next-gen drone",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3373640/chinese-consulate-melbourne-demands-justice-after-fatal-stabbing-delivery-worker",
-    "published_date": "2026-11-07T06:44:42Z",
-    "category": "Diplomacy"
+    "url": "https://www.scmp.com/news/china/military/article/3373839/fresh-gj-11-footage-gives-glimpse-weapon-bay-chinas-next-gen-drone",
+    "published_date": "2026-11-09T14:20:46Z",
+    "category": "Military"
+  },
+  {
+    "title": "Why Manila’s call for softer tone will not ease South China Sea tensions with Beijing",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373818/why-manilas-call-softer-tone-will-not-ease-south-china-sea-tensions-beijing",
+    "published_date": "2026-11-09T11:15:11Z",
+    "category": "Military"
+  },
+  {
+    "title": "Is the PLA rehearsing operations to keep US forces out of a Taiwan conflict?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/military/article/3373741/pla-rehearsing-operations-keep-us-forces-out-taiwan-conflict",
+    "published_date": "2026-11-09T03:59:01Z",
+    "category": "Military"
   },
   {
     "title": "Philippines seeks bespoke BrahMos missiles from India for island defence",
@@ -172,6 +200,20 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3373679/who-eisenkot-former-israeli-general-expected-replace-netanyahu",
     "published_date": "2026-11-08T05:33:31Z",
+    "category": "Military"
+  },
+  {
+    "title": "Report highlights China's role in sustaining peace in South China Sea",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-08/Report-highlights-China-s-role-in-sustaining-peace-in-South-China-Sea-1RTEAdEWHhC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+    "published_date": "2026-11-08T03:29:53Z",
+    "category": "Military"
+  },
+  {
+    "title": "Report highlights China's role in sustaining peace in South China Sea",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-08/Report-highlights-China-s-role-in-sustaining-peace-in-South-China-Sea-1RTEAdEWHhC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T03:29:53Z",
     "category": "Military"
   },
   {
@@ -238,52 +280,24 @@
     "category": "Military"
   },
   {
-    "title": "US military extends Okinawa curfew for another month after new arrest",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-06/US-military-extends-Okinawa-curfew-for-another-month-after-new-arrest-1RQQTk2wsWA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-06T09:36:12Z",
-    "category": "Military"
-  },
-  {
-    "title": "Military attaché moved by stories of China's female Red Army soldiers",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-06/Military-attach-moved-by-stories-of-China-s-female-Red-Army-soldiers-1RQCZT8Y9tm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-06T08:53:59Z",
-    "category": "Military"
-  },
-  {
-    "title": "Zenless Zone Zero's global playbook: Game, art, offline",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-06/Zenless-Zone-Zero-s-global-playbook-Game-art-offline-1RQKA1Fz0I0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-06T07:38:22Z",
-    "category": "Military"
-  },
-  {
-    "title": "US military expands Pacific cyber hub to counter risks to undersea cable networks",
+    "title": "Brazil’s Lula heads to Cop31 on first trip since re-election",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/military/article/3373508/us-military-expands-pacific-cyber-hub-counter-risks-undersea-cable-networks",
-    "published_date": "2026-11-06T06:00:34Z",
-    "category": "Military"
-  },
-  {
-    "title": "Trump’s Israel aid cut reveals push to trade grants for tech cooperation",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3373487/trumps-israel-aid-cut-reveals-push-trade-grants-tech-cooperation",
-    "published_date": "2026-11-06T05:00:29Z",
-    "category": "Military"
-  },
-  {
-    "title": "Netanyahu rival Eisenkot tipped to seek Israeli government with backing of Arab lists",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3373476/netanyahu-rival-eisenkot-tipped-seek-israeli-government-backing-arab-lists",
-    "published_date": "2026-11-06T02:10:44Z",
-    "category": "Military"
+    "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
+    "published_date": "2026-11-09T18:53:19Z",
+    "category": "Energy"
   },
   {
     "title": "Drone attack on Iraq gas field causes power outages",
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
     "published_date": "2026-11-08T22:09:47Z",
+    "category": "Energy"
+  },
+  {
+    "title": "Yemen's Houthis claim strikes on Saudi oil facilities, Riyadh airport",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-08/news-1RUvV3tOERG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T13:40:44Z",
     "category": "Energy"
   },
   {
@@ -298,6 +312,13 @@
     "source": "SCMP",
     "url": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
     "published_date": "2026-11-08T11:34:24Z",
+    "category": "Energy"
+  },
+  {
+    "title": "China boasts world's largest renewable energy system: report",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-08/China-boasts-world-s-largest-renewable-energy-system-report-1RTGgkzPkk0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+    "published_date": "2026-11-08T06:09:06Z",
     "category": "Energy"
   },
   {
@@ -399,25 +420,88 @@
     "category": "Energy"
   },
   {
-    "title": "China's APEC opportunities: AI-native grid, green‑energy transition",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-04/China-s-APEC-opportunities-AI-native-grid-green-energy-transition-1RNif1v1JrW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-04T07:27:33Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Record El Nino expected to affect China's winter climate",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-04/Record-El-Nino-expected-to-affect-China-s-winter-climate-1RM4r7p9TB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-04T02:29:45Z",
-    "category": "Energy"
-  },
-  {
-    "title": "Chinese scientists discover thickening ground ice in parts of warming Tibet",
+    "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3373097/chinese-scientists-discover-thickening-ground-ice-parts-warming-tibet",
-    "published_date": "2026-11-04T02:00:12Z",
-    "category": "Energy"
+    "url": "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
+    "published_date": "2026-11-09T14:30:07Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Chinese man retires at 30 with 14 flats generating US$30,000 in annual rental income",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373826/chinese-man-retires-30-14-flats-generating-us30000-annual-rental-income",
+    "published_date": "2026-11-09T12:09:19Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Police detain brother of Hungary’s ex-PM Orban",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/europe/article/3373823/police-detain-brother-hungarys-ex-pm-orban",
+    "published_date": "2026-11-09T12:00:33Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China eyes new grip on EV sector with high-performance rare-earth rubber",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/china/science/article/3373791/china-eyes-new-grip-ev-sector-high-performance-rare-earth-rubber",
+    "published_date": "2026-11-09T10:00:09Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Hong Kong lift contractor facing fraud probe over missing fire-safety frames",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373802/hong-kong-lift-contractor-under-probe-fraud-over-missing-fire-safety-frames",
+    "published_date": "2026-11-09T09:16:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "UBS’ Sergio Ermotti on the crises that shaped the bank and navigating regulatory webs",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/business/banking-finance/article/3373783/ubs-sergio-ermotti-crises-shaped-bank-and-navigating-regulatory-webs",
+    "published_date": "2026-11-09T08:01:47Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
+    "published_date": "2026-11-09T07:00:04Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Malaysia’s Melaka could get new capital in Kota Laksamana if Barisan wins poll",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373742/malaysias-melaka-could-get-new-capital-kota-laksamana-if-barisan-wins-poll",
+    "published_date": "2026-11-09T04:31:06Z",
+    "category": "Economy"
+  },
+  {
+    "title": "China’s torpedo tech, defects at Hong Kong MTR station: 5 weekend reads you missed",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/world/article/3373731/chinas-torpedo-tech-defects-hong-kong-mtr-station-5-weekend-reads-you-missed",
+    "published_date": "2026-11-09T04:29:44Z",
+    "category": "Economy"
+  },
+  {
+    "title": "MTR Corporation ordered to explain defective columns at Tung Chung West station",
+    "source": "SCMP",
+    "url": "https://www.scmp.com/news/hong-kong/transport/article/3373734/stronger-concrete-needed-fix-basic-mistake-defective-mtr-station-columns-experts",
+    "published_date": "2026-11-09T03:14:26Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Mexican expert: CPC discipline key to sustaining long-term governance",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-09/Mexican-expert-CPC-discipline-key-to-sustaining-long-term-governance-1RVlxxGLL20/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+    "published_date": "2026-11-09T02:54:49Z",
+    "category": "Economy"
+  },
+  {
+    "title": "Mexican expert: CPC discipline key to sustaining long-term governance",
+    "source": "CGTN",
+    "url": "https://news.cgtn.com/news/2026-11-09/Mexican-expert-CPC-discipline-key-to-sustaining-long-term-governance-1RVlxxGLL20/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-09T02:54:49Z",
+    "category": "Economy"
   },
   {
     "title": "AI pulls up the civil service ladder to Southeast Asia’s middle class",
@@ -448,255 +532,171 @@
     "category": "Economy"
   },
   {
-    "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
-    "published_date": "2026-11-08T09:00:28Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Why raising prices in Japan amid ‘insanely high’ inflation backfires on firms",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3373678/why-raising-prices-japan-amid-insanely-high-inflation-backfires-firms",
-    "published_date": "2026-11-08T05:30:22Z",
-    "category": "Economy"
-  },
-  {
-    "title": "New policy unlocks New Zealand beauty's China offline market",
+    "title": "A Pakistani brand's journey into China's market at CIIE",
     "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/New-policy-unlocks-New-Zealand-beauty-s-China-offline-market-1RSKpNEmy3e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-08T02:48:19Z",
+    "url": "https://news.cgtn.com/news/2026-11-08/A-Pakistani-brand-s-journey-into-China-s-market-at-CIIE-1RTQwXdu8dW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+    "published_date": "2026-11-08T13:00:12Z",
     "category": "Economy"
   },
   {
-    "title": "New policy unlocks New Zealand beauty's China offline market",
+    "title": "A Pakistani brand's journey into China's market at CIIE",
     "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/New-policy-unlocks-New-Zealand-beauty-s-China-offline-market-1RSKpNEmy3e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-08T02:48:19Z",
+    "url": "https://news.cgtn.com/news/2026-11-08/A-Pakistani-brand-s-journey-into-China-s-market-at-CIIE-1RTQwXdu8dW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T13:00:12Z",
     "category": "Economy"
   },
   {
-    "title": "China US$300 dating app ‘marriage-or-refund’ guarantee sparks intense online buzz",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373674/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
-    "published_date": "2026-11-08T02:00:27Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Hong Kong firefighters get HK$8.4 million tracking upgrade after Tai Po fire",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/article/3373666/hong-kong-firefighters-get-hk84-million-tracking-upgrade-after-tai-po-fire",
-    "published_date": "2026-11-08T01:00:34Z",
-    "category": "Economy"
-  },
-  {
-    "title": "From resources to manufacturing: A new model of Asia-Pacific growth",
+    "title": "A Pakistani brand's journey into China's market at CIIE",
     "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/From-resources-to-manufacturing-A-new-model-of-Asia-Pacific-growth-1RSS9hhd94s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-08T00:16:26Z",
+    "url": "https://news.cgtn.com/news/2026-11-08/A-Pakistani-brand-s-journey-into-China-s-market-at-CIIE-1RTQwXdu8dW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+    "published_date": "2026-11-08T13:00:12Z",
     "category": "Economy"
   },
   {
-    "title": "From resources to manufacturing: A new model of Asia-Pacific growth",
+    "title": "Africa Watch: US suspends SA from AGOA - What could be lost?",
     "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/From-resources-to-manufacturing-A-new-model-of-Asia-Pacific-growth-1RSS9hhd94s/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-08T00:16:26Z",
+    "url": "https://newsaf.cgtn.com/news/2026-11-08/Africa-Watch-US-suspends-SA-from-AGOA-What-could-be-lost--1RU2YZZ1lJu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+    "published_date": "2026-11-08T12:11:15Z",
     "category": "Economy"
   },
   {
-    "title": "AmCham Shanghai president: CIIE connects US firms to China's market",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/AmCham-Shanghai-president-CIIE-connects-US-firms-to-China-s-market-1RSVJ8C3jI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-    "published_date": "2026-11-08T00:13:33Z",
-    "category": "Economy"
-  },
-  {
-    "title": "AmCham Shanghai president: CIIE connects US firms to China's market",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/AmCham-Shanghai-president-CIIE-connects-US-firms-to-China-s-market-1RSVJ8C3jI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-08T00:13:33Z",
-    "category": "Economy"
-  },
-  {
-    "title": "AmCham Shanghai president: CIIE connects US firms to China's market",
-    "source": "CGTN",
-    "url": "https://news.cgtn.com/news/2026-11-08/AmCham-Shanghai-president-CIIE-connects-US-firms-to-China-s-market-1RSVJ8C3jI4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
-    "published_date": "2026-11-08T00:13:33Z",
-    "category": "Economy"
-  },
-  {
-    "title": "In Malaysia, a shadow trade in DIY weight-loss jabs takes hold",
+    "title": "At least 44 people killed in air strike near Yemeni capital, Houthi rebels say",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373570/malaysia-shadow-trade-diy-weight-loss-jabs-takes-hold",
-    "published_date": "2026-11-08T00:00:33Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Want to fly to the moon? Nasa is looking for new astronauts for the Artemis programme",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373673/want-fly-moon-nasa-looking-new-astronauts-artemis-programme",
-    "published_date": "2026-11-07T23:53:33Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Trump asks UFC chief Dana White to be his new press secretary: ‘please take the job’",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373670/trump-asks-ufc-chief-dana-white-be-his-new-press-secretary-please-take-job",
-    "published_date": "2026-11-07T19:44:09Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Woman hurt in flat fire suspected to have been caused by aromatherapy items",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3373665/woman-hurt-flat-fire-suspected-have-been-caused-aromatherapy-items",
-    "published_date": "2026-11-07T15:12:44Z",
-    "category": "Economy"
-  },
-  {
-    "title": "Cote d'Ivoire seeks to boost rubber industry through local processing",
-    "source": "CGTN",
-    "url": "https://newsaf.cgtn.com/news/2026-11-07/Cote-d-Ivoire-seeks-to-boost-rubber-industry-through-local-processing-1RSOVbU3d6g/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-    "published_date": "2026-11-07T14:06:41Z",
-    "category": "Economy"
-  },
-  {
-    "title": "China digital bed bug map lets travellers flag hotels nationwide upon spotting pests",
-    "source": "SCMP",
-    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373726/china-digital-bed-bug-map-lets-travellers-flag-hotels-nationwide-upon-spotting-pests",
-    "published_date": "2026-11-09T02:05:09Z",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3373850/houthi-rebels-say-least-44-people-killed-air-strike-near-yemeni-capital",
+    "published_date": "2026-11-09T20:49:03Z",
     "category": "Local Events"
   },
   {
-    "title": "Low pay, fatigue and staff shortages put Hong Kong’s aviation hub status at risk: unions",
+    "title": "Suspect in 1994 Rwandan genocide deported from US",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/transport/article/3373714/low-pay-fatigue-and-staff-shortages-put-hong-kongs-aviation-hub-status-risk-unions",
-    "published_date": "2026-11-09T02:00:47Z",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373849/suspect-1994-rwandan-genocide-deported-us",
+    "published_date": "2026-11-09T20:04:00Z",
     "category": "Local Events"
   },
   {
-    "title": "To be Asia’s events capital, Hong Kong must offer ticketing that works",
+    "title": "Meghan Markle pulls out of Brussels speech after dad’s arrest over child sex abuse images",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373443/be-asias-events-capital-hong-kong-must-offer-ticketing-works",
-    "published_date": "2026-11-09T01:30:17Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373846/meghan-markle-pulls-out-brussels-speech-after-dads-arrest-over-child-sex-abuse-images",
+    "published_date": "2026-11-09T17:53:50Z",
     "category": "Local Events"
   },
   {
-    "title": "Thousands flock to South Korean border park for rare view of North Korean weapon",
+    "title": "French officials accuse Iran of being behind fridge cyberattacks",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3373725/thousands-flock-south-korean-border-park-rare-view-north-korean-weapon",
-    "published_date": "2026-11-09T00:58:17Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373845/french-officials-suspect-iran-behind-fridge-cyberattacks-sources-say",
+    "published_date": "2026-11-09T16:42:10Z",
     "category": "Local Events"
   },
   {
-    "title": "Trump says ‘only kidding’ about naming UFC’s Dana White as press secretary",
+    "title": "Woman narrowly escapes death as folding table falls from Hong Kong building",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373723/trump-says-only-kidding-about-naming-ufcs-dana-white-press-secretary",
-    "published_date": "2026-11-09T00:38:23Z",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373844/woman-narrowly-escapes-death-folding-table-falls-hong-kong-building",
+    "published_date": "2026-11-09T15:55:14Z",
     "category": "Local Events"
   },
   {
-    "title": "Hong Kong VTC courses touted as short cut to residency for babies of mainland mothers",
+    "title": "UK’s Russell Brand sentenced to 10 1/2 years’ jail for rape, sexual assault",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3373694/hong-kong-vtc-courses-touted-short-cut-residency-babies-mainland-mothers",
-    "published_date": "2026-11-09T00:30:31Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373841/uks-russell-brand-sentenced-10-1/2-years-jail-rape-sexual-assault",
+    "published_date": "2026-11-09T14:54:52Z",
     "category": "Local Events"
   },
   {
-    "title": "Why Indonesia’s death penalty lives on, even as executions dwindle",
+    "title": "Singapore firm Megaspeed back in the spotlight over Nvidia scandal, China chip allegations",
     "source": "SCMP",
-    "url": "https://www.scmp.com/week-asia/politics/article/3373601/why-indonesias-death-penalty-lives-even-executions-dwindle",
-    "published_date": "2026-11-09T00:00:38Z",
+    "url": "https://www.scmp.com/week-asia/politics/article/3373840/singapore-firm-megaspeed-back-spotlight-over-nvidia-scandal-china-chip-allegations",
+    "published_date": "2026-11-09T14:22:23Z",
     "category": "Local Events"
   },
   {
-    "title": "Hong Kong must retain the talent its world-class universities nurture",
+    "title": "Tribunal wrong to clear ex-lawmaker Margaret Ng of misconduct, court told",
     "source": "SCMP",
-    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373538/hong-kong-must-retain-talent-its-world-class-universities-nurture",
-    "published_date": "2026-11-08T21:30:06Z",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373835/tribunal-wrong-clear-ex-lawmaker-margaret-ng-misconduct-court-told",
+    "published_date": "2026-11-09T13:45:06Z",
     "category": "Local Events"
   },
   {
-    "title": "Police make arrest in deadly shooting at North Carolina university",
+    "title": "French PM brings forward minimum wage hike to calm protesters",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373719/police-make-arrest-deadly-shooting-north-carolina-university",
-    "published_date": "2026-11-08T18:59:32Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373836/french-pm-brings-forward-minimum-wage-hike-calm-protesters",
+    "published_date": "2026-11-09T13:40:45Z",
     "category": "Local Events"
   },
   {
-    "title": "Media industry still plagued by sexual abuse, UK minister warns",
+    "title": "China’s national development most acutely felt in Hong Kong and Macau, forum hears",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3373718/media-industry-still-has-problem-sexual-abuse-uk-culture-minister-says",
-    "published_date": "2026-11-08T18:35:55Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3373834/chinas-national-development-most-acutely-felt-hong-kong-and-macau-forum-hears",
+    "published_date": "2026-11-09T13:27:17Z",
     "category": "Local Events"
   },
   {
-    "title": "Pope Leo tells Argentina’s Trump ally Milei that leaders must know limits of power",
+    "title": "Anger as 17 killed in Turkey steel factory blast",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
-    "published_date": "2026-11-08T17:53:30Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6",
+    "published_date": "2026-11-09T13:12:03Z",
     "category": "Local Events"
   },
   {
-    "title": "Iran executes 3 more men over January protests",
+    "title": "Britain must stop moving the goalposts for Hongkongers on BN(O) scheme",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
-    "published_date": "2026-11-08T17:06:47Z",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373590/britain-must-stop-moving-goalposts-hongkongers-bno-scheme",
+    "published_date": "2026-11-09T12:30:05Z",
     "category": "Local Events"
   },
   {
-    "title": "Tens of thousands of Dutch protesters take to Amsterdam streets to support Palestinians",
+    "title": "Hong Kong’s landmark bill to fast-track Northern Metropolis nears passage",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/europe/article/3373715/tens-thousands-dutch-protesters-take-amsterdam-streets-support-palestinians",
-    "published_date": "2026-11-08T16:35:44Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3373828/hong-kongs-landmark-bill-fast-track-northern-metropolis-nears-passage",
+    "published_date": "2026-11-09T12:12:32Z",
     "category": "Local Events"
   },
   {
-    "title": "Will China’s slow and steady moon landing plan be a safer bet than the US’?",
+    "title": "C-17, Il-76 and Y-20 equals: an aviation moment in the skies over China",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/science/article/3373711/will-chinas-slow-and-steady-moon-landing-plan-be-safer-bet-us",
-    "published_date": "2026-11-08T15:00:25Z",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3373821/c-17-il-76-y-20-aviation-moment-skies-over-china",
+    "published_date": "2026-11-09T12:00:24Z",
     "category": "Local Events"
   },
   {
-    "title": "Train collision in Egypt kills 4, injures 88",
+    "title": "High drama as firefighters rescue stranded rider from Hong Kong revolving tower",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88",
-    "published_date": "2026-11-08T14:56:42Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3373803/40-people-stranded-mid-air-ocean-park-revolving-tower-ride-breaks-down",
+    "published_date": "2026-11-09T09:25:48Z",
     "category": "Local Events"
   },
   {
-    "title": "Indonesian firefighting helicopter crash in Borneo kills 1",
+    "title": "In Malaysia, Najib’s house arrest pits palace against prosecutors",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373712/indonesian-firefighting-helicopter-crash-borneo-kills-1",
-    "published_date": "2026-11-08T14:37:11Z",
+    "url": "https://www.scmp.com/week-asia/people/article/3373784/malaysia-najibs-house-arrest-pits-palace-against-prosecutors",
+    "published_date": "2026-11-09T09:00:31Z",
     "category": "Local Events"
   },
   {
-    "title": "The US must stop blaming China for problems at home: former envoy Cui Tiankai",
+    "title": "Hong Kong lawmakers urge more scrutiny of Student Aid Society funding after scandal",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/china/politics/article/3373707/us-must-stop-blaming-china-problems-home-former-envoy-cui-tiankai",
-    "published_date": "2026-11-08T14:30:20Z",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3373797/hong-kong-lawmakers-urge-more-scrutiny-student-aid-society-funding-after-scandal",
+    "published_date": "2026-11-09T08:56:26Z",
     "category": "Local Events"
   },
   {
-    "title": "Hong Kong’s top drama school to stage entrance as university town expands campus",
+    "title": "Indonesia mulls palace bug sweeps after presidential wiretaps",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/hong-kong/education/article/3373709/hong-kongs-top-drama-school-stage-entrance-university-town-expands-campus",
-    "published_date": "2026-11-08T14:01:34Z",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373795/indonesia-mulls-palace-bug-sweeps-after-presidential-wiretaps",
+    "published_date": "2026-11-09T08:55:12Z",
     "category": "Local Events"
   },
   {
-    "title": "Japan man with ‘grudge against society’ stabs bookshop worker",
+    "title": "‘Evidence-based’: Legco to require research from lawmakers raising non-binding motions",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/asia/east-asia/article/3373708/japan-man-grudge-against-society-stabs-bookshop-worker",
-    "published_date": "2026-11-08T13:44:22Z",
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3373777/evidence-based-legco-require-research-lawmakers-raising-non-binding-motions",
+    "published_date": "2026-11-09T07:47:13Z",
     "category": "Local Events"
   },
   {
-    "title": "Donald Trump elected 45th president of the United States in 2016 – from the SCMP archive",
+    "title": "Gunman who killed 6 in Polish city square dies in hospital",
     "source": "SCMP",
-    "url": "https://www.scmp.com/news/world/united-states-canada/article/3373129/donald-trump-elected-45th-president-united-states-2016-scmp-archive",
-    "published_date": "2026-11-08T13:30:18Z",
+    "url": "https://www.scmp.com/news/world/europe/article/3373776/gunman-who-killed-6-polish-city-square-dies-hospital",
+    "published_date": "2026-11-09T07:46:19Z",
     "category": "Local Events"
   }
 ]
